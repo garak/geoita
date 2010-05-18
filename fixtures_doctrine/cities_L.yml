@@ -1,0 +1,1783 @@
+City:
+  City_labico:
+    Province:  ProvinceRM
+    id:        E392
+    name:      Labico
+    latitude:  41.790648
+    longitude: 12.881889
+  City_labro:
+    Province:  ProvinceRI
+    id:        E393
+    name:      Labro
+    latitude:  42.525561
+    longitude: 12.800691
+  City_la_cassa:
+    Province:  ProvinceTO
+    id:        E394
+    name:      'La Cassa'
+    latitude:  45.181426
+    longitude: 7.517518
+  City_lacchiarella:
+    Province:  ProvinceMI
+    id:        E395
+    name:      Lacchiarella
+    latitude:  45.317925
+    longitude: 9.139137
+  City_lacco_ameno:
+    Province:  ProvinceNA
+    id:        E396
+    name:      'Lacco Ameno'
+    latitude:  40.751741
+    longitude: 13.891259
+  City_lacedonia:
+    Province:  ProvinceAV
+    id:        E397
+    name:      Lacedonia
+    latitude:  41.05237
+    longitude: 15.42487
+  City_laces:
+    Province:  ProvinceBZ
+    id:        E398
+    name:      Laces
+    latitude:  46.620186
+    longitude: 10.86745
+  City_laconi:
+    Province:  ProvinceOR
+    id:        E400
+    name:      Laconi
+    latitude:  39.853759
+    longitude: 9.051407
+  City_laerru:
+    Province:  ProvinceSS
+    id:        E401
+    name:      Laerru
+    latitude:  40.81813
+    longitude: 8.836407
+  City_laganadi:
+    Province:  ProvinceRC
+    id:        E402
+    name:      Laganadi
+    latitude:  38.174618
+    longitude: 15.742327
+  City_laghi:
+    Province:  ProvinceVI
+    id:        E403
+    name:      Laghi
+    latitude:  45.824606
+    longitude: 11.271959
+  City_laglio:
+    Province:  ProvinceCO
+    id:        E405
+    name:      Laglio
+    latitude:  45.888778
+    longitude: 9.1425
+  City_lagnasco:
+    Province:  ProvinceCN
+    id:        E406
+    name:      Lagnasco
+    latitude:  44.626111
+    longitude: 7.555944
+  City_lago:
+    Province:  ProvinceCS
+    id:        E407
+    name:      Lago
+    latitude:  39.167119
+    longitude: 16.149709
+  City_lagonegro:
+    Province:  ProvincePZ
+    id:        E409
+    name:      Lagonegro
+    latitude:  40.129389
+    longitude: 15.762352
+  City_lagosanto:
+    Province:  ProvinceFE
+    id:        E410
+    name:      Lagosanto
+    latitude:  44.763195
+    longitude: 12.144043
+  City_lagundo:
+    Province:  ProvinceBZ
+    id:        E412
+    name:      Lagundo
+    latitude:  46.683759
+    longitude: 11.124074
+  City_lajatico:
+    Province:  ProvincePI
+    id:        E413
+    name:      Lajatico
+    latitude:  43.476239
+    longitude: 10.729047
+  City_laigueglia:
+    Province:  ProvinceSV
+    id:        E414
+    name:      Laigueglia
+    latitude:  43.979852
+    longitude: 8.158444
+  City_lainate:
+    Province:  ProvinceMI
+    id:        E415
+    name:      Lainate
+    latitude:  45.570511
+    longitude: 9.028878
+  City_laino:
+    Province:  ProvinceCO
+    id:        E416
+    name:      Laino
+    latitude:  45.98553
+    longitude: 9.075902
+  City_laino_borgo:
+    Province:  ProvinceCS
+    id:        E417
+    name:      'Laino Borgo'
+    latitude:  39.955315
+    longitude: 15.974389
+  City_laino_castello:
+    Province:  ProvinceCS
+    id:        E419
+    name:      'Laino Castello'
+    latitude:  39.939218
+    longitude: 15.9778
+  City_laion:
+    Province:  ProvinceBZ
+    id:        E420
+    name:      Laion
+    latitude:  46.609663
+    longitude: 11.566851
+  City_laives:
+    Province:  ProvinceBZ
+    id:        E421
+    name:      Laives
+    latitude:  46.428503
+    longitude: 11.339824
+  City_lallio:
+    Province:  ProvinceBG
+    id:        E422
+    name:      Lallio
+    latitude:  45.667352
+    longitude: 9.631278
+  City_la_loggia:
+    Province:  ProvinceTO
+    id:        E423
+    name:      'La Loggia'
+    latitude:  44.958759
+    longitude: 7.668444
+  City_lama_dei_peligni:
+    Province:  ProvinceCH
+    id:        E424
+    name:      'Lama dei Peligni'
+    latitude:  42.0425
+    longitude: 14.187204
+  City_la_maddalena:
+    Province:  ProvinceOT
+    id:        E425
+    name:      'La Maddalena'
+    latitude:  41.214436
+    longitude: 9.407588
+  City_lama_mocogno:
+    Province:  ProvinceMO
+    id:        E426
+    name:      'Lama Mocogno'
+    latitude:  44.308296
+    longitude: 10.731741
+  City_lambrugo:
+    Province:  ProvinceCO
+    id:        E428
+    name:      Lambrugo
+    latitude:  45.75987
+    longitude: 9.24063
+  City_lamon:
+    Province:  ProvinceBL
+    id:        E429
+    name:      Lamon
+    latitude:  46.047583
+    longitude: 11.749076
+  City_la_morra:
+    Province:  ProvinceCN
+    id:        E430
+    name:      'La Morra'
+    latitude:  44.639556
+    longitude: 7.933778
+  City_lampedusa_e_linosa:
+    Province:  ProvinceAG
+    id:        E431
+    name:      'Lampedusa e Linosa'
+    latitude:  35.502733
+    longitude: 12.60903
+  City_lamporecchio:
+    Province:  ProvincePT
+    id:        E432
+    name:      Lamporecchio
+    latitude:  43.80987
+    longitude: 10.889704
+  City_lamporo:
+    Province:  ProvinceVC
+    id:        E433
+    name:      Lamporo
+    latitude:  45.230557
+    longitude: 8.097435
+  City_lana:
+    Province:  ProvinceBZ
+    id:        E434
+    name:      Lana
+    latitude:  46.613463
+    longitude: 11.157056
+  City_lanciano:
+    Province:  ProvinceCH
+    id:        E435
+    name:      Lanciano
+    latitude:  42.233175
+    longitude: 14.391379
+  City_landiona:
+    Province:  ProvinceNO
+    id:        E436
+    name:      Landiona
+    latitude:  45.497518
+    longitude: 8.423444
+  City_landriano:
+    Province:  ProvincePV
+    id:        E437
+    name:      Landriano
+    latitude:  45.312981
+    longitude: 9.261278
+  City_langhirano:
+    Province:  ProvincePR
+    id:        E438
+    name:      Langhirano
+    latitude:  44.613778
+    longitude: 10.266741
+  City_langosco:
+    Province:  ProvincePV
+    id:        E439
+    name:      Langosco
+    latitude:  45.215865
+    longitude: 8.561911
+  City_lanusei:
+    Province:  ProvinceOG
+    id:        E441
+    name:      Lanusei
+    latitude:  39.879202
+    longitude: 9.541367
+  City_lanzada:
+    Province:  ProvinceSO
+    id:        E443
+    name:      Lanzada
+    latitude:  46.270333
+    longitude: 9.870315
+  City_lanzo_d_intelvi:
+    Province:  ProvinceCO
+    id:        E444
+    name:      'Lanzo d''Intelvi'
+    latitude:  45.984852
+    longitude: 9.027204
+  City_lanzo_torinese:
+    Province:  ProvinceTO
+    id:        E445
+    name:      'Lanzo Torinese'
+    latitude:  45.274146
+    longitude: 7.481198
+  City_lapedona:
+    Province:  ProvinceAP
+    id:        E447
+    name:      Lapedona
+    latitude:  43.110127
+    longitude: 13.773357
+  City_lapio:
+    Province:  ProvinceAV
+    id:        E448
+    name:      Lapio
+    latitude:  40.982204
+    longitude: 14.94737
+  City_lappano:
+    Province:  ProvinceCS
+    id:        E450
+    name:      Lappano
+    latitude:  39.320963
+    longitude: 16.313611
+  City_larciano:
+    Province:  ProvincePT
+    id:        E451
+    name:      Larciano
+    latitude:  43.833859
+    longitude: 10.889692
+  City_lardaro:
+    Province:  ProvinceTN
+    id:        E452
+    name:      Lardaro
+    latitude:  45.971278
+    longitude: 10.66237
+  City_lardirago:
+    Province:  ProvincePV
+    id:        E454
+    name:      Lardirago
+    latitude:  45.236111
+    longitude: 9.23313
+  City_lari:
+    Province:  ProvincePI
+    id:        E455
+    name:      Lari
+    latitude:  43.568907
+    longitude: 10.593778
+  City_larino:
+    Province:  ProvinceCB
+    id:        E456
+    name:      Larino
+    latitude:  41.807127
+    longitude: 14.919239
+  City_lasa:
+    Province:  ProvinceBZ
+    id:        E457
+    name:      Lasa
+    latitude:  46.6175
+    longitude: 10.701259
+  City_la_salle:
+    Province:  ProvinceAO
+    id:        E458
+    name:      'La Salle'
+    latitude:  48.299338
+    longitude: 16.388641
+  City_lascari:
+    Province:  ProvincePA
+    id:        E459
+    name:      Lascari
+    latitude:  38.000277
+    longitude: 13.940327
+  City_lasino:
+    Province:  ProvinceTN
+    id:        E461
+    name:      Lasino
+    latitude:  46.026111
+    longitude: 10.984241
+  City_lasnigo:
+    Province:  ProvinceCO
+    id:        E462
+    name:      Lasnigo
+    latitude:  45.882981
+    longitude: 9.2675
+  City_la_spezia:
+    Province:  ProvinceSP
+    id:        E463
+    name:      'La Spezia'
+    latitude:  44.109743
+    longitude: 9.813548
+  City_las_plassas:
+    Province:  ProvinceVS
+    id:        E464
+    name:      'Las Plassas'
+    latitude:  39.681274
+    longitude: 8.985959
+  City_lastebasse:
+    Province:  ProvinceVI
+    id:        E465
+    name:      Lastebasse
+    latitude:  45.915462
+    longitude: 11.274659
+  City_lastra_a_signa:
+    Province:  ProvinceFI
+    id:        E466
+    name:      'Lastra a Signa'
+    latitude:  43.769793
+    longitude: 11.105177
+  City_latera:
+    Province:  ProvinceVT
+    id:        E467
+    name:      Latera
+    latitude:  42.63
+    longitude: 11.828444
+  City_laterina:
+    Province:  ProvinceAR
+    id:        E468
+    name:      Laterina
+    latitude:  43.507962
+    longitude: 11.719822
+  City_laterza:
+    Province:  ProvinceTA
+    id:        E469
+    name:      Laterza
+    latitude:  40.625852
+    longitude: 16.797843
+  City_la_thuile:
+    Province:  ProvinceAO
+    id:        E470
+    name:      'La Thuile'
+    latitude:  45.716748
+    longitude: 6.948807
+  City_latiano:
+    Province:  ProvinceBR
+    id:        E471
+    name:      Latiano
+    latitude:  40.553907
+    longitude: 17.721426
+  City_latina:
+    Province:  ProvinceLT
+    id:        E472
+    name:      Latina
+    latitude:  41.467597
+    longitude: 12.9037
+  City_latisana:
+    Province:  ProvinceUD
+    id:        E473
+    name:      Latisana
+    latitude:  45.776556
+    longitude: 12.995057
+  City_latronico:
+    Province:  ProvincePZ
+    id:        E474
+    name:      Latronico
+    latitude:  40.090876
+    longitude: 16.010853
+  City_lattarico:
+    Province:  ProvinceCS
+    id:        E475
+    name:      Lattarico
+    latitude:  39.464415
+    longitude: 16.138189
+  City_lauco:
+    Province:  ProvinceUD
+    id:        E476
+    name:      Lauco
+    latitude:  46.425481
+    longitude: 12.933759
+  City_laureana_di_borrello:
+    Province:  ProvinceRC
+    id:        E479
+    name:      'Laureana di Borrello'
+    latitude:  38.493778
+    longitude: 16.082981
+  City_laureana_cilento:
+    Province:  ProvinceSA
+    id:        E480
+    name:      'Laureana Cilento'
+    latitude:  40.299422
+    longitude: 15.047361
+  City_lauregno:
+    Province:  ProvinceBZ
+    id:        E481
+    name:      Lauregno
+    latitude:  46.453954
+    longitude: 11.064675
+  City_laurenzana:
+    Province:  ProvincePZ
+    id:        E482
+    name:      Laurenzana
+    latitude:  40.458613
+    longitude: 15.971578
+  City_lauria:
+    Province:  ProvincePZ
+    id:        E483
+    name:      Lauria
+    latitude:  40.047866
+    longitude: 15.837522
+  City_lauriano:
+    Province:  ProvinceTO
+    id:        E484
+    name:      Lauriano
+    latitude:  45.159222
+    longitude: 7.992833
+  City_laurino:
+    Province:  ProvinceSA
+    id:        E485
+    name:      Laurino
+    latitude:  40.337522
+    longitude: 15.337645
+  City_laurito:
+    Province:  ProvinceSA
+    id:        E486
+    name:      Laurito
+    latitude:  40.168384
+    longitude: 15.40495
+  City_lauro:
+    Province:  ProvinceAV
+    id:        E487
+    name:      Lauro
+    latitude:  40.879222
+    longitude: 14.63313
+  City_lavagna:
+    Province:  ProvinceGE
+    id:        E488
+    name:      Lavagna
+    latitude:  44.308907
+    longitude: 9.343296
+  City_lavagno:
+    Province:  ProvinceVR
+    id:        E489
+    name:      Lavagno
+    latitude:  45.439704
+    longitude: 11.135167
+  City_la_valle_agordina:
+    Province:  ProvinceBL
+    id:        E490
+    name:      'La Valle Agordina'
+    latitude:  46.281426
+    longitude: 12.066111
+  City_la_valle:
+    Province:  ProvinceBZ
+    id:        E491
+    name:      'La Valle'
+    latitude:  46.657541
+    longitude: 11.924002
+  City_lavarone:
+    Province:  ProvinceTN
+    id:        E492
+    name:      Lavarone
+    latitude:  45.937918
+    longitude: 11.275742
+  City_lavello:
+    Province:  ProvincePZ
+    id:        E493
+    name:      Lavello
+    latitude:  41.046741
+    longitude: 15.791741
+  City_lavena_ponte_tresa:
+    Province:  ProvinceVA
+    id:        E494
+    name:      'Lavena Ponte Tresa'
+    latitude:  45.966829
+    longitude: 8.856763
+  City_laveno_mombello:
+    Province:  ProvinceVA
+    id:        E496
+    name:      Laveno-Mombello
+    latitude:  45.91043
+    longitude: 8.619061
+  City_lavenone:
+    Province:  ProvinceBS
+    id:        E497
+    name:      Lavenone
+    latitude:  45.73993
+    longitude: 10.439314
+  City_laviano:
+    Province:  ProvinceSA
+    id:        E498
+    name:      Laviano
+    latitude:  40.787037
+    longitude: 15.310648
+  City_lavis:
+    Province:  ProvinceTN
+    id:        E500
+    name:      Lavis
+    latitude:  46.140481
+    longitude: 11.113907
+  City_lazise:
+    Province:  ProvinceVR
+    id:        E502
+    name:      Lazise
+    latitude:  45.505282
+    longitude: 10.73259
+  City_lazzate:
+    Province:  ProvinceMI
+    id:        E504
+    name:      Lazzate
+    latitude:  45.67201
+    longitude: 9.085848
+  City_lecce_nei_marsi:
+    Province:  ProvinceAQ
+    id:        E505
+    name:      'Lecce nei Marsi'
+    latitude:  41.930044
+    longitude: 13.682133
+  City_lecce:
+    Province:  ProvinceLE
+    id:        E506
+    name:      Lecce
+    latitude:  40.353291
+    longitude: 18.174015
+  City_lecco:
+    Province:  ProvinceLC
+    id:        E507
+    name:      Lecco
+    latitude:  45.852982
+    longitude: 9.39007
+  City_leffe:
+    Province:  ProvinceBG
+    id:        E509
+    name:      Leffe
+    latitude:  45.801741
+    longitude: 9.886574
+  City_leggiuno:
+    Province:  ProvinceVA
+    id:        E510
+    name:      Leggiuno
+    latitude:  45.87523
+    longitude: 8.620612
+  City_legnago:
+    Province:  ProvinceVR
+    id:        E512
+    name:      Legnago
+    latitude:  45.190698
+    longitude: 11.307636
+  City_legnano:
+    Province:  ProvinceMI
+    id:        E514
+    name:      Legnano
+    latitude:  45.593098
+    longitude: 8.907247
+  City_legnaro:
+    Province:  ProvincePD
+    id:        E515
+    name:      Legnaro
+    latitude:  45.34233
+    longitude: 11.966176
+  City_lei:
+    Province:  ProvinceNU
+    id:        E517
+    name:      Lei
+    latitude:  40.307733
+    longitude: 8.920123
+  City_leini:
+    Province:  ProvinceTO
+    id:        E518
+    name:      Leini
+    latitude:  45.183759
+    longitude: 7.715315
+  City_leivi:
+    Province:  ProvinceGE
+    id:        E519
+    name:      Leivi
+    latitude:  44.353475
+    longitude: 9.309404
+  City_lemie:
+    Province:  ProvinceTO
+    id:        E520
+    name:      Lemie
+    latitude:  45.228896
+    longitude: 7.294234
+  City_lendinara:
+    Province:  ProvinceRO
+    id:        E522
+    name:      Lendinara
+    latitude:  45.083698
+    longitude: 11.599114
+  City_leni:
+    Province:  ProvinceME
+    id:        E523
+    name:      Leni
+    latitude:  38.556021
+    longitude: 14.825856
+  City_lenna:
+    Province:  ProvinceBG
+    id:        E524
+    name:      Lenna
+    latitude:  45.943444
+    longitude: 9.677815
+  City_lenno:
+    Province:  ProvinceCO
+    id:        E525
+    name:      Lenno
+    latitude:  45.973907
+    longitude: 9.192056
+  City_leno:
+    Province:  ProvinceBS
+    id:        E526
+    name:      Leno
+    latitude:  45.366846
+    longitude: 10.218465
+  City_lenola:
+    Province:  ProvinceLT
+    id:        E527
+    name:      Lenola
+    latitude:  41.408705
+    longitude: 13.461344
+  City_lenta:
+    Province:  ProvinceVC
+    id:        E528
+    name:      Lenta
+    latitude:  45.556
+    longitude: 8.383588
+  City_osmate:
+    Province:  ProvinceVA
+    id:        E529
+    name:      Osmate
+    latitude:  45.789306
+    longitude: 8.659541
+  City_lentate_sul_seveso:
+    Province:  ProvinceMI
+    id:        E530
+    name:      'Lentate sul Seveso'
+    latitude:  45.678385
+    longitude: 9.12183
+  City_lentella:
+    Province:  ProvinceCH
+    id:        E531
+    name:      Lentella
+    latitude:  41.99717
+    longitude: 14.676303
+  City_lentini:
+    Province:  ProvinceSR
+    id:        E532
+    name:      Lentini
+    latitude:  37.286574
+    longitude: 15.000481
+  City_leonessa:
+    Province:  ProvinceRI
+    id:        E535
+    name:      Leonessa
+    latitude:  42.566583
+    longitude: 12.962482
+  City_leonforte:
+    Province:  ProvinceEN
+    id:        E536
+    name:      Leonforte
+    latitude:  37.640028
+    longitude: 14.39307
+  City_leporano:
+    Province:  ProvinceTA
+    id:        E537
+    name:      Leporano
+    latitude:  40.383006
+    longitude: 17.334181
+  City_lequile:
+    Province:  ProvinceLE
+    id:        E538
+    name:      Lequile
+    latitude:  40.306889
+    longitude: 18.141111
+  City_lequio_tanaro:
+    Province:  ProvinceCN
+    id:        E539
+    name:      'Lequio Tanaro'
+    latitude:  44.560136
+    longitude: 7.884706
+  City_lequio_berria:
+    Province:  ProvinceCN
+    id:        E540
+    name:      'Lequio Berria'
+    latitude:  44.607466
+    longitude: 8.098094
+  City_lercara_friddi:
+    Province:  ProvincePA
+    id:        E541
+    name:      'Lercara Friddi'
+    latitude:  37.748241
+    longitude: 13.602848
+  City_lerici:
+    Province:  ProvinceSP
+    id:        E542
+    name:      Lerici
+    latitude:  44.075671
+    longitude: 9.911555
+  City_lerma:
+    Province:  ProvinceAL
+    id:        E543
+    name:      Lerma
+    latitude:  44.636505
+    longitude: 8.71528
+  City_lesa:
+    Province:  ProvinceNO
+    id:        E544
+    name:      Lesa
+    latitude:  45.824098
+    longitude: 8.560874
+  City_lesegno:
+    Province:  ProvinceCN
+    id:        E546
+    name:      Lesegno
+    latitude:  44.401693
+    longitude: 7.965581
+  City_lesignano_de_bagni:
+    Province:  ProvincePR
+    id:        E547
+    name:      'Lesignano de'' Bagni'
+    latitude:  44.644001
+    longitude: 10.299991
+  City_terenzo:
+    Province:  ProvincePR
+    id:        E548
+    name:      Terenzo
+    latitude:  44.610944
+    longitude: 10.090796
+  City_lesina:
+    Province:  ProvinceFG
+    id:        E549
+    name:      Lesina
+    latitude:  41.860481
+    longitude: 15.353778
+  City_lesmo:
+    Province:  ProvinceMI
+    id:        E550
+    name:      Lesmo
+    latitude:  45.650003
+    longitude: 9.306628
+  City_lessolo:
+    Province:  ProvinceTO
+    id:        E551
+    name:      Lessolo
+    latitude:  45.475983
+    longitude: 7.813715
+  City_lessona:
+    Province:  ProvinceBI
+    id:        E552
+    name:      Lessona
+    latitude:  45.586375
+    longitude: 8.196429
+  City_lestizza:
+    Province:  ProvinceUD
+    id:        E553
+    name:      Lestizza
+    latitude:  45.95737
+    longitude: 13.145796
+  City_letino:
+    Province:  ProvinceCE
+    id:        E554
+    name:      Letino
+    latitude:  41.453781
+    longitude: 14.255153
+  City_letojanni:
+    Province:  ProvinceME
+    id:        E555
+    name:      Letojanni
+    latitude:  37.879509
+    longitude: 15.305589
+  City_lettere:
+    Province:  ProvinceNA
+    id:        E557
+    name:      Lettere
+    latitude:  40.70483
+    longitude: 14.551518
+  City_lettomanoppello:
+    Province:  ProvincePE
+    id:        E558
+    name:      Lettomanoppello
+    latitude:  42.243623
+    longitude: 14.03589
+  City_lettopalena:
+    Province:  ProvinceCH
+    id:        E559
+    name:      Lettopalena
+    latitude:  42.0016
+    longitude: 14.159651
+  City_levanto:
+    Province:  ProvinceSP
+    id:        E560
+    name:      Levanto
+    latitude:  44.171278
+    longitude: 9.613463
+  City_levate:
+    Province:  ProvinceBG
+    id:        E562
+    name:      Levate
+    latitude:  45.626278
+    longitude: 9.625333
+  City_leverano:
+    Province:  ProvinceLE
+    id:        E563
+    name:      Leverano
+    latitude:  40.289737
+    longitude: 18.001176
+  City_levice:
+    Province:  ProvinceCN
+    id:        E564
+    name:      Levice
+    latitude:  44.538806
+    longitude: 8.156237
+  City_levico_terme:
+    Province:  ProvinceTN
+    id:        E565
+    name:      'Levico Terme'
+    latitude:  46.011112
+    longitude: 11.302613
+  City_levone:
+    Province:  ProvinceTO
+    id:        E566
+    name:      Levone
+    latitude:  45.317667
+    longitude: 7.607518
+  City_lezzeno:
+    Province:  ProvinceCO
+    id:        E569
+    name:      Lezzeno
+    latitude:  45.945764
+    longitude: 9.19024
+  City_liberi:
+    Province:  ProvinceCE
+    id:        E570
+    name:      Liberi
+    latitude:  41.228926
+    longitude: 14.290944
+  City_librizzi:
+    Province:  ProvinceME
+    id:        E571
+    name:      Librizzi
+    latitude:  38.096889
+    longitude: 14.959074
+  City_licata:
+    Province:  ProvinceAG
+    id:        E573
+    name:      Licata
+    latitude:  37.102287
+    longitude: 13.937454
+  City_licciana_nardi:
+    Province:  ProvinceMS
+    id:        E574
+    name:      'Licciana Nardi'
+    latitude:  44.264619
+    longitude: 10.035774
+  City_licenza:
+    Province:  ProvinceRM
+    id:        E576
+    name:      Licenza
+    latitude:  42.075167
+    longitude: 12.901111
+  City_licodia_eubea:
+    Province:  ProvinceCT
+    id:        E578
+    name:      'Licodia Eubea'
+    latitude:  37.158296
+    longitude: 14.707056
+  City_lierna:
+    Province:  ProvinceLC
+    id:        E581
+    name:      Lierna
+    latitude:  45.960481
+    longitude: 9.306722
+  City_lignana:
+    Province:  ProvinceVC
+    id:        E583
+    name:      Lignana
+    latitude:  45.287037
+    longitude: 8.345
+  City_lignano_sabbiadoro:
+    Province:  ProvinceUD
+    id:        E584
+    name:      'Lignano Sabbiadoro'
+    latitude:  45.671721
+    longitude: 13.10981
+  City_ligonchio:
+    Province:  ProvinceRE
+    id:        E585
+    name:      Ligonchio
+    latitude:  44.316027
+    longitude: 10.342826
+  City_ligosullo:
+    Province:  ProvinceUD
+    id:        E586
+    name:      Ligosullo
+    latitude:  46.540035
+    longitude: 13.074687
+  City_lillianes:
+    Province:  ProvinceAO
+    id:        E587
+    name:      Lillianes
+    latitude:  45.631382
+    longitude: 7.842227
+  City_limana:
+    Province:  ProvinceBL
+    id:        E588
+    name:      Limana
+    latitude:  46.103759
+    longitude: 12.187352
+  City_limatola:
+    Province:  ProvinceBN
+    id:        E589
+    name:      Limatola
+    latitude:  41.141889
+    longitude: 14.393926
+  City_limbadi:
+    Province:  ProvinceVV
+    id:        E590
+    name:      Limbadi
+    latitude:  38.557404
+    longitude: 15.965386
+  City_limbiate:
+    Province:  ProvinceMI
+    id:        E591
+    name:      Limbiate
+    latitude:  45.600031
+    longitude: 9.122015
+  City_limena:
+    Province:  ProvincePD
+    id:        E592
+    name:      Limena
+    latitude:  45.473296
+    longitude: 11.84487
+  City_limido_comasco:
+    Province:  ProvinceCO
+    id:        E593
+    name:      'Limido Comasco'
+    latitude:  45.690167
+    longitude: 8.980944
+  City_limina:
+    Province:  ProvinceME
+    id:        E594
+    name:      Limina
+    latitude:  37.941889
+    longitude: 15.272037
+  City_limone_sul_garda:
+    Province:  ProvinceBS
+    id:        E596
+    name:      'Limone sul Garda'
+    latitude:  45.814678
+    longitude: 10.79322
+  City_limone_piemonte:
+    Province:  ProvinceCN
+    id:        E597
+    name:      'Limone Piemonte'
+    latitude:  44.201391
+    longitude: 7.576201
+  City_limosano:
+    Province:  ProvinceCB
+    id:        E599
+    name:      Limosano
+    latitude:  41.676768
+    longitude: 14.622316
+  City_linarolo:
+    Province:  ProvincePV
+    id:        E600
+    name:      Linarolo
+    latitude:  45.163463
+    longitude: 9.271111
+  City_linguaglossa:
+    Province:  ProvinceCT
+    id:        E602
+    name:      Linguaglossa
+    latitude:  37.842738
+    longitude: 15.141723
+  City_lioni:
+    Province:  ProvinceAV
+    id:        E605
+    name:      Lioni
+    latitude:  40.8775
+    longitude: 15.188778
+  City_lipari:
+    Province:  ProvinceME
+    id:        E606
+    name:      Lipari
+    latitude:  38.467437
+    longitude: 14.953909
+  City_lipomo:
+    Province:  ProvinceCO
+    id:        E607
+    name:      Lipomo
+    latitude:  45.793926
+    longitude: 9.121426
+  City_lirio:
+    Province:  ProvincePV
+    id:        E608
+    name:      Lirio
+    latitude:  44.99493
+    longitude: 9.256208
+  City_liscate:
+    Province:  ProvinceMI
+    id:        E610
+    name:      Liscate
+    latitude:  45.481496
+    longitude: 9.409198
+  City_liscia:
+    Province:  ProvinceCH
+    id:        E611
+    name:      Liscia
+    latitude:  41.954286
+    longitude: 14.55824
+  City_lisciano_niccone:
+    Province:  ProvincePG
+    id:        E613
+    name:      'Lisciano Niccone'
+    latitude:  43.247708
+    longitude: 12.145042
+  City_lisignago:
+    Province:  ProvinceTN
+    id:        E614
+    name:      Lisignago
+    latitude:  46.161574
+    longitude: 11.188759
+  City_lisio:
+    Province:  ProvinceCN
+    id:        E615
+    name:      Lisio
+    latitude:  44.307797
+    longitude: 7.97851
+  City_lissone:
+    Province:  ProvinceMI
+    id:        E617
+    name:      Lissone
+    latitude:  45.610892
+    longitude: 9.238571
+  City_milena:
+    Province:  ProvinceCL
+    id:        E618
+    name:      Milena
+    latitude:  37.470796
+    longitude: 13.736111
+  City_liveri:
+    Province:  ProvinceNA
+    id:        E620
+    name:      Liveri
+    latitude:  40.903937
+    longitude: 14.563375
+  City_livigno:
+    Province:  ProvinceSO
+    id:        E621
+    name:      Livigno
+    latitude:  46.54509
+    longitude: 10.141341
+  City_livinallongo_del_col_di_lana:
+    Province:  ProvinceBL
+    id:        E622
+    name:      'Livinallongo del Col di Lana'
+    latitude:  46.481602
+    longitude: 11.95536
+  City_livo:
+    Province:  ProvinceTN
+    id:        E624
+    name:      Livo
+    latitude:  46.40574
+    longitude: 11.01909
+  City_livorno:
+    Province:  ProvinceLI
+    id:        E625
+    name:      Livorno
+    latitude:  43.551876
+    longitude: 10.308011
+  City_livorno_ferraris:
+    Province:  ProvinceVC
+    id:        E626
+    name:      'Livorno Ferraris'
+    latitude:  45.285
+    longitude: 8.078611
+  City_livraga:
+    Province:  ProvinceLO
+    id:        E627
+    name:      Livraga
+    latitude:  45.193296
+    longitude: 9.5475
+  City_lizzanello:
+    Province:  ProvinceLE
+    id:        E629
+    name:      Lizzanello
+    latitude:  40.305167
+    longitude: 18.223463
+  City_lizzano:
+    Province:  ProvinceTA
+    id:        E630
+    name:      Lizzano
+    latitude:  40.392037
+    longitude: 17.448444
+  City_loano:
+    Province:  ProvinceSV
+    id:        E632
+    name:      Loano
+    latitude:  44.12884
+    longitude: 8.25999
+  City_loazzolo:
+    Province:  ProvinceAT
+    id:        E633
+    name:      Loazzolo
+    latitude:  44.669778
+    longitude: 8.258215
+  City_locana:
+    Province:  ProvinceTO
+    id:        E635
+    name:      Locana
+    latitude:  45.416346
+    longitude: 7.459982
+  City_locate_varesino:
+    Province:  ProvinceCO
+    id:        E638
+    name:      'Locate Varesino'
+    latitude:  45.691463
+    longitude: 8.930966
+  City_locate_di_triulzi:
+    Province:  ProvinceMI
+    id:        E639
+    name:      'Locate di Triulzi'
+    latitude:  45.357897
+    longitude: 9.225215
+  City_locatello:
+    Province:  ProvinceBG
+    id:        E640
+    name:      Locatello
+    latitude:  45.836278
+    longitude: 9.535167
+  City_loceri:
+    Province:  ProvinceOG
+    id:        E644
+    name:      Loceri
+    latitude:  39.860167
+    longitude: 9.585018
+  City_locorotondo:
+    Province:  ProvinceBA
+    id:        E645
+    name:      Locorotondo
+    latitude:  40.755741
+    longitude: 17.326289
+  City_loculi:
+    Province:  ProvinceNU
+    id:        E646
+    name:      Loculi
+    latitude:  40.407809
+    longitude: 9.612176
+  City_lode:
+    Province:  ProvinceNU
+    id:        E647
+    name:      Lodè
+    latitude:  40.592518
+    longitude: 9.53987
+  City_lodi:
+    Province:  ProvinceLO
+    id:        E648
+    name:      Lodi
+    latitude:  45.312878
+    longitude: 9.49785
+  City_lodine:
+    Province:  ProvinceNU
+    id:        E649
+    name:      Lodine
+    latitude:  40.150388
+    longitude: 9.21959
+  City_lodi_vecchio:
+    Province:  ProvinceLO
+    id:        E651
+    name:      'Lodi Vecchio'
+    latitude:  45.303463
+    longitude: 9.418778
+  City_lodrino:
+    Province:  ProvinceBS
+    id:        E652
+    name:      Lodrino
+    latitude:  45.719736
+    longitude: 10.27683
+  City_lograto:
+    Province:  ProvinceBS
+    id:        E654
+    name:      Lograto
+    latitude:  45.485271
+    longitude: 10.054259
+  City_loiano:
+    Province:  ProvinceBO
+    id:        E655
+    name:      Loiano
+    latitude:  44.268554
+    longitude: 11.322873
+  City_lomagna:
+    Province:  ProvinceLC
+    id:        E656
+    name:      Lomagna
+    latitude:  45.67049
+    longitude: 9.375202
+  City_lomaso:
+    Province:  ProvinceTN
+    id:        E658
+    name:      Lomaso
+    latitude:  46.024372
+    longitude: 10.866803
+  City_lomazzo:
+    Province:  ProvinceCO
+    id:        E659
+    name:      Lomazzo
+    latitude:  45.700167
+    longitude: 9.035481
+  City_lombardore:
+    Province:  ProvinceTO
+    id:        E660
+    name:      Lombardore
+    latitude:  45.236407
+    longitude: 7.741407
+  City_lombriasco:
+    Province:  ProvinceTO
+    id:        E661
+    name:      Lombriasco
+    latitude:  44.84215
+    longitude: 7.636725
+  City_lomello:
+    Province:  ProvincePV
+    id:        E662
+    name:      Lomello
+    latitude:  45.122037
+    longitude: 8.797352
+  City_lona_lases:
+    Province:  ProvinceTN
+    id:        E664
+    name:      Lona-Lases
+    latitude:  46.145167
+    longitude: 11.22063
+  City_lonate_ceppino:
+    Province:  ProvinceVA
+    id:        E665
+    name:      'Lonate Ceppino'
+    latitude:  45.705796
+    longitude: 8.879852
+  City_lonate_pozzolo:
+    Province:  ProvinceVA
+    id:        E666
+    name:      'Lonate Pozzolo'
+    latitude:  45.599566
+    longitude: 8.754084
+  City_lonato:
+    Province:  ProvinceBS
+    id:        E667
+    name:      Lonato
+    latitude:  45.460935
+    longitude: 10.484518
+  City_londa:
+    Province:  ProvinceFI
+    id:        E668
+    name:      Londa
+    latitude:  43.861872
+    longitude: 11.570122
+  City_longano:
+    Province:  ProvinceIS
+    id:        E669
+    name:      Longano
+    latitude:  41.522667
+    longitude: 14.246574
+  City_longare:
+    Province:  ProvinceVI
+    id:        E671
+    name:      Longare
+    latitude:  45.479111
+    longitude: 11.608508
+  City_longarone:
+    Province:  ProvinceBL
+    id:        E672
+    name:      Longarone
+    latitude:  46.266592
+    longitude: 12.299962
+  City_longhena:
+    Province:  ProvinceBS
+    id:        E673
+    name:      Longhena
+    latitude:  45.438778
+    longitude: 10.060796
+  City_longi:
+    Province:  ProvinceME
+    id:        E674
+    name:      Longi
+    latitude:  38.028444
+    longitude: 14.75313
+  City_longiano:
+    Province:  ProvinceFC
+    id:        E675
+    name:      Longiano
+    latitude:  44.075481
+    longitude: 12.328611
+  City_longobardi:
+    Province:  ProvinceCS
+    id:        E677
+    name:      Longobardi
+    latitude:  39.20813
+    longitude: 16.077352
+  City_longobucco:
+    Province:  ProvinceCS
+    id:        E678
+    name:      Longobucco
+    latitude:  39.449389
+    longitude: 16.611426
+  City_longone_al_segrino:
+    Province:  ProvinceCO
+    id:        E679
+    name:      'Longone al Segrino'
+    latitude:  45.815333
+    longitude: 9.2525
+  City_porto_azzurro:
+    Province:  ProvinceLI
+    id:        E680
+    name:      'Porto Azzurro'
+    latitude:  42.767981
+    longitude: 10.396722
+  City_longone_sabino:
+    Province:  ProvinceRI
+    id:        E681
+    name:      'Longone Sabino'
+    latitude:  42.273224
+    longitude: 12.966357
+  City_lonigo:
+    Province:  ProvinceVI
+    id:        E682
+    name:      Lonigo
+    latitude:  45.388014
+    longitude: 11.38811
+  City_loranze:
+    Province:  ProvinceTO
+    id:        E683
+    name:      Loranzè
+    latitude:  45.442667
+    longitude: 7.813926
+  City_loreggia:
+    Province:  ProvincePD
+    id:        E684
+    name:      Loreggia
+    latitude:  45.595
+    longitude: 11.946278
+  City_loreglia:
+    Province:  ProvinceVB
+    id:        E685
+    name:      Loreglia
+    latitude:  45.907572
+    longitude: 8.372271
+  City_lorenzago_di_cadore:
+    Province:  ProvinceBL
+    id:        E687
+    name:      'Lorenzago di Cadore'
+    latitude:  46.480648
+    longitude: 12.460481
+  City_lorenzana:
+    Province:  ProvincePI
+    id:        E688
+    name:      Lorenzana
+    latitude:  43.543784
+    longitude: 10.526744
+  City_loreo:
+    Province:  ProvinceRO
+    id:        E689
+    name:      Loreo
+    latitude:  45.0625
+    longitude: 12.189556
+  City_loreto:
+    Province:  ProvinceAN
+    id:        E690
+    name:      Loreto
+    latitude:  43.440285
+    longitude: 13.607442
+  City_loreto_aprutino:
+    Province:  ProvincePE
+    id:        E691
+    name:      'Loreto Aprutino'
+    latitude:  42.436699
+    longitude: 13.98368
+  City_loria:
+    Province:  ProvinceTV
+    id:        E692
+    name:      Loria
+    latitude:  45.730944
+    longitude: 11.866407
+  City_loro_ciuffenna:
+    Province:  ProvinceAR
+    id:        E693
+    name:      'Loro Ciuffenna'
+    latitude:  43.592644
+    longitude: 11.632891
+  City_loro_piceno:
+    Province:  ProvinceMC
+    id:        E694
+    name:      'Loro Piceno'
+    latitude:  43.164579
+    longitude: 13.412342
+  City_lorsica:
+    Province:  ProvinceGE
+    id:        E695
+    name:      Lorsica
+    latitude:  44.431886
+    longitude: 9.274269
+  City_losine:
+    Province:  ProvinceBS
+    id:        E698
+    name:      Losine
+    latitude:  45.984212
+    longitude: 10.317503
+  City_lotzorai:
+    Province:  ProvinceOG
+    id:        E700
+    name:      Lotzorai
+    latitude:  39.970796
+    longitude: 9.665648
+  City_lovere:
+    Province:  ProvinceBG
+    id:        E704
+    name:      Lovere
+    latitude:  45.810264
+    longitude: 10.069015
+  City_lovero:
+    Province:  ProvinceSO
+    id:        E705
+    name:      Lovero
+    latitude:  46.232352
+    longitude: 10.229704
+  City_lozio:
+    Province:  ProvinceBS
+    id:        E706
+    name:      Lozio
+    latitude:  45.985711
+    longitude: 10.260515
+  City_lozza:
+    Province:  ProvinceVA
+    id:        E707
+    name:      Lozza
+    latitude:  45.776741
+    longitude: 8.858926
+  City_lozzo_di_cadore:
+    Province:  ProvinceBL
+    id:        E708
+    name:      'Lozzo di Cadore'
+    latitude:  46.485966
+    longitude: 12.444622
+  City_lozzo_atestino:
+    Province:  ProvincePD
+    id:        E709
+    name:      'Lozzo Atestino'
+    latitude:  45.287026
+    longitude: 11.627716
+  City_lozzolo:
+    Province:  ProvinceVC
+    id:        E711
+    name:      Lozzolo
+    latitude:  45.626501
+    longitude: 8.323988
+  City_lu:
+    Province:  ProvinceAL
+    id:        E712
+    name:      Lu
+    latitude:  45.002518
+    longitude: 8.485796
+  City_lubriano:
+    Province:  ProvinceVT
+    id:        E713
+    name:      Lubriano
+    latitude:  42.636361
+    longitude: 12.111552
+  City_lucca_sicula:
+    Province:  ProvinceAG
+    id:        E714
+    name:      'Lucca Sicula'
+    latitude:  37.579737
+    longitude: 13.306263
+  City_lucca:
+    Province:  ProvinceLU
+    id:        E715
+    name:      Lucca
+    latitude:  43.843014
+    longitude: 10.507994
+  City_lucera:
+    Province:  ProvinceFG
+    id:        E716
+    name:      Lucera
+    latitude:  41.509222
+    longitude: 15.335944
+  City_lucignano:
+    Province:  ProvinceAR
+    id:        E718
+    name:      Lucignano
+    latitude:  43.274698
+    longitude: 11.745985
+  City_lucinasco:
+    Province:  ProvinceIM
+    id:        E719
+    name:      Lucinasco
+    latitude:  43.967037
+    longitude: 7.961278
+  City_lucito:
+    Province:  ProvinceCB
+    id:        E722
+    name:      Lucito
+    latitude:  41.732981
+    longitude: 14.68813
+  City_luco_dei_marsi:
+    Province:  ProvinceAQ
+    id:        E723
+    name:      'Luco dei Marsi'
+    latitude:  41.958148
+    longitude: 13.474537
+  City_lucoli:
+    Province:  ProvinceAQ
+    id:        E724
+    name:      Lucoli
+    latitude:  42.292056
+    longitude: 13.338907
+  City_lugagnano_val_d_arda:
+    Province:  ProvincePC
+    id:        E726
+    name:      'Lugagnano Val D''Arda'
+    latitude:  44.824222
+    longitude: 9.828296
+  City_lugnacco:
+    Province:  ProvinceTO
+    id:        E727
+    name:      Lugnacco
+    latitude:  45.444461
+    longitude: 7.781776
+  City_lugnano_in_teverina:
+    Province:  ProvinceTR
+    id:        E729
+    name:      'Lugnano in Teverina'
+    latitude:  42.571894
+    longitude: 12.330488
+  City_lugo:
+    Province:  ProvinceRA
+    id:        E730
+    name:      Lugo
+    latitude:  44.429067
+    longitude: 11.906991
+  City_lugo_di_vicenza:
+    Province:  ProvinceVI
+    id:        E731
+    name:      'Lugo di Vicenza'
+    latitude:  45.746407
+    longitude: 11.52987
+  City_luino:
+    Province:  ProvinceVA
+    id:        E734
+    name:      Luino
+    latitude:  46.002031
+    longitude: 8.741682
+  City_luisago:
+    Province:  ProvinceCO
+    id:        E735
+    name:      Luisago
+    latitude:  45.762992
+    longitude: 9.036287
+  City_lula:
+    Province:  ProvinceNU
+    id:        E736
+    name:      Lula
+    latitude:  40.469986
+    longitude: 9.485869
+  City_lumarzo:
+    Province:  ProvinceGE
+    id:        E737
+    name:      Lumarzo
+    latitude:  44.434704
+    longitude: 9.14063
+  City_lumezzane:
+    Province:  ProvinceBS
+    id:        E738
+    name:      Lumezzane
+    latitude:  45.649631
+    longitude: 10.261834
+  City_lunamatrona:
+    Province:  ProvinceVS
+    id:        E742
+    name:      Lunamatrona
+    latitude:  39.6465
+    longitude: 8.900059
+  City_lunano:
+    Province:  ProvincePU
+    id:        E743
+    name:      Lunano
+    latitude:  43.730684
+    longitude: 12.441891
+  City_lungro:
+    Province:  ProvinceCS
+    id:        E745
+    name:      Lungro
+    latitude:  39.739389
+    longitude: 16.125481
+  City_luogosano:
+    Province:  ProvinceAV
+    id:        E746
+    name:      Luogosano
+    latitude:  40.988296
+    longitude: 14.991722
+  City_luogosanto:
+    Province:  ProvinceOT
+    id:        E747
+    name:      Luogosanto
+    latitude:  41.049644
+    longitude: 9.205707
+  City_lupara:
+    Province:  ProvinceCB
+    id:        E748
+    name:      Lupara
+    latitude:  41.761239
+    longitude: 14.734142
+  City_lurago_d_erba:
+    Province:  ProvinceCO
+    id:        E749
+    name:      'Lurago D''Erba'
+    latitude:  45.752833
+    longitude: 9.220963
+  City_lurago_marinone:
+    Province:  ProvinceCO
+    id:        E750
+    name:      'Lurago Marinone'
+    latitude:  45.706722
+    longitude: 8.982518
+  City_lurano:
+    Province:  ProvinceBG
+    id:        E751
+    name:      Lurano
+    latitude:  45.562386
+    longitude: 9.640706
+  City_luras:
+    Province:  ProvinceOT
+    id:        E752
+    name:      Luras
+    latitude:  40.936426
+    longitude: 9.176426
+  City_lurate_caccivio:
+    Province:  ProvinceCO
+    id:        E753
+    name:      'Lurate Caccivio'
+    latitude:  45.767478
+    longitude: 9.002159
+  City_lusciano:
+    Province:  ProvinceCE
+    id:        E754
+    name:      Lusciano
+    latitude:  40.967294
+    longitude: 14.185974
+  City_luserna:
+    Province:  ProvinceTN
+    id:        E757
+    name:      Luserna
+    latitude:  45.923611
+    longitude: 11.323907
+  City_luserna_san_giovanni:
+    Province:  ProvinceTO
+    id:        E758
+    name:      'Luserna San Giovanni'
+    latitude:  44.81383
+    longitude: 7.245294
+  City_lusernetta:
+    Province:  ProvinceTO
+    id:        E759
+    name:      Lusernetta
+    latitude:  44.802485
+    longitude: 7.248666
+  City_lusevera:
+    Province:  ProvinceUD
+    id:        E760
+    name:      Lusevera
+    latitude:  46.275979
+    longitude: 13.26924
+  City_lusia:
+    Province:  ProvinceRO
+    id:        E761
+    name:      Lusia
+    latitude:  45.099556
+    longitude: 11.666278
+  City_lusiana:
+    Province:  ProvinceVI
+    id:        E762
+    name:      Lusiana
+    latitude:  45.785319
+    longitude: 11.575378
+  City_lusiglie:
+    Province:  ProvinceTO
+    id:        E763
+    name:      Lusigliè
+    latitude:  45.319556
+    longitude: 7.765796
+  City_luson:
+    Province:  ProvinceBZ
+    id:        E764
+    name:      Luson
+    latitude:  46.744621
+    longitude: 11.761425
+  City_lustra:
+    Province:  ProvinceSA
+    id:        E767
+    name:      Lustra
+    latitude:  40.288743
+    longitude: 15.068206
+  City_luvinate:
+    Province:  ProvinceVA
+    id:        E769
+    name:      Luvinate
+    latitude:  45.83923
+    longitude: 8.767301
+  City_luzzana:
+    Province:  ProvinceBG
+    id:        E770
+    name:      Luzzana
+    latitude:  45.717204
+    longitude: 9.884222
+  City_luzzara:
+    Province:  ProvinceRE
+    id:        E772
+    name:      Luzzara
+    latitude:  44.958611
+    longitude: 10.691407
+  City_luzzi:
+    Province:  ProvinceCS
+    id:        E773
+    name:      Luzzi
+    latitude:  39.447204
+    longitude: 16.289241

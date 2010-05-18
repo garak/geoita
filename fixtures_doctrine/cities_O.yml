@@ -1,0 +1,1039 @@
+City:
+  City_occhieppo_inferiore:
+    Province:  ProvinceBI
+    id:        F992
+    name:      'Occhieppo Inferiore'
+    latitude:  45.551111
+    longitude: 8.022204
+  City_occhieppo_superiore:
+    Province:  ProvinceBI
+    id:        F993
+    name:      'Occhieppo Superiore'
+    latitude:  45.564204
+    longitude: 8.005008
+  City_occhiobello:
+    Province:  ProvinceRO
+    id:        F994
+    name:      Occhiobello
+    latitude:  44.921741
+    longitude: 11.581259
+  City_occimiano:
+    Province:  ProvinceAL
+    id:        F995
+    name:      Occimiano
+    latitude:  45.061268
+    longitude: 8.50876
+  City_ocre:
+    Province:  ProvinceAQ
+    id:        F996
+    name:      Ocre
+    latitude:  42.287096
+    longitude: 13.476254
+  City_odalengo_grande:
+    Province:  ProvinceAL
+    id:        F997
+    name:      'Odalengo Grande'
+    latitude:  45.11
+    longitude: 8.168148
+  City_odalengo_piccolo:
+    Province:  ProvinceAL
+    id:        F998
+    name:      'Odalengo Piccolo'
+    latitude:  45.072023
+    longitude: 8.207218
+  City_oderzo:
+    Province:  ProvinceTV
+    id:        F999
+    name:      Oderzo
+    latitude:  45.781271
+    longitude: 12.493628
+  City_odolo:
+    Province:  ProvinceBS
+    id:        G001
+    name:      Odolo
+    latitude:  45.646278
+    longitude: 10.384704
+  City_ofena:
+    Province:  ProvinceAQ
+    id:        G002
+    name:      Ofena
+    latitude:  42.326889
+    longitude: 13.759704
+  City_offagna:
+    Province:  ProvinceAN
+    id:        G003
+    name:      Offagna
+    latitude:  43.527821
+    longitude: 13.441745
+  City_offanengo:
+    Province:  ProvinceCR
+    id:        G004
+    name:      Offanengo
+    latitude:  45.379852
+    longitude: 9.743444
+  City_offida:
+    Province:  ProvinceAP
+    id:        G005
+    name:      Offida
+    latitude:  42.936722
+    longitude: 13.701426
+  City_offlaga:
+    Province:  ProvinceBS
+    id:        G006
+    name:      Offlaga
+    latitude:  45.387204
+    longitude: 10.116574
+  City_oggebbio:
+    Province:  ProvinceVB
+    id:        G007
+    name:      Oggebbio
+    latitude:  45.998768
+    longitude: 8.65157
+  City_oggiona_con_santo_stefano:
+    Province:  ProvinceVA
+    id:        G008
+    name:      'Oggiona con Santo Stefano'
+    latitude:  45.705333
+    longitude: 8.817667
+  City_oggiono:
+    Province:  ProvinceLC
+    id:        G009
+    name:      Oggiono
+    latitude:  45.790024
+    longitude: 9.345402
+  City_oglianico:
+    Province:  ProvinceTO
+    id:        G010
+    name:      Oglianico
+    latitude:  45.343451
+    longitude: 7.695778
+  City_ogliastro_cilento:
+    Province:  ProvinceSA
+    id:        G011
+    name:      'Ogliastro Cilento'
+    latitude:  40.353583
+    longitude: 15.041154
+  City_oyace:
+    Province:  ProvinceAO
+    id:        G012
+    name:      Oyace
+    latitude:  45.851805
+    longitude: 7.383337
+  City_olbia:
+    Province:  ProvinceOT
+    id:        G015
+    name:      Olbia
+    latitude:  40.922513
+    longitude: 9.486854
+  City_olcenengo:
+    Province:  ProvinceVC
+    id:        G016
+    name:      Olcenengo
+    latitude:  45.364555
+    longitude: 8.310944
+  City_oldenico:
+    Province:  ProvinceVC
+    id:        G018
+    name:      Oldenico
+    latitude:  45.403759
+    longitude: 8.382204
+  City_oleggio:
+    Province:  ProvinceNO
+    id:        G019
+    name:      Oleggio
+    latitude:  45.596701
+    longitude: 8.637621
+  City_oleggio_castello:
+    Province:  ProvinceNO
+    id:        G020
+    name:      'Oleggio Castello'
+    latitude:  45.748547
+    longitude: 8.526894
+  City_olevano_di_lomellina:
+    Province:  ProvincePV
+    id:        G021
+    name:      'Olevano di Lomellina'
+    latitude:  45.214855
+    longitude: 8.717841
+  City_olevano_romano:
+    Province:  ProvinceRM
+    id:        G022
+    name:      'Olevano Romano'
+    latitude:  41.861741
+    longitude: 13.034074
+  City_olevano_sul_tusciano:
+    Province:  ProvinceSA
+    id:        G023
+    name:      'Olevano sul Tusciano'
+    latitude:  40.650492
+    longitude: 15.0206
+  City_olgiate_comasco:
+    Province:  ProvinceCO
+    id:        G025
+    name:      'Olgiate Comasco'
+    latitude:  45.785351
+    longitude: 8.96934
+  City_olgiate_molgora:
+    Province:  ProvinceLC
+    id:        G026
+    name:      'Olgiate Molgora'
+    latitude:  45.728406
+    longitude: 9.40093
+  City_olgiate_olona:
+    Province:  ProvinceVA
+    id:        G028
+    name:      'Olgiate Olona'
+    latitude:  45.63004
+    longitude: 8.886285
+  City_olginate:
+    Province:  ProvinceLC
+    id:        G030
+    name:      Olginate
+    latitude:  45.794057
+    longitude: 9.413805
+  City_oliena:
+    Province:  ProvinceNU
+    id:        G031
+    name:      Oliena
+    latitude:  40.273463
+    longitude: 9.404074
+  City_oliva_gessi:
+    Province:  ProvincePV
+    id:        G032
+    name:      'Oliva Gessi'
+    latitude:  45.00357
+    longitude: 9.179146
+  City_olivadi:
+    Province:  ProvinceCZ
+    id:        G034
+    name:      Olivadi
+    latitude:  38.726598
+    longitude: 16.423561
+  City_oliveri:
+    Province:  ProvinceME
+    id:        G036
+    name:      Oliveri
+    latitude:  38.124694
+    longitude: 15.061504
+  City_oliveto_lucano:
+    Province:  ProvinceMT
+    id:        G037
+    name:      'Oliveto Lucano'
+    latitude:  40.536426
+    longitude: 16.185481
+  City_oliveto_citra:
+    Province:  ProvinceSA
+    id:        G039
+    name:      'Oliveto Citra'
+    latitude:  40.691426
+    longitude: 15.230963
+  City_oliveto_lario:
+    Province:  ProvinceLC
+    id:        G040
+    name:      'Oliveto Lario'
+    latitude:  45.93071
+    longitude: 9.284855
+  City_olivetta_san_michele:
+    Province:  ProvinceIM
+    id:        G041
+    name:      'Olivetta San Michele'
+    latitude:  43.879893
+    longitude: 7.516302
+  City_olivola:
+    Province:  ProvinceAL
+    id:        G042
+    name:      Olivola
+    latitude:  45.037983
+    longitude: 8.368149
+  City_ollastra:
+    Province:  ProvinceOR
+    id:        G043
+    name:      Ollastra
+    latitude:  39.952037
+    longitude: 8.735333
+  City_ollolai:
+    Province:  ProvinceNU
+    id:        G044
+    name:      Ollolai
+    latitude:  40.169537
+    longitude: 9.179537
+  City_ollomont:
+    Province:  ProvinceAO
+    id:        G045
+    name:      Ollomont
+    latitude:  45.850269
+    longitude: 7.310824
+  City_olmedo:
+    Province:  ProvinceSS
+    id:        G046
+    name:      Olmedo
+    latitude:  40.65295
+    longitude: 8.381695
+  City_olmeneta:
+    Province:  ProvinceCR
+    id:        G047
+    name:      Olmeneta
+    latitude:  45.236123
+    longitude: 10.021224
+  City_olmo_gentile:
+    Province:  ProvinceAT
+    id:        G048
+    name:      'Olmo Gentile'
+    latitude:  44.586186
+    longitude: 8.248377
+  City_olmo_al_brembo:
+    Province:  ProvinceBG
+    id:        G049
+    name:      'Olmo al Brembo'
+    latitude:  45.972012
+    longitude: 9.649248
+  City_oltre_il_colle:
+    Province:  ProvinceBG
+    id:        G050
+    name:      'Oltre il Colle'
+    latitude:  45.890481
+    longitude: 9.770315
+  City_oltressenda_alta:
+    Province:  ProvinceBG
+    id:        G054
+    name:      'Oltressenda Alta'
+    latitude:  45.916278
+    longitude: 9.945944
+  City_oltrona_di_san_mamette:
+    Province:  ProvinceCO
+    id:        G056
+    name:      'Oltrona di San Mamette'
+    latitude:  45.757056
+    longitude: 8.979074
+  City_olzai:
+    Province:  ProvinceNU
+    id:        G058
+    name:      Olzai
+    latitude:  40.184027
+    longitude: 9.147438
+  City_ome:
+    Province:  ProvinceBS
+    id:        G061
+    name:      Ome
+    latitude:  45.626638
+    longitude: 10.122908
+  City_omegna:
+    Province:  ProvinceVB
+    id:        G062
+    name:      Omegna
+    latitude:  45.876081
+    longitude: 8.408778
+  City_omignano:
+    Province:  ProvinceSA
+    id:        G063
+    name:      Omignano
+    latitude:  40.249015
+    longitude: 15.085567
+  City_onani:
+    Province:  ProvinceNU
+    id:        G064
+    name:      Onani
+    latitude:  40.486426
+    longitude: 9.443148
+  City_onano:
+    Province:  ProvinceVT
+    id:        G065
+    name:      Onano
+    latitude:  42.692282
+    longitude: 11.816618
+  City_oncino:
+    Province:  ProvinceCN
+    id:        G066
+    name:      Oncino
+    latitude:  44.676206
+    longitude: 7.190461
+  City_oneta:
+    Province:  ProvinceBG
+    id:        G068
+    name:      Oneta
+    latitude:  45.872518
+    longitude: 9.820481
+  City_onifai:
+    Province:  ProvinceNU
+    id:        G070
+    name:      Onifai
+    latitude:  40.408148
+    longitude: 9.652352
+  City_oniferi:
+    Province:  ProvinceNU
+    id:        G071
+    name:      Oniferi
+    latitude:  40.273148
+    longitude: 9.171426
+  City_ono_san_pietro:
+    Province:  ProvinceBS
+    id:        G074
+    name:      'Ono San Pietro'
+    latitude:  46.016856
+    longitude: 10.325928
+  City_onore:
+    Province:  ProvinceBG
+    id:        G075
+    name:      Onore
+    latitude:  45.890616
+    longitude: 10.009957
+  City_onzo:
+    Province:  ProvinceSV
+    id:        G076
+    name:      Onzo
+    latitude:  44.070552
+    longitude: 8.052332
+  City_opera:
+    Province:  ProvinceMI
+    id:        G078
+    name:      Opera
+    latitude:  45.375687
+    longitude: 9.210973
+  City_opi:
+    Province:  ProvinceAQ
+    id:        G079
+    name:      Opi
+    latitude:  41.780971
+    longitude: 13.829742
+  City_oppeano:
+    Province:  ProvinceVR
+    id:        G080
+    name:      Oppeano
+    latitude:  45.305648
+    longitude: 11.18063
+  City_oppido_lucano:
+    Province:  ProvincePZ
+    id:        G081
+    name:      'Oppido Lucano'
+    latitude:  40.762815
+    longitude: 15.9875
+  City_oppido_mamertina:
+    Province:  ProvinceRC
+    id:        G082
+    name:      'Oppido Mamertina'
+    latitude:  38.294545
+    longitude: 15.984869
+  City_ora:
+    Province:  ProvinceBZ
+    id:        G083
+    name:      Ora
+    latitude:  46.345993
+    longitude: 11.301996
+  City_orani:
+    Province:  ProvinceNU
+    id:        G084
+    name:      Orani
+    latitude:  40.248535
+    longitude: 9.176377
+  City_oratino:
+    Province:  ProvinceCB
+    id:        G086
+    name:      Oratino
+    latitude:  41.584937
+    longitude: 14.586788
+  City_orbassano:
+    Province:  ProvinceTO
+    id:        G087
+    name:      Orbassano
+    latitude:  45.007454
+    longitude: 7.537428
+  City_orbetello:
+    Province:  ProvinceGR
+    id:        G088
+    name:      Orbetello
+    latitude:  42.442268
+    longitude: 11.220662
+  City_orciano_di_pesaro:
+    Province:  ProvincePU
+    id:        G089
+    name:      'Orciano di Pesaro'
+    latitude:  43.687667
+    longitude: 12.964241
+  City_orciano_pisano:
+    Province:  ProvincePI
+    id:        G090
+    name:      'Orciano Pisano'
+    latitude:  43.495486
+    longitude: 10.513016
+  City_orero:
+    Province:  ProvinceGE
+    id:        G093
+    name:      Orero
+    latitude:  44.409444
+    longitude: 9.267783
+  City_orgiano:
+    Province:  ProvinceVI
+    id:        G095
+    name:      Orgiano
+    latitude:  45.348926
+    longitude: 11.464241
+  City_pieve_fissiraga:
+    Province:  ProvinceLO
+    id:        G096
+    name:      'Pieve Fissiraga'
+    latitude:  45.264209
+    longitude: 9.459543
+  City_orgosolo:
+    Province:  ProvinceNU
+    id:        G097
+    name:      Orgosolo
+    latitude:  40.204299
+    longitude: 9.352359
+  City_oria:
+    Province:  ProvinceBR
+    id:        G098
+    name:      Oria
+    latitude:  40.498403
+    longitude: 17.642259
+  City_oricola:
+    Province:  ProvinceAQ
+    id:        G102
+    name:      Oricola
+    latitude:  42.049969
+    longitude: 13.04057
+  City_origgio:
+    Province:  ProvinceVA
+    id:        G103
+    name:      Origgio
+    latitude:  45.596847
+    longitude: 9.017855
+  City_orino:
+    Province:  ProvinceVA
+    id:        G105
+    name:      Orino
+    latitude:  45.882518
+    longitude: 8.716722
+  City_orio_litta:
+    Province:  ProvinceLO
+    id:        G107
+    name:      'Orio Litta'
+    latitude:  45.160963
+    longitude: 9.55563
+  City_orio_al_serio:
+    Province:  ProvinceBG
+    id:        G108
+    name:      'Orio al Serio'
+    latitude:  45.674365
+    longitude: 9.689885
+  City_orio_canavese:
+    Province:  ProvinceTO
+    id:        G109
+    name:      'Orio Canavese'
+    latitude:  45.330333
+    longitude: 7.862815
+  City_oriolo:
+    Province:  ProvinceCS
+    id:        G110
+    name:      Oriolo
+    latitude:  40.054845
+    longitude: 16.447053
+  City_oriolo_romano:
+    Province:  ProvinceVT
+    id:        G111
+    name:      'Oriolo Romano'
+    latitude:  42.159241
+    longitude: 12.138907
+  City_oristano:
+    Province:  ProvinceOR
+    id:        G113
+    name:      Oristano
+    latitude:  39.905275
+    longitude: 8.596333
+  City_ormea:
+    Province:  ProvinceCN
+    id:        G114
+    name:      Ormea
+    latitude:  44.148549
+    longitude: 7.913575
+  City_ormelle:
+    Province:  ProvinceTV
+    id:        G115
+    name:      Ormelle
+    latitude:  45.780333
+    longitude: 12.423148
+  City_ornago:
+    Province:  ProvinceMI
+    id:        G116
+    name:      Ornago
+    latitude:  45.596591
+    longitude: 9.419566
+  City_ornavasso:
+    Province:  ProvinceVB
+    id:        G117
+    name:      Ornavasso
+    latitude:  45.968907
+    longitude: 8.416259
+  City_ornica:
+    Province:  ProvinceBG
+    id:        G118
+    name:      Ornica
+    latitude:  45.988342
+    longitude: 9.579108
+  City_orosei:
+    Province:  ProvinceNU
+    id:        G119
+    name:      Orosei
+    latitude:  40.380963
+    longitude: 9.693907
+  City_orotelli:
+    Province:  ProvinceNU
+    id:        G120
+    name:      Orotelli
+    latitude:  40.306209
+    longitude: 9.113477
+  City_orria:
+    Province:  ProvinceSA
+    id:        G121
+    name:      Orria
+    latitude:  40.300796
+    longitude: 15.172037
+  City_orroli:
+    Province:  ProvinceCA
+    id:        G122
+    name:      Orroli
+    latitude:  39.694704
+    longitude: 9.251426
+  City_orsago:
+    Province:  ProvinceTV
+    id:        G123
+    name:      Orsago
+    latitude:  45.930672
+    longitude: 12.423573
+  City_orsara_bormida:
+    Province:  ProvinceAL
+    id:        G124
+    name:      'Orsara Bormida'
+    latitude:  44.691278
+    longitude: 8.563926
+  City_orsara_di_puglia:
+    Province:  ProvinceFG
+    id:        G125
+    name:      'Orsara di Puglia'
+    latitude:  41.282667
+    longitude: 15.265315
+  City_orsenigo:
+    Province:  ProvinceCO
+    id:        G126
+    name:      Orsenigo
+    latitude:  45.778463
+    longitude: 9.182815
+  City_orsogna:
+    Province:  ProvinceCH
+    id:        G128
+    name:      Orsogna
+    latitude:  42.220018
+    longitude: 14.28
+  City_orsomarso:
+    Province:  ProvinceCS
+    id:        G129
+    name:      Orsomarso
+    latitude:  39.800313
+    longitude: 15.908062
+  City_orta_di_atella:
+    Province:  ProvinceCE
+    id:        G130
+    name:      'Orta di Atella'
+    latitude:  40.9675
+    longitude: 14.268907
+  City_orta_nova:
+    Province:  ProvinceFG
+    id:        G131
+    name:      'Orta Nova'
+    latitude:  41.326319
+    longitude: 15.707118
+  City_ortacesus:
+    Province:  ProvinceCA
+    id:        G133
+    name:      Ortacesus
+    latitude:  39.53882
+    longitude: 9.084635
+  City_orta_san_giulio:
+    Province:  ProvinceNO
+    id:        G134
+    name:      'Orta San Giulio'
+    latitude:  45.798926
+    longitude: 8.41987
+  City_orte:
+    Province:  ProvinceVT
+    id:        G135
+    name:      Orte
+    latitude:  42.460315
+    longitude: 12.386426
+  City_ortelle:
+    Province:  ProvinceLE
+    id:        G136
+    name:      Ortelle
+    latitude:  40.035333
+    longitude: 18.392204
+  City_ortezzano:
+    Province:  ProvinceAP
+    id:        G137
+    name:      Ortezzano
+    latitude:  43.031111
+    longitude: 13.607056
+  City_ortignano_raggiolo:
+    Province:  ProvinceAR
+    id:        G139
+    name:      'Ortignano Raggiolo'
+    latitude:  43.680944
+    longitude: 11.749852
+  City_ortisei:
+    Province:  ProvinceBZ
+    id:        G140
+    name:      Ortisei
+    latitude:  46.574584
+    longitude: 11.668317
+  City_ortona:
+    Province:  ProvinceCH
+    id:        G141
+    name:      Ortona
+    latitude:  42.356909
+    longitude: 14.40521
+  City_ortona_dei_marsi:
+    Province:  ProvinceAQ
+    id:        G142
+    name:      'Ortona dei Marsi'
+    latitude:  41.997819
+    longitude: 13.729173
+  City_ortonovo:
+    Province:  ProvinceSP
+    id:        G143
+    name:      Ortonovo
+    latitude:  44.085129
+    longitude: 10.042872
+  City_ortovero:
+    Province:  ProvinceSV
+    id:        G144
+    name:      Ortovero
+    latitude:  44.054556
+    longitude: 8.097833
+  City_ortucchio:
+    Province:  ProvinceAQ
+    id:        G145
+    name:      Ortucchio
+    latitude:  41.956111
+    longitude: 13.646722
+  City_ortueri:
+    Province:  ProvinceNU
+    id:        G146
+    name:      Ortueri
+    latitude:  40.036574
+    longitude: 8.98813
+  City_orune:
+    Province:  ProvinceNU
+    id:        G147
+    name:      Orune
+    latitude:  40.405714
+    longitude: 9.370924
+  City_orvieto:
+    Province:  ProvinceTR
+    id:        G148
+    name:      Orvieto
+    latitude:  42.71647
+    longitude: 12.111569
+  City_orzinuovi:
+    Province:  ProvinceBS
+    id:        G149
+    name:      Orzinuovi
+    latitude:  45.40193
+    longitude: 9.924302
+  City_orzivecchi:
+    Province:  ProvinceBS
+    id:        G150
+    name:      Orzivecchi
+    latitude:  45.421574
+    longitude: 9.964389
+  City_osasco:
+    Province:  ProvinceTO
+    id:        G151
+    name:      Osasco
+    latitude:  44.848454
+    longitude: 7.343822
+  City_osasio:
+    Province:  ProvinceTO
+    id:        G152
+    name:      Osasio
+    latitude:  44.872518
+    longitude: 7.609241
+  City_oschiri:
+    Province:  ProvinceOT
+    id:        G153
+    name:      Oschiri
+    latitude:  40.71914
+    longitude: 9.102117
+  City_osidda:
+    Province:  ProvinceNU
+    id:        G154
+    name:      Osidda
+    latitude:  40.524554
+    longitude: 9.219364
+  City_osiglia:
+    Province:  ProvinceSV
+    id:        G155
+    name:      Osiglia
+    latitude:  44.280623
+    longitude: 8.200842
+  City_osilo:
+    Province:  ProvinceSS
+    id:        G156
+    name:      Osilo
+    latitude:  40.742102
+    longitude: 8.672186
+  City_osimo:
+    Province:  ProvinceAN
+    id:        G157
+    name:      Osimo
+    latitude:  43.486092
+    longitude: 13.482407
+  City_osini:
+    Province:  ProvinceOG
+    id:        G158
+    name:      Osini
+    latitude:  39.823463
+    longitude: 9.496776
+  City_osio_sopra:
+    Province:  ProvinceBG
+    id:        G159
+    name:      'Osio Sopra'
+    latitude:  45.63
+    longitude: 9.585796
+  City_osio_sotto:
+    Province:  ProvinceBG
+    id:        G160
+    name:      'Osio Sotto'
+    latitude:  45.616052
+    longitude: 9.590287
+  City_osnago:
+    Province:  ProvinceLC
+    id:        G161
+    name:      Osnago
+    latitude:  45.684331
+    longitude: 9.395234
+  City_osoppo:
+    Province:  ProvinceUD
+    id:        G163
+    name:      Osoppo
+    latitude:  46.256111
+    longitude: 13.082815
+  City_ospedaletti:
+    Province:  ProvinceIM
+    id:        G164
+    name:      Ospedaletti
+    latitude:  43.802204
+    longitude: 7.715796
+  City_ospedaletto_d_alpinolo:
+    Province:  ProvinceAV
+    id:        G165
+    name:      'Ospedaletto D''Alpinolo'
+    latitude:  40.940481
+    longitude: 14.744556
+  City_ospedaletto_lodigiano:
+    Province:  ProvinceLO
+    id:        G166
+    name:      'Ospedaletto Lodigiano'
+    latitude:  45.16987
+    longitude: 9.57987
+  City_ospedaletto_euganeo:
+    Province:  ProvincePD
+    id:        G167
+    name:      'Ospedaletto Euganeo'
+    latitude:  45.223188
+    longitude: 11.611146
+  City_ospedaletto:
+    Province:  ProvinceTN
+    id:        G168
+    name:      Ospedaletto
+    latitude:  46.044537
+    longitude: 11.553778
+  City_ospitale_di_cadore:
+    Province:  ProvinceBL
+    id:        G169
+    name:      'Ospitale di Cadore'
+    latitude:  46.328311
+    longitude: 12.323238
+  City_ospitaletto:
+    Province:  ProvinceBS
+    id:        G170
+    name:      Ospitaletto
+    latitude:  45.555018
+    longitude: 10.080796
+  City_ossago_lodigiano:
+    Province:  ProvinceLO
+    id:        G171
+    name:      'Ossago Lodigiano'
+    latitude:  45.246741
+    longitude: 9.53813
+  City_ossana:
+    Province:  ProvinceTN
+    id:        G173
+    name:      Ossana
+    latitude:  46.307519
+    longitude: 10.738778
+  City_ossi:
+    Province:  ProvinceSS
+    id:        G178
+    name:      Ossi
+    latitude:  40.675941
+    longitude: 8.597497
+  City_ossimo:
+    Province:  ProvinceBS
+    id:        G179
+    name:      Ossimo
+    latitude:  45.945838
+    longitude: 10.229365
+  City_ossona:
+    Province:  ProvinceMI
+    id:        G181
+    name:      Ossona
+    latitude:  45.506694
+    longitude: 8.901442
+  City_ossuccio:
+    Province:  ProvinceCO
+    id:        G182
+    name:      Ossuccio
+    latitude:  45.967506
+    longitude: 9.180941
+  City_ostana:
+    Province:  ProvinceCN
+    id:        G183
+    name:      Ostana
+    latitude:  44.69311
+    longitude: 7.186758
+  City_ostellato:
+    Province:  ProvinceFE
+    id:        G184
+    name:      Ostellato
+    latitude:  44.746741
+    longitude: 11.944537
+  City_ostiano:
+    Province:  ProvinceCR
+    id:        G185
+    name:      Ostiano
+    latitude:  45.221722
+    longitude: 10.25313
+  City_ostiglia:
+    Province:  ProvinceMN
+    id:        G186
+    name:      Ostiglia
+    latitude:  45.070183
+    longitude: 11.13789
+  City_ostuni:
+    Province:  ProvinceBR
+    id:        G187
+    name:      Ostuni
+    latitude:  40.728778
+    longitude: 17.57737
+  City_otranto:
+    Province:  ProvinceLE
+    id:        G188
+    name:      Otranto
+    latitude:  40.148029
+    longitude: 18.485754
+  City_otricoli:
+    Province:  ProvinceTR
+    id:        G189
+    name:      Otricoli
+    latitude:  42.4225
+    longitude: 12.478296
+  City_ottaviano:
+    Province:  ProvinceNA
+    id:        G190
+    name:      Ottaviano
+    latitude:  40.849991
+    longitude: 14.482945
+  City_ottana:
+    Province:  ProvinceNU
+    id:        G191
+    name:      Ottana
+    latitude:  40.23487
+    longitude: 9.043907
+  City_ottati:
+    Province:  ProvinceSA
+    id:        G192
+    name:      Ottati
+    latitude:  40.462596
+    longitude: 15.316967
+  City_ottiglio:
+    Province:  ProvinceAL
+    id:        G193
+    name:      Ottiglio
+    latitude:  45.052461
+    longitude: 8.338398
+  City_ottobiano:
+    Province:  ProvincePV
+    id:        G194
+    name:      Ottobiano
+    latitude:  45.154852
+    longitude: 8.830944
+  City_ottone:
+    Province:  ProvincePC
+    id:        G195
+    name:      Ottone
+    latitude:  44.624222
+    longitude: 9.333759
+  City_oulx:
+    Province:  ProvinceTO
+    id:        G196
+    name:      Oulx
+    latitude:  45.033325
+    longitude: 6.833635
+  City_ovada:
+    Province:  ProvinceAL
+    id:        G197
+    name:      Ovada
+    latitude:  44.637484
+    longitude: 8.646483
+  City_ovaro:
+    Province:  ProvinceUD
+    id:        G198
+    name:      Ovaro
+    latitude:  46.481722
+    longitude: 12.8675
+  City_oviglio:
+    Province:  ProvinceAL
+    id:        G199
+    name:      Oviglio
+    latitude:  44.86237
+    longitude: 8.488926
+  City_ovindoli:
+    Province:  ProvinceAQ
+    id:        G200
+    name:      Ovindoli
+    latitude:  42.138148
+    longitude: 13.517037
+  City_ovodda:
+    Province:  ProvinceNU
+    id:        G201
+    name:      Ovodda
+    latitude:  40.096722
+    longitude: 9.163463
+  City_ozegna:
+    Province:  ProvinceTO
+    id:        G202
+    name:      Ozegna
+    latitude:  45.350018
+    longitude: 7.746426
+  City_ozieri:
+    Province:  ProvinceSS
+    id:        G203
+    name:      Ozieri
+    latitude:  40.587037
+    longitude: 9.00237
+  City_ozzano_monferrato:
+    Province:  ProvinceAL
+    id:        G204
+    name:      'Ozzano Monferrato'
+    latitude:  45.106854
+    longitude: 8.371605
+  City_ozzano_dell_emilia:
+    Province:  ProvinceBO
+    id:        G205
+    name:      'Ozzano dell''Emilia'
+    latitude:  44.443585
+    longitude: 11.470525
+  City_ozzero:
+    Province:  ProvinceMI
+    id:        G206
+    name:      Ozzero
+    latitude:  45.3656
+    longitude: 8.92388

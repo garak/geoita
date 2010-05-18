@@ -1,0 +1,517 @@
+City:
+  City_idro:
+    Province:  ProvinceBS
+    id:        E280
+    name:      Idro
+    latitude:  45.736055
+    longitude: 10.465146
+  City_iglesias:
+    Province:  ProvinceCI
+    id:        E281
+    name:      Iglesias
+    latitude:  39.312768
+    longitude: 8.534325
+  City_igliano:
+    Province:  ProvinceCN
+    id:        E282
+    name:      Igliano
+    latitude:  44.443781
+    longitude: 8.013723
+  City_ilbono:
+    Province:  ProvinceOG
+    id:        E283
+    name:      Ilbono
+    latitude:  39.893776
+    longitude: 9.550669
+  City_illasi:
+    Province:  ProvinceVR
+    id:        E284
+    name:      Illasi
+    latitude:  45.46813
+    longitude: 11.183444
+  City_illorai:
+    Province:  ProvinceSS
+    id:        E285
+    name:      Illorai
+    latitude:  40.355018
+    longitude: 9.002037
+  City_imbersago:
+    Province:  ProvinceLC
+    id:        E287
+    name:      Imbersago
+    latitude:  45.706889
+    longitude: 9.445648
+  City_imer:
+    Province:  ProvinceTN
+    id:        E288
+    name:      Imer
+    latitude:  46.150374
+    longitude: 11.794326
+  City_imola:
+    Province:  ProvinceBO
+    id:        E289
+    name:      Imola
+    latitude:  44.355913
+    longitude: 11.71612
+  City_imperia:
+    Province:  ProvinceIM
+    id:        E290
+    name:      Imperia
+    latitude:  43.887892
+    longitude: 8.031564
+  City_impruneta:
+    Province:  ProvinceFI
+    id:        E291
+    name:      Impruneta
+    latitude:  43.685975
+    longitude: 11.254211
+  City_inarzo:
+    Province:  ProvinceVA
+    id:        E292
+    name:      Inarzo
+    latitude:  45.786722
+    longitude: 8.736722
+  City_incisa_scapaccino:
+    Province:  ProvinceAT
+    id:        E295
+    name:      'Incisa Scapaccino'
+    latitude:  44.808772
+    longitude: 8.375134
+  City_incisa_in_val_d_arno:
+    Province:  ProvinceFI
+    id:        E296
+    name:      'Incisa in Val D''Arno'
+    latitude:  43.656136
+    longitude: 11.449096
+  City_incudine:
+    Province:  ProvinceBS
+    id:        E297
+    name:      Incudine
+    latitude:  46.221259
+    longitude: 10.359852
+  City_induno_olona:
+    Province:  ProvinceVA
+    id:        E299
+    name:      'Induno Olona'
+    latitude:  45.852312
+    longitude: 8.839855
+  City_ingria:
+    Province:  ProvinceTO
+    id:        E301
+    name:      Ingria
+    latitude:  45.46628
+    longitude: 7.571243
+  City_intragna:
+    Province:  ProvinceVB
+    id:        E304
+    name:      Intragna
+    latitude:  45.992927
+    longitude: 8.57358
+  City_introbio:
+    Province:  ProvinceLC
+    id:        E305
+    name:      Introbio
+    latitude:  45.973751
+    longitude: 9.450344
+  City_introd:
+    Province:  ProvinceAO
+    id:        E306
+    name:      Introd
+    latitude:  45.69292
+    longitude: 7.182156
+  City_introdacqua:
+    Province:  ProvinceAQ
+    id:        E307
+    name:      Introdacqua
+    latitude:  42.008444
+    longitude: 13.899222
+  City_introzzo:
+    Province:  ProvinceLC
+    id:        E308
+    name:      Introzzo
+    latitude:  46.082092
+    longitude: 9.341284
+  City_inverigo:
+    Province:  ProvinceCO
+    id:        E309
+    name:      Inverigo
+    latitude:  45.73813
+    longitude: 9.218926
+  City_inverno_e_monteleone:
+    Province:  ProvincePV
+    id:        E310
+    name:      'Inverno e Monteleone'
+    latitude:  45.198795
+    longitude: 9.385333
+  City_inverso_pinasca:
+    Province:  ProvinceTO
+    id:        E311
+    name:      'Inverso Pinasca'
+    latitude:  44.945047
+    longitude: 7.218059
+  City_inveruno:
+    Province:  ProvinceMI
+    id:        E313
+    name:      Inveruno
+    latitude:  45.515685
+    longitude: 8.853754
+  City_invorio:
+    Province:  ProvinceNO
+    id:        E314
+    name:      Invorio
+    latitude:  45.757868
+    longitude: 8.489471
+  City_inzago:
+    Province:  ProvinceMI
+    id:        E317
+    name:      Inzago
+    latitude:  45.537596
+    longitude: 9.479023
+  City_jolanda_di_savoia:
+    Province:  ProvinceFE
+    id:        E320
+    name:      'Jolanda di Savoia'
+    latitude:  44.885018
+    longitude: 11.977815
+  City_jonadi:
+    Province:  ProvinceVV
+    id:        E321
+    name:      Jonadi
+    latitude:  38.630046
+    longitude: 16.062059
+  City_irgoli:
+    Province:  ProvinceNU
+    id:        E323
+    name:      Irgoli
+    latitude:  40.411574
+    longitude: 9.631574
+  City_irma:
+    Province:  ProvinceBS
+    id:        E325
+    name:      Irma
+    latitude:  45.771186
+    longitude: 10.284988
+  City_irsina:
+    Province:  ProvinceMT
+    id:        E326
+    name:      Irsina
+    latitude:  40.748567
+    longitude: 16.239464
+  City_isasca:
+    Province:  ProvinceCN
+    id:        E327
+    name:      Isasca
+    latitude:  44.587438
+    longitude: 7.38086
+  City_isca_sullo_ionio:
+    Province:  ProvinceCZ
+    id:        E328
+    name:      'Isca sullo Ionio'
+    latitude:  38.60087
+    longitude: 16.516071
+  City_ischia:
+    Province:  ProvinceNA
+    id:        E329
+    name:      Ischia
+    latitude:  40.735333
+    longitude: 13.948148
+  City_ischia_di_castro:
+    Province:  ProvinceVT
+    id:        E330
+    name:      'Ischia di Castro'
+    latitude:  42.545
+    longitude: 11.75737
+  City_ischitella:
+    Province:  ProvinceFG
+    id:        E332
+    name:      Ischitella
+    latitude:  41.904932
+    longitude: 15.900233
+  City_iseo:
+    Province:  ProvinceBS
+    id:        E333
+    name:      Iseo
+    latitude:  45.659518
+    longitude: 10.047464
+  City_isera:
+    Province:  ProvinceTN
+    id:        E334
+    name:      Isera
+    latitude:  45.888611
+    longitude: 11.010333
+  City_isernia:
+    Province:  ProvinceIS
+    id:        E335
+    name:      Isernia
+    latitude:  41.594333
+    longitude: 14.230828
+  City_isili:
+    Province:  ProvinceCA
+    id:        E336
+    name:      Isili
+    latitude:  39.740104
+    longitude: 9.107762
+  City_isnello:
+    Province:  ProvincePA
+    id:        E337
+    name:      Isnello
+    latitude:  37.944686
+    longitude: 14.006614
+  City_isola_d_asti:
+    Province:  ProvinceAT
+    id:        E338
+    name:      'Isola D''Asti'
+    latitude:  44.829108
+    longitude: 8.177766
+  City_isola_di_capo_rizzuto:
+    Province:  ProvinceKR
+    id:        E339
+    name:      'Isola di Capo Rizzuto'
+    latitude:  38.961111
+    longitude: 17.094241
+  City_isola_del_liri:
+    Province:  ProvinceFR
+    id:        E340
+    name:      'Isola del Liri'
+    latitude:  41.678552
+    longitude: 13.574071
+  City_isola_del_cantone:
+    Province:  ProvinceGE
+    id:        E341
+    name:      'Isola del Cantone'
+    latitude:  44.646567
+    longitude: 8.956822
+  City_madesimo:
+    Province:  ProvinceSO
+    id:        E342
+    name:      Madesimo
+    latitude:  46.436953
+    longitude: 9.359472
+  City_isola_del_gran_sasso_d_italia:
+    Province:  ProvinceTE
+    id:        E343
+    name:      'Isola del Gran Sasso D''Italia'
+    latitude:  42.502517
+    longitude: 13.660914
+  City_isolabella:
+    Province:  ProvinceTO
+    id:        E345
+    name:      Isolabella
+    latitude:  44.907518
+    longitude: 7.910167
+  City_isolabona:
+    Province:  ProvinceIM
+    id:        E346
+    name:      Isolabona
+    latitude:  43.880648
+    longitude: 7.640371
+  City_isola_del_giglio:
+    Province:  ProvinceGR
+    id:        E348
+    name:      'Isola del Giglio'
+    latitude:  42.365614
+    longitude: 10.901525
+  City_isola_della_scala:
+    Province:  ProvinceVR
+    id:        E349
+    name:      'Isola della Scala'
+    latitude:  45.273555
+    longitude: 11.008834
+  City_isola_delle_femmine:
+    Province:  ProvincePA
+    id:        E350
+    name:      'Isola delle Femmine'
+    latitude:  38.194537
+    longitude: 13.24987
+  City_isola_del_piano:
+    Province:  ProvincePU
+    id:        E351
+    name:      'Isola del Piano'
+    latitude:  43.737923
+    longitude: 12.784307
+  City_isola_di_fondra:
+    Province:  ProvinceBG
+    id:        E353
+    name:      'Isola di Fondra'
+    latitude:  45.979537
+    longitude: 9.748444
+  City_isola_vicentina:
+    Province:  ProvinceVI
+    id:        E354
+    name:      'Isola Vicentina'
+    latitude:  45.629234
+    longitude: 11.44372
+  City_isola_dovarese:
+    Province:  ProvinceCR
+    id:        E356
+    name:      'Isola Dovarese'
+    latitude:  45.175333
+    longitude: 10.312204
+  City_isola_rizza:
+    Province:  ProvinceVR
+    id:        E358
+    name:      'Isola Rizza'
+    latitude:  45.293296
+    longitude: 11.2
+  City_isola_sant_antonio:
+    Province:  ProvinceAL
+    id:        E360
+    name:      'Isola Sant''Antonio'
+    latitude:  45.030705
+    longitude: 8.850178
+  City_isole_tremiti:
+    Province:  ProvinceFG
+    id:        E363
+    name:      'Isole Tremiti'
+    latitude:  42.114804
+    longitude: 15.491094
+  City_isorella:
+    Province:  ProvinceBS
+    id:        E364
+    name:      Isorella
+    latitude:  45.309222
+    longitude: 10.323463
+  City_ispani:
+    Province:  ProvinceSA
+    id:        E365
+    name:      Ispani
+    latitude:  40.088031
+    longitude: 15.558122
+  City_ispica:
+    Province:  ProvinceRG
+    id:        E366
+    name:      Ispica
+    latitude:  36.785648
+    longitude: 14.907204
+  City_ispra:
+    Province:  ProvinceVA
+    id:        E367
+    name:      Ispra
+    latitude:  45.815061
+    longitude: 8.609953
+  City_issiglio:
+    Province:  ProvinceTO
+    id:        E368
+    name:      Issiglio
+    latitude:  45.446331
+    longitude: 7.755256
+  City_issime:
+    Province:  ProvinceAO
+    id:        E369
+    name:      Issime
+    latitude:  45.68657
+    longitude: 7.853888
+  City_isso:
+    Province:  ProvinceBG
+    id:        E370
+    name:      Isso
+    latitude:  45.476859
+    longitude: 9.757708
+  City_issogne:
+    Province:  ProvinceAO
+    id:        E371
+    name:      Issogne
+    latitude:  45.654741
+    longitude: 7.686416
+  City_vasto:
+    Province:  ProvinceCH
+    id:        E372
+    name:      Vasto
+    latitude:  42.112706
+    longitude: 14.709621
+  City_istrana:
+    Province:  ProvinceTV
+    id:        E373
+    name:      Istrana
+    latitude:  45.677833
+    longitude: 12.104241
+  City_itala:
+    Province:  ProvinceME
+    id:        E374
+    name:      Itala
+    latitude:  38.051055
+    longitude: 15.436934
+  City_itri:
+    Province:  ProvinceLT
+    id:        E375
+    name:      Itri
+    latitude:  41.290333
+    longitude: 13.527352
+  City_ittireddu:
+    Province:  ProvinceSS
+    id:        E376
+    name:      Ittireddu
+    latitude:  40.544994
+    longitude: 8.903461
+  City_ittiri:
+    Province:  ProvinceSS
+    id:        E377
+    name:      Ittiri
+    latitude:  40.593907
+    longitude: 8.569556
+  City_ivano_fracena:
+    Province:  ProvinceTN
+    id:        E378
+    name:      Ivano-Fracena
+    latitude:  46.057751
+    longitude: 11.531658
+  City_ivrea:
+    Province:  ProvinceTO
+    id:        E379
+    name:      Ivrea
+    latitude:  45.466605
+    longitude: 7.875945
+  City_izano:
+    Province:  ProvinceCR
+    id:        E380
+    name:      Izano
+    latitude:  45.357056
+    longitude: 9.751259
+  City_jelsi:
+    Province:  ProvinceCB
+    id:        E381
+    name:      Jelsi
+    latitude:  41.518907
+    longitude: 14.799704
+  City_jenne:
+    Province:  ProvinceRM
+    id:        E382
+    name:      Jenne
+    latitude:  41.889852
+    longitude: 13.170648
+  City_jerago_con_orago:
+    Province:  ProvinceVA
+    id:        E386
+    name:      'Jerago con Orago'
+    latitude:  45.703173
+    longitude: 8.800982
+  City_jerzu:
+    Province:  ProvinceOG
+    id:        E387
+    name:      Jerzu
+    latitude:  39.79237
+    longitude: 9.518214
+  City_jesi:
+    Province:  ProvinceAN
+    id:        E388
+    name:      Jesi
+    latitude:  43.522435
+    longitude: 13.243386
+  City_joppolo:
+    Province:  ProvinceVV
+    id:        E389
+    name:      Joppolo
+    latitude:  38.586089
+    longitude: 15.895612
+  City_joppolo_giancaxio:
+    Province:  ProvinceAG
+    id:        E390
+    name:      'Joppolo Giancaxio'
+    latitude:  37.387581
+    longitude: 13.555655
+  City_jovencan:
+    Province:  ProvinceAO
+    id:        E391
+    name:      Jovencan
+    latitude:  45.715963
+    longitude: 7.273759

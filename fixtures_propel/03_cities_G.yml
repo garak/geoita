@@ -1,0 +1,2167 @@
+City:
+  gabbioneta_binanuova:
+    province_id: CR
+    id:          D834
+    name:        'Gabbioneta Binanuova'
+    latitude:    45.21737
+    longitude:   10.221426
+  gabiano:
+    province_id: AL
+    id:          D835
+    name:        Gabiano
+    latitude:    45.157833
+    longitude:   8.196426
+  gabicce_mare:
+    province_id: PU
+    id:          D836
+    name:        'Gabicce Mare'
+    latitude:    43.964881
+    longitude:   12.7564
+  gaby:
+    province_id: AO
+    id:          D839
+    name:        Gaby
+    latitude:    45.71313
+    longitude:   7.883907
+  gadesco_pieve_delmona:
+    province_id: CR
+    id:          D841
+    name:        'Gadesco-Pieve Delmona'
+    latitude:    45.157488
+    longitude:   10.116081
+  gadoni:
+    province_id: NU
+    id:          D842
+    name:        Gadoni
+    latitude:    39.913125
+    longitude:   9.184365
+  gaeta:
+    province_id: LT
+    id:          D843
+    name:        Gaeta
+    latitude:    41.214072
+    longitude:   13.571
+  gaggi:
+    province_id: ME
+    id:          D844
+    name:        Gaggi
+    latitude:    37.859944
+    longitude:   15.221627
+  gaggiano:
+    province_id: MI
+    id:          D845
+    name:        Gaggiano
+    latitude:    45.406261
+    longitude:   9.033503
+  gaggio_montano:
+    province_id: BO
+    id:          D847
+    name:        'Gaggio Montano'
+    latitude:    44.197981
+    longitude:   10.933907
+  gaglianico:
+    province_id: BI
+    id:          D848
+    name:        Gaglianico
+    latitude:    45.5387
+    longitude:   8.07316
+  gagliano_castelferrato:
+    province_id: EN
+    id:          D849
+    name:        'Gagliano Castelferrato'
+    latitude:    37.713148
+    longitude:   14.537667
+  gagliano_aterno:
+    province_id: AQ
+    id:          D850
+    name:        'Gagliano Aterno'
+    latitude:    42.1275
+    longitude:   13.700944
+  gagliano_del_capo:
+    province_id: LE
+    id:          D851
+    name:        'Gagliano del Capo'
+    latitude:    39.845333
+    longitude:   18.370315
+  gagliato:
+    province_id: CZ
+    id:          D852
+    name:        Gagliato
+    latitude:    38.676943
+    longitude:   16.461074
+  gagliole:
+    province_id: MC
+    id:          D853
+    name:        Gagliole
+    latitude:    43.238505
+    longitude:   13.067657
+  gaiarine:
+    province_id: TV
+    id:          D854
+    name:        Gaiarine
+    latitude:    45.879537
+    longitude:   12.480963
+  gaiba:
+    province_id: RO
+    id:          D855
+    name:        Gaiba
+    latitude:    44.947204
+    longitude:   11.481259
+  gaiola:
+    province_id: CN
+    id:          D856
+    name:        Gaiola
+    latitude:    44.336259
+    longitude:   7.408148
+  gaiole_in_chianti:
+    province_id: SI
+    id:          D858
+    name:        'Gaiole in Chianti'
+    latitude:    43.469303
+    longitude:   11.433304
+  gairo:
+    province_id: OG
+    id:          D859
+    name:        Gairo
+    latitude:    39.847995
+    longitude:   9.507155
+  gais:
+    province_id: BZ
+    id:          D860
+    name:        Gais
+    latitude:    46.831521
+    longitude:   11.945701
+  galati_mamertino:
+    province_id: ME
+    id:          D861
+    name:        'Galati Mamertino'
+    latitude:    38.033148
+    longitude:   14.771722
+  galatina:
+    province_id: LE
+    id:          D862
+    name:        Galatina
+    latitude:    40.175
+    longitude:   18.169074
+  galatone:
+    province_id: LE
+    id:          D863
+    name:        Galatone
+    latitude:    40.143907
+    longitude:   18.071259
+  galatro:
+    province_id: RC
+    id:          D864
+    name:        Galatro
+    latitude:    38.461172
+    longitude:   16.111279
+  galbiate:
+    province_id: LC
+    id:          D865
+    name:        Galbiate
+    latitude:    45.817455
+    longitude:   9.375352
+  galeata:
+    province_id: FC
+    id:          D867
+    name:        Galeata
+    latitude:    43.998907
+    longitude:   11.914222
+  galgagnano:
+    province_id: LO
+    id:          D868
+    name:        Galgagnano
+    latitude:    45.358907
+    longitude:   9.446407
+  gallarate:
+    province_id: VA
+    id:          D869
+    name:        Gallarate
+    latitude:    45.660202
+    longitude:   8.793484
+  gallese:
+    province_id: VT
+    id:          D870
+    name:        Gallese
+    latitude:    42.372649
+    longitude:   12.403207
+  galliate_lombardo:
+    province_id: VA
+    id:          D871
+    name:        'Galliate Lombardo'
+    latitude:    45.785963
+    longitude:   8.771574
+  galliate:
+    province_id: NO
+    id:          D872
+    name:        Galliate
+    latitude:    45.478062
+    longitude:   8.696037
+  galliavola:
+    province_id: PV
+    id:          D873
+    name:        Galliavola
+    latitude:    45.098039
+    longitude:   8.818742
+  gallicano:
+    province_id: LU
+    id:          D874
+    name:        Gallicano
+    latitude:    44.060834
+    longitude:   10.440026
+  gallicano_nel_lazio:
+    province_id: RM
+    id:          D875
+    name:        'Gallicano Nel Lazio'
+    latitude:    41.872432
+    longitude:   12.818071
+  gallicchio:
+    province_id: PZ
+    id:          D876
+    name:        Gallicchio
+    latitude:    40.289289
+    longitude:   16.138959
+  galliera:
+    province_id: BO
+    id:          D878
+    name:        Galliera
+    latitude:    44.750641
+    longitude:   11.391419
+  galliera_veneta:
+    province_id: PD
+    id:          D879
+    name:        'Galliera Veneta'
+    latitude:    45.664002
+    longitude:   11.830471
+  gallinaro:
+    province_id: FR
+    id:          D881
+    name:        Gallinaro
+    latitude:    41.654529
+    longitude:   13.797881
+  gallio:
+    province_id: VI
+    id:          D882
+    name:        Gallio
+    latitude:    45.891426
+    longitude:   11.542957
+  gallipoli:
+    province_id: LE
+    id:          D883
+    name:        Gallipoli
+    latitude:    40.056248
+    longitude:   17.978841
+  gallo_matese:
+    province_id: CE
+    id:          D884
+    name:        'Gallo Matese'
+    latitude:    41.465648
+    longitude:   14.225944
+  gallodoro:
+    province_id: ME
+    id:          D885
+    name:        Gallodoro
+    latitude:    37.901842
+    longitude:   15.293108
+  galluccio:
+    province_id: CE
+    id:          D886
+    name:        Galluccio
+    latitude:    41.35283
+    longitude:   13.954819
+  galtelli:
+    province_id: NU
+    id:          D888
+    name:        Galtelli
+    latitude:    40.386426
+    longitude:   9.61563
+  galzignano_terme:
+    province_id: PD
+    id:          D889
+    name:        'Galzignano Terme'
+    latitude:    45.307485
+    longitude:   11.731414
+  gamalero:
+    province_id: AL
+    id:          D890
+    name:        Gamalero
+    latitude:    44.809859
+    longitude:   8.541817
+  gambara:
+    province_id: BS
+    id:          D891
+    name:        Gambara
+    latitude:    45.256259
+    longitude:   10.294537
+  gambarana:
+    province_id: PV
+    id:          D892
+    name:        Gambarana
+    latitude:    45.029389
+    longitude:   8.764556
+  gambasca:
+    province_id: CN
+    id:          D894
+    name:        Gambasca
+    latitude:    44.62987
+    longitude:   7.348444
+  gambassi_terme:
+    province_id: FI
+    id:          D895
+    name:        'Gambassi Terme'
+    latitude:    43.540104
+    longitude:   10.954871
+  gambatesa:
+    province_id: CB
+    id:          D896
+    name:        Gambatesa
+    latitude:    41.510018
+    longitude:   14.914555
+  gambellara:
+    province_id: VI
+    id:          D897
+    name:        Gambellara
+    latitude:    45.460796
+    longitude:   11.341278
+  gamberale:
+    province_id: CH
+    id:          D898
+    name:        Gamberale
+    latitude:    41.904808
+    longitude:   14.209344
+  gambettola:
+    province_id: FC
+    id:          D899
+    name:        Gambettola
+    latitude:    44.117815
+    longitude:   12.339556
+  gambolo:
+    province_id: PV
+    id:          D901
+    name:        Gambolò
+    latitude:    45.264912
+    longitude:   8.858692
+  gambugliano:
+    province_id: VI
+    id:          D902
+    name:        Gambugliano
+    latitude:    45.588907
+    longitude:   11.439704
+  gandellino:
+    province_id: BG
+    id:          D903
+    name:        Gandellino
+    latitude:    45.989867
+    longitude:   9.946402
+  gandino:
+    province_id: BG
+    id:          D905
+    name:        Gandino
+    latitude:    45.816988
+    longitude:   9.895972
+  gandosso:
+    province_id: BG
+    id:          D906
+    name:        Gandosso
+    latitude:    45.662961
+    longitude:   9.887046
+  gangi:
+    province_id: PA
+    id:          D907
+    name:        Gangi
+    latitude:    37.797169
+    longitude:   14.205691
+  garaguso:
+    province_id: MT
+    id:          D909
+    name:        Garaguso
+    latitude:    40.549556
+    longitude:   16.228148
+  garbagna:
+    province_id: AL
+    id:          D910
+    name:        Garbagna
+    latitude:    44.781407
+    longitude:   8.998907
+  garbagna_novarese:
+    province_id: NO
+    id:          D911
+    name:        'Garbagna Novarese'
+    latitude:    45.385086
+    longitude:   8.66077
+  garbagnate_milanese:
+    province_id: MI
+    id:          D912
+    name:        'Garbagnate Milanese'
+    latitude:    45.575807
+    longitude:   9.078088
+  garbagnate_monastero:
+    province_id: LC
+    id:          D913
+    name:        'Garbagnate Monastero'
+    latitude:    45.774389
+    longitude:   9.3025
+  garda:
+    province_id: VR
+    id:          D915
+    name:        Garda
+    latitude:    45.574648
+    longitude:   10.707708
+  gardone_riviera:
+    province_id: BS
+    id:          D917
+    name:        'Gardone Riviera'
+    latitude:    45.622333
+    longitude:   10.562475
+  gardone_val_trompia:
+    province_id: BS
+    id:          D918
+    name:        'Gardone Val Trompia'
+    latitude:    45.688295
+    longitude:   10.185779
+  garessio:
+    province_id: CN
+    id:          D920
+    name:        Garessio
+    latitude:    44.206169
+    longitude:   8.015295
+  gargallo:
+    province_id: NO
+    id:          D921
+    name:        Gargallo
+    latitude:    45.72987
+    longitude:   8.426407
+  gargazzone:
+    province_id: BZ
+    id:          D923
+    name:        Gargazzone
+    latitude:    46.585796
+    longitude:   11.204704
+  gargnano:
+    province_id: BS
+    id:          D924
+    name:        Gargnano
+    latitude:    45.688725
+    longitude:   10.66243
+  garlasco:
+    province_id: PV
+    id:          D925
+    name:        Garlasco
+    latitude:    45.198463
+    longitude:   8.924852
+  garlate:
+    province_id: LC
+    id:          D926
+    name:        Garlate
+    latitude:    45.813148
+    longitude:   9.400796
+  garlenda:
+    province_id: SV
+    id:          D927
+    name:        Garlenda
+    latitude:    44.033626
+    longitude:   8.094362
+  garniga:
+    province_id: TN
+    id:          D928
+    name:        Garniga
+    latitude:    45.999722
+    longitude:   11.086671
+  garzeno:
+    province_id: CO
+    id:          D930
+    name:        Garzeno
+    latitude:    46.13468
+    longitude:   9.244214
+  garzigliana:
+    province_id: TO
+    id:          D931
+    name:        Garzigliana
+    latitude:    44.837135
+    longitude:   7.374135
+  gasperina:
+    province_id: CZ
+    id:          D932
+    name:        Gasperina
+    latitude:    38.740479
+    longitude:   16.507029
+  gassino_torinese:
+    province_id: TO
+    id:          D933
+    name:        'Gassino Torinese'
+    latitude:    45.129775
+    longitude:   7.824298
+  gattatico:
+    province_id: RE
+    id:          D934
+    name:        Gattatico
+    latitude:    44.764406
+    longitude:   10.527839
+  gatteo:
+    province_id: FC
+    id:          D935
+    name:        Gatteo
+    latitude:    44.111305
+    longitude:   12.386107
+  gattico:
+    province_id: NO
+    id:          D937
+    name:        Gattico
+    latitude:    45.70813
+    longitude:   8.521278
+  gattinara:
+    province_id: VC
+    id:          D938
+    name:        Gattinara
+    latitude:    45.618926
+    longitude:   8.368611
+  gavardo:
+    province_id: BS
+    id:          D940
+    name:        Gavardo
+    latitude:    45.585635
+    longitude:   10.441316
+  gavazzana:
+    province_id: AL
+    id:          D941
+    name:        Gavazzana
+    latitude:    44.776726
+    longitude:   8.885697
+  gavello:
+    province_id: RO
+    id:          D942
+    name:        Gavello
+    latitude:    45.022667
+    longitude:   11.916278
+  gaverina_terme:
+    province_id: BG
+    id:          D943
+    name:        'Gaverina Terme'
+    latitude:    45.756722
+    longitude:   9.887833
+  gavi:
+    province_id: AL
+    id:          D944
+    name:        Gavi
+    latitude:    44.688663
+    longitude:   8.80288
+  gavignano:
+    province_id: RM
+    id:          D945
+    name:        Gavignano
+    latitude:    41.699788
+    longitude:   13.051104
+  gavirate:
+    province_id: VA
+    id:          D946
+    name:        Gavirate
+    latitude:    45.844691
+    longitude:   8.715116
+  gavoi:
+    province_id: NU
+    id:          D947
+    name:        Gavoi
+    latitude:    40.162815
+    longitude:   9.196278
+  gavorrano:
+    province_id: GR
+    id:          D948
+    name:        Gavorrano
+    latitude:    42.925333
+    longitude:   10.910333
+  gazoldo_degli_ippoliti:
+    province_id: MN
+    id:          D949
+    name:        'Gazoldo degli Ippoliti'
+    latitude:    45.201259
+    longitude:   10.580481
+  gazzada_schianno:
+    province_id: VA
+    id:          D951
+    name:        'Gazzada Schianno'
+    latitude:    45.779686
+    longitude:   8.822954
+  gazzaniga:
+    province_id: BG
+    id:          D952
+    name:        Gazzaniga
+    latitude:    45.794389
+    longitude:   9.830963
+  gazzo:
+    province_id: PD
+    id:          D956
+    name:        Gazzo
+    latitude:    45.581574
+    longitude:   11.705333
+  gazzo_veronese:
+    province_id: VR
+    id:          D957
+    name:        'Gazzo Veronese'
+    latitude:    45.141342
+    longitude:   11.077533
+  gazzola:
+    province_id: PC
+    id:          D958
+    name:        Gazzola
+    latitude:    44.96046
+    longitude:   9.548767
+  gazzuolo:
+    province_id: MN
+    id:          D959
+    name:        Gazzuolo
+    latitude:    45.065167
+    longitude:   10.579704
+  gela:
+    province_id: CL
+    id:          D960
+    name:        Gela
+    latitude:    37.066229
+    longitude:   14.250248
+  gemmano:
+    province_id: RN
+    id:          D961
+    name:        Gemmano
+    latitude:    43.904321
+    longitude:   12.580652
+  gemona_del_friuli:
+    province_id: UD
+    id:          D962
+    name:        'Gemona del Friuli'
+    latitude:    46.278993
+    longitude:   13.136768
+  gemonio:
+    province_id: VA
+    id:          D963
+    name:        Gemonio
+    latitude:    45.877981
+    longitude:   8.67813
+  genazzano:
+    province_id: RM
+    id:          D964
+    name:        Genazzano
+    latitude:    41.826259
+    longitude:   12.971722
+  genga:
+    province_id: AN
+    id:          D965
+    name:        Genga
+    latitude:    43.43063
+    longitude:   12.935944
+  genivolta:
+    province_id: CR
+    id:          D966
+    name:        Genivolta
+    latitude:    45.333611
+    longitude:   9.878463
+  genola:
+    province_id: CN
+    id:          D967
+    name:        Genola
+    latitude:    44.589635
+    longitude:   7.665363
+  genoni:
+    province_id: OR
+    id:          D968
+    name:        Genoni
+    latitude:    39.795796
+    longitude:   9.009074
+  genova:
+    province_id: GE
+    id:          D969
+    name:        Genova
+    latitude:    44.407062
+    longitude:   8.933989
+  genuri:
+    province_id: VS
+    id:          D970
+    name:        Genuri
+    latitude:    39.745315
+    longitude:   8.924389
+  genzano_di_lucania:
+    province_id: PZ
+    id:          D971
+    name:        'Genzano di Lucania'
+    latitude:    40.848907
+    longitude:   16.031741
+  genzano_di_roma:
+    province_id: RM
+    id:          D972
+    name:        'Genzano di Roma'
+    latitude:    41.707455
+    longitude:   12.690099
+  genzone:
+    province_id: PV
+    id:          D973
+    name:        Genzone
+    latitude:    45.181741
+    longitude:   9.348611
+  gera_lario:
+    province_id: CO
+    id:          D974
+    name:        'Gera Lario'
+    latitude:    46.172056
+    longitude:   9.368759
+  gerace:
+    province_id: RC
+    id:          D975
+    name:        Gerace
+    latitude:    38.271231
+    longitude:   16.219764
+  locri:
+    province_id: RC
+    id:          D976
+    name:        Locri
+    latitude:    38.236415
+    longitude:   16.259896
+  geraci_siculo:
+    province_id: PA
+    id:          D977
+    name:        'Geraci Siculo'
+    latitude:    37.857429
+    longitude:   14.154172
+  gerano:
+    province_id: RM
+    id:          D978
+    name:        Gerano
+    latitude:    41.934074
+    longitude:   12.995333
+  gerenzago:
+    province_id: PV
+    id:          D980
+    name:        Gerenzago
+    latitude:    45.206738
+    longitude:   9.359879
+  gerenzano:
+    province_id: VA
+    id:          D981
+    name:        Gerenzano
+    latitude:    45.640618
+    longitude:   9.002209
+  gergei:
+    province_id: CA
+    id:          D982
+    name:        Gergei
+    latitude:    39.70083
+    longitude:   9.101403
+  germagnano:
+    province_id: TO
+    id:          D983
+    name:        Germagnano
+    latitude:    45.264852
+    longitude:   7.47063
+  germagno:
+    province_id: VB
+    id:          D984
+    name:        Germagno
+    latitude:    45.891801
+    longitude:   8.387999
+  germasino:
+    province_id: CO
+    id:          D986
+    name:        Germasino
+    latitude:    46.1362
+    longitude:   9.264376
+  germignaga:
+    province_id: VA
+    id:          D987
+    name:        Germignaga
+    latitude:    45.993088
+    longitude:   8.727222
+  gerocarne:
+    province_id: VV
+    id:          D988
+    name:        Gerocarne
+    latitude:    38.588376
+    longitude:   16.219004
+  gerola_alta:
+    province_id: SO
+    id:          D990
+    name:        'Gerola Alta'
+    latitude:    46.061362
+    longitude:   9.550946
+  gerosa:
+    province_id: BG
+    id:          D991
+    name:        Gerosa
+    latitude:    45.850796
+    longitude:   9.57063
+  gerre_de_caprioli:
+    province_id: CR
+    id:          D993
+    name:        'Gerre de'' Caprioli'
+    latitude:    45.104695
+    longitude:   10.04057
+  gesico:
+    province_id: CA
+    id:          D994
+    name:        Gesico
+    latitude:    39.616131
+    longitude:   9.108768
+  gessate:
+    province_id: MI
+    id:          D995
+    name:        Gessate
+    latitude:    45.555771
+    longitude:   9.434988
+  gessopalena:
+    province_id: CH
+    id:          D996
+    name:        Gessopalena
+    latitude:    42.057667
+    longitude:   14.274074
+  gesturi:
+    province_id: VS
+    id:          D997
+    name:        Gesturi
+    latitude:    39.733227
+    longitude:   9.021286
+  gesualdo:
+    province_id: AV
+    id:          D998
+    name:        Gesualdo
+    latitude:    41.007833
+    longitude:   15.073463
+  ghedi:
+    province_id: BS
+    id:          D999
+    name:        Ghedi
+    latitude:    45.402646
+    longitude:   10.274762
+  ghemme:
+    province_id: NO
+    id:          E001
+    name:        Ghemme
+    latitude:    45.600648
+    longitude:   8.422667
+  ghiffa:
+    province_id: VB
+    id:          E003
+    name:        Ghiffa
+    latitude:    45.959241
+    longitude:   8.618148
+  ghilarza:
+    province_id: OR
+    id:          E004
+    name:        Ghilarza
+    latitude:    40.120786
+    longitude:   8.835924
+  ghisalba:
+    province_id: BG
+    id:          E006
+    name:        Ghisalba
+    latitude:    45.595796
+    longitude:   9.760315
+  ghislarengo:
+    province_id: VC
+    id:          E007
+    name:        Ghislarengo
+    latitude:    45.53
+    longitude:   8.386259
+  giacciano_con_baruchella:
+    province_id: RO
+    id:          E008
+    name:        'Giacciano con Baruchella'
+    latitude:    45.06813
+    longitude:   11.451407
+  giaglione:
+    province_id: TO
+    id:          E009
+    name:        Giaglione
+    latitude:    45.136215
+    longitude:   7.008699
+  gianico:
+    province_id: BS
+    id:          E010
+    name:        Gianico
+    latitude:    45.86513
+    longitude:   10.182047
+  giano_vetusto:
+    province_id: CE
+    id:          E011
+    name:        'Giano Vetusto'
+    latitude:    41.199496
+    longitude:   14.196353
+  giano_dell_umbria:
+    province_id: PG
+    id:          E012
+    name:        'Giano dell''Umbria'
+    latitude:    42.833523
+    longitude:   12.577827
+  giardinello:
+    province_id: PA
+    id:          E013
+    name:        Giardinello
+    latitude:    38.089241
+    longitude:   13.157981
+  giardini_naxos:
+    province_id: ME
+    id:          E014
+    name:        Giardini-Naxos
+    latitude:    37.825338
+    longitude:   15.266688
+  giarole:
+    province_id: AL
+    id:          E015
+    name:        Giarole
+    latitude:    45.061574
+    longitude:   8.567667
+  giarratana:
+    province_id: RG
+    id:          E016
+    name:        Giarratana
+    latitude:    37.048107
+    longitude:   14.793727
+  giarre:
+    province_id: CT
+    id:          E017
+    name:        Giarre
+    latitude:    37.726457
+    longitude:   15.183839
+  giave:
+    province_id: SS
+    id:          E019
+    name:        Giave
+    latitude:    40.452223
+    longitude:   8.749937
+  giaveno:
+    province_id: TO
+    id:          E020
+    name:        Giaveno
+    latitude:    45.041772
+    longitude:   7.352521
+  giavera_del_montello:
+    province_id: TV
+    id:          E021
+    name:        'Giavera del Montello'
+    latitude:    45.794852
+    longitude:   12.169537
+  giba:
+    province_id: CI
+    id:          E022
+    name:        Giba
+    latitude:    39.072981
+    longitude:   8.636741
+  gibellina:
+    province_id: TP
+    id:          E023
+    name:        Gibellina
+    latitude:    37.813589
+    longitude:   12.870163
+  gifflenga:
+    province_id: BI
+    id:          E024
+    name:        Gifflenga
+    latitude:    45.493408
+    longitude:   8.231883
+  giffone:
+    province_id: RC
+    id:          E025
+    name:        Giffone
+    latitude:    38.438974
+    longitude:   16.149004
+  giffoni_sei_casali:
+    province_id: SA
+    id:          E026
+    name:        'Giffoni Sei Casali'
+    latitude:    40.727929
+    longitude:   14.891699
+  giffoni_valle_piana:
+    province_id: SA
+    id:          E027
+    name:        'Giffoni Valle Piana'
+    latitude:    40.719035
+    longitude:   14.943728
+  gignese:
+    province_id: VB
+    id:          E028
+    name:        Gignese
+    latitude:    45.861741
+    longitude:   8.511111
+  gignod:
+    province_id: AO
+    id:          E029
+    name:        Gignod
+    latitude:    45.780944
+    longitude:   7.2975
+  gildone:
+    province_id: CB
+    id:          E030
+    name:        Gildone
+    latitude:    41.509636
+    longitude:   14.739958
+  gimigliano:
+    province_id: CZ
+    id:          E031
+    name:        Gimigliano
+    latitude:    38.975252
+    longitude:   16.529514
+  ginestra:
+    province_id: PZ
+    id:          E033
+    name:        Ginestra
+    latitude:    40.930271
+    longitude:   15.733853
+  ginestra_degli_schiavoni:
+    province_id: BN
+    id:          E034
+    name:        'Ginestra degli Schiavoni'
+    latitude:    41.280944
+    longitude:   15.044704
+  ginosa:
+    province_id: TA
+    id:          E036
+    name:        Ginosa
+    latitude:    40.581278
+    longitude:   16.757056
+  gioi:
+    province_id: SA
+    id:          E037
+    name:        Gioi
+    latitude:    40.288662
+    longitude:   15.216904
+  gioia_del_colle:
+    province_id: BA
+    id:          E038
+    name:        'Gioia del Colle'
+    latitude:    40.797902
+    longitude:   16.924622
+  gioia_sannitica:
+    province_id: CE
+    id:          E039
+    name:        'Gioia Sannitica'
+    latitude:    41.301278
+    longitude:   14.445
+  gioia_dei_marsi:
+    province_id: AQ
+    id:          E040
+    name:        'Gioia dei Marsi'
+    latitude:    41.956116
+    longitude:   13.684107
+  gioia_tauro:
+    province_id: RC
+    id:          E041
+    name:        'Gioia Tauro'
+    latitude:    38.425
+    longitude:   15.899852
+  gioiosa_marea:
+    province_id: ME
+    id:          E043
+    name:        'Gioiosa Marea'
+    latitude:    38.173926
+    longitude:   14.896407
+  gioiosa_ionica:
+    province_id: RC
+    id:          E044
+    name:        'Gioiosa Ionica'
+    latitude:    38.335478
+    longitude:   16.301988
+  giove:
+    province_id: TR
+    id:          E045
+    name:        Giove
+    latitude:    42.510315
+    longitude:   12.331741
+  giovinazzo:
+    province_id: BA
+    id:          E047
+    name:        Giovinazzo
+    latitude:    41.187536
+    longitude:   16.672556
+  giovo:
+    province_id: TN
+    id:          E048
+    name:        Giovo
+    latitude:    46.156752
+    longitude:   11.153135
+  girasole:
+    province_id: OG
+    id:          E049
+    name:        Girasole
+    latitude:    39.95313
+    longitude:   9.662815
+  girifalco:
+    province_id: CZ
+    id:          E050
+    name:        Girifalco
+    latitude:    38.825315
+    longitude:   16.425018
+  gironico:
+    province_id: CO
+    id:          E051
+    name:        Gironico
+    latitude:    45.801154
+    longitude:   9.003304
+  gissi:
+    province_id: CH
+    id:          E052
+    name:        Gissi
+    latitude:    42.021971
+    longitude:   14.546155
+  giuggianello:
+    province_id: LE
+    id:          E053
+    name:        Giuggianello
+    latitude:    40.095481
+    longitude:   18.36987
+  giugliano_in_campania:
+    province_id: NA
+    id:          E054
+    name:        'Giugliano in Campania'
+    latitude:    40.928601
+    longitude:   14.197162
+  giuliana:
+    province_id: PA
+    id:          E055
+    name:        Giuliana
+    latitude:    37.674058
+    longitude:   13.237553
+  giuliano_teatino:
+    province_id: CH
+    id:          E056
+    name:        'Giuliano Teatino'
+    latitude:    42.304309
+    longitude:   14.285774
+  giuliano_di_roma:
+    province_id: FR
+    id:          E057
+    name:        'Giuliano di Roma'
+    latitude:    41.540796
+    longitude:   13.280481
+  giulianova:
+    province_id: TE
+    id:          E058
+    name:        Giulianova
+    latitude:    42.75255
+    longitude:   13.962371
+  giuncugnano:
+    province_id: LU
+    id:          E059
+    name:        Giuncugnano
+    latitude:    44.210219
+    longitude:   10.247229
+  giungano:
+    province_id: SA
+    id:          E060
+    name:        Giungano
+    latitude:    40.395796
+    longitude:   15.108148
+  giurdignano:
+    province_id: LE
+    id:          E061
+    name:        Giurdignano
+    latitude:    40.1225
+    longitude:   18.433611
+  giussago:
+    province_id: PV
+    id:          E062
+    name:        Giussago
+    latitude:    45.285796
+    longitude:   9.141889
+  giussano:
+    province_id: MI
+    id:          E063
+    name:        Giussano
+    latitude:    45.699761
+    longitude:   9.209378
+  giustenice:
+    province_id: SV
+    id:          E064
+    name:        Giustenice
+    latitude:    44.172623
+    longitude:   8.244304
+  giustino:
+    province_id: TN
+    id:          E065
+    name:        Giustino
+    latitude:    46.148985
+    longitude:   10.76874
+  giusvalla:
+    province_id: SV
+    id:          E066
+    name:        Giusvalla
+    latitude:    44.448907
+    longitude:   8.395333
+  givoletto:
+    province_id: TO
+    id:          E067
+    name:        Givoletto
+    latitude:    45.160858
+    longitude:   7.494986
+  gizzeria:
+    province_id: CZ
+    id:          E068
+    name:        Gizzeria
+    latitude:    38.981111
+    longitude:   16.204241
+  glorenza:
+    province_id: BZ
+    id:          E069
+    name:        Glorenza
+    latitude:    46.671278
+    longitude:   10.555944
+  sesta_godano:
+    province_id: SP
+    id:          E070
+    name:        'Sesta Godano'
+    latitude:    44.292911
+    longitude:   9.671362
+  godega_di_sant_urbano:
+    province_id: TV
+    id:          E071
+    name:        'Godega di Sant''Urbano'
+    latitude:    45.930796
+    longitude:   12.399222
+  godiasco:
+    province_id: PV
+    id:          E072
+    name:        Godiasco
+    latitude:    44.896902
+    longitude:   9.056877
+  godrano:
+    province_id: PA
+    id:          E074
+    name:        Godrano
+    latitude:    37.904279
+    longitude:   13.42936
+  goito:
+    province_id: MN
+    id:          E078
+    name:        Goito
+    latitude:    45.255963
+    longitude:   10.67313
+  golasecca:
+    province_id: VA
+    id:          E079
+    name:        Golasecca
+    latitude:    45.697538
+    longitude:   8.658634
+  golferenzo:
+    province_id: PV
+    id:          E081
+    name:        Golferenzo
+    latitude:    44.962037
+    longitude:   9.307037
+  gombito:
+    province_id: CR
+    id:          E082
+    name:        Gombito
+    latitude:    45.261317
+    longitude:   9.729954
+  gonars:
+    province_id: UD
+    id:          E083
+    name:        Gonars
+    latitude:    45.896889
+    longitude:   13.23813
+  goni:
+    province_id: CA
+    id:          E084
+    name:        Goni
+    latitude:    39.577976
+    longitude:   9.286665
+  gonnosfanadiga:
+    province_id: VS
+    id:          E085
+    name:        Gonnosfanadiga
+    latitude:    39.494752
+    longitude:   8.662114
+  gonnesa:
+    province_id: CI
+    id:          E086
+    name:        Gonnesa
+    latitude:    39.264145
+    longitude:   8.471093
+  gonnoscodina:
+    province_id: OR
+    id:          E087
+    name:        Gonnoscodina
+    latitude:    39.701259
+    longitude:   8.836407
+  gonnostramatza:
+    province_id: OR
+    id:          E088
+    name:        Gonnostramatza
+    latitude:    39.682352
+    longitude:   8.835315
+  gonzaga:
+    province_id: MN
+    id:          E089
+    name:        Gonzaga
+    latitude:    44.951152
+    longitude:   10.820067
+  gordona:
+    province_id: SO
+    id:          E090
+    name:        Gordona
+    latitude:    46.293296
+    longitude:   9.366407
+  gorga:
+    province_id: RM
+    id:          E091
+    name:        Gorga
+    latitude:    41.655953
+    longitude:   13.109808
+  gorgo_al_monticano:
+    province_id: TV
+    id:          E092
+    name:        'Gorgo al Monticano'
+    latitude:    45.788542
+    longitude:   12.552369
+  gorgoglione:
+    province_id: MT
+    id:          E093
+    name:        Gorgoglione
+    latitude:    40.393661
+    longitude:   16.144121
+  gorgonzola:
+    province_id: MI
+    id:          E094
+    name:        Gorgonzola
+    latitude:    45.530705
+    longitude:   9.4057
+  goriano_sicoli:
+    province_id: AQ
+    id:          E096
+    name:        'Goriano Sicoli'
+    latitude:    42.081889
+    longitude:   13.775796
+  gorizia:
+    province_id: GO
+    id:          E098
+    name:        Gorizia
+    latitude:    45.941305
+    longitude:   13.621546
+  gorlago:
+    province_id: BG
+    id:          E100
+    name:        Gorlago
+    latitude:    45.675
+    longitude:   9.824074
+  gorla_maggiore:
+    province_id: VA
+    id:          E101
+    name:        'Gorla Maggiore'
+    latitude:    45.666889
+    longitude:   8.89313
+  gorla_minore:
+    province_id: VA
+    id:          E102
+    name:        'Gorla Minore'
+    latitude:    45.642204
+    longitude:   8.903759
+  gorle:
+    province_id: BG
+    id:          E103
+    name:        Gorle
+    latitude:    45.701278
+    longitude:   9.713926
+  gornate_olona:
+    province_id: VA
+    id:          E104
+    name:        'Gornate Olona'
+    latitude:    45.7425
+    longitude:   8.861111
+  gorno:
+    province_id: BG
+    id:          E106
+    name:        Gorno
+    latitude:    45.863444
+    longitude:   9.842667
+  goro:
+    province_id: FE
+    id:          E107
+    name:        Goro
+    latitude:    44.851889
+    longitude:   12.295944
+  gorreto:
+    province_id: GE
+    id:          E109
+    name:        Gorreto
+    latitude:    44.605963
+    longitude:   9.292352
+  gorzegno:
+    province_id: CN
+    id:          E111
+    name:        Gorzegno
+    latitude:    44.512422
+    longitude:   8.134552
+  gosaldo:
+    province_id: BL
+    id:          E113
+    name:        Gosaldo
+    latitude:    46.222164
+    longitude:   11.95503
+  gossolengo:
+    province_id: PC
+    id:          E114
+    name:        Gossolengo
+    latitude:    45.001478
+    longitude:   9.617175
+  gottasecca:
+    province_id: CN
+    id:          E115
+    name:        Gottasecca
+    latitude:    44.461392
+    longitude:   8.168433
+  gottolengo:
+    province_id: BS
+    id:          E116
+    name:        Gottolengo
+    latitude:    45.292968
+    longitude:   10.27105
+  govone:
+    province_id: CN
+    id:          E118
+    name:        Govone
+    latitude:    44.805109
+    longitude:   8.095051
+  gozzano:
+    province_id: NO
+    id:          E120
+    name:        Gozzano
+    latitude:    45.747518
+    longitude:   8.437815
+  gradara:
+    province_id: PU
+    id:          E122
+    name:        Gradara
+    latitude:    43.939084
+    longitude:   12.770985
+  gradisca_d_isonzo:
+    province_id: GO
+    id:          E124
+    name:        'Gradisca D''Isonzo'
+    latitude:    45.891407
+    longitude:   13.491259
+  grado:
+    province_id: GO
+    id:          E125
+    name:        Grado
+    latitude:    45.678463
+    longitude:   13.395963
+  gradoli:
+    province_id: VT
+    id:          E126
+    name:        Gradoli
+    latitude:    42.644537
+    longitude:   11.855963
+  graffignana:
+    province_id: LO
+    id:          E127
+    name:        Graffignana
+    latitude:    45.20928
+    longitude:   9.453901
+  graffignano:
+    province_id: VT
+    id:          E128
+    name:        Graffignano
+    latitude:    42.573611
+    longitude:   12.202667
+  graglia:
+    province_id: BI
+    id:          E130
+    name:        Graglia
+    latitude:    45.559537
+    longitude:   7.979241
+  gragnano:
+    province_id: NA
+    id:          E131
+    name:        Gragnano
+    latitude:    40.69251
+    longitude:   14.513789
+  gragnano_trebbiense:
+    province_id: PC
+    id:          E132
+    name:        'Gragnano Trebbiense'
+    latitude:    45.014241
+    longitude:   9.57
+  grammichele:
+    province_id: CT
+    id:          E133
+    name:        Grammichele
+    latitude:    37.214706
+    longitude:   14.636354
+  grana:
+    province_id: AT
+    id:          E134
+    name:        Grana
+    latitude:    44.999389
+    longitude:   8.300648
+  granaglione:
+    province_id: BO
+    id:          E135
+    name:        Granaglione
+    latitude:    44.116498
+    longitude:   10.962852
+  granarolo_dell_emilia:
+    province_id: BO
+    id:          E136
+    name:        'Granarolo dell''Emilia'
+    latitude:    44.551131
+    longitude:   11.445373
+  grancona:
+    province_id: VI
+    id:          E138
+    name:        Grancona
+    latitude:    45.4232
+    longitude:   11.452877
+  grandate:
+    province_id: CO
+    id:          E139
+    name:        Grandate
+    latitude:    45.773746
+    longitude:   9.062348
+  grandola_ed_uniti:
+    province_id: CO
+    id:          E141
+    name:        'Grandola ed Uniti'
+    latitude:    46.025963
+    longitude:   9.213926
+  graniti:
+    province_id: ME
+    id:          E142
+    name:        Graniti
+    latitude:    37.890323
+    longitude:   15.225827
+  granozzo_con_monticello:
+    province_id: NO
+    id:          E143
+    name:        'Granozzo con Monticello'
+    latitude:    45.361278
+    longitude:   8.574555
+  grantola:
+    province_id: VA
+    id:          E144
+    name:        Grantola
+    latitude:    45.950167
+    longitude:   8.775481
+  grantorto:
+    province_id: PD
+    id:          E145
+    name:        Grantorto
+    latitude:    45.601889
+    longitude:   11.732667
+  granze:
+    province_id: PD
+    id:          E146
+    name:        Granze
+    latitude:    45.157518
+    longitude:   11.715796
+  grassano:
+    province_id: MT
+    id:          E147
+    name:        Grassano
+    latitude:    40.632692
+    longitude:   16.283514
+  grassobbio:
+    province_id: BG
+    id:          E148
+    name:        Grassobbio
+    latitude:    45.657815
+    longitude:   9.726722
+  gratteri:
+    province_id: PA
+    id:          E149
+    name:        Gratteri
+    latitude:    37.966071
+    longitude:   13.973772
+  grauno:
+    province_id: TN
+    id:          E150
+    name:        Grauno
+    latitude:    46.229344
+    longitude:   11.298064
+  gravedona:
+    province_id: CO
+    id:          E151
+    name:        Gravedona
+    latitude:    46.146041
+    longitude:   9.305203
+  gravellona_lomellina:
+    province_id: PV
+    id:          E152
+    name:        'Gravellona Lomellina'
+    latitude:    45.328778
+    longitude:   8.765333
+  gravellona_toce:
+    province_id: VB
+    id:          E153
+    name:        'Gravellona Toce'
+    latitude:    45.931278
+    longitude:   8.432352
+  gravere:
+    province_id: TO
+    id:          E154
+    name:        Gravere
+    latitude:    45.126742
+    longitude:   7.019002
+  gravina_in_puglia:
+    province_id: BA
+    id:          E155
+    name:        'Gravina in Puglia'
+    latitude:    40.821178
+    longitude:   16.419338
+  gravina_di_catania:
+    province_id: CT
+    id:          E156
+    name:        'Gravina di Catania'
+    latitude:    37.558354
+    longitude:   15.051781
+  grazzanise:
+    province_id: CE
+    id:          E158
+    name:        Grazzanise
+    latitude:    41.090839
+    longitude:   14.102802
+  grazzano_badoglio:
+    province_id: AT
+    id:          E159
+    name:        'Grazzano Badoglio'
+    latitude:    45.040435
+    longitude:   8.312027
+  greccio:
+    province_id: RI
+    id:          E160
+    name:        Greccio
+    latitude:    42.443256
+    longitude:   12.751912
+  greci:
+    province_id: AV
+    id:          E161
+    name:        Greci
+    latitude:    41.252815
+    longitude:   15.17
+  greggio:
+    province_id: VC
+    id:          E163
+    name:        Greggio
+    latitude:    45.451741
+    longitude:   8.384241
+  gremiasco:
+    province_id: AL
+    id:          E164
+    name:        Gremiasco
+    latitude:    44.796923
+    longitude:   9.105945
+  gressan:
+    province_id: AO
+    id:          E165
+    name:        Gressan
+    latitude:    45.721741
+    longitude:   7.288148
+  gressoney_la_trinite:
+    province_id: AO
+    id:          E167
+    name:        Gressoney-la-Trinitè
+    latitude:    45.826755
+    longitude:   7.822881
+  gressoney_saint_jean:
+    province_id: AO
+    id:          E168
+    name:        Gressoney-Saint-Jean
+    latitude:    45.775952
+    longitude:   7.827283
+  greve_in_chianti:
+    province_id: FI
+    id:          E169
+    name:        'Greve in Chianti'
+    latitude:    43.585097
+    longitude:   11.315362
+  grezzago:
+    province_id: MI
+    id:          E170
+    name:        Grezzago
+    latitude:    45.590675
+    longitude:   9.494187
+  grezzana:
+    province_id: VR
+    id:          E171
+    name:        Grezzana
+    latitude:    45.519811
+    longitude:   11.017175
+  griante:
+    province_id: CO
+    id:          E172
+    name:        Griante
+    latitude:    45.994551
+    longitude:   9.235051
+  gricignano_di_aversa:
+    province_id: CE
+    id:          E173
+    name:        'Gricignano di Aversa'
+    latitude:    40.981259
+    longitude:   14.232056
+  grignasco:
+    province_id: NO
+    id:          E177
+    name:        Grignasco
+    latitude:    45.680796
+    longitude:   8.344241
+  grigno:
+    province_id: TN
+    id:          E178
+    name:        Grigno
+    latitude:    46.016426
+    longitude:   11.638121
+  grimacco:
+    province_id: UD
+    id:          E179
+    name:        Grimacco
+    latitude:    46.15654
+    longitude:   13.593957
+  grimaldi:
+    province_id: CS
+    id:          E180
+    name:        Grimaldi
+    latitude:    39.143148
+    longitude:   16.236574
+  grinzane_cavour:
+    province_id: CN
+    id:          E182
+    name:        'Grinzane Cavour'
+    latitude:    44.656631
+    longitude:   7.981727
+  grisignano_di_zocco:
+    province_id: VI
+    id:          E184
+    name:        'Grisignano di Zocco'
+    latitude:    45.475944
+    longitude:   11.699389
+  grisolia:
+    province_id: CS
+    id:          E185
+    name:        Grisolia
+    latitude:    39.724723
+    longitude:   15.854447
+  grizzana_morandi:
+    province_id: BO
+    id:          E187
+    name:        'Grizzana Morandi'
+    latitude:    44.2579
+    longitude:   11.152809
+  grognardo:
+    province_id: AL
+    id:          E188
+    name:        Grognardo
+    latitude:    44.631364
+    longitude:   8.493459
+  gromo:
+    province_id: BG
+    id:          E189
+    name:        Gromo
+    latitude:    45.965018
+    longitude:   9.92813
+  grondona:
+    province_id: AL
+    id:          E191
+    name:        Grondona
+    latitude:    44.697176
+    longitude:   8.965968
+  grone:
+    province_id: BG
+    id:          E192
+    name:        Grone
+    latitude:    45.727816
+    longitude:   9.909863
+  grontardo:
+    province_id: CR
+    id:          E193
+    name:        Grontardo
+    latitude:    45.202815
+    longitude:   10.151889
+  gropello_cairoli:
+    province_id: PV
+    id:          E195
+    name:        'Gropello Cairoli'
+    latitude:    45.179537
+    longitude:   8.993926
+  gropparello:
+    province_id: PC
+    id:          E196
+    name:        Gropparello
+    latitude:    44.835019
+    longitude:   9.728759
+  groscavallo:
+    province_id: TO
+    id:          E199
+    name:        Groscavallo
+    latitude:    45.368384
+    longitude:   7.25914
+  grosio:
+    province_id: SO
+    id:          E200
+    name:        Grosio
+    latitude:    46.296827
+    longitude:   10.27292
+  grosotto:
+    province_id: SO
+    id:          E201
+    name:        Grosotto
+    latitude:    46.282664
+    longitude:   10.258939
+  grosseto:
+    province_id: GR
+    id:          E202
+    name:        Grosseto
+    latitude:    42.76286
+    longitude:   11.112783
+  grosso:
+    province_id: TO
+    id:          E203
+    name:        Grosso
+    latitude:    45.257518
+    longitude:   7.558444
+  grottaferrata:
+    province_id: RM
+    id:          E204
+    name:        Grottaferrata
+    latitude:    41.788627
+    longitude:   12.667701
+  grottaglie:
+    province_id: TA
+    id:          E205
+    name:        Grottaglie
+    latitude:    40.540333
+    longitude:   17.434537
+  grottaminarda:
+    province_id: AV
+    id:          E206
+    name:        Grottaminarda
+    latitude:    41.070796
+    longitude:   15.059852
+  grottammare:
+    province_id: AP
+    id:          E207
+    name:        Grottammare
+    latitude:    42.991294
+    longitude:   13.867958
+  grottazzolina:
+    province_id: AP
+    id:          E208
+    name:        Grottazzolina
+    latitude:    43.115055
+    longitude:   13.605995
+  grotte:
+    province_id: AG
+    id:          E209
+    name:        Grotte
+    latitude:    37.403065
+    longitude:   13.70152
+  grotte_di_castro:
+    province_id: VT
+    id:          E210
+    name:        'Grotte di Castro'
+    latitude:    42.674852
+    longitude:   11.869638
+  grotteria:
+    province_id: RC
+    id:          E212
+    name:        Grotteria
+    latitude:    38.366574
+    longitude:   16.265796
+  grottole:
+    province_id: MT
+    id:          E213
+    name:        Grottole
+    latitude:    40.602073
+    longitude:   16.380694
+  grottolella:
+    province_id: AV
+    id:          E214
+    name:        Grottolella
+    latitude:    40.973759
+    longitude:   14.787981
+  gruaro:
+    province_id: VE
+    id:          E215
+    name:        Gruaro
+    latitude:    45.832667
+    longitude:   12.846111
+  grugliasco:
+    province_id: TO
+    id:          E216
+    name:        Grugliasco
+    latitude:    45.062322
+    longitude:   7.578284
+  grumello_cremonese_ed_uniti:
+    province_id: CR
+    id:          E217
+    name:        'Grumello Cremonese ed Uniti'
+    latitude:    45.194074
+    longitude:   9.867056
+  grumello_del_monte:
+    province_id: BG
+    id:          E219
+    name:        'Grumello del Monte'
+    latitude:    45.63813
+    longitude:   9.877815
+  grumento_nova:
+    province_id: PZ
+    id:          E221
+    name:        'Grumento Nova'
+    latitude:    40.283926
+    longitude:   15.889704
+  grumes:
+    province_id: TN
+    id:          E222
+    name:        Grumes
+    latitude:    46.221722
+    longitude:   11.295315
+  grumo_appula:
+    province_id: BA
+    id:          E223
+    name:        'Grumo Appula'
+    latitude:    41.014537
+    longitude:   16.709389
+  grumo_nevano:
+    province_id: NA
+    id:          E224
+    name:        'Grumo Nevano'
+    latitude:    40.937056
+    longitude:   14.260796
+  grumolo_delle_abbadesse:
+    province_id: VI
+    id:          E226
+    name:        'Grumolo delle Abbadesse'
+    latitude:    45.520481
+    longitude:   11.659389
+  guagnano:
+    province_id: LE
+    id:          E227
+    name:        Guagnano
+    latitude:    40.40237
+    longitude:   17.949852
+  gualdo:
+    province_id: MC
+    id:          E228
+    name:        Gualdo
+    latitude:    43.066889
+    longitude:   13.344222
+  gualdo_cattaneo:
+    province_id: PG
+    id:          E229
+    name:        'Gualdo Cattaneo'
+    latitude:    42.910007
+    longitude:   12.555714
+  gualdo_tadino:
+    province_id: PG
+    id:          E230
+    name:        'Gualdo Tadino'
+    latitude:    43.230266
+    longitude:   12.786088
+  gualtieri:
+    province_id: RE
+    id:          E232
+    name:        Gualtieri
+    latitude:    44.884512
+    longitude:   10.582972
+  gualtieri_sicamino:
+    province_id: ME
+    id:          E233
+    name:        'Gualtieri Sicaminò'
+    latitude:    38.163759
+    longitude:   15.317815
+  guamaggiore:
+    province_id: CA
+    id:          E234
+    name:        Guamaggiore
+    latitude:    39.56987
+    longitude:   9.075
+  guanzate:
+    province_id: CO
+    id:          E235
+    name:        Guanzate
+    latitude:    45.727526
+    longitude:   9.021937
+  guarcino:
+    province_id: FR
+    id:          E236
+    name:        Guarcino
+    latitude:    41.8
+    longitude:   13.314389
+  guardabosone:
+    province_id: VC
+    id:          E237
+    name:        Guardabosone
+    latitude:    45.702008
+    longitude:   8.249332
+  guardamiglio:
+    province_id: LO
+    id:          E238
+    name:        Guardamiglio
+    latitude:    45.108611
+    longitude:   9.682518
+  guardavalle:
+    province_id: CZ
+    id:          E239
+    name:        Guardavalle
+    latitude:    38.506111
+    longitude:   16.504389
+  guarda_veneta:
+    province_id: RO
+    id:          E240
+    name:        'Guarda Veneta'
+    latitude:    44.981574
+    longitude:   11.801407
+  guardea:
+    province_id: TR
+    id:          E241
+    name:        Guardea
+    latitude:    42.622934
+    longitude:   12.298235
+  guardia_piemontese:
+    province_id: CS
+    id:          E242
+    name:        'Guardia Piemontese'
+    latitude:    39.466972
+    longitude:   15.999616
+  guardiagrele:
+    province_id: CH
+    id:          E243
+    name:        Guardiagrele
+    latitude:    42.190515
+    longitude:   14.222434
+  guardialfiera:
+    province_id: CB
+    id:          E244
+    name:        Guardialfiera
+    latitude:    41.803983
+    longitude:   14.793676
+  guardia_lombardi:
+    province_id: AV
+    id:          E245
+    name:        'Guardia Lombardi'
+    latitude:    40.95487
+    longitude:   15.20987
+  guardia_perticara:
+    province_id: PZ
+    id:          E246
+    name:        'Guardia Perticara'
+    latitude:    40.358291
+    longitude:   16.100402
+  guardiaregia:
+    province_id: CB
+    id:          E248
+    name:        Guardiaregia
+    latitude:    41.435509
+    longitude:   14.542032
+  guardia_sanframondi:
+    province_id: BN
+    id:          E249
+    name:        'Guardia Sanframondi'
+    latitude:    41.255517
+    longitude:   14.597709
+  guardistallo:
+    province_id: PI
+    id:          E250
+    name:        Guardistallo
+    latitude:    43.313759
+    longitude:   10.633778
+  guarene:
+    province_id: CN
+    id:          E251
+    name:        Guarene
+    latitude:    44.740747
+    longitude:   8.034143
+  guasila:
+    province_id: CA
+    id:          E252
+    name:        Guasila
+    latitude:    39.562981
+    longitude:   9.046407
+  guastalla:
+    province_id: RE
+    id:          E253
+    name:        Guastalla
+    latitude:    44.916202
+    longitude:   10.653112
+  guazzora:
+    province_id: AL
+    id:          E255
+    name:        Guazzora
+    latitude:    45.014704
+    longitude:   8.8525
+  gubbio:
+    province_id: PG
+    id:          E256
+    name:        Gubbio
+    latitude:    43.355481
+    longitude:   12.573444
+  gudo_visconti:
+    province_id: MI
+    id:          E258
+    name:        'Gudo Visconti'
+    latitude:    45.373841
+    longitude:   9.001593
+  guglionesi:
+    province_id: CB
+    id:          E259
+    name:        Guglionesi
+    latitude:    41.911759
+    longitude:   14.916678
+  guidizzolo:
+    province_id: MN
+    id:          E261
+    name:        Guidizzolo
+    latitude:    45.321741
+    longitude:   10.581574
+  guidonia_montecelio:
+    province_id: RM
+    id:          E263
+    name:        'Guidonia Montecelio'
+    latitude:    41.999818
+    longitude:   12.726297
+  guiglia:
+    province_id: MO
+    id:          E264
+    name:        Guiglia
+    latitude:    44.425
+    longitude:   10.96313
+  siziano:
+    province_id: PV
+    id:          E265
+    name:        Siziano
+    latitude:    45.315315
+    longitude:   9.204222
+  guilmi:
+    province_id: CH
+    id:          E266
+    name:        Guilmi
+    latitude:    41.996958
+    longitude:   14.476362
+  gurro:
+    province_id: VB
+    id:          E269
+    name:        Gurro
+    latitude:    46.086125
+    longitude:   8.566597
+  guspini:
+    province_id: VS
+    id:          E270
+    name:        Guspini
+    latitude:    39.542518
+    longitude:   8.634241
+  gussago:
+    province_id: BS
+    id:          E271
+    name:        Gussago
+    latitude:    45.592777
+    longitude:   10.153851
+  gussola:
+    province_id: CR
+    id:          E272
+    name:        Gussola
+    latitude:    45.014074
+    longitude:   10.347518
+  hone:
+    province_id: AO
+    id:          E273
+    name:        Hone
+    latitude:    45.613152
+    longitude:   7.734022
+  jacurso:
+    province_id: CZ
+    id:          E274
+    name:        Jacurso
+    latitude:    38.847041
+    longitude:   16.380875

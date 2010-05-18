@@ -1,0 +1,775 @@
+City:
+  nago_torbole:
+    province_id: TN
+    id:          F835
+    name:        Nago-Torbole
+    latitude:    45.873926
+    longitude:   10.874556
+  nalles:
+    province_id: BZ
+    id:          F836
+    name:        Nalles
+    latitude:    46.543761
+    longitude:   11.207699
+  nanno:
+    province_id: TN
+    id:          F837
+    name:        Nanno
+    latitude:    46.315234
+    longitude:   11.048042
+  nanto:
+    province_id: VI
+    id:          F838
+    name:        Nanto
+    latitude:    45.43458
+    longitude:   11.578029
+  napoli:
+    province_id: NA
+    id:          F839
+    name:        Napoli
+    latitude:    40.839997
+    longitude:   14.252871
+  narbolia:
+    province_id: OR
+    id:          F840
+    name:        Narbolia
+    latitude:    40.051407
+    longitude:   8.578611
+  narcao:
+    province_id: CI
+    id:          F841
+    name:        Narcao
+    latitude:    39.168759
+    longitude:   8.675944
+  nardo:
+    province_id: LE
+    id:          F842
+    name:        Nardò
+    latitude:    40.17593
+    longitude:   18.030423
+  nardodipace:
+    province_id: VV
+    id:          F843
+    name:        Nardodipace
+    latitude:    38.473463
+    longitude:   16.343463
+  narni:
+    province_id: TR
+    id:          F844
+    name:        Narni
+    latitude:    42.516486
+    longitude:   12.526623
+  naro:
+    province_id: AG
+    id:          F845
+    name:        Naro
+    latitude:    37.294756
+    longitude:   13.795184
+  narzole:
+    province_id: CN
+    id:          F846
+    name:        Narzole
+    latitude:    44.596407
+    longitude:   7.870944
+  nasino:
+    province_id: SV
+    id:          F847
+    name:        Nasino
+    latitude:    44.11466
+    longitude:   8.03243
+  naso:
+    province_id: ME
+    id:          F848
+    name:        Naso
+    latitude:    38.121799
+    longitude:   14.790145
+  naturno:
+    province_id: BZ
+    id:          F849
+    name:        Naturno
+    latitude:    46.65205
+    longitude:   10.993409
+  nave:
+    province_id: BS
+    id:          F851
+    name:        Nave
+    latitude:    45.585922
+    longitude:   10.288236
+  navelli:
+    province_id: AQ
+    id:          F852
+    name:        Navelli
+    latitude:    42.237655
+    longitude:   13.727806
+  nave_san_rocco:
+    province_id: TN
+    id:          F853
+    name:        'Nave San Rocco'
+    latitude:    46.166854
+    longitude:   11.105946
+  naz_sciaves:
+    province_id: BZ
+    id:          F856
+    name:        Naz-Sciaves
+    latitude:    46.76987
+    longitude:   11.666741
+  nazzano:
+    province_id: RM
+    id:          F857
+    name:        Nazzano
+    latitude:    42.232204
+    longitude:   12.59737
+  ne:
+    province_id: GE
+    id:          F858
+    name:        Ne
+    latitude:    44.355524
+    longitude:   9.390894
+  nebbiuno:
+    province_id: NO
+    id:          F859
+    name:        Nebbiuno
+    latitude:    45.804459
+    longitude:   8.523446
+  negrar:
+    province_id: VR
+    id:          F861
+    name:        Negrar
+    latitude:    45.530625
+    longitude:   10.938301
+  neirone:
+    province_id: GE
+    id:          F862
+    name:        Neirone
+    latitude:    44.454495
+    longitude:   9.191036
+  neive:
+    province_id: CN
+    id:          F863
+    name:        Neive
+    latitude:    44.726438
+    longitude:   8.115762
+  nembro:
+    province_id: BG
+    id:          F864
+    name:        Nembro
+    latitude:    45.743448
+    longitude:   9.759367
+  nemi:
+    province_id: RM
+    id:          F865
+    name:        Nemi
+    latitude:    41.719675
+    longitude:   12.714927
+  nemoli:
+    province_id: PZ
+    id:          F866
+    name:        Nemoli
+    latitude:    40.0686
+    longitude:   15.801284
+  neoneli:
+    province_id: OR
+    id:          F867
+    name:        Neoneli
+    latitude:    40.065963
+    longitude:   8.947833
+  nepi:
+    province_id: VT
+    id:          F868
+    name:        Nepi
+    latitude:    42.243926
+    longitude:   12.346574
+  nereto:
+    province_id: TE
+    id:          F870
+    name:        Nereto
+    latitude:    42.82
+    longitude:   13.817055
+  nerola:
+    province_id: RM
+    id:          F871
+    name:        Nerola
+    latitude:    42.162008
+    longitude:   12.786406
+  nervesa_della_battaglia:
+    province_id: TV
+    id:          F872
+    name:        'Nervesa della Battaglia'
+    latitude:    45.82313
+    longitude:   12.205944
+  nerviano:
+    province_id: MI
+    id:          F874
+    name:        Nerviano
+    latitude:    45.555618
+    longitude:   8.975658
+  nespolo:
+    province_id: RI
+    id:          F876
+    name:        Nespolo
+    latitude:    42.156922
+    longitude:   13.068776
+  nesso:
+    province_id: CO
+    id:          F877
+    name:        Nesso
+    latitude:    45.913463
+    longitude:   9.157815
+  netro:
+    province_id: BI
+    id:          F878
+    name:        Netro
+    latitude:    45.538284
+    longitude:   7.946642
+  nettuno:
+    province_id: RM
+    id:          F880
+    name:        Nettuno
+    latitude:    41.457585
+    longitude:   12.661075
+  neviano:
+    province_id: LE
+    id:          F881
+    name:        Neviano
+    latitude:    40.108759
+    longitude:   18.114852
+  neviano_degli_arduini:
+    province_id: PR
+    id:          F882
+    name:        'Neviano degli Arduini'
+    latitude:    44.583463
+    longitude:   10.316722
+  neviglie:
+    province_id: CN
+    id:          F883
+    name:        Neviglie
+    latitude:    44.69223
+    longitude:   8.117961
+  niardo:
+    province_id: BS
+    id:          F884
+    name:        Niardo
+    latitude:    45.977056
+    longitude:   10.334389
+  nibbiano:
+    province_id: PC
+    id:          F885
+    name:        Nibbiano
+    latitude:    44.906111
+    longitude:   9.329389
+  nibbiola:
+    province_id: NO
+    id:          F886
+    name:        Nibbiola
+    latitude:    45.372674
+    longitude:   8.65752
+  nibionno:
+    province_id: LC
+    id:          F887
+    name:        Nibionno
+    latitude:    45.746928
+    longitude:   9.269768
+  nichelino:
+    province_id: TO
+    id:          F889
+    name:        Nichelino
+    latitude:    44.99506
+    longitude:   7.647063
+  nicolosi:
+    province_id: CT
+    id:          F890
+    name:        Nicolosi
+    latitude:    37.614306
+    longitude:   15.026392
+  nicorvo:
+    province_id: PV
+    id:          F891
+    name:        Nicorvo
+    latitude:    45.285356
+    longitude:   8.667792
+  nicosia:
+    province_id: EN
+    id:          F892
+    name:        Nicosia
+    latitude:    37.748611
+    longitude:   14.39813
+  nicotera:
+    province_id: VV
+    id:          F893
+    name:        Nicotera
+    latitude:    38.55563
+    longitude:   15.9375
+  niella_belbo:
+    province_id: CN
+    id:          F894
+    name:        'Niella Belbo'
+    latitude:    44.513759
+    longitude:   8.080481
+  niella_tanaro:
+    province_id: CN
+    id:          F895
+    name:        'Niella Tanaro'
+    latitude:    44.413848
+    longitude:   7.923515
+  nimis:
+    province_id: UD
+    id:          F898
+    name:        Nimis
+    latitude:    46.200315
+    longitude:   13.271741
+  niscemi:
+    province_id: CL
+    id:          F899
+    name:        Niscemi
+    latitude:    37.148961
+    longitude:   14.386462
+  nissoria:
+    province_id: EN
+    id:          F900
+    name:        Nissoria
+    latitude:    37.656259
+    longitude:   14.448296
+  nizza_di_sicilia:
+    province_id: ME
+    id:          F901
+    name:        'Nizza di Sicilia'
+    latitude:    37.996111
+    longitude:   15.412833
+  nizza_monferrato:
+    province_id: AT
+    id:          F902
+    name:        'Nizza Monferrato'
+    latitude:    44.774852
+    longitude:   8.355
+  noale:
+    province_id: VE
+    id:          F904
+    name:        Noale
+    latitude:    45.550481
+    longitude:   12.072204
+  noasca:
+    province_id: TO
+    id:          F906
+    name:        Noasca
+    latitude:    45.454716
+    longitude:   7.313391
+  nocara:
+    province_id: CS
+    id:          F907
+    name:        Nocara
+    latitude:    40.099634
+    longitude:   16.483476
+  nocciano:
+    province_id: PE
+    id:          F908
+    name:        Nocciano
+    latitude:    42.334074
+    longitude:   13.985
+  nocera_terinese:
+    province_id: CZ
+    id:          F910
+    name:        'Nocera Terinese'
+    latitude:    39.036454
+    longitude:   16.159632
+  nocera_umbra:
+    province_id: PG
+    id:          F911
+    name:        'Nocera Umbra'
+    latitude:    43.113898
+    longitude:   12.788436
+  nocera_inferiore:
+    province_id: SA
+    id:          F912
+    name:        'Nocera Inferiore'
+    latitude:    40.746094
+    longitude:   14.642815
+  nocera_superiore:
+    province_id: SA
+    id:          F913
+    name:        'Nocera Superiore'
+    latitude:    40.74313
+    longitude:   14.673926
+  noceto:
+    province_id: PR
+    id:          F914
+    name:        Noceto
+    latitude:    44.812352
+    longitude:   10.172352
+  noci:
+    province_id: BA
+    id:          F915
+    name:        Noci
+    latitude:    40.7953
+    longitude:   17.124365
+  nociglia:
+    province_id: LE
+    id:          F916
+    name:        Nociglia
+    latitude:    40.040333
+    longitude:   18.326889
+  noepoli:
+    province_id: PZ
+    id:          F917
+    name:        Noepoli
+    latitude:    40.087815
+    longitude:   16.330648
+  nogara:
+    province_id: VR
+    id:          F918
+    name:        Nogara
+    latitude:    45.174074
+    longitude:   11.066889
+  nogaredo:
+    province_id: TN
+    id:          F920
+    name:        Nogaredo
+    latitude:    45.913698
+    longitude:   11.024391
+  nogarole_rocca:
+    province_id: VR
+    id:          F921
+    name:        'Nogarole Rocca'
+    latitude:    45.292815
+    longitude:   10.884852
+  nogarole_vicentino:
+    province_id: VI
+    id:          F922
+    name:        'Nogarole Vicentino'
+    latitude:    45.561104
+    longitude:   11.289754
+  noicattaro:
+    province_id: BA
+    id:          F923
+    name:        Noicattaro
+    latitude:    41.034852
+    longitude:   16.990481
+  nola:
+    province_id: NA
+    id:          F924
+    name:        Nola
+    latitude:    40.925877
+    longitude:   14.528564
+  nole:
+    province_id: TO
+    id:          F925
+    name:        Nole
+    latitude:    45.24237
+    longitude:   7.574222
+  noli:
+    province_id: SV
+    id:          F926
+    name:        Noli
+    latitude:    44.205658
+    longitude:   8.416341
+  nomaglio:
+    province_id: TO
+    id:          F927
+    name:        Nomaglio
+    latitude:    45.536042
+    longitude:   7.860293
+  nomi:
+    province_id: TN
+    id:          F929
+    name:        Nomi
+    latitude:    45.929537
+    longitude:   11.072981
+  nonantola:
+    province_id: MO
+    id:          F930
+    name:        Nonantola
+    latitude:    44.6766
+    longitude:   11.035551
+  none:
+    province_id: TO
+    id:          F931
+    name:        None
+    latitude:    44.934241
+    longitude:   7.541259
+  nonio:
+    province_id: VB
+    id:          F932
+    name:        Nonio
+    latitude:    45.846722
+    longitude:   8.378778
+  noragugume:
+    province_id: NU
+    id:          F933
+    name:        Noragugume
+    latitude:    40.224984
+    longitude:   8.919367
+  norbello:
+    province_id: OR
+    id:          F934
+    name:        Norbello
+    latitude:    40.135963
+    longitude:   8.833148
+  norcia:
+    province_id: PG
+    id:          F935
+    name:        Norcia
+    latitude:    42.794241
+    longitude:   13.096426
+  norma:
+    province_id: LT
+    id:          F937
+    name:        Norma
+    latitude:    41.589074
+    longitude:   12.970315
+  nosate:
+    province_id: MI
+    id:          F939
+    name:        Nosate
+    latitude:    45.552388
+    longitude:   8.725367
+  ponte_nossa:
+    province_id: BG
+    id:          F941
+    name:        'Ponte Nossa'
+    latitude:    45.866847
+    longitude:   9.883967
+  notaresco:
+    province_id: TE
+    id:          F942
+    name:        Notaresco
+    latitude:    42.6593
+    longitude:   13.89261
+  noto:
+    province_id: SR
+    id:          F943
+    name:        Noto
+    latitude:    36.891792
+    longitude:   15.07089
+  nova_milanese:
+    province_id: MI
+    id:          F944
+    name:        'Nova Milanese'
+    latitude:    45.589241
+    longitude:   9.20035
+  novaledo:
+    province_id: TN
+    id:          F947
+    name:        Novaledo
+    latitude:    46.022981
+    longitude:   11.366889
+  novalesa:
+    province_id: TO
+    id:          F948
+    name:        Novalesa
+    latitude:    45.191169
+    longitude:   7.014799
+  nova_levante:
+    province_id: BZ
+    id:          F949
+    name:        'Nova Levante'
+    latitude:    46.427989
+    longitude:   11.541081
+  nova_ponente:
+    province_id: BZ
+    id:          F950
+    name:        'Nova Ponente'
+    latitude:    46.413734
+    longitude:   11.429375
+  novara_di_sicilia:
+    province_id: ME
+    id:          F951
+    name:        'Novara di Sicilia'
+    latitude:    38.014946
+    longitude:   15.129063
+  novara:
+    province_id: NO
+    id:          F952
+    name:        Novara
+    latitude:    45.445084
+    longitude:   8.618671
+  novate_milanese:
+    province_id: MI
+    id:          F955
+    name:        'Novate Milanese'
+    latitude:    45.531764
+    longitude:   9.140781
+  novate_mezzola:
+    province_id: SO
+    id:          F956
+    name:        'Novate Mezzola'
+    latitude:    46.2225
+    longitude:   9.450944
+  nove:
+    province_id: VI
+    id:          F957
+    name:        Nove
+    latitude:    45.72313
+    longitude:   11.678759
+  novedrate:
+    province_id: CO
+    id:          F958
+    name:        Novedrate
+    latitude:    45.699074
+    longitude:   9.121889
+  novellara:
+    province_id: RE
+    id:          F960
+    name:        Novellara
+    latitude:    44.843907
+    longitude:   10.728611
+  novello:
+    province_id: CN
+    id:          F961
+    name:        Novello
+    latitude:    44.588771
+    longitude:   7.927458
+  noventa_padovana:
+    province_id: PD
+    id:          F962
+    name:        'Noventa Padovana'
+    latitude:    45.415333
+    longitude:   11.952037
+  noventa_di_piave:
+    province_id: VE
+    id:          F963
+    name:        'Noventa di Piave'
+    latitude:    45.660796
+    longitude:   12.534704
+  noventa_vicentina:
+    province_id: VI
+    id:          F964
+    name:        'Noventa Vicentina'
+    latitude:    45.290568
+    longitude:   11.540067
+  novi_ligure:
+    province_id: AL
+    id:          F965
+    name:        'Novi Ligure'
+    latitude:    44.761796
+    longitude:   8.786101
+  novi_di_modena:
+    province_id: MO
+    id:          F966
+    name:        'Novi di Modena'
+    latitude:    44.891407
+    longitude:   10.902518
+  novi_velia:
+    province_id: SA
+    id:          F967
+    name:        'Novi Velia'
+    latitude:    40.224973
+    longitude:   15.287512
+  noviglio:
+    province_id: MI
+    id:          F968
+    name:        Noviglio
+    latitude:    45.358287
+    longitude:   9.053373
+  novoli:
+    province_id: LE
+    id:          F970
+    name:        Novoli
+    latitude:    40.379537
+    longitude:   18.05
+  nucetto:
+    province_id: CN
+    id:          F972
+    name:        Nucetto
+    latitude:    44.341921
+    longitude:   8.060966
+  nughedu_santa_vittoria:
+    province_id: OR
+    id:          F974
+    name:        'Nughedu Santa Vittoria'
+    latitude:    40.102352
+    longitude:   8.954241
+  nughedu_san_nicolo:
+    province_id: SS
+    id:          F975
+    name:        'Nughedu San Nicolò'
+    latitude:    40.558496
+    longitude:   9.022198
+  nule:
+    province_id: SS
+    id:          F976
+    name:        Nule
+    latitude:    40.462667
+    longitude:   9.190963
+  nulvi:
+    province_id: SS
+    id:          F977
+    name:        Nulvi
+    latitude:    40.784852
+    longitude:   8.74487
+  numana:
+    province_id: AN
+    id:          F978
+    name:        Numana
+    latitude:    43.511269
+    longitude:   13.621412
+  nuoro:
+    province_id: NU
+    id:          F979
+    name:        Nuoro
+    latitude:    40.321005
+    longitude:   9.330436
+  nurachi:
+    province_id: OR
+    id:          F980
+    name:        Nurachi
+    latitude:    39.973188
+    longitude:   8.539866
+  nuragus:
+    province_id: CA
+    id:          F981
+    name:        Nuragus
+    latitude:    39.777352
+    longitude:   9.039241
+  nurallao:
+    province_id: CA
+    id:          F982
+    name:        Nurallao
+    latitude:    39.794907
+    longitude:   9.082139
+  nuraminis:
+    province_id: CA
+    id:          F983
+    name:        Nuraminis
+    latitude:    39.444074
+    longitude:   9.015796
+  nureci:
+    province_id: OR
+    id:          F985
+    name:        Nureci
+    latitude:    39.824555
+    longitude:   8.974852
+  nurri:
+    province_id: CA
+    id:          F986
+    name:        Nurri
+    latitude:    39.71313
+    longitude:   9.230963
+  nus:
+    province_id: AO
+    id:          F987
+    name:        Nus
+    latitude:    45.741259
+    longitude:   7.467833
+  nusco:
+    province_id: AV
+    id:          F988
+    name:        Nusco
+    latitude:    40.887283
+    longitude:   15.084865
+  nuvolento:
+    province_id: BS
+    id:          F989
+    name:        Nuvolento
+    latitude:    45.546722
+    longitude:   10.387815
+  nuvolera:
+    province_id: BS
+    id:          F990
+    name:        Nuvolera
+    latitude:    45.53313
+    longitude:   10.370333
+  nuxis:
+    province_id: CI
+    id:          F991
+    name:        Nuxis
+    latitude:    39.154074
+    longitude:   8.739241

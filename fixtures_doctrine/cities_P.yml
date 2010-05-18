@@ -1,0 +1,4463 @@
+City:
+  City_pabillonis:
+    Province:  ProvinceVS
+    id:        G207
+    name:      Pabillonis
+    latitude:  39.59237
+    longitude: 8.721722
+  City_paceco:
+    Province:  ProvinceTP
+    id:        G208
+    name:      Paceco
+    latitude:  37.979852
+    longitude: 12.5575
+  City_pace_del_mela:
+    Province:  ProvinceME
+    id:        G209
+    name:      'Pace del Mela'
+    latitude:  38.181121
+    longitude: 15.306983
+  City_pacentro:
+    Province:  ProvinceAQ
+    id:        G210
+    name:      Pacentro
+    latitude:  42.051807
+    longitude: 13.992395
+  City_pachino:
+    Province:  ProvinceSR
+    id:        G211
+    name:      Pachino
+    latitude:  36.715837
+    longitude: 15.089794
+  City_paciano:
+    Province:  ProvincePG
+    id:        G212
+    name:      Paciano
+    latitude:  43.023234
+    longitude: 12.069361
+  City_padenghe_sul_garda:
+    Province:  ProvinceBS
+    id:        G213
+    name:      'Padenghe sul Garda'
+    latitude:  45.510648
+    longitude: 10.507518
+  City_padergnone:
+    Province:  ProvinceTN
+    id:        G214
+    name:      Padergnone
+    latitude:  46.063148
+    longitude: 10.990018
+  City_paderna:
+    Province:  ProvinceAL
+    id:        G215
+    name:      Paderna
+    latitude:  44.821574
+    longitude: 8.892352
+  City_paderno_franciacorta:
+    Province:  ProvinceBS
+    id:        G217
+    name:      'Paderno Franciacorta'
+    latitude:  45.587058
+    longitude: 10.079001
+  City_paderno_d_adda:
+    Province:  ProvinceLC
+    id:        G218
+    name:      'Paderno D''Adda'
+    latitude:  45.680963
+    longitude: 9.446259
+  City_paderno_dugnano:
+    Province:  ProvinceMI
+    id:        G220
+    name:      'Paderno Dugnano'
+    latitude:  45.567427
+    longitude: 9.159549
+  City_paderno_del_grappa:
+    Province:  ProvinceTV
+    id:        G221
+    name:      'Paderno del Grappa'
+    latitude:  45.829403
+    longitude: 11.859642
+  City_paderno_ponchielli:
+    Province:  ProvinceCR
+    id:        G222
+    name:      'Paderno Ponchielli'
+    latitude:  45.239601
+    longitude: 9.930331
+  City_robbiate:
+    Province:  ProvinceLC
+    id:        G223
+    name:      Robbiate
+    latitude:  45.692518
+    longitude: 9.437981
+  City_padova:
+    Province:  ProvincePD
+    id:        G224
+    name:      Padova
+    latitude:  45.409568
+    longitude: 11.876589
+  City_padria:
+    Province:  ProvinceSS
+    id:        G225
+    name:      Padria
+    latitude:  40.397518
+    longitude: 8.630944
+  City_padula:
+    Province:  ProvinceSA
+    id:        G226
+    name:      Padula
+    latitude:  40.337981
+    longitude: 15.655944
+  City_paduli:
+    Province:  ProvinceBN
+    id:        G227
+    name:      Paduli
+    latitude:  41.165169
+    longitude: 14.88107
+  City_paesana:
+    Province:  ProvinceCN
+    id:        G228
+    name:      Paesana
+    latitude:  44.686262
+    longitude: 7.275881
+  City_paese:
+    Province:  ProvinceTV
+    id:        G229
+    name:      Paese
+    latitude:  45.677625
+    longitude: 12.156391
+  City_pagani:
+    Province:  ProvinceSA
+    id:        G230
+    name:      Pagani
+    latitude:  40.747328
+    longitude: 14.61464
+  City_paganico_sabino:
+    Province:  ProvinceRI
+    id:        G232
+    name:      'Paganico Sabino'
+    latitude:  42.189954
+    longitude: 12.997839
+  City_pagazzano:
+    Province:  ProvinceBG
+    id:        G233
+    name:      Pagazzano
+    latitude:  45.535333
+    longitude: 9.67237
+  City_pagliara:
+    Province:  ProvinceME
+    id:        G234
+    name:      Pagliara
+    latitude:  37.986574
+    longitude: 15.360648
+  City_paglieta:
+    Province:  ProvinceCH
+    id:        G237
+    name:      Paglieta
+    latitude:  42.164074
+    longitude: 14.498296
+  City_pagnacco:
+    Province:  ProvinceUD
+    id:        G238
+    name:      Pagnacco
+    latitude:  46.125583
+    longitude: 13.189388
+  City_pagno:
+    Province:  ProvinceCN
+    id:        G240
+    name:      Pagno
+    latitude:  44.612833
+    longitude: 7.426889
+  City_pagnona:
+    Province:  ProvinceLC
+    id:        G241
+    name:      Pagnona
+    latitude:  46.06063
+    longitude: 9.403926
+  City_pago_del_vallo_di_lauro:
+    Province:  ProvinceAV
+    id:        G242
+    name:      'Pago del Vallo di Lauro'
+    latitude:  40.896278
+    longitude: 14.605698
+  City_pago_veiano:
+    Province:  ProvinceBN
+    id:        G243
+    name:      'Pago Veiano'
+    latitude:  41.248907
+    longitude: 14.87237
+  City_paisco_loveno:
+    Province:  ProvinceBS
+    id:        G247
+    name:      'Paisco Loveno'
+    latitude:  46.078632
+    longitude: 10.292497
+  City_paitone:
+    Province:  ProvinceBS
+    id:        G248
+    name:      Paitone
+    latitude:  45.551889
+    longitude: 10.402803
+  City_paladina:
+    Province:  ProvinceBG
+    id:        G249
+    name:      Paladina
+    latitude:  45.73175
+    longitude: 9.607078
+  City_palagano:
+    Province:  ProvinceMO
+    id:        G250
+    name:      Palagano
+    latitude:  44.322056
+    longitude: 10.647204
+  City_palagianello:
+    Province:  ProvinceTA
+    id:        G251
+    name:      Palagianello
+    latitude:  40.610598
+    longitude: 16.974323
+  City_palagiano:
+    Province:  ProvinceTA
+    id:        G252
+    name:      Palagiano
+    latitude:  40.579222
+    longitude: 17.038296
+  City_palagonia:
+    Province:  ProvinceCT
+    id:        G253
+    name:      Palagonia
+    latitude:  37.329441
+    longitude: 14.745689
+  City_palaia:
+    Province:  ProvincePI
+    id:        G254
+    name:      Palaia
+    latitude:  43.605182
+    longitude: 10.774345
+  City_palanzano:
+    Province:  ProvincePR
+    id:        G255
+    name:      Palanzano
+    latitude:  44.43539
+    longitude: 10.193213
+  City_palata:
+    Province:  ProvinceCB
+    id:        G257
+    name:      Palata
+    latitude:  41.890604
+    longitude: 14.785239
+  City_palau:
+    Province:  ProvinceOT
+    id:        G258
+    name:      Palau
+    latitude:  41.179444
+    longitude: 9.382113
+  City_palazzago:
+    Province:  ProvinceBG
+    id:        G259
+    name:      Palazzago
+    latitude:  45.753024
+    longitude: 9.533444
+  City_palazzo_pignano:
+    Province:  ProvinceCR
+    id:        G260
+    name:      'Palazzo Pignano'
+    latitude:  45.391111
+    longitude: 9.57063
+  City_palazzo_san_gervasio:
+    Province:  ProvincePZ
+    id:        G261
+    name:      'Palazzo San Gervasio'
+    latitude:  40.931411
+    longitude: 15.985477
+  City_palazzo_canavese:
+    Province:  ProvinceTO
+    id:        G262
+    name:      'Palazzo Canavese'
+    latitude:  45.458622
+    longitude: 7.979655
+  City_palazzo_adriano:
+    Province:  ProvincePA
+    id:        G263
+    name:      'Palazzo Adriano'
+    latitude:  37.682198
+    longitude: 13.380012
+  City_palazzolo_sull_oglio:
+    Province:  ProvinceBS
+    id:        G264
+    name:      'Palazzolo sull''Oglio'
+    latitude:  45.5996
+    longitude: 9.884864
+  City_palazzolo_vercellese:
+    Province:  ProvinceVC
+    id:        G266
+    name:      'Palazzolo Vercellese'
+    latitude:  45.185585
+    longitude: 8.230806
+  City_palazzolo_acreide:
+    Province:  ProvinceSR
+    id:        G267
+    name:      'Palazzolo Acreide'
+    latitude:  37.063444
+    longitude: 14.904389
+  City_palazzolo_dello_stella:
+    Province:  ProvinceUD
+    id:        G268
+    name:      'Palazzolo dello Stella'
+    latitude:  45.805664
+    longitude: 13.086877
+  City_palazzuolo_sul_senio:
+    Province:  ProvinceFI
+    id:        G270
+    name:      'Palazzuolo sul Senio'
+    latitude:  44.113472
+    longitude: 11.548025
+  City_palena:
+    Province:  ProvinceCH
+    id:        G271
+    name:      Palena
+    latitude:  41.984074
+    longitude: 14.138778
+  City_palermiti:
+    Province:  ProvinceCZ
+    id:        G272
+    name:      Palermiti
+    latitude:  38.749865
+    longitude: 16.453066
+  City_palermo:
+    Province:  ProvincePA
+    id:        G273
+    name:      Palermo
+    latitude:  38.115681
+    longitude: 13.361159
+  City_palestrina:
+    Province:  ProvinceRM
+    id:        G274
+    name:      Palestrina
+    latitude:  41.835367
+    longitude: 12.884538
+  City_palestro:
+    Province:  ProvincePV
+    id:        G275
+    name:      Palestro
+    latitude:  45.302089
+    longitude: 8.532547
+  City_paliano:
+    Province:  ProvinceFR
+    id:        G276
+    name:      Paliano
+    latitude:  41.806012
+    longitude: 13.057877
+  City_palizzi:
+    Province:  ProvinceRC
+    id:        G277
+    name:      Palizzi
+    latitude:  37.967058
+    longitude: 15.987195
+  City_pallagorio:
+    Province:  ProvinceKR
+    id:        G278
+    name:      Pallagorio
+    latitude:  39.308495
+    longitude: 16.907476
+  City_pallanzeno:
+    Province:  ProvinceVB
+    id:        G280
+    name:      Pallanzeno
+    latitude:  46.042981
+    longitude: 8.259222
+  City_pallare:
+    Province:  ProvinceSV
+    id:        G281
+    name:      Pallare
+    latitude:  44.328296
+    longitude: 8.276407
+  City_palma_di_montechiaro:
+    Province:  ProvinceAG
+    id:        G282
+    name:      'Palma di Montechiaro'
+    latitude:  37.193759
+    longitude: 13.765963
+  City_palma_campania:
+    Province:  ProvinceNA
+    id:        G283
+    name:      'Palma Campania'
+    latitude:  40.865944
+    longitude: 14.549704
+  City_palmanova:
+    Province:  ProvinceUD
+    id:        G284
+    name:      Palmanova
+    latitude:  45.907204
+    longitude: 13.311111
+  City_palmariggi:
+    Province:  ProvinceLE
+    id:        G285
+    name:      Palmariggi
+    latitude:  40.131741
+    longitude: 18.380333
+  City_palmas_arborea:
+    Province:  ProvinceOR
+    id:        G286
+    name:      'Palmas Arborea'
+    latitude:  39.875516
+    longitude: 8.646613
+  City_san_giovanni_suergiu:
+    Province:  ProvinceCI
+    id:        G287
+    name:      'San Giovanni Suergiu'
+    latitude:  39.111197
+    longitude: 8.523622
+  City_palmi:
+    Province:  ProvinceRC
+    id:        G288
+    name:      Palmi
+    latitude:  38.352419
+    longitude: 15.836324
+  City_palmiano:
+    Province:  ProvinceAP
+    id:        G289
+    name:      Palmiano
+    latitude:  42.900563
+    longitude: 13.459003
+  City_palmoli:
+    Province:  ProvinceCH
+    id:        G290
+    name:      Palmoli
+    latitude:  41.939434
+    longitude: 14.581582
+  City_palo_del_colle:
+    Province:  ProvinceBA
+    id:        G291
+    name:      'Palo del Colle'
+    latitude:  41.058611
+    longitude: 16.701741
+  City_palomonte:
+    Province:  ProvinceSA
+    id:        G292
+    name:      Palomonte
+    latitude:  40.663611
+    longitude: 15.292833
+  City_palombara_sabina:
+    Province:  ProvinceRM
+    id:        G293
+    name:      'Palombara Sabina'
+    latitude:  42.071194
+    longitude: 12.766566
+  City_palombaro:
+    Province:  ProvinceCH
+    id:        G294
+    name:      Palombaro
+    latitude:  42.127222
+    longitude: 14.230368
+  City_palosco:
+    Province:  ProvinceBG
+    id:        G295
+    name:      Palosco
+    latitude:  45.587682
+    longitude: 9.836002
+  City_palu_del_fersina:
+    Province:  ProvinceTN
+    id:        G296
+    name:      'Palù del Fersina'
+    latitude:  46.129721
+    longitude: 11.352372
+  City_palu:
+    Province:  ProvinceVR
+    id:        G297
+    name:      Palù
+    latitude:  45.326407
+    longitude: 11.156426
+  City_paludi:
+    Province:  ProvinceCS
+    id:        G298
+    name:      Paludi
+    latitude:  39.531278
+    longitude: 16.683778
+  City_plaus:
+    Province:  ProvinceBZ
+    id:        G299
+    name:      Plaus
+    latitude:  46.656218
+    longitude: 11.041532
+  City_paluzza:
+    Province:  ProvinceUD
+    id:        G300
+    name:      Paluzza
+    latitude:  46.53468
+    longitude: 13.020762
+  City_pamparato:
+    Province:  ProvinceCN
+    id:        G302
+    name:      Pamparato
+    latitude:  44.277715
+    longitude: 7.913561
+  City_pancalieri:
+    Province:  ProvinceTO
+    id:        G303
+    name:      Pancalieri
+    latitude:  44.832352
+    longitude: 7.596574
+  City_pancarana:
+    Province:  ProvincePV
+    id:        G304
+    name:      Pancarana
+    latitude:  45.075648
+    longitude: 9.051722
+  City_panchia:
+    Province:  ProvinceTN
+    id:        G305
+    name:      Panchià
+    latitude:  46.286741
+    longitude: 11.543611
+  City_pandino:
+    Province:  ProvinceCR
+    id:        G306
+    name:      Pandino
+    latitude:  45.405364
+    longitude: 9.553019
+  City_panettieri:
+    Province:  ProvinceCS
+    id:        G307
+    name:      Panettieri
+    latitude:  39.059983
+    longitude: 16.454594
+  City_panicale:
+    Province:  ProvincePG
+    id:        G308
+    name:      Panicale
+    latitude:  43.029428
+    longitude: 12.100063
+  City_villaricca:
+    Province:  ProvinceNA
+    id:        G309
+    name:      Villaricca
+    latitude:  40.922667
+    longitude: 14.190796
+  City_pannarano:
+    Province:  ProvinceBN
+    id:        G311
+    name:      Pannarano
+    latitude:  41.010963
+    longitude: 14.702815
+  City_panni:
+    Province:  ProvinceFG
+    id:        G312
+    name:      Panni
+    latitude:  41.223148
+    longitude: 15.275648
+  City_ronzo_chienis:
+    Province:  ProvinceTN
+    id:        G313
+    name:      Ronzo-Chienis
+    latitude:  45.890648
+    longitude: 10.951278
+  City_pantelleria:
+    Province:  ProvinceTP
+    id:        G315
+    name:      Pantelleria
+    latitude:  36.829074
+    longitude: 11.943463
+  City_pantigliate:
+    Province:  ProvinceMI
+    id:        G316
+    name:      Pantigliate
+    latitude:  45.433363
+    longitude: 9.352025
+  City_paola:
+    Province:  ProvinceCS
+    id:        G317
+    name:      Paola
+    latitude:  39.36094
+    longitude: 16.040474
+  City_paolisi:
+    Province:  ProvinceBN
+    id:        G318
+    name:      Paolisi
+    latitude:  41.03813
+    longitude: 14.577352
+  City_valderice:
+    Province:  ProvinceTP
+    id:        G319
+    name:      Valderice
+    latitude:  38.036928
+    longitude: 12.612208
+  City_papasidero:
+    Province:  ProvinceCS
+    id:        G320
+    name:      Papasidero
+    latitude:  39.872624
+    longitude: 15.907525
+  City_papozze:
+    Province:  ProvinceRO
+    id:        G323
+    name:      Papozze
+    latitude:  44.986722
+    longitude: 12.032056
+  City_parabiago:
+    Province:  ProvinceMI
+    id:        G324
+    name:      Parabiago
+    latitude:  45.556794
+    longitude: 8.946241
+  City_parabita:
+    Province:  ProvinceLE
+    id:        G325
+    name:      Parabita
+    latitude:  40.048783
+    longitude: 18.127696
+  City_paratico:
+    Province:  ProvinceBS
+    id:        G327
+    name:      Paratico
+    latitude:  45.654964
+    longitude: 9.956982
+  City_parcines:
+    Province:  ProvinceBZ
+    id:        G328
+    name:      Parcines
+    latitude:  46.682178
+    longitude: 11.06827
+  City_pare:
+    Province:  ProvinceCO
+    id:        G329
+    name:      Parè
+    latitude:  45.811889
+    longitude: 9.009852
+  City_parella:
+    Province:  ProvinceTO
+    id:        G330
+    name:      Parella
+    latitude:  45.430294
+    longitude: 7.794183
+  City_parenti:
+    Province:  ProvinceCS
+    id:        G331
+    name:      Parenti
+    latitude:  39.163296
+    longitude: 16.411426
+  City_parete:
+    Province:  ProvinceCE
+    id:        G333
+    name:      Parete
+    latitude:  40.960018
+    longitude: 14.162815
+  City_pareto:
+    Province:  ProvinceAL
+    id:        G334
+    name:      Pareto
+    latitude:  44.517518
+    longitude: 8.382981
+  City_parghelia:
+    Province:  ProvinceVV
+    id:        G335
+    name:      Parghelia
+    latitude:  38.682056
+    longitude: 15.923463
+  City_parlasco:
+    Province:  ProvinceLC
+    id:        G336
+    name:      Parlasco
+    latitude:  46.01873
+    longitude: 9.34557
+  City_parma:
+    Province:  ProvincePR
+    id:        G337
+    name:      Parma
+    latitude:  44.804446
+    longitude: 10.332515
+  City_parodi_ligure:
+    Province:  ProvinceAL
+    id:        G338
+    name:      'Parodi Ligure'
+    latitude:  44.670709
+    longitude: 8.758052
+  City_paroldo:
+    Province:  ProvinceCN
+    id:        G339
+    name:      Paroldo
+    latitude:  44.433148
+    longitude: 8.073611
+  City_parolise:
+    Province:  ProvinceAV
+    id:        G340
+    name:      Parolise
+    latitude:  40.931478
+    longitude: 14.883811
+  City_parona:
+    Province:  ProvincePV
+    id:        G342
+    name:      Parona
+    latitude:  45.28277
+    longitude: 8.751717
+  City_parrano:
+    Province:  ProvinceTR
+    id:        G344
+    name:      Parrano
+    latitude:  42.86737
+    longitude: 12.111259
+  City_parre:
+    Province:  ProvinceBG
+    id:        G346
+    name:      Parre
+    latitude:  45.872404
+    longitude: 9.888075
+  City_partanna:
+    Province:  ProvinceTP
+    id:        G347
+    name:      Partanna
+    latitude:  37.728907
+    longitude: 12.889556
+  City_partinico:
+    Province:  ProvincePA
+    id:        G348
+    name:      Partinico
+    latitude:  38.045
+    longitude: 13.120944
+  City_paruzzaro:
+    Province:  ProvinceNO
+    id:        G349
+    name:      Paruzzaro
+    latitude:  45.749716
+    longitude: 8.517686
+  City_parzanica:
+    Province:  ProvinceBG
+    id:        G350
+    name:      Parzanica
+    latitude:  45.738163
+    longitude: 10.036436
+  City_pasian_di_prato:
+    Province:  ProvinceUD
+    id:        G352
+    name:      'Pasian di Prato'
+    latitude:  46.047148
+    longitude: 13.189802
+  City_pasiano_di_pordenone:
+    Province:  ProvincePN
+    id:        G353
+    name:      'Pasiano di Pordenone'
+    latitude:  45.849027
+    longitude: 12.625204
+  City_paspardo:
+    Province:  ProvinceBS
+    id:        G354
+    name:      Paspardo
+    latitude:  46.031111
+    longitude: 10.370467
+  City_passerano_marmorito:
+    Province:  ProvinceAT
+    id:        G358
+    name:      'Passerano Marmorito'
+    latitude:  45.057744
+    longitude: 8.018928
+  City_passignano_sul_trasimeno:
+    Province:  ProvincePG
+    id:        G359
+    name:      'Passignano sul Trasimeno'
+    latitude:  43.195167
+    longitude: 12.130333
+  City_passirano:
+    Province:  ProvinceBS
+    id:        G361
+    name:      Passirano
+    latitude:  45.599704
+    longitude: 10.067833
+  City_pastena:
+    Province:  ProvinceFR
+    id:        G362
+    name:      Pastena
+    latitude:  41.469527
+    longitude: 13.491227
+  City_pastorano:
+    Province:  ProvinceCE
+    id:        G364
+    name:      Pastorano
+    latitude:  41.181889
+    longitude: 14.199241
+  City_pastrengo:
+    Province:  ProvinceVR
+    id:        G365
+    name:      Pastrengo
+    latitude:  45.494074
+    longitude: 10.800963
+  City_pasturana:
+    Province:  ProvinceAL
+    id:        G367
+    name:      Pasturana
+    latitude:  44.751885
+    longitude: 8.750308
+  City_pasturo:
+    Province:  ProvinceLC
+    id:        G368
+    name:      Pasturo
+    latitude:  45.952227
+    longitude: 9.444984
+  City_paternopoli:
+    Province:  ProvinceAV
+    id:        G370
+    name:      Paternopoli
+    latitude:  40.974389
+    longitude: 15.032981
+  City_paterno:
+    Province:  ProvincePZ
+    id:        M269
+    name:      Paterno
+    latitude:  40.379389
+    longitude: 15.733778
+  City_paterno_calabro:
+    Province:  ProvinceCS
+    id:        G372
+    name:      'Paterno Calabro'
+    latitude:  39.227379
+    longitude: 16.268589
+  City_patrica:
+    Province:  ProvinceFR
+    id:        G374
+    name:      Patrica
+    latitude:  41.592832
+    longitude: 13.24516
+  City_pattada:
+    Province:  ProvinceSS
+    id:        G376
+    name:      Pattada
+    latitude:  40.582815
+    longitude: 9.113907
+  City_patti:
+    Province:  ProvinceME
+    id:        G377
+    name:      Patti
+    latitude:  38.141266
+    longitude: 14.965814
+  City_patu:
+    Province:  ProvinceLE
+    id:        G378
+    name:      Patù
+    latitude:  39.84237
+    longitude: 18.33987
+  City_pau:
+    Province:  ProvinceOR
+    id:        G379
+    name:      Pau
+    latitude:  39.791625
+    longitude: 8.801642
+  City_paularo:
+    Province:  ProvinceUD
+    id:        G381
+    name:      Paularo
+    latitude:  46.528707
+    longitude: 13.120406
+  City_pauli_arbarei:
+    Province:  ProvinceVS
+    id:        G382
+    name:      'Pauli Arbarei'
+    latitude:  39.661889
+    longitude: 8.923148
+  City_san_nicolo_gerrei:
+    Province:  ProvinceCA
+    id:        G383
+    name:      'San Nicolò Gerrei'
+    latitude:  39.498611
+    longitude: 9.30813
+  City_paulilatino:
+    Province:  ProvinceOR
+    id:        G384
+    name:      Paulilatino
+    latitude:  40.085167
+    longitude: 8.764537
+  City_paullo:
+    Province:  ProvinceMI
+    id:        G385
+    name:      Paullo
+    latitude:  45.418006
+    longitude: 9.40023
+  City_paupisi:
+    Province:  ProvinceBN
+    id:        G386
+    name:      Paupisi
+    latitude:  41.195118
+    longitude: 14.666271
+  City_pavarolo:
+    Province:  ProvinceTO
+    id:        G387
+    name:      Pavarolo
+    latitude:  45.069517
+    longitude: 7.836241
+  City_pavia:
+    Province:  ProvincePV
+    id:        G388
+    name:      Pavia
+    latitude:  45.18588
+    longitude: 9.156594
+  City_pavia_di_udine:
+    Province:  ProvinceUD
+    id:        G389
+    name:      'Pavia di Udine'
+    latitude:  45.99737
+    longitude: 13.305167
+  City_pavone_del_mella:
+    Province:  ProvinceBS
+    id:        G391
+    name:      'Pavone del Mella'
+    latitude:  45.302497
+    longitude: 10.210603
+  City_pavone_canavese:
+    Province:  ProvinceTO
+    id:        G392
+    name:      'Pavone Canavese'
+    latitude:  45.435458
+    longitude: 7.852923
+  City_pavullo_nel_frignano:
+    Province:  ProvinceMO
+    id:        G393
+    name:      'Pavullo nel Frignano'
+    latitude:  44.332518
+    longitude: 10.836111
+  City_pazzano:
+    Province:  ProvinceRC
+    id:        G394
+    name:      Pazzano
+    latitude:  38.475743
+    longitude: 16.451902
+  City_peccioli:
+    Province:  ProvincePI
+    id:        G395
+    name:      Peccioli
+    latitude:  43.546615
+    longitude: 10.719196
+  City_pecco:
+    Province:  ProvinceTO
+    id:        G396
+    name:      Pecco
+    latitude:  45.451805
+    longitude: 7.777187
+  City_pecetto_di_valenza:
+    Province:  ProvinceAL
+    id:        G397
+    name:      'Pecetto di Valenza'
+    latitude:  44.991028
+    longitude: 8.672068
+  City_pecetto_torinese:
+    Province:  ProvinceTO
+    id:        G398
+    name:      'Pecetto Torinese'
+    latitude:  45.01721
+    longitude: 7.75037
+  City_pecorara:
+    Province:  ProvincePC
+    id:        G399
+    name:      Pecorara
+    latitude:  44.87737
+    longitude: 9.385315
+  City_pedace:
+    Province:  ProvinceCS
+    id:        G400
+    name:      Pedace
+    latitude:  39.275491
+    longitude: 16.337523
+  City_pedara:
+    Province:  ProvinceCT
+    id:        G402
+    name:      Pedara
+    latitude:  37.618954
+    longitude: 15.060848
+  City_pedaso:
+    Province:  ProvinceAP
+    id:        G403
+    name:      Pedaso
+    latitude:  43.100167
+    longitude: 13.841722
+  City_pedavena:
+    Province:  ProvinceBL
+    id:        G404
+    name:      Pedavena
+    latitude:  46.039614
+    longitude: 11.880379
+  City_pedemonte:
+    Province:  ProvinceVI
+    id:        G406
+    name:      Pedemonte
+    latitude:  45.908778
+    longitude: 11.30713
+  City_san_paolo:
+    Province:  ProvinceBS
+    id:        G407
+    name:      'San Paolo'
+    latitude:  45.371574
+    longitude: 10.027815
+  City_pederobba:
+    Province:  ProvinceTV
+    id:        G408
+    name:      Pederobba
+    latitude:  45.877998
+    longitude: 11.954953
+  City_pedesina:
+    Province:  ProvinceSO
+    id:        G410
+    name:      Pedesina
+    latitude:  46.082815
+    longitude: 9.550648
+  City_pedivigliano:
+    Province:  ProvinceCS
+    id:        G411
+    name:      Pedivigliano
+    latitude:  39.109624
+    longitude: 16.301226
+  City_pedrengo:
+    Province:  ProvinceBG
+    id:        G412
+    name:      Pedrengo
+    latitude:  45.697056
+    longitude: 9.736111
+  City_peglio:
+    Province:  ProvincePU
+    id:        G416
+    name:      Peglio
+    latitude:  43.696008
+    longitude: 12.497828
+  City_pegognaga:
+    Province:  ProvinceMN
+    id:        G417
+    name:      Pegognaga
+    latitude:  44.993778
+    longitude: 10.860796
+  City_peia:
+    Province:  ProvinceBG
+    id:        G418
+    name:      Peia
+    latitude:  45.801923
+    longitude: 9.89977
+  City_peio:
+    Province:  ProvinceTN
+    id:        G419
+    name:      Peio
+    latitude:  46.362791
+    longitude: 10.673404
+  City_pelago:
+    Province:  ProvinceFI
+    id:        G420
+    name:      Pelago
+    latitude:  43.772178
+    longitude: 11.504035
+  City_pella:
+    Province:  ProvinceNO
+    id:        G421
+    name:      Pella
+    latitude:  45.800112
+    longitude: 8.385885
+  City_pellegrino_parmense:
+    Province:  ProvincePR
+    id:        G424
+    name:      'Pellegrino Parmense'
+    latitude:  44.730834
+    longitude: 9.93225
+  City_pellezzano:
+    Province:  ProvinceSA
+    id:        G426
+    name:      Pellezzano
+    latitude:  40.726218
+    longitude: 14.758409
+  City_pellio_intelvi:
+    Province:  ProvinceCO
+    id:        G427
+    name:      'Pellio Intelvi'
+    latitude:  45.98071
+    longitude: 9.059779
+  City_pellizzano:
+    Province:  ProvinceTN
+    id:        G428
+    name:      Pellizzano
+    latitude:  46.310963
+    longitude: 10.760944
+  City_pelugo:
+    Province:  ProvinceTN
+    id:        G429
+    name:      Pelugo
+    latitude:  46.088924
+    longitude: 10.723762
+  City_penango:
+    Province:  ProvinceAT
+    id:        G430
+    name:      Penango
+    latitude:  45.031475
+    longitude: 8.250567
+  City_poggiridenti:
+    Province:  ProvinceSO
+    id:        G431
+    name:      Poggiridenti
+    latitude:  46.175796
+    longitude: 9.927204
+  City_penna_in_teverina:
+    Province:  ProvinceTR
+    id:        G432
+    name:      'Penna in Teverina'
+    latitude:  42.49313
+    longitude: 12.358611
+  City_pennabilli:
+    Province:  ProvincePU
+    id:        G433
+    name:      Pennabilli
+    latitude:  43.819074
+    longitude: 12.266741
+  City_pennadomo:
+    Province:  ProvinceCH
+    id:        G434
+    name:      Pennadomo
+    latitude:  42.005963
+    longitude: 14.325333
+  City_pennapiedimonte:
+    Province:  ProvinceCH
+    id:        G435
+    name:      Pennapiedimonte
+    latitude:  42.154717
+    longitude: 14.194812
+  City_penna_san_giovanni:
+    Province:  ProvinceMC
+    id:        G436
+    name:      'Penna San Giovanni'
+    latitude:  43.057399
+    longitude: 13.427134
+  City_penna_sant_andrea:
+    Province:  ProvinceTE
+    id:        G437
+    name:      'Penna Sant''Andrea'
+    latitude:  42.594294
+    longitude: 13.772051
+  City_penne:
+    Province:  ProvincePE
+    id:        G438
+    name:      Penne
+    latitude:  42.457622
+    longitude: 13.927475
+  City_pentone:
+    Province:  ProvinceCZ
+    id:        G439
+    name:      Pentone
+    latitude:  38.986889
+    longitude: 16.583463
+  City_perano:
+    Province:  ProvinceCH
+    id:        G441
+    name:      Perano
+    latitude:  42.104241
+    longitude: 14.395018
+  City_perarolo_di_cadore:
+    Province:  ProvinceBL
+    id:        G442
+    name:      'Perarolo di Cadore'
+    latitude:  46.39707
+    longitude: 12.355464
+  City_perca:
+    Province:  ProvinceBZ
+    id:        G443
+    name:      Perca
+    latitude:  46.790932
+    longitude: 11.982941
+  City_percile:
+    Province:  ProvinceRM
+    id:        G444
+    name:      Percile
+    latitude:  42.095134
+    longitude: 12.910784
+  City_perdasdefogu:
+    Province:  ProvinceOG
+    id:        G445
+    name:      Perdasdefogu
+    latitude:  39.677833
+    longitude: 9.441426
+  City_perdaxius:
+    Province:  ProvinceCI
+    id:        G446
+    name:      Perdaxius
+    latitude:  39.162204
+    longitude: 8.612518
+  City_perdifumo:
+    Province:  ProvinceSA
+    id:        G447
+    name:      Perdifumo
+    latitude:  40.266416
+    longitude: 15.018002
+  City_perego:
+    Province:  ProvinceLC
+    id:        G448
+    name:      Perego
+    latitude:  45.738611
+    longitude: 9.364074
+  City_pereto:
+    Province:  ProvinceAQ
+    id:        G449
+    name:      Pereto
+    latitude:  42.059125
+    longitude: 13.100641
+  City_perfugas:
+    Province:  ProvinceSS
+    id:        G450
+    name:      Perfugas
+    latitude:  40.834556
+    longitude: 8.883926
+  City_pergine_valdarno:
+    Province:  ProvinceAR
+    id:        G451
+    name:      'Pergine Valdarno'
+    latitude:  43.471407
+    longitude: 11.686722
+  City_pergine_valsugana:
+    Province:  ProvinceTN
+    id:        G452
+    name:      'Pergine Valsugana'
+    latitude:  46.061699
+    longitude: 11.237123
+  City_pergola:
+    Province:  ProvincePU
+    id:        G453
+    name:      Pergola
+    latitude:  43.557515
+    longitude: 12.836352
+  City_perinaldo:
+    Province:  ProvinceIM
+    id:        G454
+    name:      Perinaldo
+    latitude:  43.867624
+    longitude: 7.669886
+  City_perito:
+    Province:  ProvinceSA
+    id:        G455
+    name:      Perito
+    latitude:  40.29621
+    longitude: 15.144099
+  City_perledo:
+    Province:  ProvinceLC
+    id:        G456
+    name:      Perledo
+    latitude:  46.01737
+    longitude: 9.294222
+  City_perletto:
+    Province:  ProvinceCN
+    id:        G457
+    name:      Perletto
+    latitude:  44.600315
+    longitude: 8.214241
+  City_perlo:
+    Province:  ProvinceCN
+    id:        G458
+    name:      Perlo
+    latitude:  44.332792
+    longitude: 8.083557
+  City_perloz:
+    Province:  ProvinceAO
+    id:        G459
+    name:      Perloz
+    latitude:  45.614855
+    longitude: 7.808375
+  City_pernumia:
+    Province:  ProvincePD
+    id:        G461
+    name:      Pernumia
+    latitude:  45.258427
+    longitude: 11.788965
+  City_perosa_canavese:
+    Province:  ProvinceTO
+    id:        G462
+    name:      'Perosa Canavese'
+    latitude:  45.398148
+    longitude: 7.832056
+  City_perosa_argentina:
+    Province:  ProvinceTO
+    id:        G463
+    name:      'Perosa Argentina'
+    latitude:  44.9569
+    longitude: 7.191904
+  City_perrero:
+    Province:  ProvinceTO
+    id:        G465
+    name:      Perrero
+    latitude:  44.938328
+    longitude: 7.114769
+  City_san_giovanni_in_persiceto:
+    Province:  ProvinceBO
+    id:        G467
+    name:      'San Giovanni in Persiceto'
+    latitude:  44.640944
+    longitude: 11.185167
+  City_persico_dosimo:
+    Province:  ProvinceCR
+    id:        G469
+    name:      'Persico Dosimo'
+    latitude:  45.16833
+    longitude: 10.07888
+  City_pertengo:
+    Province:  ProvinceVC
+    id:        G471
+    name:      Pertengo
+    latitude:  45.236058
+    longitude: 8.41762
+  City_pertica_alta:
+    Province:  ProvinceBS
+    id:        G474
+    name:      'Pertica Alta'
+    latitude:  45.743463
+    longitude: 10.345333
+  City_pertica_bassa:
+    Province:  ProvinceBS
+    id:        G475
+    name:      'Pertica Bassa'
+    latitude:  45.754389
+    longitude: 10.373611
+  City_pertosa:
+    Province:  ProvinceSA
+    id:        G476
+    name:      Pertosa
+    latitude:  40.544704
+    longitude: 15.44987
+  City_pertusio:
+    Province:  ProvinceTO
+    id:        G477
+    name:      Pertusio
+    latitude:  45.356741
+    longitude: 7.642667
+  City_perugia:
+    Province:  ProvincePG
+    id:        G478
+    name:      Perugia
+    latitude:  43.110701
+    longitude: 12.389172
+  City_pesaro:
+    Province:  ProvincePU
+    id:        G479
+    name:      Pesaro
+    latitude:  43.912069
+    longitude: 12.915744
+  City_pescaglia:
+    Province:  ProvinceLU
+    id:        G480
+    name:      Pescaglia
+    latitude:  43.96737
+    longitude: 10.412204
+  City_pescantina:
+    Province:  ProvinceVR
+    id:        G481
+    name:      Pescantina
+    latitude:  45.482725
+    longitude: 10.867548
+  City_pescara:
+    Province:  ProvincePE
+    id:        G482
+    name:      Pescara
+    latitude:  42.464826
+    longitude: 14.214095
+  City_pescarolo_ed_uniti:
+    Province:  ProvinceCR
+    id:        G483
+    name:      'Pescarolo ed Uniti'
+    latitude:  45.194852
+    longitude: 10.1875
+  City_pescasseroli:
+    Province:  ProvinceAQ
+    id:        G484
+    name:      Pescasseroli
+    latitude:  41.808249
+    longitude: 13.78958
+  City_pescate:
+    Province:  ProvinceLC
+    id:        G485
+    name:      Pescate
+    latitude:  45.83425
+    longitude: 9.39394
+  City_pesche:
+    Province:  ProvinceIS
+    id:        G486
+    name:      Pesche
+    latitude:  41.61011
+    longitude: 14.282056
+  City_peschici:
+    Province:  ProvinceFG
+    id:        G487
+    name:      Peschici
+    latitude:  41.947037
+    longitude: 16.013491
+  City_peschiera_borromeo:
+    Province:  ProvinceMI
+    id:        G488
+    name:      'Peschiera Borromeo'
+    latitude:  45.432025
+    longitude: 9.312296
+  City_peschiera_del_garda:
+    Province:  ProvinceVR
+    id:        G489
+    name:      'Peschiera del Garda'
+    latitude:  45.439387
+    longitude: 10.692055
+  City_pescia:
+    Province:  ProvincePT
+    id:        G491
+    name:      Pescia
+    latitude:  43.898148
+    longitude: 10.691407
+  City_pescina:
+    Province:  ProvinceAQ
+    id:        G492
+    name:      Pescina
+    latitude:  42.026294
+    longitude: 13.659567
+  City_pescocostanzo:
+    Province:  ProvinceAQ
+    id:        G493
+    name:      Pescocostanzo
+    latitude:  41.888592
+    longitude: 14.064273
+  City_pesco_sannita:
+    Province:  ProvinceBN
+    id:        G494
+    name:      'Pesco Sannita'
+    latitude:  41.233778
+    longitude: 14.813148
+  City_pescolanciano:
+    Province:  ProvinceIS
+    id:        G495
+    name:      Pescolanciano
+    latitude:  41.679556
+    longitude: 14.33813
+  City_pescopagano:
+    Province:  ProvincePZ
+    id:        G496
+    name:      Pescopagano
+    latitude:  40.836048
+    longitude: 15.398804
+  City_pescopennataro:
+    Province:  ProvinceIS
+    id:        G497
+    name:      Pescopennataro
+    latitude:  41.880191
+    longitude: 14.293236
+  City_pescorocchiano:
+    Province:  ProvinceRI
+    id:        G498
+    name:      Pescorocchiano
+    latitude:  42.207518
+    longitude: 13.147204
+  City_pescosansonesco:
+    Province:  ProvincePE
+    id:        G499
+    name:      Pescosansonesco
+    latitude:  42.255103
+    longitude: 13.884431
+  City_pescosolido:
+    Province:  ProvinceFR
+    id:        G500
+    name:      Pescosolido
+    latitude:  41.749241
+    longitude: 13.6575
+  City_pessano_con_bornago:
+    Province:  ProvinceMI
+    id:        G502
+    name:      'Pessano con Bornago'
+    latitude:  45.551507
+    longitude: 9.386971
+  City_pessina_cremonese:
+    Province:  ProvinceCR
+    id:        G504
+    name:      'Pessina Cremonese'
+    latitude:  45.186407
+    longitude: 10.24987
+  City_pessinetto:
+    Province:  ProvinceTO
+    id:        G505
+    name:      Pessinetto
+    latitude:  45.289181
+    longitude: 7.403896
+  City_petacciato:
+    Province:  ProvinceCB
+    id:        G506
+    name:      Petacciato
+    latitude:  42.012518
+    longitude: 14.861889
+  City_turania:
+    Province:  ProvinceRI
+    id:        G507
+    name:      Turania
+    latitude:  42.13881
+    longitude: 13.009016
+  City_petilia_policastro:
+    Province:  ProvinceKR
+    id:        G508
+    name:      'Petilia Policastro'
+    latitude:  39.115018
+    longitude: 16.786426
+  City_petina:
+    Province:  ProvinceSA
+    id:        G509
+    name:      Petina
+    latitude:  -32.476578
+    longitude: 134.396888
+  City_petralia_soprana:
+    Province:  ProvincePA
+    id:        G510
+    name:      'Petralia Soprana'
+    latitude:  37.797961
+    longitude: 14.107629
+  City_petralia_sottana:
+    Province:  ProvincePA
+    id:        G511
+    name:      'Petralia Sottana'
+    latitude:  37.808212
+    longitude: 14.091197
+  City_petrella_tifernina:
+    Province:  ProvinceCB
+    id:        G512
+    name:      'Petrella Tifernina'
+    latitude:  41.6925
+    longitude: 14.697204
+  City_petrella_salto:
+    Province:  ProvinceRI
+    id:        G513
+    name:      'Petrella Salto'
+    latitude:  42.295685
+    longitude: 13.069025
+  City_petriano:
+    Province:  ProvincePU
+    id:        G514
+    name:      Petriano
+    latitude:  43.779354
+    longitude: 12.732552
+  City_petriolo:
+    Province:  ProvinceMC
+    id:        G515
+    name:      Petriolo
+    latitude:  43.222352
+    longitude: 13.465481
+  City_petritoli:
+    Province:  ProvinceAP
+    id:        G516
+    name:      Petritoli
+    latitude:  43.067474
+    longitude: 13.656734
+  City_petrizzi:
+    Province:  ProvinceCZ
+    id:        G517
+    name:      Petrizzi
+    latitude:  38.701969
+    longitude: 16.472715
+  City_petrona:
+    Province:  ProvinceCZ
+    id:        G518
+    name:      Petronà
+    latitude:  39.043233
+    longitude: 16.7582
+  City_petruro_irpino:
+    Province:  ProvinceAV
+    id:        G519
+    name:      'Petruro Irpino'
+    latitude:  41.032224
+    longitude: 14.798313
+  City_pettenasco:
+    Province:  ProvinceNO
+    id:        G520
+    name:      Pettenasco
+    latitude:  45.8175
+    longitude: 8.40813
+  City_pettinengo:
+    Province:  ProvinceBI
+    id:        G521
+    name:      Pettinengo
+    latitude:  45.614074
+    longitude: 8.105315
+  City_pettineo:
+    Province:  ProvinceME
+    id:        G522
+    name:      Pettineo
+    latitude:  37.96725
+    longitude: 14.290524
+  City_pettoranello_del_molise:
+    Province:  ProvinceIS
+    id:        G523
+    name:      'Pettoranello del Molise'
+    latitude:  41.574241
+    longitude: 14.278444
+  City_pettorano_sul_gizio:
+    Province:  ProvinceAQ
+    id:        G524
+    name:      'Pettorano sul Gizio'
+    latitude:  41.975648
+    longitude: 13.959704
+  City_pettorazza_grimani:
+    Province:  ProvinceRO
+    id:        G525
+    name:      'Pettorazza Grimani'
+    latitude:  45.137037
+    longitude: 11.987815
+  City_peveragno:
+    Province:  ProvinceCN
+    id:        G526
+    name:      Peveragno
+    latitude:  44.3325
+    longitude: 7.620944
+  City_pezzana:
+    Province:  ProvinceVC
+    id:        G528
+    name:      Pezzana
+    latitude:  45.263148
+    longitude: 8.486278
+  City_pezzaze:
+    Province:  ProvinceBS
+    id:        G529
+    name:      Pezzaze
+    latitude:  45.777385
+    longitude: 10.237036
+  City_pezzolo_valle_uzzone:
+    Province:  ProvinceCN
+    id:        G532
+    name:      'Pezzolo Valle Uzzone'
+    latitude:  44.539795
+    longitude: 8.194751
+  City_piacenza_d_adige:
+    Province:  ProvincePD
+    id:        G534
+    name:      'Piacenza D''Adige'
+    latitude:  45.12967
+    longitude: 11.550364
+  City_piacenza:
+    Province:  ProvincePC
+    id:        G535
+    name:      Piacenza
+    latitude:  45.052392
+    longitude: 9.698744
+  City_piadena:
+    Province:  ProvinceCR
+    id:        G536
+    name:      Piadena
+    latitude:  45.128247
+    longitude: 10.37016
+  City_piagge:
+    Province:  ProvincePU
+    id:        G537
+    name:      Piagge
+    latitude:  43.735354
+    longitude: 12.969802
+  City_piaggine:
+    Province:  ProvinceSA
+    id:        G538
+    name:      Piaggine
+    latitude:  40.345964
+    longitude: 15.379544
+  City_valle_dell_angelo:
+    Province:  ProvinceSA
+    id:        G540
+    name:      'Valle dell''Angelo'
+    latitude:  40.344328
+    longitude: 15.36989
+  City_piana_di_monte_verna:
+    Province:  ProvinceCE
+    id:        G541
+    name:      'Piana di Monte Verna'
+    latitude:  41.16813
+    longitude: 14.334704
+  City_piana_crixia:
+    Province:  ProvinceSV
+    id:        G542
+    name:      'Piana Crixia'
+    latitude:  44.486111
+    longitude: 8.309241
+  City_piana_degli_albanesi:
+    Province:  ProvincePA
+    id:        G543
+    name:      'Piana degli Albanesi'
+    latitude:  37.996457
+    longitude: 13.283663
+  City_pontboset:
+    Province:  ProvinceAO
+    id:        G545
+    name:      Pontboset
+    latitude:  45.607641
+    longitude: 7.685627
+  City_pian_camuno:
+    Province:  ProvinceBS
+    id:        G546
+    name:      'Pian Camuno'
+    latitude:  45.844341
+    longitude: 10.15784
+  City_piancastagnaio:
+    Province:  ProvinceSI
+    id:        G547
+    name:      Piancastagnaio
+    latitude:  42.851741
+    longitude: 11.685944
+  City_piancogno:
+    Province:  ProvinceBS
+    id:        G549
+    name:      Piancogno
+    latitude:  45.920638
+    longitude: 10.226707
+  City_piandimeleto:
+    Province:  ProvincePU
+    id:        G551
+    name:      Piandimeleto
+    latitude:  43.725167
+    longitude: 12.412037
+  City_pian_di_sco:
+    Province:  ProvinceAR
+    id:        G552
+    name:      'Pian di Sco'
+    latitude:  43.642981
+    longitude: 11.546259
+  City_piane_crati:
+    Province:  ProvinceCS
+    id:        G553
+    name:      'Piane Crati'
+    latitude:  39.234026
+    longitude: 16.325178
+  City_pianella:
+    Province:  ProvincePE
+    id:        G555
+    name:      Pianella
+    latitude:  42.397303
+    longitude: 14.047763
+  City_pianello_del_lario:
+    Province:  ProvinceCO
+    id:        G556
+    name:      'Pianello del Lario'
+    latitude:  46.103759
+    longitude: 9.278148
+  City_pianello_val_tidone:
+    Province:  ProvincePC
+    id:        G557
+    name:      'Pianello Val Tidone'
+    latitude:  44.947667
+    longitude: 9.406259
+  City_pianengo:
+    Province:  ProvinceCR
+    id:        G558
+    name:      Pianengo
+    latitude:  45.40313
+    longitude: 9.695963
+  City_pianezza:
+    Province:  ProvinceTO
+    id:        G559
+    name:      Pianezza
+    latitude:  45.09858
+    longitude: 7.548355
+  City_pianezze:
+    Province:  ProvinceVI
+    id:        G560
+    name:      Pianezze
+    latitude:  45.740796
+    longitude: 11.627981
+  City_pianfei:
+    Province:  ProvinceCN
+    id:        G561
+    name:      Pianfei
+    latitude:  44.373148
+    longitude: 7.7125
+  City_pianico:
+    Province:  ProvinceBG
+    id:        G564
+    name:      Pianico
+    latitude:  45.810963
+    longitude: 10.044241
+  City_pianiga:
+    Province:  ProvinceVE
+    id:        G565
+    name:      Pianiga
+    latitude:  45.456129
+    longitude: 12.030934
+  City_san_benedetto_val_di_sambro:
+    Province:  ProvinceBO
+    id:        G566
+    name:      'San Benedetto Val di Sambro'
+    latitude:  44.215678
+    longitude: 11.23429
+  City_piano_di_sorrento:
+    Province:  ProvinceNA
+    id:        G568
+    name:      'Piano di Sorrento'
+    latitude:  40.636589
+    longitude: 14.407012
+  City_pianoro:
+    Province:  ProvinceBO
+    id:        G570
+    name:      Pianoro
+    latitude:  44.387309
+    longitude: 11.34331
+  City_piansano:
+    Province:  ProvinceVT
+    id:        G571
+    name:      Piansano
+    latitude:  42.523296
+    longitude: 11.830167
+  City_piantedo:
+    Province:  ProvinceSO
+    id:        G572
+    name:      Piantedo
+    latitude:  46.135167
+    longitude: 9.430481
+  City_piario:
+    Province:  ProvinceBG
+    id:        G574
+    name:      Piario
+    latitude:  45.896033
+    longitude: 9.924392
+  City_piasco:
+    Province:  ProvinceCN
+    id:        G575
+    name:      Piasco
+    latitude:  44.564074
+    longitude: 7.455018
+  City_piateda:
+    Province:  ProvinceSO
+    id:        G576
+    name:      Piateda
+    latitude:  46.160648
+    longitude: 9.936111
+  City_piatto:
+    Province:  ProvinceBI
+    id:        G577
+    name:      Piatto
+    latitude:  45.590963
+    longitude: 8.136407
+  City_piazza_brembana:
+    Province:  ProvinceBG
+    id:        G579
+    name:      'Piazza Brembana'
+    latitude:  45.947667
+    longitude: 9.675167
+  City_piazza_armerina:
+    Province:  ProvinceEN
+    id:        G580
+    name:      'Piazza Armerina'
+    latitude:  37.383506
+    longitude: 14.369671
+  City_piazza_al_serchio:
+    Province:  ProvinceLU
+    id:        G582
+    name:      'Piazza al Serchio'
+    latitude:  44.184402
+    longitude: 10.297823
+  City_piazzatorre:
+    Province:  ProvinceBG
+    id:        G583
+    name:      Piazzatorre
+    latitude:  45.993449
+    longitude: 9.69399
+  City_piazzola_sul_brenta:
+    Province:  ProvincePD
+    id:        G587
+    name:      'Piazzola sul Brenta'
+    latitude:  45.541983
+    longitude: 11.786335
+  City_piazzolo:
+    Province:  ProvinceBG
+    id:        G588
+    name:      Piazzolo
+    latitude:  45.979178
+    longitude: 9.670736
+  City_picciano:
+    Province:  ProvincePE
+    id:        G589
+    name:      Picciano
+    latitude:  42.476195
+    longitude: 13.990075
+  City_picerno:
+    Province:  ProvincePZ
+    id:        G590
+    name:      Picerno
+    latitude:  40.641307
+    longitude: 15.642372
+  City_picinisco:
+    Province:  ProvinceFR
+    id:        G591
+    name:      Picinisco
+    latitude:  41.646414
+    longitude: 13.867705
+  City_pico:
+    Province:  ProvinceFR
+    id:        G592
+    name:      Pico
+    latitude:  41.451889
+    longitude: 13.560648
+  City_piea:
+    Province:  ProvinceAT
+    id:        G593
+    name:      Piea
+    latitude:  45.023226
+    longitude: 8.068086
+  City_piedicavallo:
+    Province:  ProvinceBI
+    id:        G594
+    name:      Piedicavallo
+    latitude:  45.689303
+    longitude: 7.954676
+  City_piedimonte_matese:
+    Province:  ProvinceCE
+    id:        G596
+    name:      'Piedimonte Matese'
+    latitude:  41.35489
+    longitude: 14.370462
+  City_piedimonte_etneo:
+    Province:  ProvinceCT
+    id:        G597
+    name:      'Piedimonte Etneo'
+    latitude:  37.807981
+    longitude: 15.177518
+  City_piedimonte_san_germano:
+    Province:  ProvinceFR
+    id:        G598
+    name:      'Piedimonte San Germano'
+    latitude:  41.497319
+    longitude: 13.749924
+  City_piedimulera:
+    Province:  ProvinceVB
+    id:        G600
+    name:      Piedimulera
+    latitude:  46.025546
+    longitude: 8.260013
+  City_piegaro:
+    Province:  ProvincePG
+    id:        G601
+    name:      Piegaro
+    latitude:  42.970225
+    longitude: 12.085975
+  City_pienza:
+    Province:  ProvinceSI
+    id:        G602
+    name:      Pienza
+    latitude:  43.078926
+    longitude: 11.678907
+  City_pieranica:
+    Province:  ProvinceCR
+    id:        G603
+    name:      Pieranica
+    latitude:  45.425644
+    longitude: 9.607508
+  City_pietramontecorvino:
+    Province:  ProvinceFG
+    id:        G604
+    name:      Pietramontecorvino
+    latitude:  41.542667
+    longitude: 15.128444
+  City_pietra_ligure:
+    Province:  ProvinceSV
+    id:        G605
+    name:      'Pietra Ligure'
+    latitude:  44.14886
+    longitude: 8.28271
+  City_pietrabbondante:
+    Province:  ProvinceIS
+    id:        G606
+    name:      Pietrabbondante
+    latitude:  41.74813
+    longitude: 14.385315
+  City_pietrabruna:
+    Province:  ProvinceIM
+    id:        G607
+    name:      Pietrabruna
+    latitude:  43.888102
+    longitude: 7.90369
+  City_pietracamela:
+    Province:  ProvinceTE
+    id:        G608
+    name:      Pietracamela
+    latitude:  42.523048
+    longitude: 13.553393
+  City_pietracatella:
+    Province:  ProvinceCB
+    id:        G609
+    name:      Pietracatella
+    latitude:  41.580632
+    longitude: 14.873199
+  City_pietracupa:
+    Province:  ProvinceCB
+    id:        G610
+    name:      Pietracupa
+    latitude:  41.683079
+    longitude: 14.520031
+  City_pietradefusi:
+    Province:  ProvinceAV
+    id:        G611
+    name:      Pietradefusi
+    latitude:  41.0425
+    longitude: 14.886407
+  City_pietra_de_giorgi:
+    Province:  ProvincePV
+    id:        G612
+    name:      'Pietra de'' Giorgi'
+    latitude:  45.022647
+    longitude: 9.230817
+  City_pietraferrazzana:
+    Province:  ProvinceCH
+    id:        G613
+    name:      Pietraferrazzana
+    latitude:  41.969852
+    longitude: 14.375018
+  City_satriano_di_lucania:
+    Province:  ProvincePZ
+    id:        G614
+    name:      'Satriano di Lucania'
+    latitude:  40.543954
+    longitude: 15.639163
+  City_pietrafitta:
+    Province:  ProvinceCS
+    id:        G615
+    name:      Pietrafitta
+    latitude:  39.261352
+    longitude: 16.341376
+  City_pietragalla:
+    Province:  ProvincePZ
+    id:        G616
+    name:      Pietragalla
+    latitude:  40.747652
+    longitude: 15.880465
+  City_pietralunga:
+    Province:  ProvincePG
+    id:        G618
+    name:      Pietralunga
+    latitude:  43.437833
+    longitude: 12.432204
+  City_pietra_marazzi:
+    Province:  ProvinceAL
+    id:        G619
+    name:      'Pietra Marazzi'
+    latitude:  44.943778
+    longitude: 8.669704
+  City_pietramelara:
+    Province:  ProvinceCE
+    id:        G620
+    name:      Pietramelara
+    latitude:  41.270105
+    longitude: 14.18751
+  City_pietranico:
+    Province:  ProvincePE
+    id:        G621
+    name:      Pietranico
+    latitude:  42.277365
+    longitude: 13.91143
+  City_pietrapaola:
+    Province:  ProvinceCS
+    id:        G622
+    name:      Pietrapaola
+    latitude:  39.487278
+    longitude: 16.815578
+  City_pietrapertosa:
+    Province:  ProvincePZ
+    id:        G623
+    name:      Pietrapertosa
+    latitude:  40.519381
+    longitude: 16.062929
+  City_pietraperzia:
+    Province:  ProvinceEN
+    id:        G624
+    name:      Pietraperzia
+    latitude:  37.421111
+    longitude: 14.137981
+  City_pietraporzio:
+    Province:  ProvinceCN
+    id:        G625
+    name:      Pietraporzio
+    latitude:  44.344544
+    longitude: 7.031841
+  City_pietraroja:
+    Province:  ProvinceBN
+    id:        G626
+    name:      Pietraroja
+    latitude:  41.348874
+    longitude: 14.550397
+  City_pietrarubbia:
+    Province:  ProvincePU
+    id:        G627
+    name:      Pietrarubbia
+    latitude:  43.805796
+    longitude: 12.377815
+  City_pietrasanta:
+    Province:  ProvinceLU
+    id:        G628
+    name:      Pietrasanta
+    latitude:  43.956659
+    longitude: 10.226642
+  City_pietrastornina:
+    Province:  ProvinceAV
+    id:        G629
+    name:      Pietrastornina
+    latitude:  40.993463
+    longitude: 14.729852
+  City_pietravairano:
+    Province:  ProvinceCE
+    id:        G630
+    name:      Pietravairano
+    latitude:  41.327216
+    longitude: 14.169806
+  City_pietrelcina:
+    Province:  ProvinceBN
+    id:        G631
+    name:      Pietrelcina
+    latitude:  41.19784
+    longitude: 14.848536
+  City_pieve_di_teco:
+    Province:  ProvinceIM
+    id:        G632
+    name:      'Pieve di Teco'
+    latitude:  44.048148
+    longitude: 7.916111
+  City_pieve_di_coriano:
+    Province:  ProvinceMN
+    id:        G633
+    name:      'Pieve di Coriano'
+    latitude:  45.034391
+    longitude: 11.106939
+  City_pieve_emanuele:
+    Province:  ProvinceMI
+    id:        G634
+    name:      'Pieve Emanuele'
+    latitude:  45.355916
+    longitude: 9.202671
+  City_pieve_albignola:
+    Province:  ProvincePV
+    id:        G635
+    name:      'Pieve Albignola'
+    latitude:  45.113926
+    longitude: 8.9625
+  City_pieve_a_nievole:
+    Province:  ProvincePT
+    id:        G636
+    name:      'Pieve a Nievole'
+    latitude:  43.872833
+    longitude: 10.8025
+  City_pievebovigliana:
+    Province:  ProvinceMC
+    id:        G637
+    name:      Pievebovigliana
+    latitude:  43.06413
+    longitude: 13.083898
+  City_pieve_d_alpago:
+    Province:  ProvinceBL
+    id:        G638
+    name:      'Pieve D''Alpago'
+    latitude:  46.167752
+    longitude: 12.353186
+  City_pieve_del_cairo:
+    Province:  ProvincePV
+    id:        G639
+    name:      'Pieve del Cairo'
+    latitude:  45.050944
+    longitude: 8.805333
+  City_pieve_di_bono:
+    Province:  ProvinceTN
+    id:        G641
+    name:      'Pieve di Bono'
+    latitude:  45.942934
+    longitude: 10.640933
+  City_pieve_di_cadore:
+    Province:  ProvinceBL
+    id:        G642
+    name:      'Pieve di Cadore'
+    latitude:  46.428522
+    longitude: 12.374066
+  City_pieve_di_cento:
+    Province:  ProvinceBO
+    id:        G643
+    name:      'Pieve di Cento'
+    latitude:  44.713296
+    longitude: 11.308778
+  City_pieve_di_ledro:
+    Province:  ProvinceTN
+    id:        G644
+    name:      'Pieve di Ledro'
+    latitude:  45.888664
+    longitude: 10.731146
+  City_pieve_di_soligo:
+    Province:  ProvinceTV
+    id:        G645
+    name:      'Pieve di Soligo'
+    latitude:  45.900022
+    longitude: 12.171471
+  City_pieve_ligure:
+    Province:  ProvinceGE
+    id:        G646
+    name:      'Pieve Ligure'
+    latitude:  44.375598
+    longitude: 9.09375
+  City_pieve_d_olmi:
+    Province:  ProvinceCR
+    id:        G647
+    name:      'Pieve D''Olmi'
+    latitude:  45.089348
+    longitude: 10.124218
+  City_pieve_fosciana:
+    Province:  ProvinceLU
+    id:        G648
+    name:      'Pieve Fosciana'
+    latitude:  44.131974
+    longitude: 10.410463
+  City_pievepelago:
+    Province:  ProvinceMO
+    id:        G649
+    name:      Pievepelago
+    latitude:  44.205796
+    longitude: 10.617667
+  City_pieve_porto_morone:
+    Province:  ProvincePV
+    id:        G650
+    name:      'Pieve Porto Morone'
+    latitude:  45.110315
+    longitude: 9.436889
+  City_pieve_san_giacomo:
+    Province:  ProvinceCR
+    id:        G651
+    name:      'Pieve San Giacomo'
+    latitude:  45.131259
+    longitude: 10.187352
+  City_pieve_santo_stefano:
+    Province:  ProvinceAR
+    id:        G653
+    name:      'Pieve Santo Stefano'
+    latitude:  43.671143
+    longitude: 12.040796
+  City_ramiseto:
+    Province:  ProvinceRE
+    id:        G654
+    name:      Ramiseto
+    latitude:  44.413403
+    longitude: 10.280958
+  City_pieve_tesino:
+    Province:  ProvinceTN
+    id:        G656
+    name:      'Pieve Tesino'
+    latitude:  46.069241
+    longitude: 11.611426
+  City_pieve_torina:
+    Province:  ProvinceMC
+    id:        G657
+    name:      'Pieve Torina'
+    latitude:  43.04313
+    longitude: 13.046889
+  City_pieve_vergonte:
+    Province:  ProvinceVB
+    id:        G658
+    name:      'Pieve Vergonte'
+    latitude:  46.013907
+    longitude: 8.262055
+  City_piglio:
+    Province:  ProvinceFR
+    id:        G659
+    name:      Piglio
+    latitude:  41.830209
+    longitude: 13.146084
+  City_pigna:
+    Province:  ProvinceIM
+    id:        G660
+    name:      Pigna
+    latitude:  43.933296
+    longitude: 7.661889
+  City_pignataro_maggiore:
+    Province:  ProvinceCE
+    id:        G661
+    name:      'Pignataro Maggiore'
+    latitude:  41.191889
+    longitude: 14.173296
+  City_pignataro_interamna:
+    Province:  ProvinceFR
+    id:        G662
+    name:      'Pignataro Interamna'
+    latitude:  41.440333
+    longitude: 13.787204
+  City_pignola:
+    Province:  ProvincePZ
+    id:        G663
+    name:      Pignola
+    latitude:  40.574241
+    longitude: 15.784074
+  City_pignone:
+    Province:  ProvinceSP
+    id:        G664
+    name:      Pignone
+    latitude:  44.179222
+    longitude: 9.725167
+  City_pigra:
+    Province:  ProvinceCO
+    id:        G665
+    name:      Pigra
+    latitude:  45.95708
+    longitude: 9.126957
+  City_pila:
+    Province:  ProvinceVC
+    id:        G666
+    name:      Pila
+    latitude:  45.770501
+    longitude: 8.083311
+  City_pimentel:
+    Province:  ProvinceCA
+    id:        G669
+    name:      Pimentel
+    latitude:  39.486741
+    longitude: 9.066574
+  City_pimonte:
+    Province:  ProvinceNA
+    id:        G670
+    name:      Pimonte
+    latitude:  40.674704
+    longitude: 14.510796
+  City_pinarolo_po:
+    Province:  ProvincePV
+    id:        G671
+    name:      'Pinarolo Po'
+    latitude:  45.070963
+    longitude: 9.168463
+  City_pinasca:
+    Province:  ProvinceTO
+    id:        G672
+    name:      Pinasca
+    latitude:  44.942386
+    longitude: 7.2275
+  City_pincara:
+    Province:  ProvinceRO
+    id:        G673
+    name:      Pincara
+    latitude:  44.992352
+    longitude: 11.609852
+  City_pinerolo:
+    Province:  ProvinceTO
+    id:        G674
+    name:      Pinerolo
+    latitude:  44.884634
+    longitude: 7.330867
+  City_pino_d_asti:
+    Province:  ProvinceAT
+    id:        G676
+    name:      'Pino D''Asti'
+    latitude:  45.057475
+    longitude: 7.98633
+  City_pino_sulla_sponda_del_lago_maggiore:
+    Province:  ProvinceVA
+    id:        G677
+    name:      'Pino sulla Sponda del Lago Maggiore'
+    latitude:  46.101722
+    longitude: 8.739852
+  City_pino_torinese:
+    Province:  ProvinceTO
+    id:        G678
+    name:      'Pino Torinese'
+    latitude:  45.040648
+    longitude: 7.778296
+  City_pinzano_al_tagliamento:
+    Province:  ProvincePN
+    id:        G680
+    name:      'Pinzano al Tagliamento'
+    latitude:  46.183313
+    longitude: 12.947171
+  City_pinzolo:
+    Province:  ProvinceTN
+    id:        G681
+    name:      Pinzolo
+    latitude:  46.160026
+    longitude: 10.765421
+  City_piobbico:
+    Province:  ProvincePU
+    id:        G682
+    name:      Piobbico
+    latitude:  43.588759
+    longitude: 12.511278
+  City_piobesi_d_alba:
+    Province:  ProvinceCN
+    id:        G683
+    name:      'Piobesi D''Alba'
+    latitude:  44.736278
+    longitude: 7.980796
+  City_piobesi_torinese:
+    Province:  ProvinceTO
+    id:        G684
+    name:      'Piobesi Torinese'
+    latitude:  44.933907
+    longitude: 7.611259
+  City_piode:
+    Province:  ProvinceVC
+    id:        G685
+    name:      Piode
+    latitude:  45.772056
+    longitude: 8.051722
+  City_pioltello:
+    Province:  ProvinceMI
+    id:        G686
+    name:      Pioltello
+    latitude:  45.504018
+    longitude: 9.331134
+  City_piombino:
+    Province:  ProvinceLI
+    id:        G687
+    name:      Piombino
+    latitude:  42.925851
+    longitude: 10.525432
+  City_piombino_dese:
+    Province:  ProvincePD
+    id:        G688
+    name:      'Piombino Dese'
+    latitude:  45.606722
+    longitude: 11.997981
+  City_pioraco:
+    Province:  ProvinceMC
+    id:        G690
+    name:      Pioraco
+    latitude:  43.18
+    longitude: 12.986741
+  City_piossasco:
+    Province:  ProvinceTO
+    id:        G691
+    name:      Piossasco
+    latitude:  44.991084
+    longitude: 7.463538
+  City_piova_massaia:
+    Province:  ProvinceAT
+    id:        G692
+    name:      'Piovà Massaia'
+    latitude:  45.053533
+    longitude: 8.049164
+  City_piove_di_sacco:
+    Province:  ProvincePD
+    id:        G693
+    name:      'Piove di Sacco'
+    latitude:  45.296168
+    longitude: 12.034827
+  City_piovene_rocchette:
+    Province:  ProvinceVI
+    id:        G694
+    name:      'Piovene Rocchette'
+    latitude:  45.758611
+    longitude: 11.435944
+  City_piovera:
+    Province:  ProvinceAL
+    id:        G695
+    name:      Piovera
+    latitude:  44.959556
+    longitude: 8.737037
+  City_piozzano:
+    Province:  ProvincePC
+    id:        G696
+    name:      Piozzano
+    latitude:  44.927278
+    longitude: 9.498462
+  City_piozzo:
+    Province:  ProvinceCN
+    id:        G697
+    name:      Piozzo
+    latitude:  44.514852
+    longitude: 7.893778
+  City_priverno:
+    Province:  ProvinceLT
+    id:        G698
+    name:      Priverno
+    latitude:  41.473426
+    longitude: 13.181716
+  City_piraino:
+    Province:  ProvinceME
+    id:        G699
+    name:      Piraino
+    latitude:  38.161371
+    longitude: 14.862503
+  City_pisa:
+    Province:  ProvincePI
+    id:        G702
+    name:      Pisa
+    latitude:  43.716135
+    longitude: 10.396602
+  City_pisano:
+    Province:  ProvinceNO
+    id:        G703
+    name:      Pisano
+    latitude:  45.793558
+    longitude: 8.511488
+  City_pisoniano:
+    Province:  ProvinceRM
+    id:        G704
+    name:      Pisoniano
+    latitude:  41.906527
+    longitude: 12.959898
+  City_piscina:
+    Province:  ProvinceTO
+    id:        G705
+    name:      Piscina
+    latitude:  44.91987
+    longitude: 7.426407
+  City_pisciotta:
+    Province:  ProvinceSA
+    id:        G707
+    name:      Pisciotta
+    latitude:  40.10899
+    longitude: 15.23355
+  City_pisogne:
+    Province:  ProvinceBS
+    id:        G710
+    name:      Pisogne
+    latitude:  45.80464
+    longitude: 10.108566
+  City_pisticci:
+    Province:  ProvinceMT
+    id:        G712
+    name:      Pisticci
+    latitude:  40.391715
+    longitude: 16.554572
+  City_pistoia:
+    Province:  ProvincePT
+    id:        G713
+    name:      Pistoia
+    latitude:  43.932155
+    longitude: 10.918523
+  City_piteglio:
+    Province:  ProvincePT
+    id:        G715
+    name:      Piteglio
+    latitude:  44.027879
+    longitude: 10.764906
+  City_pitigliano:
+    Province:  ProvinceGR
+    id:        G716
+    name:      Pitigliano
+    latitude:  42.635963
+    longitude: 11.674537
+  City_piubega:
+    Province:  ProvinceMN
+    id:        G717
+    name:      Piubega
+    latitude:  45.228759
+    longitude: 10.535315
+  City_piuro:
+    Province:  ProvinceSO
+    id:        G718
+    name:      Piuro
+    latitude:  46.330454
+    longitude: 9.42173
+  City_piverone:
+    Province:  ProvinceTO
+    id:        G719
+    name:      Piverone
+    latitude:  45.44737
+    longitude: 8.006889
+  City_pizzale:
+    Province:  ProvincePV
+    id:        G720
+    name:      Pizzale
+    latitude:  45.036527
+    longitude: 9.048259
+  City_pizzighettone:
+    Province:  ProvinceCR
+    id:        G721
+    name:      Pizzighettone
+    latitude:  45.19
+    longitude: 9.790944
+  City_pizzo:
+    Province:  ProvinceVV
+    id:        G722
+    name:      Pizzo
+    latitude:  38.735776
+    longitude: 16.164259
+  City_pizzoferrato:
+    Province:  ProvinceCH
+    id:        G724
+    name:      Pizzoferrato
+    latitude:  41.922518
+    longitude: 14.236741
+  City_pizzoli:
+    Province:  ProvinceAQ
+    id:        G726
+    name:      Pizzoli
+    latitude:  42.432251
+    longitude: 13.312784
+  City_pizzone:
+    Province:  ProvinceIS
+    id:        G727
+    name:      Pizzone
+    latitude:  41.667264
+    longitude: 14.034297
+  City_pizzoni:
+    Province:  ProvinceVV
+    id:        G728
+    name:      Pizzoni
+    latitude:  38.622754
+    longitude: 16.250461
+  City_placanica:
+    Province:  ProvinceRC
+    id:        G729
+    name:      Placanica
+    latitude:  38.416548
+    longitude: 16.447229
+  City_plataci:
+    Province:  ProvinceCS
+    id:        G733
+    name:      Plataci
+    latitude:  39.899343
+    longitude: 16.433734
+  City_platania:
+    Province:  ProvinceCZ
+    id:        G734
+    name:      Platania
+    latitude:  39.006516
+    longitude: 16.320967
+  City_plati:
+    Province:  ProvinceRC
+    id:        G735
+    name:      Platì
+    latitude:  38.221111
+    longitude: 16.047352
+  City_taipana:
+    Province:  ProvinceUD
+    id:        G736
+    name:      Taipana
+    latitude:  46.249556
+    longitude: 13.342056
+  City_plesio:
+    Province:  ProvinceCO
+    id:        G737
+    name:      Plesio
+    latitude:  46.051832
+    longitude: 9.23093
+  City_ploaghe:
+    Province:  ProvinceSS
+    id:        G740
+    name:      Ploaghe
+    latitude:  40.665315
+    longitude: 8.742815
+  City_plodio:
+    Province:  ProvinceSV
+    id:        G741
+    name:      Plodio
+    latitude:  44.356783
+    longitude: 8.243333
+  City_pocapaglia:
+    Province:  ProvinceCN
+    id:        G742
+    name:      Pocapaglia
+    latitude:  44.716259
+    longitude: 7.884074
+  City_pocenia:
+    Province:  ProvinceUD
+    id:        G743
+    name:      Pocenia
+    latitude:  45.836407
+    longitude: 13.101889
+  City_podenzana:
+    Province:  ProvinceMS
+    id:        G746
+    name:      Podenzana
+    latitude:  44.20737
+    longitude: 9.943148
+  City_podenzano:
+    Province:  ProvincePC
+    id:        G747
+    name:      Podenzano
+    latitude:  44.957352
+    longitude: 9.686111
+  City_pofi:
+    Province:  ProvinceFR
+    id:        G749
+    name:      Pofi
+    latitude:  41.566407
+    longitude: 13.415648
+  City_poggiardo:
+    Province:  ProvinceLE
+    id:        G751
+    name:      Poggiardo
+    latitude:  40.054964
+    longitude: 18.377096
+  City_poggibonsi:
+    Province:  ProvinceSI
+    id:        G752
+    name:      Poggibonsi
+    latitude:  43.473444
+    longitude: 11.146741
+  City_poggio_rusco:
+    Province:  ProvinceMN
+    id:        G753
+    name:      'Poggio Rusco'
+    latitude:  44.975963
+    longitude: 11.11987
+  City_poggio_a_caiano:
+    Province:  ProvincePO
+    id:        G754
+    name:      'Poggio a Caiano'
+    latitude:  43.814704
+    longitude: 11.051722
+  City_poggio_berni:
+    Province:  ProvinceRN
+    id:        G755
+    name:      'Poggio Berni'
+    latitude:  44.035104
+    longitude: 12.421165
+  City_poggio_bustone:
+    Province:  ProvinceRI
+    id:        G756
+    name:      'Poggio Bustone'
+    latitude:  42.502144
+    longitude: 12.886991
+  City_poggio_catino:
+    Province:  ProvinceRI
+    id:        G757
+    name:      'Poggio Catino'
+    latitude:  42.2956
+    longitude: 12.69201
+  City_poggiodomo:
+    Province:  ProvincePG
+    id:        G758
+    name:      Poggiodomo
+    latitude:  42.711661
+    longitude: 12.932893
+  City_poggiofiorito:
+    Province:  ProvinceCH
+    id:        G760
+    name:      Poggiofiorito
+    latitude:  42.255944
+    longitude: 14.323296
+  City_poggio_imperiale:
+    Province:  ProvinceFG
+    id:        G761
+    name:      'Poggio Imperiale'
+    latitude:  41.826111
+    longitude: 15.366278
+  City_poggiomarino:
+    Province:  ProvinceNA
+    id:        G762
+    name:      Poggiomarino
+    latitude:  40.804241
+    longitude: 14.540018
+  City_poggio_mirteto:
+    Province:  ProvinceRI
+    id:        G763
+    name:      'Poggio Mirteto'
+    latitude:  42.267204
+    longitude: 12.688759
+  City_poggio_moiano:
+    Province:  ProvinceRI
+    id:        G764
+    name:      'Poggio Moiano'
+    latitude:  42.203778
+    longitude: 12.880315
+  City_poggio_nativo:
+    Province:  ProvinceRI
+    id:        G765
+    name:      'Poggio Nativo'
+    latitude:  42.214306
+    longitude: 12.793615
+  City_poggio_picenze:
+    Province:  ProvinceAQ
+    id:        G766
+    name:      'Poggio Picenze'
+    latitude:  42.321741
+    longitude: 13.542037
+  City_poggioreale:
+    Province:  ProvinceTP
+    id:        G767
+    name:      Poggioreale
+    latitude:  37.765167
+    longitude: 13.036889
+  City_poggio_renatico:
+    Province:  ProvinceFE
+    id:        G768
+    name:      'Poggio Renatico'
+    latitude:  44.765221
+    longitude: 11.487318
+  City_poggiorsini:
+    Province:  ProvinceBA
+    id:        G769
+    name:      Poggiorsini
+    latitude:  40.91813
+    longitude: 16.25563
+  City_poggio_san_lorenzo:
+    Province:  ProvinceRI
+    id:        G770
+    name:      'Poggio San Lorenzo'
+    latitude:  42.252955
+    longitude: 12.845236
+  City_poggio_san_marcello:
+    Province:  ProvinceAN
+    id:        G771
+    name:      'Poggio San Marcello'
+    latitude:  43.51104
+    longitude: 13.075205
+  City_pogliano_milanese:
+    Province:  ProvinceMI
+    id:        G772
+    name:      'Pogliano Milanese'
+    latitude:  45.536475
+    longitude: 8.989437
+  City_pognana_lario:
+    Province:  ProvinceCO
+    id:        G773
+    name:      'Pognana Lario'
+    latitude:  45.879457
+    longitude: 9.158652
+  City_pognano:
+    Province:  ProvinceBG
+    id:        G774
+    name:      Pognano
+    latitude:  45.587352
+    longitude: 9.641111
+  City_pogno:
+    Province:  ProvinceNO
+    id:        G775
+    name:      Pogno
+    latitude:  45.756574
+    longitude: 8.385796
+  City_poiana_maggiore:
+    Province:  ProvinceVI
+    id:        G776
+    name:      'Poiana Maggiore'
+    latitude:  45.291426
+    longitude: 11.503611
+  City_poirino:
+    Province:  ProvinceTO
+    id:        G777
+    name:      Poirino
+    latitude:  44.921889
+    longitude: 7.848148
+  City_polaveno:
+    Province:  ProvinceBS
+    id:        G779
+    name:      Polaveno
+    latitude:  45.662518
+    longitude: 10.125
+  City_polcenigo:
+    Province:  ProvincePN
+    id:        G780
+    name:      Polcenigo
+    latitude:  46.036574
+    longitude: 12.492204
+  City_polesella:
+    Province:  ProvinceRO
+    id:        G782
+    name:      Polesella
+    latitude:  44.963463
+    longitude: 11.753926
+  City_polesine_parmense:
+    Province:  ProvincePR
+    id:        G783
+    name:      'Polesine Parmense'
+    latitude:  45.01737
+    longitude: 10.088463
+  City_poli:
+    Province:  ProvinceRM
+    id:        G784
+    name:      Poli
+    latitude:  41.889852
+    longitude: 12.892981
+  City_polia:
+    Province:  ProvinceVV
+    id:        G785
+    name:      Polia
+    latitude:  38.751904
+    longitude: 16.312495
+  City_policoro:
+    Province:  ProvinceMT
+    id:        G786
+    name:      Policoro
+    latitude:  40.212968
+    longitude: 16.678339
+  City_polignano_a_mare:
+    Province:  ProvinceBA
+    id:        G787
+    name:      'Polignano a Mare'
+    latitude:  40.997055
+    longitude: 17.216722
+  City_san_pietro_in_cerro:
+    Province:  ProvincePC
+    id:        G788
+    name:      'San Pietro in Cerro'
+    latitude:  45.021425
+    longitude: 9.948652
+  City_polinago:
+    Province:  ProvinceMO
+    id:        G789
+    name:      Polinago
+    latitude:  44.345796
+    longitude: 10.724537
+  City_polino:
+    Province:  ProvinceTR
+    id:        G790
+    name:      Polino
+    latitude:  42.585167
+    longitude: 12.842838
+  City_polistena:
+    Province:  ProvinceRC
+    id:        G791
+    name:      Polistena
+    latitude:  38.405686
+    longitude: 16.072943
+  City_polizzi_generosa:
+    Province:  ProvincePA
+    id:        G792
+    name:      'Polizzi Generosa'
+    latitude:  37.812369
+    longitude: 14.000197
+  City_polla:
+    Province:  ProvinceSA
+    id:        G793
+    name:      Polla
+    latitude:  40.51813
+    longitude: 15.498926
+  City_pollein:
+    Province:  ProvinceAO
+    id:        G794
+    name:      Pollein
+    latitude:  45.728093
+    longitude: 7.353752
+  City_pollena_trocchia:
+    Province:  ProvinceNA
+    id:        G795
+    name:      'Pollena Trocchia'
+    latitude:  40.856354
+    longitude: 14.382445
+  City_pollica:
+    Province:  ProvinceSA
+    id:        G796
+    name:      Pollica
+    latitude:  40.19131
+    longitude: 15.057482
+  City_pollina:
+    Province:  ProvincePA
+    id:        G797
+    name:      Pollina
+    latitude:  37.993389
+    longitude: 14.143326
+  City_pollone:
+    Province:  ProvinceBI
+    id:        G798
+    name:      Pollone
+    latitude:  45.580796
+    longitude: 8.007037
+  City_pollutri:
+    Province:  ProvinceCH
+    id:        G799
+    name:      Pollutri
+    latitude:  42.139196
+    longitude: 14.592868
+  City_polonghera:
+    Province:  ProvinceCN
+    id:        G800
+    name:      Polonghera
+    latitude:  44.803463
+    longitude: 7.596889
+  City_polpenazze_del_garda:
+    Province:  ProvinceBS
+    id:        G801
+    name:      'Polpenazze del Garda'
+    latitude:  45.552204
+    longitude: 10.505944
+  City_polverara:
+    Province:  ProvincePD
+    id:        G802
+    name:      Polverara
+    latitude:  45.310315
+    longitude: 11.957037
+  City_polverigi:
+    Province:  ProvinceAN
+    id:        G803
+    name:      Polverigi
+    latitude:  43.526209
+    longitude: 13.392876
+  City_pomarance:
+    Province:  ProvincePI
+    id:        G804
+    name:      Pomarance
+    latitude:  43.300018
+    longitude: 10.873926
+  City_pomaretto:
+    Province:  ProvinceTO
+    id:        G805
+    name:      Pomaretto
+    latitude:  44.955961
+    longitude: 7.182911
+  City_pomarico:
+    Province:  ProvinceMT
+    id:        G806
+    name:      Pomarico
+    latitude:  40.515597
+    longitude: 16.548755
+  City_pomaro_monferrato:
+    Province:  ProvinceAL
+    id:        G807
+    name:      'Pomaro Monferrato'
+    latitude:  45.0635
+    longitude: 8.596761
+  City_pomarolo:
+    Province:  ProvinceTN
+    id:        G808
+    name:      Pomarolo
+    latitude:  45.929074
+    longitude: 11.044241
+  City_pombia:
+    Province:  ProvinceNO
+    id:        G809
+    name:      Pombia
+    latitude:  45.651999
+    longitude: 8.633465
+  City_pomezia:
+    Province:  ProvinceRM
+    id:        G811
+    name:      Pomezia
+    latitude:  41.669293
+    longitude: 12.501793
+  City_pomigliano_d_arco:
+    Province:  ProvinceNA
+    id:        G812
+    name:      'Pomigliano D''Arco'
+    latitude:  40.908907
+    longitude: 14.387204
+  City_pompei:
+    Province:  ProvinceNA
+    id:        G813
+    name:      Pompei
+    latitude:  40.749182
+    longitude: 14.500738
+  City_pompeiana:
+    Province:  ProvinceIM
+    id:        G814
+    name:      Pompeiana
+    latitude:  43.85487
+    longitude: 7.890944
+  City_pompiano:
+    Province:  ProvinceBS
+    id:        G815
+    name:      Pompiano
+    latitude:  45.432981
+    longitude: 9.990315
+  City_pomponesco:
+    Province:  ProvinceMN
+    id:        G816
+    name:      Pomponesco
+    latitude:  44.928333
+    longitude: 10.592197
+  City_pompu:
+    Province:  ProvinceOR
+    id:        G817
+    name:      Pompu
+    latitude:  39.72563
+    longitude: 8.796407
+  City_poncarale:
+    Province:  ProvinceBS
+    id:        G818
+    name:      Poncarale
+    latitude:  45.462056
+    longitude: 10.177815
+  City_ponderano:
+    Province:  ProvinceBI
+    id:        G820
+    name:      Ponderano
+    latitude:  45.53752
+    longitude: 8.054835
+  City_ponna:
+    Province:  ProvinceCO
+    id:        G821
+    name:      Ponna
+    latitude:  45.990098
+    longitude: 9.093931
+  City_ponsacco:
+    Province:  ProvincePI
+    id:        G822
+    name:      Ponsacco
+    latitude:  43.624852
+    longitude: 10.630167
+  City_ponso:
+    Province:  ProvincePD
+    id:        G823
+    name:      Ponso
+    latitude:  45.192619
+    longitude: 11.58707
+  City_pontassieve:
+    Province:  ProvinceFI
+    id:        G825
+    name:      Pontassieve
+    latitude:  43.774638
+    longitude: 11.440445
+  City_pont_canavese:
+    Province:  ProvinceTO
+    id:        G826
+    name:      'Pont Canavese'
+    latitude:  45.423926
+    longitude: 7.597352
+  City_ponte:
+    Province:  ProvinceBN
+    id:        G827
+    name:      Ponte
+    latitude:  41.213973
+    longitude: 14.69354
+  City_ponte_in_valtellina:
+    Province:  ProvinceSO
+    id:        G829
+    name:      'Ponte in Valtellina'
+    latitude:  46.175944
+    longitude: 9.978907
+  City_ponte_gardena:
+    Province:  ProvinceBZ
+    id:        G830
+    name:      'Ponte Gardena'
+    latitude:  46.598989
+    longitude: 11.528664
+  City_pontebba:
+    Province:  ProvinceUD
+    id:        G831
+    name:      Pontebba
+    latitude:  46.504354
+    longitude: 13.305738
+  City_ponte_buggianese:
+    Province:  ProvincePT
+    id:        G833
+    name:      'Ponte Buggianese'
+    latitude:  43.843926
+    longitude: 10.748778
+  City_pontecagnano_faiano:
+    Province:  ProvinceSA
+    id:        G834
+    name:      'Pontecagnano Faiano'
+    latitude:  40.644582
+    longitude: 14.873521
+  City_pontecchio_polesine:
+    Province:  ProvinceRO
+    id:        G836
+    name:      'Pontecchio Polesine'
+    latitude:  45.020796
+    longitude: 11.814852
+  City_pontechianale:
+    Province:  ProvinceCN
+    id:        G837
+    name:      Pontechianale
+    latitude:  44.622368
+    longitude: 7.031284
+  City_pontecorvo:
+    Province:  ProvinceFR
+    id:        G838
+    name:      Pontecorvo
+    latitude:  41.45692
+    longitude: 13.666401
+  City_pontecurone:
+    Province:  ProvinceAL
+    id:        G839
+    name:      Pontecurone
+    latitude:  44.961278
+    longitude: 8.935018
+  City_pontedassio:
+    Province:  ProvinceIM
+    id:        G840
+    name:      Pontedassio
+    latitude:  43.941426
+    longitude: 8.015018
+  City_ponte_dell_olio:
+    Province:  ProvincePC
+    id:        G842
+    name:      'Ponte dell''Olio'
+    latitude:  44.867841
+    longitude: 9.642425
+  City_pontedera:
+    Province:  ProvincePI
+    id:        G843
+    name:      Pontedera
+    latitude:  43.662667
+    longitude: 10.632833
+  City_ponte_di_legno:
+    Province:  ProvinceBS
+    id:        G844
+    name:      'Ponte di Legno'
+    latitude:  46.259529
+    longitude: 10.509851
+  City_ponte_di_piave:
+    Province:  ProvinceTV
+    id:        G846
+    name:      'Ponte di Piave'
+    latitude:  45.714745
+    longitude: 12.464508
+  City_ponte_lambro:
+    Province:  ProvinceCO
+    id:        G847
+    name:      'Ponte Lambro'
+    latitude:  45.8275
+    longitude: 9.226574
+  City_pontelandolfo:
+    Province:  ProvinceBN
+    id:        G848
+    name:      Pontelandolfo
+    latitude:  41.287983
+    longitude: 14.69074
+  City_pontelatone:
+    Province:  ProvinceCE
+    id:        G849
+    name:      Pontelatone
+    latitude:  41.194146
+    longitude: 14.251543
+  City_pontelongo:
+    Province:  ProvincePD
+    id:        G850
+    name:      Pontelongo
+    latitude:  45.248148
+    longitude: 12.025796
+  City_ponte_nizza:
+    Province:  ProvincePV
+    id:        G851
+    name:      'Ponte Nizza'
+    latitude:  44.853187
+    longitude: 9.097642
+  City_pontenure:
+    Province:  ProvincePC
+    id:        G852
+    name:      Pontenure
+    latitude:  45.000363
+    longitude: 9.787306
+  City_ponteranica:
+    Province:  ProvinceBG
+    id:        G853
+    name:      Ponteranica
+    latitude:  45.733444
+    longitude: 9.652815
+  City_pont_saint_martin:
+    Province:  ProvinceAO
+    id:        G854
+    name:      Pont-Saint-Martin
+    latitude:  45.598441
+    longitude: 7.799431
+  City_ponte_san_nicolo:
+    Province:  ProvincePD
+    id:        G855
+    name:      'Ponte San Nicolò'
+    latitude:  45.363986
+    longitude: 11.936394
+  City_ponte_san_pietro:
+    Province:  ProvinceBG
+    id:        G856
+    name:      'Ponte San Pietro'
+    latitude:  45.69737
+    longitude: 9.585944
+  City_pontestura:
+    Province:  ProvinceAL
+    id:        G858
+    name:      Pontestura
+    latitude:  45.143444
+    longitude: 8.334389
+  City_pontevico:
+    Province:  ProvinceBS
+    id:        G859
+    name:      Pontevico
+    latitude:  45.271646
+    longitude: 10.085861
+  City_pontey:
+    Province:  ProvinceAO
+    id:        G860
+    name:      Pontey
+    latitude:  45.738823
+    longitude: 7.587824
+  City_ponti:
+    Province:  ProvinceAL
+    id:        G861
+    name:      Ponti
+    latitude:  44.62943
+    longitude: 8.365344
+  City_ponti_sul_mincio:
+    Province:  ProvinceMN
+    id:        G862
+    name:      'Ponti sul Mincio'
+    latitude:  45.413148
+    longitude: 10.686278
+  City_pontida:
+    Province:  ProvinceBG
+    id:        G864
+    name:      Pontida
+    latitude:  45.733247
+    longitude: 9.498343
+  City_pontinia:
+    Province:  ProvinceLT
+    id:        G865
+    name:      Pontinia
+    latitude:  41.407979
+    longitude: 13.044464
+  City_pontinvrea:
+    Province:  ProvinceSV
+    id:        G866
+    name:      Pontinvrea
+    latitude:  44.444443
+    longitude: 8.435226
+  City_pontirolo_nuovo:
+    Province:  ProvinceBG
+    id:        G867
+    name:      'Pontirolo Nuovo'
+    latitude:  45.570167
+    longitude: 9.570481
+  City_pontoglio:
+    Province:  ProvinceBS
+    id:        G869
+    name:      Pontoglio
+    latitude:  45.570819
+    longitude: 9.854172
+  City_pontremoli:
+    Province:  ProvinceMS
+    id:        G870
+    name:      Pontremoli
+    latitude:  44.375556
+    longitude: 9.878302
+  City_ponza:
+    Province:  ProvinceLT
+    id:        G871
+    name:      Ponza
+    latitude:  40.894514
+    longitude: 12.966368
+  City_ponzano_monferrato:
+    Province:  ProvinceAL
+    id:        G872
+    name:      'Ponzano Monferrato'
+    latitude:  45.085467
+    longitude: 8.263226
+  City_ponzano_di_fermo:
+    Province:  ProvinceAP
+    id:        G873
+    name:      'Ponzano di Fermo'
+    latitude:  43.103009
+    longitude: 13.658868
+  City_ponzano_romano:
+    Province:  ProvinceRM
+    id:        G874
+    name:      'Ponzano Romano'
+    latitude:  42.257981
+    longitude: 12.571407
+  City_ponzano_veneto:
+    Province:  ProvinceTV
+    id:        G875
+    name:      'Ponzano Veneto'
+    latitude:  45.715701
+    longitude: 12.202693
+  City_ponzone:
+    Province:  ProvinceAL
+    id:        G877
+    name:      Ponzone
+    latitude:  44.589241
+    longitude: 8.460481
+  City_popoli:
+    Province:  ProvincePE
+    id:        G878
+    name:      Popoli
+    latitude:  42.170944
+    longitude: 13.831722
+  City_poppi:
+    Province:  ProvinceAR
+    id:        G879
+    name:      Poppi
+    latitude:  43.73277
+    longitude: 11.764026
+  City_porano:
+    Province:  ProvinceTR
+    id:        G881
+    name:      Porano
+    latitude:  42.684119
+    longitude: 12.099051
+  City_porcari:
+    Province:  ProvinceLU
+    id:        G882
+    name:      Porcari
+    latitude:  43.845167
+    longitude: 10.617518
+  City_porcia:
+    Province:  ProvincePN
+    id:        G886
+    name:      Porcia
+    latitude:  45.957432
+    longitude: 12.610597
+  City_stella_cilento:
+    Province:  ProvinceSA
+    id:        G887
+    name:      'Stella Cilento'
+    latitude:  40.232815
+    longitude: 15.093759
+  City_pordenone:
+    Province:  ProvincePN
+    id:        G888
+    name:      Pordenone
+    latitude:  45.962652
+    longitude: 12.655044
+  City_porlezza:
+    Province:  ProvinceCO
+    id:        G889
+    name:      Porlezza
+    latitude:  46.039389
+    longitude: 9.130944
+  City_pornassio:
+    Province:  ProvinceIM
+    id:        G890
+    name:      Pornassio
+    latitude:  44.070032
+    longitude: 7.870818
+  City_porpetto:
+    Province:  ProvinceUD
+    id:        G891
+    name:      Porpetto
+    latitude:  45.859241
+    longitude: 13.218926
+  City_portacomaro:
+    Province:  ProvinceAT
+    id:        G894
+    name:      Portacomaro
+    latitude:  44.958178
+    longitude: 8.257616
+  City_portalbera:
+    Province:  ProvincePV
+    id:        G895
+    name:      Portalbera
+    latitude:  45.098611
+    longitude: 9.320018
+  City_porte:
+    Province:  ProvinceTO
+    id:        G900
+    name:      Porte
+    latitude:  44.88786
+    longitude: 7.270339
+  City_portici:
+    Province:  ProvinceNA
+    id:        G902
+    name:      Portici
+    latitude:  40.814051
+    longitude: 14.339019
+  City_portico_di_caserta:
+    Province:  ProvinceCE
+    id:        G903
+    name:      'Portico di Caserta'
+    latitude:  41.057502
+    longitude: 14.280308
+  City_portico_e_san_benedetto:
+    Province:  ProvinceFC
+    id:        G904
+    name:      'Portico e San Benedetto'
+    latitude:  44.026523
+    longitude: 11.781519
+  City_portigliola:
+    Province:  ProvinceRC
+    id:        G905
+    name:      Portigliola
+    latitude:  38.230162
+    longitude: 16.200971
+  City_porto_ceresio:
+    Province:  ProvinceVA
+    id:        G906
+    name:      'Porto Ceresio'
+    latitude:  45.902204
+    longitude: 8.900929
+  City_porto_valtravaglia:
+    Province:  ProvinceVA
+    id:        G907
+    name:      'Porto Valtravaglia'
+    latitude:  45.960333
+    longitude: 8.682833
+  City_portobuffole:
+    Province:  ProvinceTV
+    id:        G909
+    name:      Portobuffolè
+    latitude:  45.856236
+    longitude: 12.537733
+  City_portocannone:
+    Province:  ProvinceCB
+    id:        G910
+    name:      Portocannone
+    latitude:  41.917056
+    longitude: 15.008463
+  City_portoferraio:
+    Province:  ProvinceLI
+    id:        G912
+    name:      Portoferraio
+    latitude:  42.812511
+    longitude: 10.315622
+  City_portofino:
+    Province:  ProvinceGE
+    id:        G913
+    name:      Portofino
+    latitude:  44.303961
+    longitude: 9.207772
+  City_portogruaro:
+    Province:  ProvinceVE
+    id:        G914
+    name:      Portogruaro
+    latitude:  45.77503
+    longitude: 12.837829
+  City_portomaggiore:
+    Province:  ProvinceFE
+    id:        G916
+    name:      Portomaggiore
+    latitude:  44.699555
+    longitude: 11.807815
+  City_porto_mantovano:
+    Province:  ProvinceMN
+    id:        G917
+    name:      'Porto Mantovano'
+    latitude:  45.189461
+    longitude: 10.789929
+  City_porto_recanati:
+    Province:  ProvinceMC
+    id:        G919
+    name:      'Porto Recanati'
+    latitude:  43.437518
+    longitude: 13.66237
+  City_porto_san_giorgio:
+    Province:  ProvinceAP
+    id:        G920
+    name:      'Porto San Giorgio'
+    latitude:  43.183778
+    longitude: 13.794389
+  City_porto_sant_elpidio:
+    Province:  ProvinceAP
+    id:        G921
+    name:      'Porto Sant''Elpidio'
+    latitude:  43.259224
+    longitude: 13.759217
+  City_portoscuso:
+    Province:  ProvinceCI
+    id:        G922
+    name:      Portoscuso
+    latitude:  39.205002
+    longitude: 8.380038
+  City_porto_tolle:
+    Province:  ProvinceRO
+    id:        G923
+    name:      'Porto Tolle'
+    latitude:  44.950146
+    longitude: 12.321852
+  City_porto_torres:
+    Province:  ProvinceSS
+    id:        G924
+    name:      'Porto Torres'
+    latitude:  40.834537
+    longitude: 8.41
+  City_portovenere:
+    Province:  ProvinceSP
+    id:        G925
+    name:      Portovenere
+    latitude:  44.051936
+    longitude: 9.835308
+  City_porto_viro:
+    Province:  ProvinceRO
+    id:        G926
+    name:      'Porto Viro'
+    latitude:  45.024941
+    longitude: 12.220032
+  City_portula:
+    Province:  ProvinceBI
+    id:        G927
+    name:      Portula
+    latitude:  45.674774
+    longitude: 8.179459
+  City_posada:
+    Province:  ProvinceNU
+    id:        G929
+    name:      Posada
+    latitude:  40.633148
+    longitude: 9.717518
+  City_posina:
+    Province:  ProvinceVI
+    id:        G931
+    name:      Posina
+    latitude:  45.79168
+    longitude: 11.263207
+  City_positano:
+    Province:  ProvinceSA
+    id:        G932
+    name:      Positano
+    latitude:  40.62987
+    longitude: 14.486278
+  City_possagno:
+    Province:  ProvinceTV
+    id:        G933
+    name:      Possagno
+    latitude:  45.853444
+    longitude: 11.874241
+  City_posta:
+    Province:  ProvinceRI
+    id:        G934
+    name:      Posta
+    latitude:  42.526503
+    longitude: 13.098278
+  City_posta_fibreno:
+    Province:  ProvinceFR
+    id:        G935
+    name:      'Posta Fibreno'
+    latitude:  41.694377
+    longitude: 13.696867
+  City_postal:
+    Province:  ProvinceBZ
+    id:        G936
+    name:      Postal
+    latitude:  46.609863
+    longitude: 11.192865
+  City_postalesio:
+    Province:  ProvinceSO
+    id:        G937
+    name:      Postalesio
+    latitude:  46.174683
+    longitude: 9.776268
+  City_postiglione:
+    Province:  ProvinceSA
+    id:        G939
+    name:      Postiglione
+    latitude:  40.56
+    longitude: 15.233296
+  City_postua:
+    Province:  ProvinceVC
+    id:        G940
+    name:      Postua
+    latitude:  45.713926
+    longitude: 8.231722
+  City_potenza:
+    Province:  ProvincePZ
+    id:        G942
+    name:      Potenza
+    latitude:  40.637242
+    longitude: 15.802221
+  City_pove_del_grappa:
+    Province:  ProvinceVI
+    id:        G943
+    name:      'Pove del Grappa'
+    latitude:  45.799241
+    longitude: 11.730944
+  City_povegliano:
+    Province:  ProvinceTV
+    id:        G944
+    name:      Povegliano
+    latitude:  45.761094
+    longitude: 12.203768
+  City_povegliano_veronese:
+    Province:  ProvinceVR
+    id:        G945
+    name:      'Povegliano Veronese'
+    latitude:  45.350481
+    longitude: 10.882204
+  City_poviglio:
+    Province:  ProvinceRE
+    id:        G947
+    name:      Poviglio
+    latitude:  44.884512
+    longitude: 10.582972
+  City_povoletto:
+    Province:  ProvinceUD
+    id:        G949
+    name:      Povoletto
+    latitude:  46.113145
+    longitude: 13.280656
+  City_pozza_di_fassa:
+    Province:  ProvinceTN
+    id:        G950
+    name:      'Pozza di Fassa'
+    latitude:  46.429852
+    longitude: 11.691889
+  City_pozzaglia_sabina:
+    Province:  ProvinceRI
+    id:        G951
+    name:      'Pozzaglia Sabina'
+    latitude:  42.159704
+    longitude: 12.965333
+  City_pozzallo:
+    Province:  ProvinceRG
+    id:        G953
+    name:      Pozzallo
+    latitude:  36.726101
+    longitude: 14.845588
+  City_pozzilli:
+    Province:  ProvinceIS
+    id:        G954
+    name:      Pozzilli
+    latitude:  41.512518
+    longitude: 14.063444
+  City_pozzo_d_adda:
+    Province:  ProvinceMI
+    id:        G955
+    name:      'Pozzo D''Adda'
+    latitude:  45.575916
+    longitude: 9.501057
+  City_pozzoleone:
+    Province:  ProvinceVI
+    id:        G957
+    name:      Pozzoleone
+    latitude:  45.6489
+    longitude: 11.679247
+  City_pozzolengo:
+    Province:  ProvinceBS
+    id:        G959
+    name:      Pozzolengo
+    latitude:  45.40318
+    longitude: 10.627185
+  City_pozzol_groppo:
+    Province:  ProvinceAL
+    id:        G960
+    name:      'Pozzol Groppo'
+    latitude:  44.87756
+    longitude: 9.029237
+  City_pozzolo_formigaro:
+    Province:  ProvinceAL
+    id:        G961
+    name:      'Pozzolo Formigaro'
+    latitude:  44.796278
+    longitude: 8.785944
+  City_pozzomaggiore:
+    Province:  ProvinceSS
+    id:        G962
+    name:      Pozzomaggiore
+    latitude:  40.39573
+    longitude: 8.66177
+  City_pozzonovo:
+    Province:  ProvincePD
+    id:        G963
+    name:      Pozzonovo
+    latitude:  45.19737
+    longitude: 11.792833
+  City_pozzuoli:
+    Province:  ProvinceNA
+    id:        G964
+    name:      Pozzuoli
+    latitude:  40.823745
+    longitude: 14.121622
+  City_pozzuolo_martesana:
+    Province:  ProvinceMI
+    id:        G965
+    name:      'Pozzuolo Martesana'
+    latitude:  45.513475
+    longitude: 9.452689
+  City_pozzuolo_del_friuli:
+    Province:  ProvinceUD
+    id:        G966
+    name:      'Pozzuolo del Friuli'
+    latitude:  45.987056
+    longitude: 13.196111
+  City_pradalunga:
+    Province:  ProvinceBG
+    id:        G968
+    name:      Pradalunga
+    latitude:  45.746889
+    longitude: 9.783463
+  City_pradamano:
+    Province:  ProvinceUD
+    id:        G969
+    name:      Pradamano
+    latitude:  46.03487
+    longitude: 13.303778
+  City_pradleves:
+    Province:  ProvinceCN
+    id:        G970
+    name:      Pradleves
+    latitude:  44.41878
+    longitude: 7.28137
+  City_sasso_marconi:
+    Province:  ProvinceBO
+    id:        G972
+    name:      'Sasso Marconi'
+    latitude:  44.400481
+    longitude: 11.250648
+  City_pragelato:
+    Province:  ProvinceTO
+    id:        G973
+    name:      Pragelato
+    latitude:  45.015526
+    longitude: 6.942049
+  City_pray:
+    Province:  ProvinceBI
+    id:        G974
+    name:      Pray
+    latitude:  45.675379
+    longitude: 8.205397
+  City_praia_a_mare:
+    Province:  ProvinceCS
+    id:        G975
+    name:      'Praia a Mare'
+    latitude:  39.900125
+    longitude: 15.778928
+  City_praiano:
+    Province:  ProvinceSA
+    id:        G976
+    name:      Praiano
+    latitude:  40.611762
+    longitude: 14.52397
+  City_pralboino:
+    Province:  ProvinceBS
+    id:        G977
+    name:      Pralboino
+    latitude:  45.26711
+    longitude: 10.218326
+  City_prali:
+    Province:  ProvinceTO
+    id:        G978
+    name:      Prali
+    latitude:  44.889048
+    longitude: 7.048747
+  City_pralormo:
+    Province:  ProvinceTO
+    id:        G979
+    name:      Pralormo
+    latitude:  44.860796
+    longitude: 7.9025
+  City_pralungo:
+    Province:  ProvinceBI
+    id:        G980
+    name:      Pralungo
+    latitude:  45.591278
+    longitude: 8.039704
+  City_pramaggiore:
+    Province:  ProvinceVE
+    id:        G981
+    name:      Pramaggiore
+    latitude:  45.815315
+    longitude: 12.737204
+  City_pramollo:
+    Province:  ProvinceTO
+    id:        G982
+    name:      Pramollo
+    latitude:  44.904048
+    longitude: 7.214573
+  City_prarolo:
+    Province:  ProvinceVC
+    id:        G985
+    name:      Prarolo
+    latitude:  45.28096
+    longitude: 8.477667
+  City_prarostino:
+    Province:  ProvinceTO
+    id:        G986
+    name:      Prarostino
+    latitude:  44.86663
+    longitude: 7.268449
+  City_prasco:
+    Province:  ProvinceAL
+    id:        G987
+    name:      Prasco
+    latitude:  44.639732
+    longitude: 8.552413
+  City_prascorsano:
+    Province:  ProvinceTO
+    id:        G988
+    name:      Prascorsano
+    latitude:  45.368759
+    longitude: 7.618148
+  City_praso:
+    Province:  ProvinceTN
+    id:        G989
+    name:      Praso
+    latitude:  45.950052
+    longitude: 10.637305
+  City_prata_di_principato_ultra:
+    Province:  ProvinceAV
+    id:        G990
+    name:      'Prata di Principato Ultra'
+    latitude:  40.988676
+    longitude: 14.838865
+  City_prata_sannita:
+    Province:  ProvinceCE
+    id:        G991
+    name:      'Prata Sannita'
+    latitude:  41.427337
+    longitude: 14.199904
+  City_prata_d_ansidonia:
+    Province:  ProvinceAQ
+    id:        G992
+    name:      'Prata D''Ansidonia'
+    latitude:  42.278568
+    longitude: 13.606536
+  City_prata_camportaccio:
+    Province:  ProvinceSO
+    id:        G993
+    name:      'Prata Camportaccio'
+    latitude:  46.304215
+    longitude: 9.396491
+  City_prata_di_pordenone:
+    Province:  ProvincePN
+    id:        G994
+    name:      'Prata di Pordenone'
+    latitude:  45.891822
+    longitude: 12.596362
+  City_pratella:
+    Province:  ProvinceCE
+    id:        G995
+    name:      Pratella
+    latitude:  41.40563
+    longitude: 14.178778
+  City_pratiglione:
+    Province:  ProvinceTO
+    id:        G997
+    name:      Pratiglione
+    latitude:  45.35365
+    longitude: 7.5962
+  City_prato:
+    Province:  ProvincePO
+    id:        G999
+    name:      Prato
+    latitude:  43.879699
+    longitude: 11.096312
+  City_prato_sesia:
+    Province:  ProvinceNO
+    id:        H001
+    name:      'Prato Sesia'
+    latitude:  45.647354
+    longitude: 8.373833
+  City_prato_carnico:
+    Province:  ProvinceUD
+    id:        H002
+    name:      'Prato Carnico'
+    latitude:  46.521387
+    longitude: 12.807956
+  City_prato_allo_stelvio:
+    Province:  ProvinceBZ
+    id:        H004
+    name:      'Prato allo Stelvio'
+    latitude:  46.622324
+    longitude: 10.582009
+  City_pratola_serra:
+    Province:  ProvinceAV
+    id:        H006
+    name:      'Pratola Serra'
+    latitude:  40.988158
+    longitude: 14.853607
+  City_pratola_peligna:
+    Province:  ProvinceAQ
+    id:        H007
+    name:      'Pratola Peligna'
+    latitude:  42.099389
+    longitude: 13.874852
+  City_pratovecchio:
+    Province:  ProvinceAR
+    id:        H008
+    name:      Pratovecchio
+    latitude:  43.787815
+    longitude: 11.724537
+  City_pravisdomini:
+    Province:  ProvincePN
+    id:        H010
+    name:      Pravisdomini
+    latitude:  45.82
+    longitude: 12.693148
+  City_prazzo:
+    Province:  ProvinceCN
+    id:        H011
+    name:      Prazzo
+    latitude:  44.483188
+    longitude: 7.055972
+  City_samo:
+    Province:  ProvinceRC
+    id:        H013
+    name:      Samo
+    latitude:  38.075375
+    longitude: 16.055206
+  City_precenicco:
+    Province:  ProvinceUD
+    id:        H014
+    name:      Precenicco
+    latitude:  45.789852
+    longitude: 13.078444
+  City_preci:
+    Province:  ProvincePG
+    id:        H015
+    name:      Preci
+    latitude:  42.881157
+    longitude: 13.038387
+  City_predappio:
+    Province:  ProvinceFC
+    id:        H017
+    name:      Predappio
+    latitude:  44.106333
+    longitude: 11.981657
+  City_predazzo:
+    Province:  ProvinceTN
+    id:        H018
+    name:      Predazzo
+    latitude:  46.30987
+    longitude: 11.600796
+  City_predoi:
+    Province:  ProvinceBZ
+    id:        H019
+    name:      Predoi
+    latitude:  47.042697
+    longitude: 12.106811
+  City_predore:
+    Province:  ProvinceBG
+    id:        H020
+    name:      Predore
+    latitude:  45.681722
+    longitude: 10.015481
+  City_predosa:
+    Province:  ProvinceAL
+    id:        H021
+    name:      Predosa
+    latitude:  44.752352
+    longitude: 8.656574
+  City_preganziol:
+    Province:  ProvinceTV
+    id:        H022
+    name:      Preganziol
+    latitude:  45.602246
+    longitude: 12.235188
+  City_pregnana_milanese:
+    Province:  ProvinceMI
+    id:        H026
+    name:      'Pregnana Milanese'
+    latitude:  45.51521
+    longitude: 9.009096
+  City_prela:
+    Province:  ProvinceIM
+    id:        H027
+    name:      Prelà
+    latitude:  43.92659
+    longitude: 7.936682
+  City_premana:
+    Province:  ProvinceLC
+    id:        H028
+    name:      Premana
+    latitude:  46.052964
+    longitude: 9.420869
+  City_premariacco:
+    Province:  ProvinceUD
+    id:        H029
+    name:      Premariacco
+    latitude:  46.062981
+    longitude: 13.397815
+  City_premeno:
+    Province:  ProvinceVB
+    id:        H030
+    name:      Premeno
+    latitude:  45.98
+    longitude: 8.598907
+  City_premia:
+    Province:  ProvinceVB
+    id:        H033
+    name:      Premia
+    latitude:  46.267146
+    longitude: 8.333928
+  City_premilcuore:
+    Province:  ProvinceFC
+    id:        H034
+    name:      Premilcuore
+    latitude:  43.979311
+    longitude: 11.781476
+  City_premolo:
+    Province:  ProvinceBG
+    id:        H036
+    name:      Premolo
+    latitude:  45.871278
+    longitude: 9.875796
+  City_premosello_chiovenda:
+    Province:  ProvinceVB
+    id:        H037
+    name:      Premosello-Chiovenda
+    latitude:  46.005167
+    longitude: 8.33
+  City_preone:
+    Province:  ProvinceUD
+    id:        H038
+    name:      Preone
+    latitude:  46.394359
+    longitude: 12.865733
+  City_preore:
+    Province:  ProvinceTN
+    id:        H039
+    name:      Preore
+    latitude:  46.046879
+    longitude: 10.758536
+  City_prepotto:
+    Province:  ProvinceUD
+    id:        H040
+    name:      Prepotto
+    latitude:  46.046741
+    longitude: 13.480481
+  City_pre_saint_didier:
+    Province:  ProvinceAO
+    id:        H042
+    name:      Prè-Saint-Didier
+    latitude:  45.764399
+    longitude: 6.984858
+  City_preseglie:
+    Province:  ProvinceBS
+    id:        H043
+    name:      Preseglie
+    latitude:  45.669456
+    longitude: 10.391879
+  City_presenzano:
+    Province:  ProvinceCE
+    id:        H045
+    name:      Presenzano
+    latitude:  41.376158
+    longitude: 14.078069
+  City_presezzo:
+    Province:  ProvinceBG
+    id:        H046
+    name:      Presezzo
+    latitude:  45.693148
+    longitude: 9.571407
+  City_presicce:
+    Province:  ProvinceLE
+    id:        H047
+    name:      Presicce
+    latitude:  39.900167
+    longitude: 18.2625
+  City_pressana:
+    Province:  ProvinceVR
+    id:        H048
+    name:      Pressana
+    latitude:  45.28543
+    longitude: 11.405123
+  City_prestine:
+    Province:  ProvinceBS
+    id:        H050
+    name:      Prestine
+    latitude:  45.929544
+    longitude: 10.310632
+  City_pretoro:
+    Province:  ProvinceCH
+    id:        H052
+    name:      Pretoro
+    latitude:  42.218778
+    longitude: 14.142833
+  City_prevalle:
+    Province:  ProvinceBS
+    id:        H055
+    name:      Prevalle
+    latitude:  45.552352
+    longitude: 10.42313
+  City_prezza:
+    Province:  ProvinceAQ
+    id:        H056
+    name:      Prezza
+    latitude:  42.058199
+    longitude: 13.833403
+  City_prezzo:
+    Province:  ProvinceTN
+    id:        H057
+    name:      Prezzo
+    latitude:  45.933346
+    longitude: 10.631702
+  City_priero:
+    Province:  ProvinceCN
+    id:        H059
+    name:      Priero
+    latitude:  44.375401
+    longitude: 8.095762
+  City_prignano_sulla_secchia:
+    Province:  ProvinceMO
+    id:        H061
+    name:      'Prignano sulla Secchia'
+    latitude:  44.439389
+    longitude: 10.692981
+  City_prignano_cilento:
+    Province:  ProvinceSA
+    id:        H062
+    name:      'Prignano Cilento'
+    latitude:  40.330864
+    longitude: 15.068344
+  City_primaluna:
+    Province:  ProvinceLC
+    id:        H063
+    name:      Primaluna
+    latitude:  45.98487
+    longitude: 9.438759
+  City_priocca:
+    Province:  ProvinceCN
+    id:        H068
+    name:      Priocca
+    latitude:  44.78737
+    longitude: 8.065315
+  City_priola:
+    Province:  ProvinceCN
+    id:        H069
+    name:      Priola
+    latitude:  44.244704
+    longitude: 8.022352
+  City_prizzi:
+    Province:  ProvincePA
+    id:        H070
+    name:      Prizzi
+    latitude:  37.722082
+    longitude: 13.432755
+  City_proceno:
+    Province:  ProvinceVT
+    id:        H071
+    name:      Proceno
+    latitude:  42.758296
+    longitude: 11.83063
+  City_procida:
+    Province:  ProvinceNA
+    id:        H072
+    name:      Procida
+    latitude:  40.76175
+    longitude: 14.023405
+  City_propata:
+    Province:  ProvinceGE
+    id:        H073
+    name:      Propata
+    latitude:  44.566741
+    longitude: 9.186722
+  City_proserpio:
+    Province:  ProvinceCO
+    id:        H074
+    name:      Proserpio
+    latitude:  45.827754
+    longitude: 9.248936
+  City_prossedi:
+    Province:  ProvinceLT
+    id:        H076
+    name:      Prossedi
+    latitude:  41.51737
+    longitude: 13.261741
+  City_provaglio_val_sabbia:
+    Province:  ProvinceBS
+    id:        H077
+    name:      'Provaglio Val Sabbia'
+    latitude:  45.689733
+    longitude: 10.43417
+  City_provaglio_d_iseo:
+    Province:  ProvinceBS
+    id:        H078
+    name:      'Provaglio D''Iseo'
+    latitude:  45.636426
+    longitude: 10.045796
+  City_proves:
+    Province:  ProvinceBZ
+    id:        H081
+    name:      Proves
+    latitude:  46.477732
+    longitude: 11.020631
+  City_provvidenti:
+    Province:  ProvinceCB
+    id:        H083
+    name:      Provvidenti
+    latitude:  41.718157
+    longitude: 14.823684
+  City_prunetto:
+    Province:  ProvinceCN
+    id:        H085
+    name:      Prunetto
+    latitude:  44.491252
+    longitude: 8.14492
+  City_puegnago_del_garda:
+    Province:  ProvinceBS
+    id:        H086
+    name:      'Puegnago del Garda'
+    latitude:  45.567919
+    longitude: 10.509815
+  City_puglianello:
+    Province:  ProvinceBN
+    id:        H087
+    name:      Puglianello
+    latitude:  41.224397
+    longitude: 14.450612
+  City_pula:
+    Province:  ProvinceCA
+    id:        H088
+    name:      Pula
+    latitude:  39.008611
+    longitude: 9.002667
+  City_pulfero:
+    Province:  ProvinceUD
+    id:        H089
+    name:      Pulfero
+    latitude:  46.173907
+    longitude: 13.485167
+  City_pulsano:
+    Province:  ProvinceTA
+    id:        H090
+    name:      Pulsano
+    latitude:  40.38313
+    longitude: 17.35737
+  City_pumenengo:
+    Province:  ProvinceBG
+    id:        H091
+    name:      Pumenengo
+    latitude:  45.480338
+    longitude: 9.870595
+  City_puos_d_alpago:
+    Province:  ProvinceBL
+    id:        H092
+    name:      'Puos D''Alpago'
+    latitude:  46.135963
+    longitude: 12.348463
+  City_pusiano:
+    Province:  ProvinceCO
+    id:        H094
+    name:      Pusiano
+    latitude:  45.814852
+    longitude: 9.282981
+  City_putifigari:
+    Province:  ProvinceSS
+    id:        H095
+    name:      Putifigari
+    latitude:  40.563463
+    longitude: 8.462204
+  City_putignano:
+    Province:  ProvinceBA
+    id:        H096
+    name:      Putignano
+    latitude:  40.852815
+    longitude: 17.122204
+  City_quadrelle:
+    Province:  ProvinceAV
+    id:        H097
+    name:      Quadrelle
+    latitude:  40.949825
+    longitude: 14.6407
+  City_quadri:
+    Province:  ProvinceCH
+    id:        H098
+    name:      Quadri
+    latitude:  41.925944
+    longitude: 14.289241
+  City_quagliuzzo:
+    Province:  ProvinceTO
+    id:        H100
+    name:      Quagliuzzo
+    latitude:  45.427836
+    longitude: 7.783439
+  City_qualiano:
+    Province:  ProvinceNA
+    id:        H101
+    name:      Qualiano
+    latitude:  40.918505
+    longitude: 14.153121
+  City_quaranti:
+    Province:  ProvinceAT
+    id:        H102
+    name:      Quaranti
+    latitude:  44.750974
+    longitude: 8.449992
+  City_quaregna:
+    Province:  ProvinceBI
+    id:        H103
+    name:      Quaregna
+    latitude:  45.582204
+    longitude: 8.164852
+  City_quargnento:
+    Province:  ProvinceAL
+    id:        H104
+    name:      Quargnento
+    latitude:  44.945944
+    longitude: 8.48813
+  City_quarna_sopra:
+    Province:  ProvinceVB
+    id:        H106
+    name:      'Quarna Sopra'
+    latitude:  45.872139
+    longitude: 8.371732
+  City_quarna_sotto:
+    Province:  ProvinceVB
+    id:        H107
+    name:      'Quarna Sotto'
+    latitude:  45.870167
+    longitude: 8.364556
+  City_quarona:
+    Province:  ProvinceVC
+    id:        H108
+    name:      Quarona
+    latitude:  45.758926
+    longitude: 8.266889
+  City_quarrata:
+    Province:  ProvincePT
+    id:        H109
+    name:      Quarrata
+    latitude:  43.850963
+    longitude: 10.981722
+  City_quart:
+    Province:  ProvinceAO
+    id:        H110
+    name:      Quart
+    latitude:  45.740426
+    longitude: 7.416134
+  City_quarto:
+    Province:  ProvinceNA
+    id:        H114
+    name:      Quarto
+    latitude:  40.877815
+    longitude: 14.140315
+  City_quarto_d_altino:
+    Province:  ProvinceVE
+    id:        H117
+    name:      'Quarto D''Altino'
+    latitude:  45.578778
+    longitude: 12.372833
+  City_quartu_sant_elena:
+    Province:  ProvinceCA
+    id:        H118
+    name:      'Quartu Sant''Elena'
+    latitude:  39.241531
+    longitude: 9.18343
+  City_quartucciu:
+    Province:  ProvinceCA
+    id:        H119
+    name:      Quartucciu
+    latitude:  39.255316
+    longitude: 9.179848
+  City_quassolo:
+    Province:  ProvinceTO
+    id:        H120
+    name:      Quassolo
+  City_quattordio:
+    Province:  ProvinceAL
+    id:        H121
+    name:      Quattordio
+    latitude:  44.897352
+    longitude: 8.406111
+  City_quattro_castella:
+    Province:  ProvinceRE
+    id:        H122
+    name:      'Quattro Castella'
+    latitude:  44.646827
+    longitude: 10.55621
+  City_virgilio:
+    Province:  ProvinceMN
+    id:        H123
+    name:      Virgilio
+    latitude:  45.120426
+    longitude: 10.79156
+  City_quero:
+    Province:  ProvinceBL
+    id:        H124
+    name:      Quero
+    latitude:  45.921976
+    longitude: 11.931723
+  City_quiliano:
+    Province:  ProvinceSV
+    id:        H126
+    name:      Quiliano
+    latitude:  44.29352
+    longitude: 8.413669
+  City_quincinetto:
+    Province:  ProvinceTO
+    id:        H127
+    name:      Quincinetto
+    latitude:  45.56216
+    longitude: 7.807469
+  City_quindici:
+    Province:  ProvinceAV
+    id:        H128
+    name:      Quindici
+    latitude:  40.864389
+    longitude: 14.648444
+  City_quingentole:
+    Province:  ProvinceMN
+    id:        H129
+    name:      Quingentole
+    latitude:  45.04
+    longitude: 11.046889
+  City_quintano:
+    Province:  ProvinceCR
+    id:        H130
+    name:      Quintano
+    latitude:  45.419826
+    longitude: 9.615691
+  City_quinto_di_treviso:
+    Province:  ProvinceTV
+    id:        H131
+    name:      'Quinto di Treviso'
+    latitude:  45.646012
+    longitude: 12.167235
+  City_quinto_vercellese:
+    Province:  ProvinceVC
+    id:        H132
+    name:      'Quinto Vercellese'
+    latitude:  45.38063
+    longitude: 8.362815
+  City_quinto_vicentino:
+    Province:  ProvinceVI
+    id:        H134
+    name:      'Quinto Vicentino'
+    latitude:  45.573336
+    longitude: 11.626879
+  City_quinzano_d_oglio:
+    Province:  ProvinceBS
+    id:        H140
+    name:      'Quinzano D''Oglio'
+    latitude:  45.311889
+    longitude: 10.009704
+  City_quistello:
+    Province:  ProvinceMN
+    id:        H143
+    name:      Quistello
+    latitude:  45.006574
+    longitude: 10.983463
+  City_quittengo:
+    Province:  ProvinceBI
+    id:        H145
+    name:      Quittengo
+    latitude:  45.657505
+    longitude: 8.011786

@@ -1,0 +1,5101 @@
+City:
+  City_maccagno:
+    Province:  ProvinceVA
+    id:        E775
+    name:      Maccagno
+    latitude:  46.043937
+    longitude: 8.738514
+  City_maccastorna:
+    Province:  ProvinceLO
+    id:        E777
+    name:      Maccastorna
+    latitude:  45.146449
+    longitude: 9.854406
+  City_macchia_d_isernia:
+    Province:  ProvinceIS
+    id:        E778
+    name:      'Macchia D''Isernia'
+    latitude:  41.562227
+    longitude: 14.167144
+  City_macchiagodena:
+    Province:  ProvinceIS
+    id:        E779
+    name:      Macchiagodena
+    latitude:  41.560153
+    longitude: 14.407942
+  City_macchia_valfortore:
+    Province:  ProvinceCB
+    id:        E780
+    name:      'Macchia Valfortore'
+    latitude:  41.596124
+    longitude: 14.912684
+  City_macello:
+    Province:  ProvinceTO
+    id:        E782
+    name:      Macello
+    latitude:  44.850601
+    longitude: 7.400965
+  City_macerata:
+    Province:  ProvinceMC
+    id:        E783
+    name:      Macerata
+    latitude:  43.300746
+    longitude: 13.456262
+  City_macerata_campania:
+    Province:  ProvinceCE
+    id:        E784
+    name:      'Macerata Campania'
+    latitude:  41.064389
+    longitude: 14.274704
+  City_macerata_feltria:
+    Province:  ProvincePU
+    id:        E785
+    name:      'Macerata Feltria'
+    latitude:  43.803907
+    longitude: 12.441259
+  City_macherio:
+    Province:  ProvinceMI
+    id:        E786
+    name:      Macherio
+    latitude:  45.63852
+    longitude: 9.265627
+  City_maclodio:
+    Province:  ProvinceBS
+    id:        E787
+    name:      Maclodio
+    latitude:  45.478759
+    longitude: 10.043296
+  City_macomer:
+    Province:  ProvinceNU
+    id:        E788
+    name:      Macomer
+    latitude:  40.263148
+    longitude: 8.770944
+  City_macra:
+    Province:  ProvinceCN
+    id:        E789
+    name:      Macra
+    latitude:  44.501278
+    longitude: 7.18063
+  City_macugnaga:
+    Province:  ProvinceVB
+    id:        E790
+    name:      Macugnaga
+    latitude:  45.968282
+    longitude: 7.968295
+  City_maddaloni:
+    Province:  ProvinceCE
+    id:        E791
+    name:      Maddaloni
+    latitude:  41.041111
+    longitude: 14.377833
+  City_madignano:
+    Province:  ProvinceCR
+    id:        E793
+    name:      Madignano
+    latitude:  45.346741
+    longitude: 9.724389
+  City_madone:
+    Province:  ProvinceBG
+    id:        E794
+    name:      Madone
+    latitude:  45.650679
+    longitude: 9.549462
+  City_madonna_del_sasso:
+    Province:  ProvinceVB
+    id:        E795
+    name:      'Madonna del Sasso'
+    latitude:  45.792143
+    longitude: 8.371534
+  City_maenza:
+    Province:  ProvinceLT
+    id:        E798
+    name:      Maenza
+    latitude:  41.522919
+    longitude: 13.182134
+  City_mafalda:
+    Province:  ProvinceCB
+    id:        E799
+    name:      Mafalda
+    latitude:  41.94284
+    longitude: 14.714241
+  City_magasa:
+    Province:  ProvinceBS
+    id:        E800
+    name:      Magasa
+    latitude:  45.782352
+    longitude: 10.617037
+  City_magenta:
+    Province:  ProvinceMI
+    id:        E801
+    name:      Magenta
+    latitude:  45.468231
+    longitude: 8.880974
+  City_maggiora:
+    Province:  ProvinceNO
+    id:        E803
+    name:      Maggiora
+    latitude:  45.690315
+    longitude: 8.423444
+  City_magherno:
+    Province:  ProvincePV
+    id:        E804
+    name:      Magherno
+    latitude:  45.224537
+    longitude: 9.330481
+  City_magione:
+    Province:  ProvincePG
+    id:        E805
+    name:      Magione
+    latitude:  43.145018
+    longitude: 12.207815
+  City_magisano:
+    Province:  ProvinceCZ
+    id:        E806
+    name:      Magisano
+    latitude:  39.012683
+    longitude: 16.628191
+  City_magliano_di_tenna:
+    Province:  ProvinceAP
+    id:        E807
+    name:      'Magliano di Tenna'
+    latitude:  43.139089
+    longitude: 13.586459
+  City_magliano_alpi:
+    Province:  ProvinceCN
+    id:        E808
+    name:      'Magliano Alpi'
+    latitude:  44.46063
+    longitude: 7.806407
+  City_magliano_alfieri:
+    Province:  ProvinceCN
+    id:        E809
+    name:      'Magliano Alfieri'
+    latitude:  44.770333
+    longitude: 8.071259
+  City_magliano_in_toscana:
+    Province:  ProvinceGR
+    id:        E810
+    name:      'Magliano in Toscana'
+    latitude:  42.599074
+    longitude: 11.293463
+  City_magliano_de_marsi:
+    Province:  ProvinceAQ
+    id:        E811
+    name:      'Magliano De'' Marsi'
+    latitude:  42.0925
+    longitude: 13.36487
+  City_magliano_sabina:
+    Province:  ProvinceRI
+    id:        E812
+    name:      'Magliano Sabina'
+    latitude:  42.36236
+    longitude: 12.481401
+  City_magliano_romano:
+    Province:  ProvinceRM
+    id:        E813
+    name:      'Magliano Romano'
+    latitude:  42.159018
+    longitude: 12.436648
+  City_magliano_vetere:
+    Province:  ProvinceSA
+    id:        E814
+    name:      'Magliano Vetere'
+    latitude:  40.347901
+    longitude: 15.237148
+  City_maglie:
+    Province:  ProvinceLE
+    id:        E815
+    name:      Maglie
+    latitude:  40.119556
+    longitude: 18.29987
+  City_magliolo:
+    Province:  ProvinceSV
+    id:        E816
+    name:      Magliolo
+    latitude:  44.192417
+    longitude: 8.249159
+  City_maglione:
+    Province:  ProvinceTO
+    id:        E817
+    name:      Maglione
+    latitude:  45.347667
+    longitude: 8.014556
+  City_magnacavallo:
+    Province:  ProvinceMN
+    id:        E818
+    name:      Magnacavallo
+    latitude:  45.006574
+    longitude: 11.182204
+  City_magnago:
+    Province:  ProvinceMI
+    id:        E819
+    name:      Magnago
+    latitude:  45.579254
+    longitude: 8.80247
+  City_magnano_in_riviera:
+    Province:  ProvinceUD
+    id:        E820
+    name:      'Magnano in Riviera'
+    latitude:  46.229389
+    longitude: 13.192037
+  City_magnano:
+    Province:  ProvinceBI
+    id:        E821
+    name:      Magnano
+    latitude:  45.464353
+    longitude: 8.003302
+  City_magomadas:
+    Province:  ProvinceOR
+    id:        E825
+    name:      Magomadas
+    latitude:  40.265266
+    longitude: 8.522503
+  City_magre_sulla_strada_del_vino:
+    Province:  ProvinceBZ
+    id:        E829
+    name:      'Magrè sulla Strada del Vino'
+    latitude:  46.288503
+    longitude: 11.210327
+  City_magreglio:
+    Province:  ProvinceCO
+    id:        E830
+    name:      Magreglio
+    latitude:  45.92016
+    longitude: 9.261681
+  City_majano:
+    Province:  ProvinceUD
+    id:        E833
+    name:      Majano
+    latitude:  46.185701
+    longitude: 13.068345
+  City_maida:
+    Province:  ProvinceCZ
+    id:        E834
+    name:      Maida
+    latitude:  38.859379
+    longitude: 16.365033
+  City_maiera:
+    Province:  ProvinceCS
+    id:        E835
+    name:      Maierà
+    latitude:  39.717057
+    longitude: 15.85003
+  City_maierato:
+    Province:  ProvinceVV
+    id:        E836
+    name:      Maierato
+    latitude:  38.707411
+    longitude: 16.190023
+  City_maiolati_spontini:
+    Province:  ProvinceAN
+    id:        E837
+    name:      'Maiolati Spontini'
+    latitude:  43.477212
+    longitude: 13.118997
+  City_maiolo:
+    Province:  ProvincePU
+    id:        E838
+    name:      Maiolo
+    latitude:  43.874105
+    longitude: 12.310972
+  City_maiori:
+    Province:  ProvinceSA
+    id:        E839
+    name:      Maiori
+    latitude:  40.648443
+    longitude: 14.640415
+  City_mairago:
+    Province:  ProvinceLO
+    id:        E840
+    name:      Mairago
+    latitude:  45.252833
+    longitude: 9.579556
+  City_mairano:
+    Province:  ProvinceBS
+    id:        E841
+    name:      Mairano
+    latitude:  45.450167
+    longitude: 10.08063
+  City_maissana:
+    Province:  ProvinceSP
+    id:        E842
+    name:      Maissana
+    latitude:  44.33667
+    longitude: 9.534993
+  City_malagnino:
+    Province:  ProvinceCR
+    id:        E843
+    name:      Malagnino
+    latitude:  45.134818
+    longitude: 10.115309
+  City_malalbergo:
+    Province:  ProvinceBO
+    id:        E844
+    name:      Malalbergo
+    latitude:  44.719704
+    longitude: 11.533296
+  City_malborghetto_valbruna:
+    Province:  ProvinceUD
+    id:        E847
+    name:      'Malborghetto Valbruna'
+    latitude:  46.507639
+    longitude: 13.440305
+  City_malcesine:
+    Province:  ProvinceVR
+    id:        E848
+    name:      Malcesine
+    latitude:  45.764704
+    longitude: 10.812056
+  City_male:
+    Province:  ProvinceTN
+    id:        E850
+    name:      Malè
+    latitude:  46.3525
+    longitude: 10.913907
+  City_malegno:
+    Province:  ProvinceBS
+    id:        E851
+    name:      Malegno
+    latitude:  45.951479
+    longitude: 10.270689
+  City_maleo:
+    Province:  ProvinceLO
+    id:        E852
+    name:      Maleo
+    latitude:  45.168444
+    longitude: 9.7625
+  City_malesco:
+    Province:  ProvinceVB
+    id:        E853
+    name:      Malesco
+    latitude:  46.126994
+    longitude: 8.500148
+  City_maletto:
+    Province:  ProvinceCT
+    id:        E854
+    name:      Maletto
+    latitude:  37.82989
+    longitude: 14.865867
+  City_malfa:
+    Province:  ProvinceME
+    id:        E855
+    name:      Malfa
+    latitude:  38.578993
+    longitude: 14.83357
+  City_malgesso:
+    Province:  ProvinceVA
+    id:        E856
+    name:      Malgesso
+    latitude:  45.828926
+    longitude: 8.676741
+  City_malgrate:
+    Province:  ProvinceLC
+    id:        E858
+    name:      Malgrate
+    latitude:  45.848778
+    longitude: 9.37813
+  City_malito:
+    Province:  ProvinceCS
+    id:        E859
+    name:      Malito
+    latitude:  39.155772
+    longitude: 16.249287
+  City_mallare:
+    Province:  ProvinceSV
+    id:        E860
+    name:      Mallare
+    latitude:  44.290836
+    longitude: 8.298329
+  City_malles_venosta:
+    Province:  ProvinceBZ
+    id:        E862
+    name:      'Malles Venosta'
+    latitude:  46.689651
+    longitude: 10.541206
+  City_malnate:
+    Province:  ProvinceVA
+    id:        E863
+    name:      Malnate
+    latitude:  45.800554
+    longitude: 8.879766
+  City_malo:
+    Province:  ProvinceVI
+    id:        E864
+    name:      Malo
+    latitude:  45.661259
+    longitude: 11.408611
+  City_malonno:
+    Province:  ProvinceBS
+    id:        E865
+    name:      Malonno
+    latitude:  46.118085
+    longitude: 10.312204
+  City_malosco:
+    Province:  ProvinceTN
+    id:        E866
+    name:      Malosco
+    latitude:  46.437037
+    longitude: 11.147352
+  City_maltignano:
+    Province:  ProvinceAP
+    id:        E868
+    name:      Maltignano
+    latitude:  42.83277
+    longitude: 13.688605
+  City_malvagna:
+    Province:  ProvinceME
+    id:        E869
+    name:      Malvagna
+    latitude:  37.917722
+    longitude: 15.054989
+  City_malvicino:
+    Province:  ProvinceAL
+    id:        E870
+    name:      Malvicino
+    latitude:  44.559177
+    longitude: 8.41437
+  City_malvito:
+    Province:  ProvinceCS
+    id:        E872
+    name:      Malvito
+    latitude:  39.600796
+    longitude: 16.054241
+  City_mammola:
+    Province:  ProvinceRC
+    id:        E873
+    name:      Mammola
+    latitude:  38.364667
+    longitude: 16.240715
+  City_mamoiada:
+    Province:  ProvinceNU
+    id:        E874
+    name:      Mamoiada
+    latitude:  40.216722
+    longitude: 9.281407
+  City_manciano:
+    Province:  ProvinceGR
+    id:        E875
+    name:      Manciano
+    latitude:  42.588802
+    longitude: 11.51731
+  City_mandanici:
+    Province:  ProvinceME
+    id:        E876
+    name:      Mandanici
+    latitude:  38.001398
+    longitude: 15.318312
+  City_mandas:
+    Province:  ProvinceCA
+    id:        E877
+    name:      Mandas
+    latitude:  39.656889
+    longitude: 9.12987
+  City_mandatoriccio:
+    Province:  ProvinceCS
+    id:        E878
+    name:      Mandatoriccio
+    latitude:  39.467424
+    longitude: 16.835693
+  City_mandello_del_lario:
+    Province:  ProvinceLC
+    id:        E879
+    name:      'Mandello del Lario'
+    latitude:  45.917595
+    longitude: 9.320017
+  City_mandello_vitta:
+    Province:  ProvinceNO
+    id:        E880
+    name:      'Mandello Vitta'
+    latitude:  45.496742
+    longitude: 8.460953
+  City_manduria:
+    Province:  ProvinceTA
+    id:        E882
+    name:      Manduria
+    latitude:  40.402815
+    longitude: 17.634389
+  City_manerba_del_garda:
+    Province:  ProvinceBS
+    id:        E883
+    name:      'Manerba del Garda'
+    latitude:  45.549526
+    longitude: 10.552854
+  City_manerbio:
+    Province:  ProvinceBS
+    id:        E884
+    name:      Manerbio
+    latitude:  45.355128
+    longitude: 10.141893
+  City_manfredonia:
+    Province:  ProvinceFG
+    id:        E885
+    name:      Manfredonia
+    latitude:  41.627056
+    longitude: 15.910333
+  City_mango:
+    Province:  ProvinceCN
+    id:        E887
+    name:      Mango
+    latitude:  44.686684
+    longitude: 8.15179
+  City_mangone:
+    Province:  ProvinceCS
+    id:        E888
+    name:      Mangone
+    latitude:  39.205698
+    longitude: 16.332502
+  City_maniago:
+    Province:  ProvincePN
+    id:        E889
+    name:      Maniago
+    latitude:  46.171024
+    longitude: 12.707265
+  City_manocalzati:
+    Province:  ProvinceAV
+    id:        E891
+    name:      Manocalzati
+    latitude:  40.942667
+    longitude: 14.85063
+  City_manoppello:
+    Province:  ProvincePE
+    id:        E892
+    name:      Manoppello
+    latitude:  42.258778
+    longitude: 14.060944
+  City_mansue:
+    Province:  ProvinceTV
+    id:        E893
+    name:      Mansuè
+    latitude:  45.82321
+    longitude: 12.53547
+  City_manta:
+    Province:  ProvinceCN
+    id:        E894
+    name:      Manta
+    latitude:  44.616889
+    longitude: 7.48813
+  City_mantello:
+    Province:  ProvinceSO
+    id:        E896
+    name:      Mantello
+    latitude:  46.153444
+    longitude: 9.49
+  City_mantova:
+    Province:  ProvinceMN
+    id:        E897
+    name:      Mantova
+    latitude:  45.160365
+    longitude: 10.797698
+  City_manzano:
+    Province:  ProvinceUD
+    id:        E899
+    name:      Manzano
+    latitude:  45.991407
+    longitude: 13.375963
+  City_manziana:
+    Province:  ProvinceRM
+    id:        E900
+    name:      Manziana
+    latitude:  42.13313
+    longitude: 12.127352
+  City_mapello:
+    Province:  ProvinceBG
+    id:        E901
+    name:      Mapello
+    latitude:  45.708855
+    longitude: 9.547851
+  City_mara:
+    Province:  ProvinceSS
+    id:        E902
+    name:      Mara
+    latitude:  40.41063
+    longitude: 8.639852
+  City_maracalagonis:
+    Province:  ProvinceCA
+    id:        E903
+    name:      Maracalagonis
+    latitude:  39.286407
+    longitude: 9.230481
+  City_maranello:
+    Province:  ProvinceMO
+    id:        E904
+    name:      Maranello
+    latitude:  44.525553
+    longitude: 10.866323
+  City_marano_sul_panaro:
+    Province:  ProvinceMO
+    id:        E905
+    name:      'Marano sul Panaro'
+    latitude:  44.456884
+    longitude: 10.969568
+  City_marano_di_napoli:
+    Province:  ProvinceNA
+    id:        E906
+    name:      'Marano di Napoli'
+    latitude:  40.898143
+    longitude: 14.194782
+  City_marano_ticino:
+    Province:  ProvinceNO
+    id:        E907
+    name:      'Marano Ticino'
+    latitude:  45.630963
+    longitude: 8.632833
+  City_marano_equo:
+    Province:  ProvinceRM
+    id:        E908
+    name:      'Marano Equo'
+    latitude:  41.994192
+    longitude: 13.013586
+  City_marano_lagunare:
+    Province:  ProvinceUD
+    id:        E910
+    name:      'Marano Lagunare'
+    latitude:  45.765092
+    longitude: 13.167516
+  City_marano_di_valpolicella:
+    Province:  ProvinceVR
+    id:        E911
+    name:      'Marano di Valpolicella'
+    latitude:  45.556093
+    longitude: 10.915437
+  City_marano_vicentino:
+    Province:  ProvinceVI
+    id:        E912
+    name:      'Marano Vicentino'
+    latitude:  45.694074
+    longitude: 11.428463
+  City_marano_marchesato:
+    Province:  ProvinceCS
+    id:        E914
+    name:      'Marano Marchesato'
+    latitude:  39.317037
+    longitude: 16.174704
+  City_marano_principato:
+    Province:  ProvinceCS
+    id:        E915
+    name:      'Marano Principato'
+    latitude:  39.30063
+    longitude: 16.175944
+  City_maranzana:
+    Province:  ProvinceAT
+    id:        E917
+    name:      Maranzana
+    latitude:  44.760515
+    longitude: 8.478721
+  City_maratea:
+    Province:  ProvincePZ
+    id:        E919
+    name:      Maratea
+    latitude:  39.997931
+    longitude: 15.718307
+  City_marcallo_con_casone:
+    Province:  ProvinceMI
+    id:        E921
+    name:      'Marcallo con Casone'
+    latitude:  45.485235
+    longitude: 8.87036
+  City_marcaria:
+    Province:  ProvinceMN
+    id:        E922
+    name:      Marcaria
+    latitude:  45.119135
+    longitude: 10.533824
+  City_marcedusa:
+    Province:  ProvinceCZ
+    id:        E923
+    name:      Marcedusa
+    latitude:  39.028926
+    longitude: 16.837204
+  City_marcellina:
+    Province:  ProvinceRM
+    id:        E924
+    name:      Marcellina
+    latitude:  42.026278
+    longitude: 12.806722
+  City_marcellinara:
+    Province:  ProvinceCZ
+    id:        E925
+    name:      Marcellinara
+    latitude:  38.92784
+    longitude: 16.490317
+  City_marcetelli:
+    Province:  ProvinceRI
+    id:        E927
+    name:      Marcetelli
+    latitude:  42.226366
+    longitude: 13.046109
+  City_marcheno:
+    Province:  ProvinceBS
+    id:        E928
+    name:      Marcheno
+    latitude:  45.704848
+    longitude: 10.211119
+  City_marchirolo:
+    Province:  ProvinceVA
+    id:        E929
+    name:      Marchirolo
+    latitude:  45.948926
+    longitude: 8.834537
+  City_marciana:
+    Province:  ProvinceLI
+    id:        E930
+    name:      Marciana
+    latitude:  42.793128
+    longitude: 10.168609
+  City_marciana_marina:
+    Province:  ProvinceLI
+    id:        E931
+    name:      'Marciana Marina'
+    latitude:  42.803759
+    longitude: 10.197352
+  City_marcianise:
+    Province:  ProvinceCE
+    id:        E932
+    name:      Marcianise
+    latitude:  41.033304
+    longitude: 14.301894
+  City_marciano_della_chiana:
+    Province:  ProvinceAR
+    id:        E933
+    name:      'Marciano della Chiana'
+    latitude:  43.305944
+    longitude: 11.787518
+  City_marcignago:
+    Province:  ProvincePV
+    id:        E934
+    name:      Marcignago
+    latitude:  45.253828
+    longitude: 9.078241
+  City_marcon:
+    Province:  ProvinceVE
+    id:        E936
+    name:      Marcon
+    latitude:  45.561591
+    longitude: 12.298103
+  City_marebbe:
+    Province:  ProvinceBZ
+    id:        E938
+    name:      Marebbe
+    latitude:  46.701042
+    longitude: 11.933251
+  City_marene:
+    Province:  ProvinceCN
+    id:        E939
+    name:      Marene
+    latitude:  44.662667
+    longitude: 7.733463
+  City_mareno_di_piave:
+    Province:  ProvinceTV
+    id:        E940
+    name:      'Mareno di Piave'
+    latitude:  45.840879
+    longitude: 12.35071
+  City_marentino:
+    Province:  ProvinceTO
+    id:        E941
+    name:      Marentino
+    latitude:  45.056278
+    longitude: 7.87813
+  City_maretto:
+    Province:  ProvinceAT
+    id:        E944
+    name:      Maretto
+    latitude:  44.945346
+    longitude: 8.034808
+  City_margarita:
+    Province:  ProvinceCN
+    id:        E945
+    name:      Margarita
+    latitude:  44.404556
+    longitude: 7.686111
+  City_margherita_di_savoia:
+    Province:  ProvinceFG
+    id:        E946
+    name:      'Margherita di Savoia'
+    latitude:  41.375333
+    longitude: 16.151111
+  City_margno:
+    Province:  ProvinceLC
+    id:        E947
+    name:      Margno
+    latitude:  46.032056
+    longitude: 9.382833
+  City_mariana_mantovana:
+    Province:  ProvinceMN
+    id:        E949
+    name:      'Mariana Mantovana'
+    latitude:  45.193963
+    longitude: 10.487954
+  City_mariano_comense:
+    Province:  ProvinceCO
+    id:        E951
+    name:      'Mariano Comense'
+    latitude:  45.697318
+    longitude: 9.178696
+  City_mariano_del_friuli:
+    Province:  ProvinceGO
+    id:        E952
+    name:      'Mariano del Friuli'
+    latitude:  45.917056
+    longitude: 13.46
+  City_marianopoli:
+    Province:  ProvinceCL
+    id:        E953
+    name:      Marianopoli
+    latitude:  37.598611
+    longitude: 13.916741
+  City_mariglianella:
+    Province:  ProvinceNA
+    id:        E954
+    name:      Mariglianella
+    latitude:  40.930648
+    longitude: 14.436722
+  City_marigliano:
+    Province:  ProvinceNA
+    id:        E955
+    name:      Marigliano
+    latitude:  40.924187
+    longitude: 14.454213
+  City_marina_di_gioiosa_ionica:
+    Province:  ProvinceRC
+    id:        E956
+    name:      'Marina di Gioiosa Ionica'
+    latitude:  38.299639
+    longitude: 16.329327
+  City_marineo:
+    Province:  ProvincePA
+    id:        E957
+    name:      Marineo
+    latitude:  37.95157
+    longitude: 13.415149
+  City_marino:
+    Province:  ProvinceRM
+    id:        E958
+    name:      Marino
+    latitude:  41.769804
+    longitude: 12.658528
+  City_marlengo:
+    Province:  ProvinceBZ
+    id:        E959
+    name:      Marlengo
+    latitude:  46.651176
+    longitude: 11.146805
+  City_marliana:
+    Province:  ProvincePT
+    id:        E960
+    name:      Marliana
+    latitude:  43.933716
+    longitude: 10.769448
+  City_marmentino:
+    Province:  ProvinceBS
+    id:        E961
+    name:      Marmentino
+    latitude:  45.755745
+    longitude: 10.285913
+  City_marmirolo:
+    Province:  ProvinceMN
+    id:        E962
+    name:      Marmirolo
+    latitude:  45.220333
+    longitude: 10.757204
+  City_marmora:
+    Province:  ProvinceCN
+    id:        E963
+    name:      Marmora
+    latitude:  44.458113
+    longitude: 7.093515
+  City_marnate:
+    Province:  ProvinceVA
+    id:        E965
+    name:      Marnate
+    latitude:  45.628434
+    longitude: 8.901926
+  City_marone:
+    Province:  ProvinceBS
+    id:        E967
+    name:      Marone
+    latitude:  45.737551
+    longitude: 10.09401
+  City_maropati:
+    Province:  ProvinceRC
+    id:        E968
+    name:      Maropati
+    latitude:  38.440575
+    longitude: 16.099312
+  City_marostica:
+    Province:  ProvinceVI
+    id:        E970
+    name:      Marostica
+    latitude:  45.744601
+    longitude: 11.65549
+  City_marradi:
+    Province:  ProvinceFI
+    id:        E971
+    name:      Marradi
+    latitude:  44.075648
+    longitude: 11.61313
+  City_marrubiu:
+    Province:  ProvinceOR
+    id:        E972
+    name:      Marrubiu
+    latitude:  39.753296
+    longitude: 8.638296
+  City_marsaglia:
+    Province:  ProvinceCN
+    id:        E973
+    name:      Marsaglia
+    latitude:  44.453926
+    longitude: 7.981111
+  City_marsala:
+    Province:  ProvinceTP
+    id:        E974
+    name:      Marsala
+    latitude:  37.798426
+    longitude: 12.437452
+  City_marsciano:
+    Province:  ProvincePG
+    id:        E975
+    name:      Marsciano
+    latitude:  42.910428
+    longitude: 12.336965
+  City_marsico_nuovo:
+    Province:  ProvincePZ
+    id:        E976
+    name:      'Marsico Nuovo'
+    latitude:  40.423969
+    longitude: 15.735461
+  City_marsicovetere:
+    Province:  ProvincePZ
+    id:        E977
+    name:      Marsicovetere
+    latitude:  40.376853
+    longitude: 15.824098
+  City_marta:
+    Province:  ProvinceVT
+    id:        E978
+    name:      Marta
+    latitude:  42.534704
+    longitude: 11.926111
+  City_martano:
+    Province:  ProvinceLE
+    id:        E979
+    name:      Martano
+    latitude:  40.202699
+    longitude: 18.303547
+  City_martellago:
+    Province:  ProvinceVE
+    id:        E980
+    name:      Martellago
+    latitude:  45.546052
+    longitude: 12.160206
+  City_martello:
+    Province:  ProvinceBZ
+    id:        E981
+    name:      Martello
+    latitude:  46.566341
+    longitude: 10.782355
+  City_martignacco:
+    Province:  ProvinceUD
+    id:        E982
+    name:      Martignacco
+    latitude:  46.092308
+    longitude: 13.130514
+  City_martignana_di_po:
+    Province:  ProvinceCR
+    id:        E983
+    name:      'Martignana di Po'
+    latitude:  45.012037
+    longitude: 10.380963
+  City_martignano:
+    Province:  ProvinceLE
+    id:        E984
+    name:      Martignano
+    latitude:  40.23844
+    longitude: 18.256104
+  City_martina_franca:
+    Province:  ProvinceTA
+    id:        E986
+    name:      'Martina Franca'
+    latitude:  40.704241
+    longitude: 17.33487
+  City_martinengo:
+    Province:  ProvinceBG
+    id:        E987
+    name:      Martinengo
+    latitude:  45.574074
+    longitude: 9.76813
+  City_martiniana_po:
+    Province:  ProvinceCN
+    id:        E988
+    name:      'Martiniana Po'
+    latitude:  44.627387
+    longitude: 7.367307
+  City_martinsicuro:
+    Province:  ProvinceTE
+    id:        E989
+    name:      Martinsicuro
+    latitude:  42.884697
+    longitude: 13.915481
+  City_martirano:
+    Province:  ProvinceCZ
+    id:        E990
+    name:      Martirano
+    latitude:  39.082142
+    longitude: 16.248419
+  City_martirano_lombardo:
+    Province:  ProvinceCZ
+    id:        E991
+    name:      'Martirano Lombardo'
+    latitude:  39.075796
+    longitude: 16.232815
+  City_martis:
+    Province:  ProvinceSS
+    id:        E992
+    name:      Martis
+    latitude:  40.77987
+    longitude: 8.809241
+  City_martone:
+    Province:  ProvinceRC
+    id:        E993
+    name:      Martone
+    latitude:  38.355
+    longitude: 16.289241
+  City_marudo:
+    Province:  ProvinceLO
+    id:        E994
+    name:      Marudo
+    latitude:  45.252515
+    longitude: 9.377007
+  City_maruggio:
+    Province:  ProvinceTA
+    id:        E995
+    name:      Maruggio
+    latitude:  40.322981
+    longitude: 17.573778
+  City_marzano_di_nola:
+    Province:  ProvinceAV
+    id:        E997
+    name:      'Marzano di Nola'
+    latitude:  40.903759
+    longitude: 14.58487
+  City_marzano_appio:
+    Province:  ProvinceCE
+    id:        E998
+    name:      'Marzano Appio'
+    latitude:  41.319055
+    longitude: 14.047751
+  City_marzano:
+    Province:  ProvincePV
+    id:        E999
+    name:      Marzano
+    latitude:  45.248858
+    longitude: 9.296184
+  City_marzi:
+    Province:  ProvinceCS
+    id:        F001
+    name:      Marzi
+    latitude:  39.171889
+    longitude: 16.30737
+  City_marzio:
+    Province:  ProvinceVA
+    id:        F002
+    name:      Marzio
+    latitude:  45.938671
+    longitude: 8.860324
+  City_masate:
+    Province:  ProvinceMI
+    id:        F003
+    name:      Masate
+    latitude:  45.566624
+    longitude: 9.467436
+  City_mascali:
+    Province:  ProvinceCT
+    id:        F004
+    name:      Mascali
+    latitude:  37.75749
+    longitude: 15.196003
+  City_mascalucia:
+    Province:  ProvinceCT
+    id:        F005
+    name:      Mascalucia
+    latitude:  37.579218
+    longitude: 15.048625
+  City_maschito:
+    Province:  ProvincePZ
+    id:        F006
+    name:      Maschito
+    latitude:  40.907548
+    longitude: 15.829148
+  City_masciago_primo:
+    Province:  ProvinceVA
+    id:        F007
+    name:      'Masciago Primo'
+    latitude:  45.916933
+    longitude: 8.780774
+  City_maser:
+    Province:  ProvinceTV
+    id:        F009
+    name:      Maser
+    latitude:  45.808463
+    longitude: 11.976111
+  City_masera:
+    Province:  ProvinceVB
+    id:        F010
+    name:      Masera
+    latitude:  46.140944
+    longitude: 8.324537
+  City_masera_di_padova:
+    Province:  ProvincePD
+    id:        F011
+    name:      'Maserà di Padova'
+    latitude:  45.320228
+    longitude: 11.86419
+  City_maserada_sul_piave:
+    Province:  ProvinceTV
+    id:        F012
+    name:      'Maserada sul Piave'
+    latitude:  45.749912
+    longitude: 12.320028
+  City_masi:
+    Province:  ProvincePD
+    id:        F013
+    name:      Masi
+    latitude:  45.109852
+    longitude: 11.490333
+  City_masio:
+    Province:  ProvinceAL
+    id:        F015
+    name:      Masio
+    latitude:  44.87063
+    longitude: 8.408926
+  City_masi_torello:
+    Province:  ProvinceFE
+    id:        F016
+    name:      'Masi Torello'
+    latitude:  44.794461
+    longitude: 11.798975
+  City_maslianico:
+    Province:  ProvinceCO
+    id:        F017
+    name:      Maslianico
+    latitude:  45.846491
+    longitude: 9.04761
+  City_mason_vicentino:
+    Province:  ProvinceVI
+    id:        F019
+    name:      'Mason Vicentino'
+    latitude:  45.719537
+    longitude: 11.607815
+  City_masone:
+    Province:  ProvinceGE
+    id:        F020
+    name:      Masone
+    latitude:  44.502352
+    longitude: 8.717518
+  City_massa_fermana:
+    Province:  ProvinceAP
+    id:        F021
+    name:      'Massa Fermana'
+    latitude:  43.149074
+    longitude: 13.474389
+  City_massa_d_albe:
+    Province:  ProvinceAQ
+    id:        F022
+    name:      'Massa D''Albe'
+    latitude:  42.111841
+    longitude: 13.3894
+  City_massa:
+    Province:  ProvinceMS
+    id:        F023
+    name:      Massa
+    latitude:  44.038692
+    longitude: 10.144189
+  City_massa_martana:
+    Province:  ProvincePG
+    id:        F024
+    name:      'Massa Martana'
+    latitude:  42.775564
+    longitude: 12.524077
+  City_massa_e_cozzile:
+    Province:  ProvincePT
+    id:        F025
+    name:      'Massa e Cozzile'
+    latitude:  43.909386
+    longitude: 10.744135
+  City_massa_fiscaglia:
+    Province:  ProvinceFE
+    id:        F026
+    name:      'Massa Fiscaglia'
+    latitude:  44.811294
+    longitude: 12.009103
+  City_massafra:
+    Province:  ProvinceTA
+    id:        F027
+    name:      Massafra
+    latitude:  40.589852
+    longitude: 17.117815
+  City_massalengo:
+    Province:  ProvinceLO
+    id:        F028
+    name:      Massalengo
+    latitude:  45.265958
+    longitude: 9.491234
+  City_massa_lombarda:
+    Province:  ProvinceRA
+    id:        F029
+    name:      'Massa Lombarda'
+    latitude:  44.446227
+    longitude: 11.828185
+  City_massa_lubrense:
+    Province:  ProvinceNA
+    id:        F030
+    name:      'Massa Lubrense'
+    latitude:  40.610826
+    longitude: 14.344968
+  City_massa_marittima:
+    Province:  ProvinceGR
+    id:        F032
+    name:      'Massa Marittima'
+    latitude:  43.05
+    longitude: 10.893926
+  City_massanzago:
+    Province:  ProvincePD
+    id:        F033
+    name:      Massanzago
+    latitude:  45.55737
+    longitude: 12.008463
+  City_massarosa:
+    Province:  ProvinceLU
+    id:        F035
+    name:      Massarosa
+    latitude:  43.868778
+    longitude: 10.340796
+  City_massazza:
+    Province:  ProvinceBI
+    id:        F037
+    name:      Massazza
+    latitude:  45.492352
+    longitude: 8.16563
+  City_massello:
+    Province:  ProvinceTO
+    id:        F041
+    name:      Massello
+    latitude:  44.958632
+    longitude: 7.056606
+  City_masserano:
+    Province:  ProvinceBI
+    id:        F042
+    name:      Masserano
+    latitude:  45.597981
+    longitude: 8.217815
+  City_san_marco_evangelista:
+    Province:  ProvinceCE
+    id:        F043
+    name:      'San Marco Evangelista'
+    latitude:  41.037537
+    longitude: 14.340358
+  City_massignano:
+    Province:  ProvinceAP
+    id:        F044
+    name:      Massignano
+    latitude:  43.051545
+    longitude: 13.795714
+  City_massimeno:
+    Province:  ProvinceTN
+    id:        F045
+    name:      Massimeno
+    latitude:  46.142221
+    longitude: 10.773431
+  City_massimino:
+    Province:  ProvinceSV
+    id:        F046
+    name:      Massimino
+    latitude:  44.299529
+    longitude: 8.071171
+  City_massino_visconti:
+    Province:  ProvinceNO
+    id:        F047
+    name:      'Massino Visconti'
+    latitude:  45.822227
+    longitude: 8.539978
+  City_massiola:
+    Province:  ProvinceVB
+    id:        F048
+    name:      Massiola
+    latitude:  45.912275
+    longitude: 8.320035
+  City_masullas:
+    Province:  ProvinceOR
+    id:        F050
+    name:      Masullas
+    latitude:  39.70063
+    longitude: 8.783759
+  City_matelica:
+    Province:  ProvinceMC
+    id:        F051
+    name:      Matelica
+    latitude:  43.255
+    longitude: 13.011574
+  City_matera:
+    Province:  ProvinceMT
+    id:        F052
+    name:      Matera
+    latitude:  40.668653
+    longitude: 16.606087
+  City_mathi:
+    Province:  ProvinceTO
+    id:        F053
+    name:      Mathi
+    latitude:  45.256278
+    longitude: 7.54313
+  City_matino:
+    Province:  ProvinceLE
+    id:        F054
+    name:      Matino
+    latitude:  40.033296
+    longitude: 18.132667
+  City_matrice:
+    Province:  ProvinceCB
+    id:        F055
+    name:      Matrice
+    latitude:  41.613812
+    longitude: 14.710579
+  City_mattie:
+    Province:  ProvinceTO
+    id:        F058
+    name:      Mattie
+    latitude:  45.119241
+    longitude: 7.116259
+  City_mattinata:
+    Province:  ProvinceFG
+    id:        F059
+    name:      Mattinata
+    latitude:  41.708604
+    longitude: 16.043412
+  City_mazara_del_vallo:
+    Province:  ProvinceTP
+    id:        F061
+    name:      'Mazara del Vallo'
+    latitude:  37.650879
+    longitude: 12.590813
+  City_mazzano:
+    Province:  ProvinceBS
+    id:        F063
+    name:      Mazzano
+    latitude:  45.521111
+    longitude: 10.355018
+  City_mazzano_romano:
+    Province:  ProvinceRM
+    id:        F064
+    name:      'Mazzano Romano'
+    latitude:  42.20655
+    longitude: 12.400265
+  City_mazzarino:
+    Province:  ProvinceCL
+    id:        F065
+    name:      Mazzarino
+    latitude:  37.305481
+    longitude: 14.215018
+  City_mazzarra_sant_andrea:
+    Province:  ProvinceME
+    id:        F066
+    name:      'Mazzarrà Sant''Andrea'
+    latitude:  38.089537
+    longitude: 15.134555
+  City_mazze:
+    Province:  ProvinceTO
+    id:        F067
+    name:      Mazzè
+    latitude:  45.301259
+    longitude: 7.933926
+  City_mazzin:
+    Province:  ProvinceTN
+    id:        F068
+    name:      Mazzin
+    latitude:  46.458466
+    longitude: 11.701079
+  City_mazzo_di_valtellina:
+    Province:  ProvinceSO
+    id:        F070
+    name:      'Mazzo di Valtellina'
+    latitude:  46.259584
+    longitude: 10.256732
+  City_meana_sardo:
+    Province:  ProvinceNU
+    id:        F073
+    name:      'Meana Sardo'
+    latitude:  39.945315
+    longitude: 9.073463
+  City_meana_di_susa:
+    Province:  ProvinceTO
+    id:        F074
+    name:      'Meana di Susa'
+    latitude:  45.123127
+    longitude: 7.062924
+  City_meda:
+    Province:  ProvinceMI
+    id:        F078
+    name:      Meda
+    latitude:  45.659965
+    longitude: 9.154458
+  City_mede:
+    Province:  ProvincePV
+    id:        F080
+    name:      Mede
+    latitude:  45.098926
+    longitude: 8.737037
+  City_medea:
+    Province:  ProvinceGO
+    id:        F081
+    name:      Medea
+    latitude:  45.918212
+    longitude: 13.420767
+  City_medesano:
+    Province:  ProvincePR
+    id:        F082
+    name:      Medesano
+    latitude:  44.757522
+    longitude: 10.140648
+  City_medicina:
+    Province:  ProvinceBO
+    id:        F083
+    name:      Medicina
+    latitude:  44.479704
+    longitude: 11.639241
+  City_mediglia:
+    Province:  ProvinceMI
+    id:        F084
+    name:      Mediglia
+    latitude:  45.395518
+    longitude: 9.33267
+  City_medolago:
+    Province:  ProvinceBG
+    id:        F085
+    name:      Medolago
+    latitude:  45.669537
+    longitude: 9.496722
+  City_medole:
+    Province:  ProvinceMN
+    id:        F086
+    name:      Medole
+    latitude:  45.325333
+    longitude: 10.514241
+  City_medolla:
+    Province:  ProvinceMO
+    id:        F087
+    name:      Medolla
+    latitude:  44.848295
+    longitude: 11.070389
+  City_meduna_di_livenza:
+    Province:  ProvinceTV
+    id:        F088
+    name:      'Meduna di Livenza'
+    latitude:  45.806889
+    longitude: 12.614852
+  City_meduno:
+    Province:  ProvincePN
+    id:        F089
+    name:      Meduno
+    latitude:  46.217031
+    longitude: 12.795897
+  City_megliadino_san_fidenzio:
+    Province:  ProvincePD
+    id:        F091
+    name:      'Megliadino San Fidenzio'
+    latitude:  45.218463
+    longitude: 11.517037
+  City_megliadino_san_vitale:
+    Province:  ProvincePD
+    id:        F092
+    name:      'Megliadino San Vitale'
+    latitude:  45.197518
+    longitude: 11.527037
+  City_meina:
+    Province:  ProvinceNO
+    id:        F093
+    name:      Meina
+    latitude:  45.78987
+    longitude: 8.540018
+  City_mel:
+    Province:  ProvinceBL
+    id:        F094
+    name:      Mel
+    latitude:  46.064542
+    longitude: 12.088101
+  City_melara:
+    Province:  ProvinceRO
+    id:        F095
+    name:      Melara
+    latitude:  45.064361
+    longitude: 11.198141
+  City_melazzo:
+    Province:  ProvinceAL
+    id:        F096
+    name:      Melazzo
+    latitude:  44.645018
+    longitude: 8.426111
+  City_meldola:
+    Province:  ProvinceFC
+    id:        F097
+    name:      Meldola
+    latitude:  44.130134
+    longitude: 12.060957
+  City_mele:
+    Province:  ProvinceGE
+    id:        F098
+    name:      Mele
+    latitude:  44.446501
+    longitude: 8.748988
+  City_melegnano:
+    Province:  ProvinceMI
+    id:        F100
+    name:      Melegnano
+    latitude:  45.356862
+    longitude: 9.322968
+  City_melendugno:
+    Province:  ProvinceLE
+    id:        F101
+    name:      Melendugno
+    latitude:  40.275796
+    longitude: 18.337667
+  City_meleti:
+    Province:  ProvinceLO
+    id:        F102
+    name:      Meleti
+    latitude:  45.119035
+    longitude: 9.836644
+  City_melfi:
+    Province:  ProvincePZ
+    id:        F104
+    name:      Melfi
+    latitude:  40.9975
+    longitude: 15.65237
+  City_melicucca:
+    Province:  ProvinceRC
+    id:        F105
+    name:      Melicuccà
+    latitude:  38.304852
+    longitude: 15.882204
+  City_melicucco:
+    Province:  ProvinceRC
+    id:        F106
+    name:      Melicucco
+    latitude:  38.43317
+    longitude: 16.059682
+  City_melilli:
+    Province:  ProvinceSR
+    id:        F107
+    name:      Melilli
+    latitude:  37.180796
+    longitude: 15.126426
+  City_melissa:
+    Province:  ProvinceKR
+    id:        F108
+    name:      Melissa
+    latitude:  39.309704
+    longitude: 17.03063
+  City_melissano:
+    Province:  ProvinceLE
+    id:        F109
+    name:      Melissano
+    latitude:  39.975
+    longitude: 18.12237
+  City_melito_irpino:
+    Province:  ProvinceAV
+    id:        F110
+    name:      'Melito Irpino'
+    latitude:  41.104241
+    longitude: 15.053296
+  City_melito_di_napoli:
+    Province:  ProvinceNA
+    id:        F111
+    name:      'Melito di Napoli'
+    latitude:  40.921574
+    longitude: 14.230944
+  City_melito_di_porto_salvo:
+    Province:  ProvinceRC
+    id:        F112
+    name:      'Melito di Porto Salvo'
+    latitude:  37.920721
+    longitude: 15.78568
+  City_melizzano:
+    Province:  ProvinceBN
+    id:        F113
+    name:      Melizzano
+    latitude:  41.163611
+    longitude: 14.505333
+  City_melle:
+    Province:  ProvinceCN
+    id:        F114
+    name:      Melle
+    latitude:  44.562728
+    longitude: 7.321448
+  City_mello:
+    Province:  ProvinceSO
+    id:        F115
+    name:      Mello
+    latitude:  46.156116
+    longitude: 9.547649
+  City_silea:
+    Province:  ProvinceTV
+    id:        F116
+    name:      Silea
+    latitude:  45.654671
+    longitude: 12.296841
+  City_melpignano:
+    Province:  ProvinceLE
+    id:        F117
+    name:      Melpignano
+    latitude:  40.158907
+    longitude: 18.293148
+  City_meltina:
+    Province:  ProvinceBZ
+    id:        F118
+    name:      Meltina
+    latitude:  46.588038
+    longitude: 11.255567
+  City_melzo:
+    Province:  ProvinceMI
+    id:        F119
+    name:      Melzo
+    latitude:  45.497765
+    longitude: 9.418398
+  City_menaggio:
+    Province:  ProvinceCO
+    id:        F120
+    name:      Menaggio
+    latitude:  46.020776
+    longitude: 9.238938
+  City_menarola:
+    Province:  ProvinceSO
+    id:        F121
+    name:      Menarola
+    latitude:  46.298264
+    longitude: 9.360828
+  City_menconico:
+    Province:  ProvincePV
+    id:        F122
+    name:      Menconico
+    latitude:  44.796753
+    longitude: 9.278569
+  City_mendatica:
+    Province:  ProvinceIM
+    id:        F123
+    name:      Mendatica
+    latitude:  44.07813
+    longitude: 7.806722
+  City_mendicino:
+    Province:  ProvinceCS
+    id:        F125
+    name:      Mendicino
+    latitude:  39.260594
+    longitude: 16.192669
+  City_menfi:
+    Province:  ProvinceAG
+    id:        F126
+    name:      Menfi
+    latitude:  37.598881
+    longitude: 12.968547
+  City_mentana:
+    Province:  ProvinceRM
+    id:        F127
+    name:      Mentana
+    latitude:  42.034281
+    longitude: 12.637359
+  City_meolo:
+    Province:  ProvinceVE
+    id:        F130
+    name:      Meolo
+    latitude:  45.620197
+    longitude: 12.452579
+  City_merana:
+    Province:  ProvinceAL
+    id:        F131
+    name:      Merana
+    latitude:  44.518794
+    longitude: 8.298022
+  City_merano:
+    Province:  ProvinceBZ
+    id:        F132
+    name:      Merano
+    latitude:  46.669104
+    longitude: 11.163986
+  City_merate:
+    Province:  ProvinceLC
+    id:        F133
+    name:      Merate
+    latitude:  45.6989
+    longitude: 9.414122
+  City_mercallo:
+    Province:  ProvinceVA
+    id:        F134
+    name:      Mercallo
+    latitude:  45.750318
+    longitude: 8.670875
+  City_mercatello_sul_metauro:
+    Province:  ProvincePU
+    id:        F135
+    name:      'Mercatello sul Metauro'
+    latitude:  43.647857
+    longitude: 12.337754
+  City_mercatino_conca:
+    Province:  ProvincePU
+    id:        F136
+    name:      'Mercatino Conca'
+    latitude:  43.871278
+    longitude: 12.492204
+  City_novafeltria:
+    Province:  ProvincePU
+    id:        F137
+    name:      Novafeltria
+    latitude:  43.896239
+    longitude: 12.290166
+  City_mercato_san_severino:
+    Province:  ProvinceSA
+    id:        F138
+    name:      'Mercato San Severino'
+    latitude:  40.78237
+    longitude: 14.757815
+  City_mercato_saraceno:
+    Province:  ProvinceFC
+    id:        F139
+    name:      'Mercato Saraceno'
+    latitude:  43.956255
+    longitude: 12.196076
+  City_mercenasco:
+    Province:  ProvinceTO
+    id:        F140
+    name:      Mercenasco
+    latitude:  45.3575
+    longitude: 7.881259
+  City_mercogliano:
+    Province:  ProvinceAV
+    id:        F141
+    name:      Mercogliano
+    latitude:  40.920635
+    longitude: 14.736256
+  City_mereto_di_tomba:
+    Province:  ProvinceUD
+    id:        F144
+    name:      'Mereto di Tomba'
+    latitude:  46.053149
+    longitude: 13.040713
+  City_mergo:
+    Province:  ProvinceAN
+    id:        F145
+    name:      Mergo
+    latitude:  43.471936
+    longitude: 13.037764
+  City_mergozzo:
+    Province:  ProvinceVB
+    id:        F146
+    name:      Mergozzo
+    latitude:  45.96237
+    longitude: 8.45063
+  City_meri:
+    Province:  ProvinceME
+    id:        F147
+    name:      Merì
+    latitude:  38.167056
+    longitude: 15.250796
+  City_merlara:
+    Province:  ProvincePD
+    id:        F148
+    name:      Merlara
+    latitude:  45.167352
+    longitude: 11.442352
+  City_merlino:
+    Province:  ProvinceLO
+    id:        F149
+    name:      Merlino
+    latitude:  45.434389
+    longitude: 9.430944
+  City_merone:
+    Province:  ProvinceCO
+    id:        F151
+    name:      Merone
+    latitude:  45.78813
+    longitude: 9.245167
+  City_mesagne:
+    Province:  ProvinceBR
+    id:        F152
+    name:      Mesagne
+    latitude:  40.559852
+    longitude: 17.809241
+  City_mese:
+    Province:  ProvinceSO
+    id:        F153
+    name:      Mese
+    latitude:  46.30421
+    longitude: 9.377478
+  City_mesenzana:
+    Province:  ProvinceVA
+    id:        F154
+    name:      Mesenzana
+    latitude:  45.947018
+    longitude: 8.757514
+  City_mesero:
+    Province:  ProvinceMI
+    id:        F155
+    name:      Mesero
+    latitude:  45.501064
+    longitude: 8.85777
+  City_mesola:
+    Province:  ProvinceFE
+    id:        F156
+    name:      Mesola
+    latitude:  44.921722
+    longitude: 12.230333
+  City_mesoraca:
+    Province:  ProvinceKR
+    id:        F157
+    name:      Mesoraca
+    latitude:  39.078191
+    longitude: 16.790224
+  City_messina:
+    Province:  ProvinceME
+    id:        F158
+    name:      Messina
+    latitude:  38.192244
+    longitude: 15.556633
+  City_mestrino:
+    Province:  ProvincePD
+    id:        F161
+    name:      Mestrino
+    latitude:  45.441889
+    longitude: 11.761574
+  City_meta:
+    Province:  ProvinceNA
+    id:        F162
+    name:      Meta
+    latitude:  40.640333
+    longitude: 14.419241
+  City_meugliano:
+    Province:  ProvinceTO
+    id:        F164
+    name:      Meugliano
+    latitude:  45.490414
+    longitude: 7.779508
+  City_mezzago:
+    Province:  ProvinceMI
+    id:        F165
+    name:      Mezzago
+    latitude:  45.63053
+    longitude: 9.44385
+  City_mezzana_mortigliengo:
+    Province:  ProvinceBI
+    id:        F167
+    name:      'Mezzana Mortigliengo'
+    latitude:  45.626743
+    longitude: 8.189786
+  City_mezzana:
+    Province:  ProvinceTN
+    id:        F168
+    name:      Mezzana
+    latitude:  46.317667
+    longitude: 10.801278
+  City_mezzana_bigli:
+    Province:  ProvincePV
+    id:        F170
+    name:      'Mezzana Bigli'
+    latitude:  45.060963
+    longitude: 8.849537
+  City_mezzana_rabattone:
+    Province:  ProvincePV
+    id:        F171
+    name:      'Mezzana Rabattone'
+    latitude:  45.095963
+    longitude: 9.032352
+  City_mezzane_di_sotto:
+    Province:  ProvinceVR
+    id:        F172
+    name:      'Mezzane di Sotto'
+    latitude:  45.482329
+    longitude: 11.128961
+  City_mezzanego:
+    Province:  ProvinceGE
+    id:        F173
+    name:      Mezzanego
+    latitude:  44.383778
+    longitude: 9.377837
+  City_mezzani:
+    Province:  ProvincePR
+    id:        F174
+    name:      Mezzani
+    latitude:  44.916755
+    longitude: 10.429967
+  City_mezzanino:
+    Province:  ProvincePV
+    id:        F175
+    name:      Mezzanino
+    latitude:  45.124877
+    longitude: 9.208325
+  City_mezzano:
+    Province:  ProvinceTN
+    id:        F176
+    name:      Mezzano
+    latitude:  46.15563
+    longitude: 11.809074
+  City_mezzegra:
+    Province:  ProvinceCO
+    id:        F181
+    name:      Mezzegra
+    latitude:  45.982716
+    longitude: 9.206345
+  City_mezzenile:
+    Province:  ProvinceTO
+    id:        F182
+    name:      Mezzenile
+    latitude:  45.295958
+    longitude: 7.396715
+  City_mezzocorona:
+    Province:  ProvinceTN
+    id:        F183
+    name:      Mezzocorona
+    latitude:  46.214389
+    longitude: 11.11987
+  City_mezzojuso:
+    Province:  ProvincePA
+    id:        F184
+    name:      Mezzojuso
+    latitude:  37.865648
+    longitude: 13.465648
+  City_mezzoldo:
+    Province:  ProvinceBG
+    id:        F186
+    name:      Mezzoldo
+    latitude:  46.013518
+    longitude: 9.664873
+  City_mezzolombardo:
+    Province:  ProvinceTN
+    id:        F187
+    name:      Mezzolombardo
+    latitude:  46.210018
+    longitude: 11.097815
+  City_mezzomerico:
+    Province:  ProvinceNO
+    id:        F188
+    name:      Mezzomerico
+    latitude:  45.619704
+    longitude: 8.606741
+  City_miagliano:
+    Province:  ProvinceBI
+    id:        F189
+    name:      Miagliano
+    latitude:  45.614315
+    longitude: 8.045802
+  City_miane:
+    Province:  ProvinceTV
+    id:        F190
+    name:      Miane
+    latitude:  45.945462
+    longitude: 12.096527
+  City_miasino:
+    Province:  ProvinceNO
+    id:        F191
+    name:      Miasino
+    latitude:  45.802981
+    longitude: 8.430963
+  City_miazzina:
+    Province:  ProvinceVB
+    id:        F192
+    name:      Miazzina
+    latitude:  45.977896
+    longitude: 8.516151
+  City_micigliano:
+    Province:  ProvinceRI
+    id:        F193
+    name:      Micigliano
+    latitude:  42.4515
+    longitude: 13.053079
+  City_miggiano:
+    Province:  ProvinceLE
+    id:        F194
+    name:      Miggiano
+    latitude:  39.960796
+    longitude: 18.312518
+  City_miglianico:
+    Province:  ProvinceCH
+    id:        F196
+    name:      Miglianico
+    latitude:  42.359389
+    longitude: 14.2925
+  City_migliarino:
+    Province:  ProvinceFE
+    id:        F198
+    name:      Migliarino
+    latitude:  44.770963
+    longitude: 11.93487
+  City_migliaro:
+    Province:  ProvinceFE
+    id:        F199
+    name:      Migliaro
+    latitude:  44.801234
+    longitude: 11.974493
+  City_miglierina:
+    Province:  ProvinceCZ
+    id:        F200
+    name:      Miglierina
+    latitude:  38.949223
+    longitude: 16.472745
+  City_miglionico:
+    Province:  ProvinceMT
+    id:        F201
+    name:      Miglionico
+    latitude:  40.569378
+    longitude: 16.499631
+  City_mignanego:
+    Province:  ProvinceGE
+    id:        F202
+    name:      Mignanego
+    latitude:  44.516956
+    longitude: 8.912544
+  City_mignano_monte_lungo:
+    Province:  ProvinceCE
+    id:        F203
+    name:      'Mignano Monte Lungo'
+    latitude:  41.407056
+    longitude: 13.986407
+  City_milano:
+    Province:  ProvinceMI
+    id:        F205
+    name:      Milano
+    latitude:  45.463671
+    longitude: 9.188126
+  City_milazzo:
+    Province:  ProvinceME
+    id:        F206
+    name:      Milazzo
+    latitude:  38.219354
+    longitude: 15.240374
+  City_mileto:
+    Province:  ProvinceVV
+    id:        F207
+    name:      Mileto
+    latitude:  38.610647
+    longitude: 16.07049
+  City_milis:
+    Province:  ProvinceOR
+    id:        F208
+    name:      Milis
+    latitude:  40.051574
+    longitude: 8.638148
+  City_militello_in_val_di_catania:
+    Province:  ProvinceCT
+    id:        F209
+    name:      'Militello in Val di Catania'
+    latitude:  37.275944
+    longitude: 14.794222
+  City_militello_rosmarino:
+    Province:  ProvinceME
+    id:        F210
+    name:      'Militello Rosmarino'
+    latitude:  38.047232
+    longitude: 14.677788
+  City_millesimo:
+    Province:  ProvinceSV
+    id:        F213
+    name:      Millesimo
+    latitude:  44.364129
+    longitude: 8.20594
+  City_milo:
+    Province:  ProvinceCT
+    id:        F214
+    name:      Milo
+    latitude:  37.7244
+    longitude: 15.116758
+  City_milzano:
+    Province:  ProvinceBS
+    id:        F216
+    name:      Milzano
+    latitude:  45.274537
+    longitude: 10.200315
+  City_mineo:
+    Province:  ProvinceCT
+    id:        F217
+    name:      Mineo
+    latitude:  37.266407
+    longitude: 14.690944
+  City_minerbe:
+    Province:  ProvinceVR
+    id:        F218
+    name:      Minerbe
+    latitude:  45.242037
+    longitude: 11.335963
+  City_minerbio:
+    Province:  ProvinceBO
+    id:        F219
+    name:      Minerbio
+    latitude:  44.624316
+    longitude: 11.489878
+  City_minervino_murge:
+    Province:  ProvinceBA
+    id:        F220
+    name:      'Minervino Murge'
+    latitude:  41.085315
+    longitude: 16.079222
+  City_minervino_di_lecce:
+    Province:  ProvinceLE
+    id:        F221
+    name:      'Minervino di Lecce'
+    latitude:  40.089555
+    longitude: 18.421259
+  City_minori:
+    Province:  ProvinceSA
+    id:        F223
+    name:      Minori
+    latitude:  40.650741
+    longitude: 14.626102
+  City_minturno:
+    Province:  ProvinceLT
+    id:        F224
+    name:      Minturno
+    latitude:  41.26238
+    longitude: 13.746468
+  City_minucciano:
+    Province:  ProvinceLU
+    id:        F225
+    name:      Minucciano
+    latitude:  44.171407
+    longitude: 10.208778
+  City_mioglia:
+    Province:  ProvinceSV
+    id:        F226
+    name:      Mioglia
+    latitude:  44.49313
+    longitude: 8.415481
+  City_mira:
+    Province:  ProvinceVE
+    id:        F229
+    name:      Mira
+    latitude:  45.436809
+    longitude: 12.13126
+  City_mirabella_eclano:
+    Province:  ProvinceAV
+    id:        F230
+    name:      'Mirabella Eclano'
+    latitude:  41.042503
+    longitude: 14.99419
+  City_mirabella_imbaccari:
+    Province:  ProvinceCT
+    id:        F231
+    name:      'Mirabella Imbaccari'
+    latitude:  37.32873
+    longitude: 14.447257
+  City_mirabello_monferrato:
+    Province:  ProvinceAL
+    id:        F232
+    name:      'Mirabello Monferrato'
+    latitude:  45.036574
+    longitude: 8.524389
+  City_mirabello_sannitico:
+    Province:  ProvinceCB
+    id:        F233
+    name:      'Mirabello Sannitico'
+    latitude:  41.515955
+    longitude: 14.673677
+  City_mirabello:
+    Province:  ProvinceFE
+    id:        F235
+    name:      Mirabello
+    latitude:  44.826722
+    longitude: 11.462815
+  City_miradolo_terme:
+    Province:  ProvincePV
+    id:        F238
+    name:      'Miradolo Terme'
+    latitude:  45.172036
+    longitude: 9.446703
+  City_miranda:
+    Province:  ProvinceIS
+    id:        F239
+    name:      Miranda
+    latitude:  41.642134
+    longitude: 14.247578
+  City_mirandola:
+    Province:  ProvinceMO
+    id:        F240
+    name:      Mirandola
+    latitude:  44.887833
+    longitude: 11.06737
+  City_mirano:
+    Province:  ProvinceVE
+    id:        F241
+    name:      Mirano
+    latitude:  45.492231
+    longitude: 12.10828
+  City_mirto:
+    Province:  ProvinceME
+    id:        F242
+    name:      Mirto
+    latitude:  38.085514
+    longitude: 14.752271
+  City_misano_di_gera_d_adda:
+    Province:  ProvinceBG
+    id:        F243
+    name:      'Misano di Gera D''Adda'
+    latitude:  45.472055
+    longitude: 9.623611
+  City_misano_adriatico:
+    Province:  ProvinceRN
+    id:        F244
+    name:      'Misano Adriatico'
+    latitude:  43.979748
+    longitude: 12.695766
+  City_misilmeri:
+    Province:  ProvincePA
+    id:        F246
+    name:      Misilmeri
+    latitude:  38.034468
+    longitude: 13.453347
+  City_misinto:
+    Province:  ProvinceMI
+    id:        F247
+    name:      Misinto
+    latitude:  45.662857
+    longitude: 9.082278
+  City_missaglia:
+    Province:  ProvinceLC
+    id:        F248
+    name:      Missaglia
+    latitude:  45.707244
+    longitude: 9.337596
+  City_missanello:
+    Province:  ProvincePZ
+    id:        F249
+    name:      Missanello
+    latitude:  40.283148
+    longitude: 16.166889
+  City_misterbianco:
+    Province:  ProvinceCT
+    id:        F250
+    name:      Misterbianco
+    latitude:  37.518959
+    longitude: 15.007882
+  City_mistretta:
+    Province:  ProvinceME
+    id:        F251
+    name:      Mistretta
+    latitude:  37.929545
+    longitude: 14.362533
+  City_moasca:
+    Province:  ProvinceAT
+    id:        F254
+    name:      Moasca
+    latitude:  44.763084
+    longitude: 8.278673
+  City_moconesi:
+    Province:  ProvinceGE
+    id:        F256
+    name:      Moconesi
+    latitude:  44.421385
+    longitude: 9.211059
+  City_modena:
+    Province:  ProvinceMO
+    id:        F257
+    name:      Modena
+    latitude:  40.300581
+    longitude: -93.680371
+  City_modica:
+    Province:  ProvinceRG
+    id:        F258
+    name:      Modica
+    latitude:  36.858998
+    longitude: 14.760768
+  City_modigliana:
+    Province:  ProvinceFC
+    id:        F259
+    name:      Modigliana
+    latitude:  44.162204
+    longitude: 11.794537
+  City_tavazzano_con_villavesco:
+    Province:  ProvinceLO
+    id:        F260
+    name:      'Tavazzano con Villavesco'
+    latitude:  45.328296
+    longitude: 9.407518
+  City_modolo:
+    Province:  ProvinceOR
+    id:        F261
+    name:      Modolo
+    latitude:  40.275414
+    longitude: 8.530446
+  City_modugno:
+    Province:  ProvinceBA
+    id:        F262
+    name:      Modugno
+    latitude:  41.082965
+    longitude: 16.779703
+  City_moena:
+    Province:  ProvinceTN
+    id:        F263
+    name:      Moena
+    latitude:  46.378252
+    longitude: 11.663398
+  City_moggio:
+    Province:  ProvinceLC
+    id:        F265
+    name:      Moggio
+    latitude:  45.932561
+    longitude: 9.485362
+  City_moggio_udinese:
+    Province:  ProvinceUD
+    id:        F266
+    name:      'Moggio Udinese'
+    latitude:  46.408611
+    longitude: 13.198296
+  City_moglia:
+    Province:  ProvinceMN
+    id:        F267
+    name:      Moglia
+    latitude:  44.93813
+    longitude: 10.914555
+  City_mogliano:
+    Province:  ProvinceMC
+    id:        F268
+    name:      Mogliano
+    latitude:  43.183936
+    longitude: 13.474187
+  City_mogliano_veneto:
+    Province:  ProvinceTV
+    id:        F269
+    name:      'Mogliano Veneto'
+    latitude:  45.561341
+    longitude: 12.236331
+  City_mogorella:
+    Province:  ProvinceOR
+    id:        F270
+    name:      Mogorella
+    latitude:  39.865648
+    longitude: 8.85987
+  City_ruinas:
+    Province:  ProvinceOR
+    id:        F271
+    name:      Ruinas
+    latitude:  39.90689
+    longitude: 8.897053
+  City_mogoro:
+    Province:  ProvinceOR
+    id:        F272
+    name:      Mogoro
+    latitude:  39.685963
+    longitude: 8.778463
+  City_moiano:
+    Province:  ProvinceBN
+    id:        F274
+    name:      Moiano
+    latitude:  41.081111
+    longitude: 14.544241
+  City_moimacco:
+    Province:  ProvinceUD
+    id:        F275
+    name:      Moimacco
+    latitude:  46.09237
+    longitude: 13.378148
+  City_moio_de_calvi:
+    Province:  ProvinceBG
+    id:        F276
+    name:      'Moio de'' Calvi'
+    latitude:  45.953126
+    longitude: 9.700255
+  City_moio_alcantara:
+    Province:  ProvinceME
+    id:        F277
+    name:      'Moio Alcantara'
+    latitude:  37.901278
+    longitude: 15.052352
+  City_moio_della_civitella:
+    Province:  ProvinceSA
+    id:        F278
+    name:      'Moio della Civitella'
+    latitude:  40.246374
+    longitude: 15.268815
+  City_moiola:
+    Province:  ProvinceCN
+    id:        F279
+    name:      Moiola
+    latitude:  44.322499
+    longitude: 7.390242
+  City_mola_di_bari:
+    Province:  ProvinceBA
+    id:        F280
+    name:      'Mola di Bari'
+    latitude:  41.062017
+    longitude: 17.088141
+  City_molare:
+    Province:  ProvinceAL
+    id:        F281
+    name:      Molare
+    latitude:  44.619704
+    longitude: 8.601741
+  City_molazzana:
+    Province:  ProvinceLU
+    id:        F283
+    name:      Molazzana
+    latitude:  44.072833
+    longitude: 10.418926
+  City_molfetta:
+    Province:  ProvinceBA
+    id:        F284
+    name:      Molfetta
+    latitude:  41.201264
+    longitude: 16.598537
+  City_molina_di_ledro:
+    Province:  ProvinceTN
+    id:        F286
+    name:      'Molina di Ledro'
+    latitude:  45.87237
+    longitude: 10.776426
+  City_molinara:
+    Province:  ProvinceBN
+    id:        F287
+    name:      Molinara
+    latitude:  41.294537
+    longitude: 14.908759
+  City_molinella:
+    Province:  ProvinceBO
+    id:        F288
+    name:      Molinella
+    latitude:  44.62237
+    longitude: 11.669704
+  City_molini_di_triora:
+    Province:  ProvinceIM
+    id:        F290
+    name:      'Molini di Triora'
+    latitude:  43.99063
+    longitude: 7.775481
+  City_molino_dei_torti:
+    Province:  ProvinceAL
+    id:        F293
+    name:      'Molino Dei Torti'
+    latitude:  45.025333
+    longitude: 8.89487
+  City_molise:
+    Province:  ProvinceCB
+    id:        F294
+    name:      Molise
+    latitude:  41.63109
+    longitude: 14.493461
+  City_moliterno:
+    Province:  ProvincePZ
+    id:        F295
+    name:      Moliterno
+    latitude:  40.242815
+    longitude: 15.864389
+  City_mollia:
+    Province:  ProvinceVC
+    id:        F297
+    name:      Mollia
+    latitude:  45.815127
+    longitude: 8.030791
+  City_porto_empedocle:
+    Province:  ProvinceAG
+    id:        F299
+    name:      'Porto Empedocle'
+    latitude:  37.286578
+    longitude: 13.526715
+  City_molochio:
+    Province:  ProvinceRC
+    id:        F301
+    name:      Molochio
+    latitude:  38.308296
+    longitude: 16.030167
+  City_molteno:
+    Province:  ProvinceLC
+    id:        F304
+    name:      Molteno
+    latitude:  45.778262
+    longitude: 9.306743
+  City_moltrasio:
+    Province:  ProvinceCO
+    id:        F305
+    name:      Moltrasio
+    latitude:  45.860944
+    longitude: 9.099537
+  City_molvena:
+    Province:  ProvinceVI
+    id:        F306
+    name:      Molvena
+    latitude:  45.744945
+    longitude: 11.614705
+  City_molveno:
+    Province:  ProvinceTN
+    id:        F307
+    name:      Molveno
+    latitude:  46.143148
+    longitude: 10.964852
+  City_mombaldone:
+    Province:  ProvinceAT
+    id:        F308
+    name:      Mombaldone
+    latitude:  44.572108
+    longitude: 8.336552
+  City_mombarcaro:
+    Province:  ProvinceCN
+    id:        F309
+    name:      Mombarcaro
+    latitude:  44.468214
+    longitude: 8.086699
+  City_mombaroccio:
+    Province:  ProvincePU
+    id:        F310
+    name:      Mombaroccio
+    latitude:  43.793997
+    longitude: 12.85474
+  City_mombaruzzo:
+    Province:  ProvinceAT
+    id:        F311
+    name:      Mombaruzzo
+    latitude:  44.772074
+    longitude: 8.448432
+  City_mombasiglio:
+    Province:  ProvinceCN
+    id:        F312
+    name:      Mombasiglio
+    latitude:  44.367667
+    longitude: 7.969074
+  City_mombello_monferrato:
+    Province:  ProvinceAL
+    id:        F313
+    name:      'Mombello Monferrato'
+    latitude:  45.133926
+    longitude: 8.251407
+  City_mombello_di_torino:
+    Province:  ProvinceTO
+    id:        F315
+    name:      'Mombello di Torino'
+    latitude:  45.046428
+    longitude: 7.921199
+  City_mombercelli:
+    Province:  ProvinceAT
+    id:        F316
+    name:      Mombercelli
+    latitude:  44.817351
+    longitude: 8.2944
+  City_momo:
+    Province:  ProvinceNO
+    id:        F317
+    name:      Momo
+    latitude:  45.576574
+    longitude: 8.554537
+  City_mompantero:
+    Province:  ProvinceTO
+    id:        F318
+    name:      Mompantero
+    latitude:  45.148598
+    longitude: 7.041884
+  City_mompeo:
+    Province:  ProvinceRI
+    id:        F319
+    name:      Mompeo
+    latitude:  42.248504
+    longitude: 12.751122
+  City_momperone:
+    Province:  ProvinceAL
+    id:        F320
+    name:      Momperone
+    latitude:  44.838874
+    longitude: 9.03532
+  City_monacilioni:
+    Province:  ProvinceCB
+    id:        F322
+    name:      Monacilioni
+    latitude:  41.610944
+    longitude: 14.809556
+  City_monale:
+    Province:  ProvinceAT
+    id:        F323
+    name:      Monale
+    latitude:  44.935276
+    longitude: 8.072747
+  City_monasterace:
+    Province:  ProvinceRC
+    id:        F324
+    name:      Monasterace
+    latitude:  38.453973
+    longitude: 16.551326
+  City_monastero_bormida:
+    Province:  ProvinceAT
+    id:        F325
+    name:      'Monastero Bormida'
+    latitude:  44.648679
+    longitude: 8.325753
+  City_monastero_di_vasco:
+    Province:  ProvinceCN
+    id:        F326
+    name:      'Monastero di Vasco'
+    latitude:  44.340784
+    longitude: 7.822846
+  City_monastero_di_lanzo:
+    Province:  ProvinceTO
+    id:        F327
+    name:      'Monastero di Lanzo'
+    latitude:  45.301553
+    longitude: 7.440395
+  City_monasterolo_del_castello:
+    Province:  ProvinceBG
+    id:        F328
+    name:      'Monasterolo del Castello'
+    latitude:  45.764241
+    longitude: 9.932833
+  City_monasterolo_casotto:
+    Province:  ProvinceCN
+    id:        F329
+    name:      'Monasterolo Casotto'
+    latitude:  44.325504
+    longitude: 7.945504
+  City_monasterolo_di_savigliano:
+    Province:  ProvinceCN
+    id:        F330
+    name:      'Monasterolo di Savigliano'
+    latitude:  44.687352
+    longitude: 7.62063
+  City_monastier_di_treviso:
+    Province:  ProvinceTV
+    id:        F332
+    name:      'Monastier di Treviso'
+    latitude:  45.650872
+    longitude: 12.435401
+  City_monastir:
+    Province:  ProvinceCA
+    id:        F333
+    name:      Monastir
+    latitude:  39.385963
+    longitude: 9.045963
+  City_moncalieri:
+    Province:  ProvinceTO
+    id:        F335
+    name:      Moncalieri
+    latitude:  44.999362
+    longitude: 7.680064
+  City_moncalvo:
+    Province:  ProvinceAT
+    id:        F336
+    name:      Moncalvo
+    latitude:  45.051264
+    longitude: 8.266417
+  City_moncestino:
+    Province:  ProvinceAL
+    id:        F337
+    name:      Moncestino
+    latitude:  45.15563
+    longitude: 8.1625
+  City_monchiero:
+    Province:  ProvinceCN
+    id:        F338
+    name:      Monchiero
+    latitude:  44.572915
+    longitude: 7.917053
+  City_monchio_delle_corti:
+    Province:  ProvincePR
+    id:        F340
+    name:      'Monchio delle Corti'
+    latitude:  44.413907
+    longitude: 10.125333
+  City_monclassico:
+    Province:  ProvinceTN
+    id:        F341
+    name:      Monclassico
+    latitude:  46.336227
+    longitude: 10.889897
+  City_moncrivello:
+    Province:  ProvinceVC
+    id:        F342
+    name:      Moncrivello
+    latitude:  45.333463
+    longitude: 7.996741
+  City_moncucco_torinese:
+    Province:  ProvinceAT
+    id:        F343
+    name:      'Moncucco Torinese'
+    latitude:  45.064893
+    longitude: 7.933142
+  City_mondaino:
+    Province:  ProvinceRN
+    id:        F346
+    name:      Mondaino
+    latitude:  43.858196
+    longitude: 12.669916
+  City_mondavio:
+    Province:  ProvincePU
+    id:        F347
+    name:      Mondavio
+    latitude:  43.6739
+    longitude: 12.969705
+  City_mondolfo:
+    Province:  ProvincePU
+    id:        F348
+    name:      Mondolfo
+    latitude:  43.750315
+    longitude: 13.098926
+  City_mondovi:
+    Province:  ProvinceCN
+    id:        F351
+    name:      Mondovì
+    latitude:  44.389576
+    longitude: 7.820601
+  City_mondragone:
+    Province:  ProvinceCE
+    id:        F352
+    name:      Mondragone
+    latitude:  41.115167
+    longitude: 13.894556
+  City_moneglia:
+    Province:  ProvinceGE
+    id:        F354
+    name:      Moneglia
+    latitude:  44.238279
+    longitude: 9.491221
+  City_monesiglio:
+    Province:  ProvinceCN
+    id:        F355
+    name:      Monesiglio
+    latitude:  44.465696
+    longitude: 8.118851
+  City_monfalcone:
+    Province:  ProvinceGO
+    id:        F356
+    name:      Monfalcone
+    latitude:  45.809648
+    longitude: 13.532855
+  City_serramazzoni:
+    Province:  ProvinceMO
+    id:        F357
+    name:      Serramazzoni
+    latitude:  44.426111
+    longitude: 10.7875
+  City_monforte_d_alba:
+    Province:  ProvinceCN
+    id:        F358
+    name:      'Monforte D''Alba'
+    latitude:  44.583067
+    longitude: 7.967824
+  City_monforte_san_giorgio:
+    Province:  ProvinceME
+    id:        F359
+    name:      'Monforte San Giorgio'
+    latitude:  38.1575
+    longitude: 15.382204
+  City_monfumo:
+    Province:  ProvinceTV
+    id:        F360
+    name:      Monfumo
+    latitude:  45.831091
+    longitude: 11.920264
+  City_mongardino:
+    Province:  ProvinceAT
+    id:        F361
+    name:      Mongardino
+    latitude:  44.848687
+    longitude: 8.217822
+  City_monghidoro:
+    Province:  ProvinceBO
+    id:        F363
+    name:      Monghidoro
+    latitude:  44.227518
+    longitude: 11.328611
+  City_mongiana:
+    Province:  ProvinceVV
+    id:        F364
+    name:      Mongiana
+    latitude:  38.51389
+    longitude: 16.320307
+  City_mongiardino_ligure:
+    Province:  ProvinceAL
+    id:        F365
+    name:      'Mongiardino Ligure'
+    latitude:  44.639135
+    longitude: 9.060212
+  City_montjovet:
+    Province:  ProvinceAO
+    id:        F367
+    name:      Montjovet
+    latitude:  45.706412
+    longitude: 7.675264
+  City_mongiuffi_melia:
+    Province:  ProvinceME
+    id:        F368
+    name:      'Mongiuffi Melia'
+    latitude:  37.911784
+    longitude: 15.277518
+  City_mongrando:
+    Province:  ProvinceBI
+    id:        F369
+    name:      Mongrando
+    latitude:  45.529222
+    longitude: 8.008296
+  City_mongrassano:
+    Province:  ProvinceCS
+    id:        F370
+    name:      Mongrassano
+    latitude:  39.525432
+    longitude: 16.111935
+  City_monguelfo:
+    Province:  ProvinceBZ
+    id:        F371
+    name:      Monguelfo
+    latitude:  46.75677
+    longitude: 12.109322
+  City_monguzzo:
+    Province:  ProvinceCO
+    id:        F372
+    name:      Monguzzo
+    latitude:  45.781304
+    longitude: 9.231424
+  City_moniga_del_garda:
+    Province:  ProvinceBS
+    id:        F373
+    name:      'Moniga del Garda'
+    latitude:  45.527619
+    longitude: 10.539697
+  City_monleale:
+    Province:  ProvinceAL
+    id:        F374
+    name:      Monleale
+    latitude:  44.885315
+    longitude: 8.975
+  City_monno:
+    Province:  ProvinceBS
+    id:        F375
+    name:      Monno
+    latitude:  46.212154
+    longitude: 10.340806
+  City_monopoli:
+    Province:  ProvinceBA
+    id:        F376
+    name:      Monopoli
+    latitude:  40.957055
+    longitude: 17.290481
+  City_monreale:
+    Province:  ProvincePA
+    id:        F377
+    name:      Monreale
+    latitude:  38.081278
+    longitude: 13.289555
+  City_monrupino:
+    Province:  ProvinceTS
+    id:        F378
+    name:      Monrupino
+    latitude:  45.717667
+    longitude: 13.811259
+  City_monsampietro_morico:
+    Province:  ProvinceAP
+    id:        F379
+    name:      'Monsampietro Morico'
+    latitude:  43.067776
+    longitude: 13.555917
+  City_monsampolo_del_tronto:
+    Province:  ProvinceAP
+    id:        F380
+    name:      'Monsampolo del Tronto'
+    latitude:  42.895747
+    longitude: 13.796542
+  City_monsano:
+    Province:  ProvinceAN
+    id:        F381
+    name:      Monsano
+    latitude:  43.563611
+    longitude: 13.251111
+  City_monselice:
+    Province:  ProvincePD
+    id:        F382
+    name:      Monselice
+    latitude:  45.239529
+    longitude: 11.7504
+  City_monserrato:
+    Province:  ProvinceCA
+    id:        F383
+    name:      Monserrato
+    latitude:  39.255809
+    longitude: 9.140555
+  City_monsummano_terme:
+    Province:  ProvincePT
+    id:        F384
+    name:      'Monsummano Terme'
+    latitude:  43.871426
+    longitude: 10.813463
+  City_monta:
+    Province:  ProvinceCN
+    id:        F385
+    name:      Montà
+    latitude:  44.814704
+    longitude: 7.958463
+  City_montabone:
+    Province:  ProvinceAT
+    id:        F386
+    name:      Montabone
+    latitude:  44.698816
+    longitude: 8.390117
+  City_montacuto:
+    Province:  ProvinceAL
+    id:        F387
+    name:      Montacuto
+    latitude:  44.766706
+    longitude: 9.105061
+  City_montafia:
+    Province:  ProvinceAT
+    id:        F390
+    name:      Montafia
+    latitude:  44.989736
+    longitude: 8.024127
+  City_montagano:
+    Province:  ProvinceCB
+    id:        F391
+    name:      Montagano
+    latitude:  41.646214
+    longitude: 14.67393
+  City_montagna:
+    Province:  ProvinceBZ
+    id:        F392
+    name:      Montagna
+    latitude:  46.331878
+    longitude: 11.302956
+  City_montagna_in_valtellina:
+    Province:  ProvinceSO
+    id:        F393
+    name:      'Montagna in Valtellina'
+    latitude:  46.179556
+    longitude: 9.904074
+  City_montagnana:
+    Province:  ProvincePD
+    id:        F394
+    name:      Montagnana
+    latitude:  45.23361
+    longitude: 11.467242
+  City_montagnareale:
+    Province:  ProvinceME
+    id:        F395
+    name:      Montagnareale
+    latitude:  38.133296
+    longitude: 14.947518
+  City_montagne:
+    Province:  ProvinceTN
+    id:        F396
+    name:      Montagne
+    latitude:  46.059555
+    longitude: 10.752352
+  City_montaguto:
+    Province:  ProvinceAV
+    id:        F397
+    name:      Montaguto
+    latitude:  41.249541
+    longitude: 15.249241
+  City_montaione:
+    Province:  ProvinceFI
+    id:        F398
+    name:      Montaione
+    latitude:  43.553611
+    longitude: 10.911722
+  City_montalbano_jonico:
+    Province:  ProvinceMT
+    id:        F399
+    name:      'Montalbano Jonico'
+    latitude:  40.290875
+    longitude: 16.565786
+  City_montalbano_elicona:
+    Province:  ProvinceME
+    id:        F400
+    name:      'Montalbano Elicona'
+    latitude:  38.025232
+    longitude: 15.017336
+  City_ostra:
+    Province:  ProvinceAN
+    id:        F401
+    name:      Ostra
+    latitude:  43.614852
+    longitude: 13.159241
+  City_montalcino:
+    Province:  ProvinceSI
+    id:        F402
+    name:      Montalcino
+    latitude:  43.06059
+    longitude: 11.488983
+  City_montaldeo:
+    Province:  ProvinceAL
+    id:        F403
+    name:      Montaldeo
+    latitude:  44.668069
+    longitude: 8.730013
+  City_montaldo_bormida:
+    Province:  ProvinceAL
+    id:        F404
+    name:      'Montaldo Bormida'
+    latitude:  44.683778
+    longitude: 8.588907
+  City_montaldo_di_mondovi:
+    Province:  ProvinceCN
+    id:        F405
+    name:      'Montaldo di Mondovì'
+    latitude:  44.31946
+    longitude: 7.865335
+  City_montalto_ligure:
+    Province:  ProvinceIM
+    id:        F406
+    name:      'Montalto Ligure'
+    latitude:  43.92907
+    longitude: 7.845308
+  City_montaldo_torinese:
+    Province:  ProvinceTO
+    id:        F407
+    name:      'Montaldo Torinese'
+    latitude:  45.066426
+    longitude: 7.851426
+  City_montaldo_roero:
+    Province:  ProvinceCN
+    id:        F408
+    name:      'Montaldo Roero'
+    latitude:  44.769389
+    longitude: 7.925944
+  City_montaldo_scarampi:
+    Province:  ProvinceAT
+    id:        F409
+    name:      'Montaldo Scarampi'
+    latitude:  44.831426
+    longitude: 8.260167
+  City_montale:
+    Province:  ProvincePT
+    id:        F410
+    name:      Montale
+    latitude:  43.936574
+    longitude: 11.01813
+  City_montalenghe:
+    Province:  ProvinceTO
+    id:        F411
+    name:      Montalenghe
+    latitude:  45.338451
+    longitude: 7.84002
+  City_montallegro:
+    Province:  ProvinceAG
+    id:        F414
+    name:      Montallegro
+    latitude:  37.393577
+    longitude: 13.350426
+  City_montalto_delle_marche:
+    Province:  ProvinceAP
+    id:        F415
+    name:      'Montalto delle Marche'
+    latitude:  42.990963
+    longitude: 13.610167
+  City_montalto_uffugo:
+    Province:  ProvinceCS
+    id:        F416
+    name:      'Montalto Uffugo'
+    latitude:  39.405963
+    longitude: 16.158926
+  City_montalto_pavese:
+    Province:  ProvincePV
+    id:        F417
+    name:      'Montalto Pavese'
+    latitude:  44.978733
+    longitude: 9.211777
+  City_montalto_di_castro:
+    Province:  ProvinceVT
+    id:        F419
+    name:      'Montalto di Castro'
+    latitude:  42.351407
+    longitude: 11.607981
+  City_montalto_dora:
+    Province:  ProvinceTO
+    id:        F420
+    name:      'Montalto Dora'
+    latitude:  45.491722
+    longitude: 7.863907
+  City_montanaro:
+    Province:  ProvinceTO
+    id:        F422
+    name:      Montanaro
+    latitude:  45.234537
+    longitude: 7.854556
+  City_montanaso_lombardo:
+    Province:  ProvinceLO
+    id:        F423
+    name:      'Montanaso Lombardo'
+    latitude:  45.336722
+    longitude: 9.46987
+  City_montanera:
+    Province:  ProvinceCN
+    id:        F424
+    name:      Montanera
+    latitude:  44.463296
+    longitude: 7.666722
+  City_montano_antilia:
+    Province:  ProvinceSA
+    id:        F426
+    name:      'Montano Antilia'
+    latitude:  40.161526
+    longitude: 15.366367
+  City_montano_lucino:
+    Province:  ProvinceCO
+    id:        F427
+    name:      'Montano Lucino'
+    latitude:  45.784968
+    longitude: 9.043233
+  City_montappone:
+    Province:  ProvinceAP
+    id:        F428
+    name:      Montappone
+    latitude:  43.137518
+    longitude: 13.469556
+  City_montaquila:
+    Province:  ProvinceIS
+    id:        F429
+    name:      Montaquila
+    latitude:  41.567833
+    longitude: 14.113611
+  City_montasola:
+    Province:  ProvinceRI
+    id:        F430
+    name:      Montasola
+    latitude:  42.385272
+    longitude: 12.680412
+  City_montauro:
+    Province:  ProvinceCZ
+    id:        F432
+    name:      Montauro
+    latitude:  38.74987
+    longitude: 16.514074
+  City_montazzoli:
+    Province:  ProvinceCH
+    id:        F433
+    name:      Montazzoli
+    latitude:  41.94776
+    longitude: 14.429174
+  City_monte_cremasco:
+    Province:  ProvinceCR
+    id:        F434
+    name:      'Monte Cremasco'
+    latitude:  45.375648
+    longitude: 9.572518
+  City_monte_argentario:
+    Province:  ProvinceGR
+    id:        F437
+    name:      'Monte Argentario'
+    latitude:  42.435667
+    longitude: 11.120657
+  City_montebello_della_battaglia:
+    Province:  ProvincePV
+    id:        F440
+    name:      'Montebello della Battaglia'
+    latitude:  45.002056
+    longitude: 9.104537
+  City_montebello_di_bertona:
+    Province:  ProvincePE
+    id:        F441
+    name:      'Montebello di Bertona'
+    latitude:  42.418424
+    longitude: 13.873072
+  City_montebello_vicentino:
+    Province:  ProvinceVI
+    id:        F442
+    name:      'Montebello Vicentino'
+    latitude:  45.457518
+    longitude: 11.384537
+  City_montebelluna:
+    Province:  ProvinceTV
+    id:        F443
+    name:      Montebelluna
+    latitude:  45.777547
+    longitude: 12.046447
+  City_montebruno:
+    Province:  ProvinceGE
+    id:        F445
+    name:      Montebruno
+    latitude:  44.526722
+    longitude: 9.248778
+  City_montebuono:
+    Province:  ProvinceRI
+    id:        F446
+    name:      Montebuono
+    latitude:  42.368296
+    longitude: 12.597518
+  City_montecalvo_irpino:
+    Province:  ProvinceAV
+    id:        F448
+    name:      'Montecalvo Irpino'
+    latitude:  41.195784
+    longitude: 15.034813
+  City_montecalvo_versiggia:
+    Province:  ProvincePV
+    id:        F449
+    name:      'Montecalvo Versiggia'
+    latitude:  44.972487
+    longitude: 9.284788
+  City_montecalvo_in_foglia:
+    Province:  ProvincePU
+    id:        F450
+    name:      'Montecalvo in Foglia'
+    latitude:  43.803323
+    longitude: 12.617254
+  City_montecarlo:
+    Province:  ProvinceLU
+    id:        F452
+    name:      Montecarlo
+    latitude:  43.85237
+    longitude: 10.669389
+  City_montecarotto:
+    Province:  ProvinceAN
+    id:        F453
+    name:      Montecarotto
+    latitude:  43.527432
+    longitude: 13.061348
+  City_montecassiano:
+    Province:  ProvinceMC
+    id:        F454
+    name:      Montecassiano
+    latitude:  43.364646
+    longitude: 13.438488
+  City_montecastello:
+    Province:  ProvinceAL
+    id:        F455
+    name:      Montecastello
+    latitude:  44.950133
+    longitude: 8.687385
+  City_monte_castello_di_vibio:
+    Province:  ProvincePG
+    id:        F456
+    name:      'Monte Castello di Vibio'
+    latitude:  42.841259
+    longitude: 12.3525
+  City_montecastrilli:
+    Province:  ProvinceTR
+    id:        F457
+    name:      Montecastrilli
+    latitude:  42.653444
+    longitude: 12.489537
+  City_montecatini_val_di_cecina:
+    Province:  ProvincePI
+    id:        F458
+    name:      'Montecatini Val di Cecina'
+    latitude:  43.392473
+    longitude: 10.749653
+  City_monte_cavallo:
+    Province:  ProvinceMC
+    id:        F460
+    name:      'Monte Cavallo'
+    latitude:  42.994555
+    longitude: 13.000777
+  City_montecchia_di_crosara:
+    Province:  ProvinceVR
+    id:        F461
+    name:      'Montecchia di Crosara'
+    latitude:  45.485481
+    longitude: 11.255481
+  City_montecchio:
+    Province:  ProvinceTR
+    id:        F462
+    name:      Montecchio
+    latitude:  42.663962
+    longitude: 12.28808
+  City_montecchio_emilia:
+    Province:  ProvinceRE
+    id:        F463
+    name:      'Montecchio Emilia'
+    latitude:  43.857014
+    longitude: 12.746353
+  City_montecchio_maggiore:
+    Province:  ProvinceVI
+    id:        F464
+    name:      'Montecchio Maggiore'
+    latitude:  45.504691
+    longitude: 11.405833
+  City_montecchio_precalcino:
+    Province:  ProvinceVI
+    id:        F465
+    name:      'Montecchio Precalcino'
+    latitude:  45.666741
+    longitude: 11.564704
+  City_monte_cerignone:
+    Province:  ProvincePU
+    id:        F467
+    name:      'Monte Cerignone'
+    latitude:  43.841407
+    longitude: 12.415796
+  City_montechiaro_d_asti:
+    Province:  ProvinceAT
+    id:        F468
+    name:      'Montechiaro D''Asti'
+    latitude:  45.008284
+    longitude: 8.112348
+  City_montechiaro_d_acqui:
+    Province:  ProvinceAL
+    id:        F469
+    name:      'Montechiaro D''Acqui'
+    latitude:  44.595481
+    longitude: 8.37987
+  City_montichiari:
+    Province:  ProvinceBS
+    id:        F471
+    name:      Montichiari
+    latitude:  45.41182
+    longitude: 10.392829
+  City_montechiarugolo:
+    Province:  ProvincePR
+    id:        F473
+    name:      Montechiarugolo
+    latitude:  44.694222
+    longitude: 10.423296
+  City_monteciccardo:
+    Province:  ProvincePU
+    id:        F474
+    name:      Monteciccardo
+    latitude:  43.818853
+    longitude: 12.805466
+  City_montecilfone:
+    Province:  ProvinceCB
+    id:        F475
+    name:      Montecilfone
+    latitude:  41.903611
+    longitude: 14.837352
+  City_monte_colombo:
+    Province:  ProvinceRN
+    id:        F476
+    name:      'Monte Colombo'
+    latitude:  43.91997
+    longitude: 12.553697
+  City_monte_compatri:
+    Province:  ProvinceRM
+    id:        F477
+    name:      'Monte Compatri'
+    latitude:  41.807385
+    longitude: 12.736549
+  City_montecopiolo:
+    Province:  ProvincePU
+    id:        F478
+    name:      Montecopiolo
+    latitude:  43.842352
+    longitude: 12.360944
+  City_montecorice:
+    Province:  ProvinceSA
+    id:        F479
+    name:      Montecorice
+    latitude:  40.233648
+    longitude: 14.984354
+  City_montecorvino_pugliano:
+    Province:  ProvinceSA
+    id:        F480
+    name:      'Montecorvino Pugliano'
+    latitude:  40.680348
+    longitude: 14.945629
+  City_montecorvino_rovella:
+    Province:  ProvinceSA
+    id:        F481
+    name:      'Montecorvino Rovella'
+    latitude:  40.692815
+    longitude: 14.978926
+  City_montecosaro:
+    Province:  ProvinceMC
+    id:        F482
+    name:      Montecosaro
+    latitude:  43.315711
+    longitude: 13.640663
+  City_montecrestese:
+    Province:  ProvinceVB
+    id:        F483
+    name:      Montecrestese
+    latitude:  46.165481
+    longitude: 8.327352
+  City_montecreto:
+    Province:  ProvinceMO
+    id:        F484
+    name:      Montecreto
+    latitude:  44.247618
+    longitude: 10.71692
+  City_monte_di_malo:
+    Province:  ProvinceVI
+    id:        F486
+    name:      'Monte di Malo'
+    latitude:  45.662056
+    longitude: 11.362352
+  City_montedinove:
+    Province:  ProvinceAP
+    id:        F487
+    name:      Montedinove
+    latitude:  42.971804
+    longitude: 13.589
+  City_monte_di_procida:
+    Province:  ProvinceNA
+    id:        F488
+    name:      'Monte di Procida'
+    latitude:  40.802056
+    longitude: 14.052833
+  City_montedoro:
+    Province:  ProvinceCL
+    id:        F489
+    name:      Montedoro
+    latitude:  37.454389
+    longitude: 13.817667
+  City_montefalcione:
+    Province:  ProvinceAV
+    id:        F491
+    name:      Montefalcione
+    latitude:  40.9625
+    longitude: 14.884852
+  City_montefalco:
+    Province:  ProvincePG
+    id:        F492
+    name:      Montefalco
+    latitude:  42.893653
+    longitude: 12.650057
+  City_montefalcone_appennino:
+    Province:  ProvinceAP
+    id:        F493
+    name:      'Montefalcone Appennino'
+    latitude:  42.99152
+    longitude: 13.458159
+  City_montefalcone_di_val_fortore:
+    Province:  ProvinceBN
+    id:        F494
+    name:      'Montefalcone di Val Fortore'
+    latitude:  41.325795
+    longitude: 15.010956
+  City_montefalcone_nel_sannio:
+    Province:  ProvinceCB
+    id:        F495
+    name:      'Montefalcone nel Sannio'
+    latitude:  41.867667
+    longitude: 14.639241
+  City_montefano:
+    Province:  ProvinceMC
+    id:        F496
+    name:      Montefano
+    latitude:  43.412204
+    longitude: 13.439389
+  City_montefelcino:
+    Province:  ProvincePU
+    id:        F497
+    name:      Montefelcino
+    latitude:  43.735518
+    longitude: 12.834554
+  City_monteferrante:
+    Province:  ProvinceCH
+    id:        F498
+    name:      Monteferrante
+    latitude:  41.9559
+    longitude: 14.387658
+  City_montefiascone:
+    Province:  ProvinceVT
+    id:        F499
+    name:      Montefiascone
+    latitude:  42.537984
+    longitude: 12.036388
+  City_montefino:
+    Province:  ProvinceTE
+    id:        F500
+    name:      Montefino
+    latitude:  42.545621
+    longitude: 13.884656
+  City_montefiore_dell_aso:
+    Province:  ProvinceAP
+    id:        F501
+    name:      'Montefiore dell''Aso'
+    latitude:  43.04992
+    longitude: 13.750215
+  City_montefiore_conca:
+    Province:  ProvinceRN
+    id:        F502
+    name:      'Montefiore Conca'
+    latitude:  43.890001
+    longitude: 12.612149
+  City_montefiorino:
+    Province:  ProvinceMO
+    id:        F503
+    name:      Montefiorino
+    latitude:  44.351405
+    longitude: 10.623122
+  City_monteflavio:
+    Province:  ProvinceRM
+    id:        F504
+    name:      Monteflavio
+    latitude:  42.109241
+    longitude: 12.829723
+  City_monteforte_irpino:
+    Province:  ProvinceAV
+    id:        F506
+    name:      'Monteforte Irpino'
+    latitude:  40.891104
+    longitude: 14.713469
+  City_monteforte_cilento:
+    Province:  ProvinceSA
+    id:        F507
+    name:      'Monteforte Cilento'
+    latitude:  40.365963
+    longitude: 15.195796
+  City_monteforte_d_alpone:
+    Province:  ProvinceVR
+    id:        F508
+    name:      'Monteforte D''Alpone'
+    latitude:  45.418296
+    longitude: 11.28487
+  City_montefortino:
+    Province:  ProvinceAP
+    id:        F509
+    name:      Montefortino
+    latitude:  42.943033
+    longitude: 13.341397
+  City_montefranco:
+    Province:  ProvinceTR
+    id:        F510
+    name:      Montefranco
+    latitude:  42.597643
+    longitude: 12.765873
+  City_montefredane:
+    Province:  ProvinceAV
+    id:        F511
+    name:      Montefredane
+    latitude:  40.963926
+    longitude: 14.811574
+  City_montefusco:
+    Province:  ProvinceAV
+    id:        F512
+    name:      Montefusco
+    latitude:  41.038778
+    longitude: 14.855963
+  City_montegabbione:
+    Province:  ProvinceTR
+    id:        F513
+    name:      Montegabbione
+    latitude:  42.922518
+    longitude: 12.093148
+  City_montegalda:
+    Province:  ProvinceVI
+    id:        F514
+    name:      Montegalda
+    latitude:  45.447031
+    longitude: 11.676114
+  City_montegaldella:
+    Province:  ProvinceVI
+    id:        F515
+    name:      Montegaldella
+    latitude:  45.437037
+    longitude: 11.671741
+  City_montegallo:
+    Province:  ProvinceAP
+    id:        F516
+    name:      Montegallo
+    latitude:  42.842207
+    longitude: 13.332784
+  City_monte_giberto:
+    Province:  ProvinceAP
+    id:        F517
+    name:      'Monte Giberto'
+    latitude:  43.09181
+    longitude: 13.63181
+  City_montegioco:
+    Province:  ProvinceAL
+    id:        F518
+    name:      Montegioco
+    latitude:  44.841924
+    longitude: 8.962874
+  City_montegiordano:
+    Province:  ProvinceCS
+    id:        F519
+    name:      Montegiordano
+    latitude:  40.044074
+    longitude: 16.535333
+  City_montegiorgio:
+    Province:  ProvinceAP
+    id:        F520
+    name:      Montegiorgio
+    latitude:  43.133222
+    longitude: 13.537614
+  City_montegranaro:
+    Province:  ProvinceAP
+    id:        F522
+    name:      Montegranaro
+    latitude:  43.231166
+    longitude: 13.629859
+  City_montegridolfo:
+    Province:  ProvinceRN
+    id:        F523
+    name:      Montegridolfo
+    latitude:  43.859222
+    longitude: 12.690944
+  City_monte_grimano:
+    Province:  ProvincePU
+    id:        F524
+    name:      'Monte Grimano'
+    latitude:  43.865111
+    longitude: 12.473595
+  City_montegrino_valtravaglia:
+    Province:  ProvinceVA
+    id:        F526
+    name:      'Montegrino Valtravaglia'
+    latitude:  45.975018
+    longitude: 8.768611
+  City_montegrosso_d_asti:
+    Province:  ProvinceAT
+    id:        F527
+    name:      'Montegrosso D''Asti'
+    latitude:  44.821741
+    longitude: 8.238778
+  City_montegrosso_pian_latte:
+    Province:  ProvinceIM
+    id:        F528
+    name:      'Montegrosso Pian Latte'
+    latitude:  44.06739
+    longitude: 7.819323
+  City_montegrotto_terme:
+    Province:  ProvincePD
+    id:        F529
+    name:      'Montegrotto Terme'
+    latitude:  45.331864
+    longitude: 11.783795
+  City_monteiasi:
+    Province:  ProvinceTA
+    id:        F531
+    name:      Monteiasi
+    latitude:  40.500944
+    longitude: 17.383444
+  City_monte_isola:
+    Province:  ProvinceBS
+    id:        F532
+    name:      'Monte Isola'
+    latitude:  45.717218
+    longitude: 10.080952
+  City_montelabbate:
+    Province:  ProvincePU
+    id:        F533
+    name:      Montelabbate
+    latitude:  43.849858
+    longitude: 12.788913
+  City_montelanico:
+    Province:  ProvinceRM
+    id:        F534
+    name:      Montelanico
+    latitude:  41.652204
+    longitude: 13.040963
+  City_montelapiano:
+    Province:  ProvinceCH
+    id:        F535
+    name:      Montelapiano
+    latitude:  41.963164
+    longitude: 14.342623
+  City_monteleone_di_fermo:
+    Province:  ProvinceAP
+    id:        F536
+    name:      'Monteleone di Fermo'
+    latitude:  43.048926
+    longitude: 13.530481
+  City_vibo_valentia:
+    Province:  ProvinceVV
+    id:        F537
+    name:      'Vibo Valentia'
+    latitude:  38.67561
+    longitude: 16.09766
+  City_monteleone_di_puglia:
+    Province:  ProvinceFG
+    id:        F538
+    name:      'Monteleone di Puglia'
+    latitude:  41.166407
+    longitude: 15.258907
+  City_monteleone_di_spoleto:
+    Province:  ProvincePG
+    id:        F540
+    name:      'Monteleone di Spoleto'
+    latitude:  42.651881
+    longitude: 12.95329
+  City_monteleone_sabino:
+    Province:  ProvinceRI
+    id:        F541
+    name:      'Monteleone Sabino'
+    latitude:  42.233123
+    longitude: 12.858141
+  City_monteleone_rocca_doria:
+    Province:  ProvinceSS
+    id:        F542
+    name:      'Monteleone Rocca Doria'
+    latitude:  40.472667
+    longitude: 8.561574
+  City_monteleone_d_orvieto:
+    Province:  ProvinceTR
+    id:        F543
+    name:      'Monteleone D''Orvieto'
+    latitude:  42.924453
+    longitude: 12.057944
+  City_montelepre:
+    Province:  ProvincePA
+    id:        F544
+    name:      Montelepre
+    latitude:  38.089879
+    longitude: 13.172347
+  City_montelibretti:
+    Province:  ProvinceRM
+    id:        F545
+    name:      Montelibretti
+    latitude:  42.1354
+    longitude: 12.73812
+  City_montella:
+    Province:  ProvinceAV
+    id:        F546
+    name:      Montella
+    latitude:  40.84487
+    longitude: 15.018759
+  City_montello:
+    Province:  ProvinceBG
+    id:        F547
+    name:      Montello
+    latitude:  45.673148
+    longitude: 9.806722
+  City_montelongo:
+    Province:  ProvinceCB
+    id:        F548
+    name:      Montelongo
+    latitude:  41.73695
+    longitude: 14.954308
+  City_montelparo:
+    Province:  ProvinceAP
+    id:        F549
+    name:      Montelparo
+    latitude:  43.018611
+    longitude: 13.537981
+  City_montelupo_albese:
+    Province:  ProvinceCN
+    id:        F550
+    name:      'Montelupo Albese'
+    latitude:  44.622041
+    longitude: 8.047865
+  City_montelupo_fiorentino:
+    Province:  ProvinceFI
+    id:        F551
+    name:      'Montelupo Fiorentino'
+    latitude:  43.733932
+    longitude: 11.02137
+  City_montelupone:
+    Province:  ProvinceMC
+    id:        F552
+    name:      Montelupone
+    latitude:  43.34311
+    longitude: 13.569931
+  City_montemaggiore_belsito:
+    Province:  ProvincePA
+    id:        F553
+    name:      'Montemaggiore Belsito'
+    latitude:  37.8475
+    longitude: 13.762204
+  City_montemaggiore_al_metauro:
+    Province:  ProvincePU
+    id:        F555
+    name:      'Montemaggiore al Metauro'
+    latitude:  43.737667
+    longitude: 12.946426
+  City_montemagno:
+    Province:  ProvinceAT
+    id:        F556
+    name:      Montemagno
+    latitude:  44.982168
+    longitude: 8.32339
+  City_sant_arcangelo_trimonte:
+    Province:  ProvinceBN
+    id:        F557
+    name:      'Sant''Arcangelo Trimonte'
+    latitude:  41.167449
+    longitude: 14.939665
+  City_montemale_di_cuneo:
+    Province:  ProvinceCN
+    id:        F558
+    name:      'Montemale di Cuneo'
+    latitude:  44.437279
+    longitude: 7.374874
+  City_montemarano:
+    Province:  ProvinceAV
+    id:        F559
+    name:      Montemarano
+    latitude:  40.916259
+    longitude: 14.998611
+  City_montemarciano:
+    Province:  ProvinceAN
+    id:        F560
+    name:      Montemarciano
+    latitude:  43.639852
+    longitude: 13.308444
+  City_monte_marenzo:
+    Province:  ProvinceLC
+    id:        F561
+    name:      'Monte Marenzo'
+    latitude:  45.771722
+    longitude: 9.455796
+  City_montemarzino:
+    Province:  ProvinceAL
+    id:        F562
+    name:      Montemarzino
+    latitude:  44.848869
+    longitude: 8.992612
+  City_montemesola:
+    Province:  ProvinceTA
+    id:        F563
+    name:      Montemesola
+    latitude:  40.565648
+    longitude: 17.338444
+  City_montemezzo:
+    Province:  ProvinceCO
+    id:        F564
+    name:      Montemezzo
+    latitude:  46.17987
+    longitude: 9.372037
+  City_montemignaio:
+    Province:  ProvinceAR
+    id:        F565
+    name:      Montemignaio
+    latitude:  43.740963
+    longitude: 11.619852
+  City_montemiletto:
+    Province:  ProvinceAV
+    id:        F566
+    name:      Montemiletto
+    latitude:  41.012833
+    longitude: 14.908296
+  City_pollenza:
+    Province:  ProvinceMC
+    id:        F567
+    name:      Pollenza
+    latitude:  43.267056
+    longitude: 13.348926
+  City_montemilone:
+    Province:  ProvincePZ
+    id:        F568
+    name:      Montemilone
+    latitude:  41.031111
+    longitude: 15.970167
+  City_montemitro:
+    Province:  ProvinceCB
+    id:        F569
+    name:      Montemitro
+    latitude:  41.887352
+    longitude: 14.647204
+  City_montemonaco:
+    Province:  ProvinceAP
+    id:        F570
+    name:      Montemonaco
+    latitude:  42.899389
+    longitude: 13.333926
+  City_montemurlo:
+    Province:  ProvincePO
+    id:        F572
+    name:      Montemurlo
+    latitude:  43.925668
+    longitude: 11.040384
+  City_montemurro:
+    Province:  ProvincePZ
+    id:        F573
+    name:      Montemurro
+    latitude:  40.297981
+    longitude: 15.992204
+  City_montenars:
+    Province:  ProvinceUD
+    id:        F574
+    name:      Montenars
+    latitude:  46.256
+    longitude: 13.17961
+  City_montenero_di_bisaccia:
+    Province:  ProvinceCB
+    id:        F576
+    name:      'Montenero di Bisaccia'
+    latitude:  41.957294
+    longitude: 14.781039
+  City_montenerodomo:
+    Province:  ProvinceCH
+    id:        F578
+    name:      Montenerodomo
+    latitude:  41.977066
+    longitude: 14.252121
+  City_montenero_sabino:
+    Province:  ProvinceRI
+    id:        F579
+    name:      'Montenero Sabino'
+    latitude:  42.281921
+    longitude: 12.813526
+  City_montenero_val_cocchiara:
+    Province:  ProvinceIS
+    id:        F580
+    name:      'Montenero Val Cocchiara'
+    latitude:  41.717815
+    longitude: 14.070315
+  City_ostra_vetere:
+    Province:  ProvinceAN
+    id:        F581
+    name:      'Ostra Vetere'
+    latitude:  43.605367
+    longitude: 13.060962
+  City_monteodorisio:
+    Province:  ProvinceCH
+    id:        F582
+    name:      Monteodorisio
+    latitude:  42.087019
+    longitude: 14.653281
+  City_roseto_degli_abruzzi:
+    Province:  ProvinceTE
+    id:        F585
+    name:      'Roseto degli Abruzzi'
+    latitude:  42.675161
+    longitude: 14.016131
+  City_montepaone:
+    Province:  ProvinceCZ
+    id:        F586
+    name:      Montepaone
+    latitude:  38.721459
+    longitude: 16.499885
+  City_monteparano:
+    Province:  ProvinceTA
+    id:        F587
+    name:      Monteparano
+    latitude:  40.445
+    longitude: 17.415944
+  City_monte_porzio:
+    Province:  ProvincePU
+    id:        F589
+    name:      'Monte Porzio'
+    latitude:  43.691083
+    longitude: 13.045808
+  City_monte_porzio_catone:
+    Province:  ProvinceRM
+    id:        F590
+    name:      'Monte Porzio Catone'
+    latitude:  41.813942
+    longitude: 12.716998
+  City_monteprandone:
+    Province:  ProvinceAP
+    id:        F591
+    name:      Monteprandone
+    latitude:  42.920381
+    longitude: 13.838079
+  City_montepulciano:
+    Province:  ProvinceSI
+    id:        F592
+    name:      Montepulciano
+    latitude:  43.092926
+    longitude: 11.782389
+  City_monterado:
+    Province:  ProvinceAN
+    id:        F593
+    name:      Monterado
+    latitude:  43.697815
+    longitude: 13.091574
+  City_monterchi:
+    Province:  ProvinceAR
+    id:        F594
+    name:      Monterchi
+    latitude:  43.489389
+    longitude: 12.112204
+  City_montereale:
+    Province:  ProvinceAQ
+    id:        F595
+    name:      Montereale
+    latitude:  42.524138
+    longitude: 13.245048
+  City_montereale_valcellina:
+    Province:  ProvincePN
+    id:        F596
+    name:      'Montereale Valcellina'
+    latitude:  46.157696
+    longitude: 12.660841
+  City_monterenzio:
+    Province:  ProvinceBO
+    id:        F597
+    name:      Monterenzio
+    latitude:  44.327759
+    longitude: 11.405914
+  City_monteriggioni:
+    Province:  ProvinceSI
+    id:        F598
+    name:      Monteriggioni
+    latitude:  43.389664
+    longitude: 11.224458
+  City_monte_rinaldo:
+    Province:  ProvinceAP
+    id:        F599
+    name:      'Monte Rinaldo'
+    latitude:  43.028565
+    longitude: 13.582893
+  City_monte_roberto:
+    Province:  ProvinceAN
+    id:        F600
+    name:      'Monte Roberto'
+    latitude:  43.481574
+    longitude: 13.138907
+  City_monteroduni:
+    Province:  ProvinceIS
+    id:        F601
+    name:      Monteroduni
+    latitude:  41.522266
+    longitude: 14.177874
+  City_monte_romano:
+    Province:  ProvinceVT
+    id:        F603
+    name:      'Monte Romano'
+    latitude:  42.268274
+    longitude: 11.89524
+  City_monteroni_di_lecce:
+    Province:  ProvinceLE
+    id:        F604
+    name:      'Monteroni di Lecce'
+    latitude:  40.32563
+    longitude: 18.097981
+  City_monteroni_d_arbia:
+    Province:  ProvinceSI
+    id:        F605
+    name:      'Monteroni D''Arbia'
+    latitude:  43.230315
+    longitude: 11.422055
+  City_monterosi:
+    Province:  ProvinceVT
+    id:        F606
+    name:      Monterosi
+    latitude:  42.194882
+    longitude: 12.310402
+  City_monterosso_calabro:
+    Province:  ProvinceVV
+    id:        F607
+    name:      'Monterosso Calabro'
+    latitude:  38.717981
+    longitude: 16.291889
+  City_monterosso_grana:
+    Province:  ProvinceCN
+    id:        F608
+    name:      'Monterosso Grana'
+    latitude:  44.409222
+    longitude: 7.324074
+  City_monterosso_al_mare:
+    Province:  ProvinceSP
+    id:        F609
+    name:      'Monterosso al Mare'
+    latitude:  44.146388
+    longitude: 9.655724
+  City_monterosso_almo:
+    Province:  ProvinceRG
+    id:        F610
+    name:      'Monterosso Almo'
+    latitude:  37.0908
+    longitude: 14.765465
+  City_monterotondo:
+    Province:  ProvinceRM
+    id:        F611
+    name:      Monterotondo
+    latitude:  42.051783
+    longitude: 12.61704
+  City_monterotondo_marittimo:
+    Province:  ProvinceGR
+    id:        F612
+    name:      'Monterotondo Marittimo'
+    latitude:  43.146628
+    longitude: 10.855959
+  City_monterubbiano:
+    Province:  ProvinceAP
+    id:        F614
+    name:      Monterubbiano
+    latitude:  43.084621
+    longitude: 13.719752
+  City_monte_san_biagio:
+    Province:  ProvinceLT
+    id:        F616
+    name:      'Monte San Biagio'
+    latitude:  41.353335
+    longitude: 13.35276
+  City_monte_san_giacomo:
+    Province:  ProvinceSA
+    id:        F618
+    name:      'Monte San Giacomo'
+    latitude:  40.345481
+    longitude: 15.541426
+  City_monte_san_giovanni_in_sabina:
+    Province:  ProvinceRI
+    id:        F619
+    name:      'Monte San Giovanni in Sabina'
+    latitude:  42.328518
+    longitude: 12.776137
+  City_monte_san_giovanni_campano:
+    Province:  ProvinceFR
+    id:        F620
+    name:      'Monte San Giovanni Campano'
+    latitude:  41.640107
+    longitude: 13.515374
+  City_monte_san_giusto:
+    Province:  ProvinceMC
+    id:        F621
+    name:      'Monte San Giusto'
+    latitude:  43.234574
+    longitude: 13.596259
+  City_monte_san_martino:
+    Province:  ProvinceMC
+    id:        F622
+    name:      'Monte San Martino'
+    latitude:  43.033007
+    longitude: 13.44022
+  City_montesano_salentino:
+    Province:  ProvinceLE
+    id:        F623
+    name:      'Montesano Salentino'
+    latitude:  39.976741
+    longitude: 18.32237
+  City_montesano_sulla_marcellana:
+    Province:  ProvinceSA
+    id:        F625
+    name:      'Montesano sulla Marcellana'
+    latitude:  40.276259
+    longitude: 15.702289
+  City_monte_san_pietrangeli:
+    Province:  ProvinceAP
+    id:        F626
+    name:      'Monte San Pietrangeli'
+    latitude:  43.190315
+    longitude: 13.576426
+  City_monte_san_pietro:
+    Province:  ProvinceBO
+    id:        F627
+    name:      'Monte San Pietro'
+    latitude:  44.437978
+    longitude: 11.131507
+  City_monte_san_savino:
+    Province:  ProvinceAR
+    id:        F628
+    name:      'Monte San Savino'
+    latitude:  43.329742
+    longitude: 11.73131
+  City_monte_santa_maria_tiberina:
+    Province:  ProvincePG
+    id:        F629
+    name:      'Monte Santa Maria Tiberina'
+    latitude:  43.437056
+    longitude: 12.163296
+  City_monte_sant_angelo:
+    Province:  ProvinceFG
+    id:        F631
+    name:      'Monte Sant''Angelo'
+    latitude:  41.706472
+    longitude: 15.960826
+  City_potenza_picena:
+    Province:  ProvinceMC
+    id:        F632
+    name:      'Potenza Picena'
+    latitude:  43.367727
+    longitude: 13.622935
+  City_monte_san_vito:
+    Province:  ProvinceAN
+    id:        F634
+    name:      'Monte San Vito'
+    latitude:  43.601574
+    longitude: 13.269241
+  City_montesarchio:
+    Province:  ProvinceBN
+    id:        F636
+    name:      Montesarchio
+    latitude:  41.064139
+    longitude: 14.641278
+  City_montescaglioso:
+    Province:  ProvinceMT
+    id:        F637
+    name:      Montescaglioso
+    latitude:  40.553325
+    longitude: 16.667932
+  City_montescano:
+    Province:  ProvincePV
+    id:        F638
+    name:      Montescano
+    latitude:  45.032224
+    longitude: 9.284724
+  City_montescheno:
+    Province:  ProvinceVB
+    id:        F639
+    name:      Montescheno
+    latitude:  46.067101
+    longitude: 8.231731
+  City_montescudaio:
+    Province:  ProvincePI
+    id:        F640
+    name:      Montescudaio
+    latitude:  43.327037
+    longitude: 10.627037
+  City_montescudo:
+    Province:  ProvinceRN
+    id:        F641
+    name:      Montescudo
+    latitude:  43.919094
+    longitude: 12.543745
+  City_montese:
+    Province:  ProvinceMO
+    id:        F642
+    name:      Montese
+    latitude:  44.268691
+    longitude: 10.941148
+  City_montesegale:
+    Province:  ProvincePV
+    id:        F644
+    name:      Montesegale
+    latitude:  44.906853
+    longitude: 9.12704
+  City_montesilvano:
+    Province:  ProvincePE
+    id:        F646
+    name:      Montesilvano
+    latitude:  42.505074
+    longitude: 14.138939
+  City_montespertoli:
+    Province:  ProvinceFI
+    id:        F648
+    name:      Montespertoli
+    latitude:  43.642935
+    longitude: 11.07658
+  City_monteu_da_po:
+    Province:  ProvinceTO
+    id:        F651
+    name:      'Monteu da Po'
+    latitude:  45.151641
+    longitude: 8.018086
+  City_monte_urano:
+    Province:  ProvinceAP
+    id:        F653
+    name:      'Monte Urano'
+    latitude:  43.203778
+    longitude: 13.673926
+  City_monteu_roero:
+    Province:  ProvinceCN
+    id:        F654
+    name:      'Monteu Roero'
+    latitude:  44.780315
+    longitude: 7.9375
+  City_montevago:
+    Province:  ProvinceAG
+    id:        F655
+    name:      Montevago
+    latitude:  37.702191
+    longitude: 12.989456
+  City_montevarchi:
+    Province:  ProvinceAR
+    id:        F656
+    name:      Montevarchi
+    latitude:  43.52877
+    longitude: 11.570007
+  City_montevecchia:
+    Province:  ProvinceLC
+    id:        F657
+    name:      Montevecchia
+    latitude:  45.705329
+    longitude: 9.380424
+  City_monteveglio:
+    Province:  ProvinceBO
+    id:        F659
+    name:      Monteveglio
+    latitude:  44.471667
+    longitude: 11.101874
+  City_monteverde:
+    Province:  ProvinceAV
+    id:        F660
+    name:      Monteverde
+    latitude:  41.000018
+    longitude: 15.535
+  City_monteverdi_marittimo:
+    Province:  ProvincePI
+    id:        F661
+    name:      'Monteverdi Marittimo'
+    latitude:  43.178424
+    longitude: 10.715639
+  City_monteviale:
+    Province:  ProvinceVI
+    id:        F662
+    name:      Monteviale
+    latitude:  45.561407
+    longitude: 11.459074
+  City_monte_vidon_combatte:
+    Province:  ProvinceAP
+    id:        F664
+    name:      'Monte Vidon Combatte'
+    latitude:  43.050018
+    longitude: 13.632204
+  City_monte_vidon_corrado:
+    Province:  ProvinceAP
+    id:        F665
+    name:      'Monte Vidon Corrado'
+    latitude:  43.120679
+    longitude: 13.488012
+  City_montezemolo:
+    Province:  ProvinceCN
+    id:        F666
+    name:      Montezemolo
+    latitude:  44.378119
+    longitude: 8.141424
+  City_monti:
+    Province:  ProvinceOT
+    id:        F667
+    name:      Monti
+    latitude:  40.807037
+    longitude: 9.326574
+  City_montiano:
+    Province:  ProvinceFC
+    id:        F668
+    name:      Montiano
+    latitude:  44.083907
+    longitude: 12.305481
+  City_monticello_d_alba:
+    Province:  ProvinceCN
+    id:        F669
+    name:      'Monticello D''Alba'
+    latitude:  44.718962
+    longitude: 7.943723
+  City_monticelli_pavese:
+    Province:  ProvincePV
+    id:        F670
+    name:      'Monticelli Pavese'
+    latitude:  45.112092
+    longitude: 9.514874
+  City_monticelli_d_ongina:
+    Province:  ProvincePC
+    id:        F671
+    name:      'Monticelli D''Ongina'
+    latitude:  45.08925
+    longitude: 9.930438
+  City_monticelli_brusati:
+    Province:  ProvinceBS
+    id:        F672
+    name:      'Monticelli Brusati'
+    latitude:  45.63581
+    longitude: 10.101432
+  City_monticello_brianza:
+    Province:  ProvinceLC
+    id:        F674
+    name:      'Monticello Brianza'
+    latitude:  45.710481
+    longitude: 9.316722
+  City_monticello_conte_otto:
+    Province:  ProvinceVI
+    id:        F675
+    name:      'Monticello Conte Otto'
+    latitude:  45.594261
+    longitude: 11.584871
+  City_monticiano:
+    Province:  ProvinceSI
+    id:        F676
+    name:      Monticiano
+    latitude:  43.140626
+    longitude: 11.179994
+  City_montieri:
+    Province:  ProvinceGR
+    id:        F677
+    name:      Montieri
+    latitude:  43.131156
+    longitude: 11.016641
+  City_montiglio_monferrato:
+    Province:  ProvinceAT
+    id:        F678
+    name:      'Montiglio Monferrato'
+    latitude:  45.066259
+    longitude: 8.098463
+  City_montignoso:
+    Province:  ProvinceMS
+    id:        F679
+    name:      Montignoso
+    latitude:  44.016089
+    longitude: 10.170191
+  City_montirone:
+    Province:  ProvinceBS
+    id:        F680
+    name:      Montirone
+    latitude:  45.447352
+    longitude: 10.229852
+  City_montodine:
+    Province:  ProvinceCR
+    id:        F681
+    name:      Montodine
+    latitude:  45.286278
+    longitude: 9.708463
+  City_montoggio:
+    Province:  ProvinceGE
+    id:        F682
+    name:      Montoggio
+    latitude:  44.517676
+    longitude: 9.04732
+  City_montone:
+    Province:  ProvincePG
+    id:        F685
+    name:      Montone
+    latitude:  43.36237
+    longitude: 12.327352
+  City_montopoli_in_val_d_arno:
+    Province:  ProvincePI
+    id:        F686
+    name:      'Montopoli in Val D''Arno'
+    latitude:  43.674761
+    longitude: 10.745318
+  City_montopoli_di_sabina:
+    Province:  ProvinceRI
+    id:        F687
+    name:      'Montopoli di Sabina'
+    latitude:  42.246349
+    longitude: 12.692093
+  City_montorfano:
+    Province:  ProvinceCO
+    id:        F688
+    name:      Montorfano
+    latitude:  45.786293
+    longitude: 9.14605
+  City_montorio_nei_frentani:
+    Province:  ProvinceCB
+    id:        F689
+    name:      'Montorio nei Frentani'
+    latitude:  41.760013
+    longitude: 14.933894
+  City_montorio_al_vomano:
+    Province:  ProvinceTE
+    id:        F690
+    name:      'Montorio al Vomano'
+    latitude:  42.58322
+    longitude: 13.6328
+  City_montorio_romano:
+    Province:  ProvinceRM
+    id:        F692
+    name:      'Montorio Romano'
+    latitude:  42.13921
+    longitude: 12.806722
+  City_montoro_inferiore:
+    Province:  ProvinceAV
+    id:        F693
+    name:      'Montoro Inferiore'
+    latitude:  40.82422
+    longitude: 14.761474
+  City_montoro_superiore:
+    Province:  ProvinceAV
+    id:        F694
+    name:      'Montoro Superiore'
+    latitude:  40.817969
+    longitude: 14.799941
+  City_montorso_vicentino:
+    Province:  ProvinceVI
+    id:        F696
+    name:      'Montorso Vicentino'
+    latitude:  45.491889
+    longitude: 11.361259
+  City_montottone:
+    Province:  ProvinceAP
+    id:        F697
+    name:      Montottone
+    latitude:  43.062326
+    longitude: 13.588301
+  City_montresta:
+    Province:  ProvinceOR
+    id:        F698
+    name:      Montresta
+    latitude:  40.37487
+    longitude: 8.50063
+  City_montu_beccaria:
+    Province:  ProvincePV
+    id:        F701
+    name:      'Montù Beccaria'
+    latitude:  45.037742
+    longitude: 9.315275
+  City_monvalle:
+    Province:  ProvinceVA
+    id:        F703
+    name:      Monvalle
+    latitude:  45.857972
+    longitude: 8.632472
+  City_monza:
+    Province:  ProvinceMI
+    id:        F704
+    name:      Monza
+    latitude:  45.584006
+    longitude: 9.273014
+  City_monzambano:
+    Province:  ProvinceMN
+    id:        F705
+    name:      Monzambano
+    latitude:  45.387667
+    longitude: 10.693148
+  City_monzuno:
+    Province:  ProvinceBO
+    id:        F706
+    name:      Monzuno
+    latitude:  44.278433
+    longitude: 11.267917
+  City_morano_sul_po:
+    Province:  ProvinceAL
+    id:        F707
+    name:      'Morano sul Po'
+    latitude:  45.168296
+    longitude: 8.36737
+  City_morano_calabro:
+    Province:  ProvinceCS
+    id:        F708
+    name:      'Morano Calabro'
+    latitude:  39.842878
+    longitude: 16.137359
+  City_moransengo:
+    Province:  ProvinceAT
+    id:        F709
+    name:      Moransengo
+    latitude:  45.115798
+    longitude: 8.024641
+  City_moraro:
+    Province:  ProvinceGO
+    id:        F710
+    name:      Moraro
+    latitude:  45.930796
+    longitude: 13.496111
+  City_morazzone:
+    Province:  ProvinceVA
+    id:        F711
+    name:      Morazzone
+    latitude:  45.765481
+    longitude: 8.829222
+  City_morbegno:
+    Province:  ProvinceSO
+    id:        F712
+    name:      Morbegno
+    latitude:  46.132715
+    longitude: 9.573358
+  City_morbello:
+    Province:  ProvinceAL
+    id:        F713
+    name:      Morbello
+    latitude:  44.606573
+    longitude: 8.510967
+  City_morciano_di_romagna:
+    Province:  ProvinceRN
+    id:        F715
+    name:      'Morciano di Romagna'
+    latitude:  43.915
+    longitude: 12.651574
+  City_morciano_di_leuca:
+    Province:  ProvinceLE
+    id:        F716
+    name:      'Morciano di Leuca'
+    latitude:  39.848926
+    longitude: 18.313296
+  City_morcone:
+    Province:  ProvinceBN
+    id:        F717
+    name:      Morcone
+    latitude:  41.344083
+    longitude: 14.666712
+  City_mordano:
+    Province:  ProvinceBO
+    id:        F718
+    name:      Mordano
+    latitude:  44.398907
+    longitude: 11.812815
+  City_morengo:
+    Province:  ProvinceBG
+    id:        F720
+    name:      Morengo
+    latitude:  45.532518
+    longitude: 9.707056
+  City_mores:
+    Province:  ProvinceSS
+    id:        F721
+    name:      Mores
+    latitude:  40.548365
+    longitude: 8.833082
+  City_moresco:
+    Province:  ProvinceAP
+    id:        F722
+    name:      Moresco
+    latitude:  43.085464
+    longitude: 13.730489
+  City_moretta:
+    Province:  ProvinceCN
+    id:        F723
+    name:      Moretta
+    latitude:  44.764852
+    longitude: 7.538296
+  City_morfasso:
+    Province:  ProvincePC
+    id:        F724
+    name:      Morfasso
+    latitude:  44.722727
+    longitude: 9.702428
+  City_morgano:
+    Province:  ProvinceTV
+    id:        F725
+    name:      Morgano
+    latitude:  45.648187
+    longitude: 12.103313
+  City_morgex:
+    Province:  ProvinceAO
+    id:        F726
+    name:      Morgex
+    latitude:  45.757981
+    longitude: 7.03813
+  City_morgongiori:
+    Province:  ProvinceOR
+    id:        F727
+    name:      Morgongiori
+    latitude:  39.747833
+    longitude: 8.771278
+  City_mori:
+    Province:  ProvinceTN
+    id:        F728
+    name:      Mori
+    latitude:  45.852814
+    longitude: 10.976181
+  City_moriago_della_battaglia:
+    Province:  ProvinceTV
+    id:        F729
+    name:      'Moriago della Battaglia'
+    latitude:  45.871042
+    longitude: 12.078748
+  City_moricone:
+    Province:  ProvinceRM
+    id:        F730
+    name:      Moricone
+    latitude:  42.112204
+    longitude: 12.775018
+  City_morigerati:
+    Province:  ProvinceSA
+    id:        F731
+    name:      Morigerati
+    latitude:  40.140648
+    longitude: 15.555796
+  City_morino:
+    Province:  ProvinceAQ
+    id:        F732
+    name:      Morino
+    latitude:  41.864866
+    longitude: 13.457049
+  City_moriondo_torinese:
+    Province:  ProvinceTO
+    id:        F733
+    name:      'Moriondo Torinese'
+    latitude:  45.038778
+    longitude: 7.941278
+  City_morlupo:
+    Province:  ProvinceRM
+    id:        F734
+    name:      Morlupo
+    latitude:  42.147204
+    longitude: 12.498463
+  City_mormanno:
+    Province:  ProvinceCS
+    id:        F735
+    name:      Mormanno
+    latitude:  39.889389
+    longitude: 15.987667
+  City_mornago:
+    Province:  ProvinceVA
+    id:        F736
+    name:      Mornago
+    latitude:  45.746722
+    longitude: 8.752352
+  City_mornese:
+    Province:  ProvinceAL
+    id:        F737
+    name:      Mornese
+    latitude:  44.637639
+    longitude: 8.75647
+  City_mornico_al_serio:
+    Province:  ProvinceBG
+    id:        F738
+    name:      'Mornico al Serio'
+    latitude:  45.592352
+    longitude: 9.810315
+  City_mornico_losana:
+    Province:  ProvincePV
+    id:        F739
+    name:      'Mornico Losana'
+    latitude:  45.01019
+    longitude: 9.206748
+  City_morolo:
+    Province:  ProvinceFR
+    id:        F740
+    name:      Morolo
+    latitude:  41.639199
+    longitude: 13.198005
+  City_morozzo:
+    Province:  ProvinceCN
+    id:        F743
+    name:      Morozzo
+    latitude:  44.423127
+    longitude: 7.710063
+  City_morra_de_sanctis:
+    Province:  ProvinceAV
+    id:        F744
+    name:      'Morra De Sanctis'
+    latitude:  40.93
+    longitude: 15.243759
+  City_morro_d_alba:
+    Province:  ProvinceAN
+    id:        F745
+    name:      'Morro D''Alba'
+    latitude:  43.602107
+    longitude: 13.213731
+  City_morro_reatino:
+    Province:  ProvinceRI
+    id:        F746
+    name:      'Morro Reatino'
+    latitude:  42.527672
+    longitude: 12.831185
+  City_morro_d_oro:
+    Province:  ProvinceTE
+    id:        F747
+    name:      'Morro D''Oro'
+    latitude:  42.663576
+    longitude: 13.920979
+  City_morrone_del_sannio:
+    Province:  ProvinceCB
+    id:        F748
+    name:      'Morrone del Sannio'
+    latitude:  41.711496
+    longitude: 14.77959
+  City_morrovalle:
+    Province:  ProvinceMC
+    id:        F749
+    name:      Morrovalle
+    latitude:  43.317518
+    longitude: 13.589556
+  City_morsano_al_tagliamento:
+    Province:  ProvincePN
+    id:        F750
+    name:      'Morsano al Tagliamento'
+    latitude:  45.862667
+    longitude: 12.930796
+  City_morsasco:
+    Province:  ProvinceAL
+    id:        F751
+    name:      Morsasco
+    latitude:  44.666426
+    longitude: 8.552056
+  City_mortara:
+    Province:  ProvincePV
+    id:        F754
+    name:      Mortara
+    latitude:  45.251618
+    longitude: 8.737745
+  City_mortegliano:
+    Province:  ProvinceUD
+    id:        F756
+    name:      Mortegliano
+    latitude:  45.946741
+    longitude: 13.173296
+  City_morterone:
+    Province:  ProvinceLC
+    id:        F758
+    name:      Morterone
+    latitude:  45.873902
+    longitude: 9.482678
+  City_moruzzo:
+    Province:  ProvinceUD
+    id:        F760
+    name:      Moruzzo
+    latitude:  46.122511
+    longitude: 13.124005
+  City_moscazzano:
+    Province:  ProvinceCR
+    id:        F761
+    name:      Moscazzano
+    latitude:  45.293296
+    longitude: 9.684537
+  City_moschiano:
+    Province:  ProvinceAV
+    id:        F762
+    name:      Moschiano
+    latitude:  40.874241
+    longitude: 14.656889
+  City_mosciano_sant_angelo:
+    Province:  ProvinceTE
+    id:        F764
+    name:      'Mosciano Sant''Angelo'
+    latitude:  42.749175
+    longitude: 13.888538
+  City_moscufo:
+    Province:  ProvincePE
+    id:        F765
+    name:      Moscufo
+    latitude:  42.427432
+    longitude: 14.05438
+  City_moso_in_passiria:
+    Province:  ProvinceBZ
+    id:        F766
+    name:      'Moso in Passiria'
+    latitude:  46.831368
+    longitude: 11.166899
+  City_mossa:
+    Province:  ProvinceGO
+    id:        F767
+    name:      Mossa
+    latitude:  45.938678
+    longitude: 13.549969
+  City_mossano:
+    Province:  ProvinceVI
+    id:        F768
+    name:      Mossano
+    latitude:  45.419453
+    longitude: 11.555687
+  City_mosso:
+    Province:  ProvinceBI
+    id:        F769
+    name:      Mosso
+    latitude:  45.646417
+    longitude: 8.136032
+  City_motta_di_livenza:
+    Province:  ProvinceTV
+    id:        F770
+    name:      'Motta di Livenza'
+    latitude:  45.7775
+    longitude: 12.608759
+  City_motta_baluffi:
+    Province:  ProvinceCR
+    id:        F771
+    name:      'Motta Baluffi'
+    latitude:  45.057037
+    longitude: 10.257815
+  City_motta_camastra:
+    Province:  ProvinceME
+    id:        F772
+    name:      'Motta Camastra'
+    latitude:  37.893194
+    longitude: 15.172475
+  City_motta_d_affermo:
+    Province:  ProvinceME
+    id:        F773
+    name:      'Motta D''Affermo'
+    latitude:  37.981479
+    longitude: 14.302765
+  City_motta_de_conti:
+    Province:  ProvinceVC
+    id:        F774
+    name:      'Motta De'' Conti'
+    latitude:  45.194537
+    longitude: 8.522037
+  City_mottafollone:
+    Province:  ProvinceCS
+    id:        F775
+    name:      Mottafollone
+    latitude:  39.649887
+    longitude: 16.064263
+  City_mottalciata:
+    Province:  ProvinceBI
+    id:        F776
+    name:      Mottalciata
+    latitude:  45.506111
+    longitude: 8.207815
+  City_motta_montecorvino:
+    Province:  ProvinceFG
+    id:        F777
+    name:      'Motta Montecorvino'
+    latitude:  41.508444
+    longitude: 15.115
+  City_motta_san_giovanni:
+    Province:  ProvinceRC
+    id:        F779
+    name:      'Motta San Giovanni'
+    latitude:  38.00274
+    longitude: 15.703077
+  City_motta_santa_lucia:
+    Province:  ProvinceCZ
+    id:        F780
+    name:      'Motta Santa Lucia'
+    latitude:  39.089083
+    longitude: 16.288366
+  City_motta_sant_anastasia:
+    Province:  ProvinceCT
+    id:        F781
+    name:      'Motta Sant''Anastasia'
+    latitude:  37.514222
+    longitude: 14.966722
+  City_motta_visconti:
+    Province:  ProvinceMI
+    id:        F783
+    name:      'Motta Visconti'
+    latitude:  45.287236
+    longitude: 8.992686
+  City_mottola:
+    Province:  ProvinceTA
+    id:        F784
+    name:      Mottola
+    latitude:  40.634222
+    longitude: 17.038148
+  City_mozzagrogna:
+    Province:  ProvinceCH
+    id:        F785
+    name:      Mozzagrogna
+    latitude:  42.211604
+    longitude: 14.445848
+  City_mozzanica:
+    Province:  ProvinceBG
+    id:        F786
+    name:      Mozzanica
+    latitude:  45.476426
+    longitude: 9.692463
+  City_mozzate:
+    Province:  ProvinceCO
+    id:        F788
+    name:      Mozzate
+    latitude:  45.67313
+    longitude: 8.956426
+  City_mozzecane:
+    Province:  ProvinceVR
+    id:        F789
+    name:      Mozzecane
+    latitude:  45.308444
+    longitude: 10.81987
+  City_mozzo:
+    Province:  ProvinceBG
+    id:        F791
+    name:      Mozzo
+    latitude:  45.693919
+    longitude: 9.605864
+  City_muccia:
+    Province:  ProvinceMC
+    id:        F793
+    name:      Muccia
+    latitude:  43.08237
+    longitude: 13.044704
+  City_muggia:
+    Province:  ProvinceTS
+    id:        F795
+    name:      Muggia
+    latitude:  45.604197
+    longitude: 13.767404
+  City_muggio:
+    Province:  ProvinceMI
+    id:        F797
+    name:      Muggiò
+    latitude:  45.592951
+    longitude: 9.226516
+  City_mugnano_del_cardinale:
+    Province:  ProvinceAV
+    id:        F798
+    name:      'Mugnano del Cardinale'
+    latitude:  40.944074
+    longitude: 14.636574
+  City_mugnano_di_napoli:
+    Province:  ProvinceNA
+    id:        F799
+    name:      'Mugnano di Napoli'
+    latitude:  40.912352
+    longitude: 14.206111
+  City_mulazzano:
+    Province:  ProvinceLO
+    id:        F801
+    name:      Mulazzano
+    latitude:  45.373463
+    longitude: 9.398759
+  City_mulazzo:
+    Province:  ProvinceMS
+    id:        F802
+    name:      Mulazzo
+    latitude:  44.314839
+    longitude: 9.888356
+  City_villa_poma:
+    Province:  ProvinceMN
+    id:        F804
+    name:      'Villa Poma'
+    latitude:  45.002386
+    longitude: 11.115242
+  City_mura:
+    Province:  ProvinceBS
+    id:        F806
+    name:      Mura
+    latitude:  45.714222
+    longitude: 10.343759
+  City_muravera:
+    Province:  ProvinceCA
+    id:        F808
+    name:      Muravera
+    latitude:  39.420247
+    longitude: 9.574383
+  City_murazzano:
+    Province:  ProvinceCN
+    id:        F809
+    name:      Murazzano
+    latitude:  44.473997
+    longitude: 8.02046
+  City_salcedo:
+    Province:  ProvinceVI
+    id:        F810
+    name:      Salcedo
+    latitude:  45.757883
+    longitude: 11.56824
+  City_murello:
+    Province:  ProvinceCN
+    id:        F811
+    name:      Murello
+    latitude:  44.75313
+    longitude: 7.602037
+  City_murialdo:
+    Province:  ProvinceSV
+    id:        F813
+    name:      Murialdo
+    latitude:  44.317981
+    longitude: 8.169222
+  City_murisengo:
+    Province:  ProvinceAL
+    id:        F814
+    name:      Murisengo
+    latitude:  45.082815
+    longitude: 8.136111
+  City_murlo:
+    Province:  ProvinceSI
+    id:        F815
+    name:      Murlo
+    latitude:  43.168716
+    longitude: 11.391039
+  City_muro_leccese:
+    Province:  ProvinceLE
+    id:        F816
+    name:      'Muro Leccese'
+    latitude:  40.103463
+    longitude: 18.338907
+  City_muro_lucano:
+    Province:  ProvincePZ
+    id:        F817
+    name:      'Muro Lucano'
+    latitude:  40.753604
+    longitude: 15.486732
+  City_muros:
+    Province:  ProvinceSS
+    id:        F818
+    name:      Muros
+    latitude:  40.679241
+    longitude: 8.618463
+  City_muscoline:
+    Province:  ProvinceBS
+    id:        F820
+    name:      Muscoline
+    latitude:  45.563444
+    longitude: 10.462981
+  City_musei:
+    Province:  ProvinceCI
+    id:        F822
+    name:      Musei
+    latitude:  39.301836
+    longitude: 8.669593
+  City_musile_di_piave:
+    Province:  ProvinceVE
+    id:        F826
+    name:      'Musile di Piave'
+    latitude:  45.617815
+    longitude: 12.565
+  City_musso:
+    Province:  ProvinceCO
+    id:        F828
+    name:      Musso
+    latitude:  46.112204
+    longitude: 9.275796
+  City_mussolente:
+    Province:  ProvinceVI
+    id:        F829
+    name:      Mussolente
+    latitude:  45.780167
+    longitude: 11.80737
+  City_mussomeli:
+    Province:  ProvinceCL
+    id:        F830
+    name:      Mussomeli
+    latitude:  37.578907
+    longitude: 13.752204
+  City_pineto:
+    Province:  ProvinceTE
+    id:        F831
+    name:      Pineto
+    latitude:  42.611956
+    longitude: 14.063004
+  City_muzzana_del_turgnano:
+    Province:  ProvinceUD
+    id:        F832
+    name:      'Muzzana del Turgnano'
+    latitude:  45.82
+    longitude: 13.130648
+  City_muzzano:
+    Province:  ProvinceBI
+    id:        F833
+    name:      Muzzano
+    latitude:  45.56173
+    longitude: 7.990009

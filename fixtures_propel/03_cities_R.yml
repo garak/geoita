@@ -1,0 +1,2371 @@
+City:
+  rabbi:
+    province_id: TN
+    id:          H146
+    name:        Rabbi
+    latitude:    46.401265
+    longitude:   10.846665
+  racale:
+    province_id: LE
+    id:          H147
+    name:        Racale
+    latitude:    39.964253
+    longitude:   18.094702
+  racalmuto:
+    province_id: AG
+    id:          H148
+    name:        Racalmuto
+    latitude:    37.408847
+    longitude:   13.733102
+  racconigi:
+    province_id: CN
+    id:          H150
+    name:        Racconigi
+    latitude:    44.771076
+    longitude:   7.684098
+  raccuja:
+    province_id: ME
+    id:          H151
+    name:        Raccuja
+    latitude:    38.055482
+    longitude:   14.910859
+  racines:
+    province_id: BZ
+    id:          H152
+    name:        Racines
+    latitude:    46.882833
+    longitude:   11.379389
+  radda_in_chianti:
+    province_id: SI
+    id:          H153
+    name:        'Radda in Chianti'
+    latitude:    43.486494
+    longitude:   11.373233
+  raddusa:
+    province_id: CT
+    id:          H154
+    name:        Raddusa
+    latitude:    37.47413
+    longitude:   14.533263
+  radicofani:
+    province_id: SI
+    id:          H156
+    name:        Radicofani
+    latitude:    42.896574
+    longitude:   11.771111
+  radicondoli:
+    province_id: SI
+    id:          H157
+    name:        Radicondoli
+    latitude:    43.261491
+    longitude:   11.044802
+  raffadali:
+    province_id: AG
+    id:          H159
+    name:        Raffadali
+    latitude:    37.404326
+    longitude:   13.531703
+  ragogna:
+    province_id: UD
+    id:          H161
+    name:        Ragogna
+    latitude:    46.174556
+    longitude:   12.983444
+  ragoli:
+    province_id: TN
+    id:          H162
+    name:        Ragoli
+    latitude:    46.054537
+    longitude:   10.778463
+  ragusa:
+    province_id: RG
+    id:          H163
+    name:        Ragusa
+    latitude:    36.926152
+    longitude:   14.72827
+  ruviano:
+    province_id: CE
+    id:          H165
+    name:        Ruviano
+    latitude:    41.21092
+    longitude:   14.409658
+  raiano:
+    province_id: AQ
+    id:          H166
+    name:        Raiano
+    latitude:    42.102607
+    longitude:   13.814815
+  ramacca:
+    province_id: CT
+    id:          H168
+    name:        Ramacca
+    latitude:    37.385177
+    longitude:   14.693464
+  ramponio_verna:
+    province_id: CO
+    id:          H171
+    name:        'Ramponio Verna'
+    latitude:    45.997981
+    longitude:   9.067518
+  rancio_valcuvia:
+    province_id: VA
+    id:          H173
+    name:        'Rancio Valcuvia'
+    latitude:    45.916014
+    longitude:   8.77188
+  ranco:
+    province_id: VA
+    id:          H174
+    name:        Ranco
+    latitude:    45.797362
+    longitude:   8.571211
+  randazzo:
+    province_id: CT
+    id:          H175
+    name:        Randazzo
+    latitude:    37.877762
+    longitude:   14.950279
+  ranica:
+    province_id: BG
+    id:          H176
+    name:        Ranica
+    latitude:    45.724222
+    longitude:   9.714556
+  ranzanico:
+    province_id: BG
+    id:          H177
+    name:        Ranzanico
+    latitude:    45.789389
+    longitude:   9.936278
+  ranzo:
+    province_id: IM
+    id:          H180
+    name:        Ranzo
+    latitude:    44.059578
+    longitude:   8.015838
+  rapagnano:
+    province_id: AP
+    id:          H182
+    name:        Rapagnano
+    latitude:    43.160316
+    longitude:   13.589325
+  rapallo:
+    province_id: GE
+    id:          H183
+    name:        Rapallo
+    latitude:    44.352204
+    longitude:   9.230796
+  rapino:
+    province_id: CH
+    id:          H184
+    name:        Rapino
+    latitude:    42.210274
+    longitude:   14.186349
+  rapolano_terme:
+    province_id: SI
+    id:          H185
+    name:        'Rapolano Terme'
+    latitude:    43.285569
+    longitude:   11.604801
+  rapolla:
+    province_id: PZ
+    id:          H186
+    name:        Rapolla
+    latitude:    40.976722
+    longitude:   15.672204
+  rapone:
+    province_id: PZ
+    id:          H187
+    name:        Rapone
+    latitude:    40.847846
+    longitude:   15.50202
+  rassa:
+    province_id: VC
+    id:          H188
+    name:        Rassa
+    latitude:    45.768418
+    longitude:   8.01203
+  rasun_anterselva:
+    province_id: BZ
+    id:          H189
+    name:        'Rasun Anterselva'
+    latitude:    46.779556
+    longitude:   12.048463
+  rasura:
+    province_id: SO
+    id:          H192
+    name:        Rasura
+    latitude:    46.10158
+    longitude:   9.553462
+  ravanusa:
+    province_id: AG
+    id:          H194
+    name:        Ravanusa
+    latitude:    37.267815
+    longitude:   13.969852
+  ravarino:
+    province_id: MO
+    id:          H195
+    name:        Ravarino
+    latitude:    44.723736
+    longitude:   11.099962
+  ravascletto:
+    province_id: UD
+    id:          H196
+    name:        Ravascletto
+    latitude:    46.523926
+    longitude:   12.92313
+  ravello:
+    province_id: SA
+    id:          H198
+    name:        Ravello
+    latitude:    40.649335
+    longitude:   14.611508
+  ravenna:
+    province_id: RA
+    id:          H199
+    name:        Ravenna
+    latitude:    44.415727
+    longitude:   12.19658
+  raveo:
+    province_id: UD
+    id:          H200
+    name:        Raveo
+    latitude:    46.434922
+    longitude:   12.873034
+  raviscanina:
+    province_id: CE
+    id:          H202
+    name:        Raviscanina
+    latitude:    41.371259
+    longitude:   14.243778
+  re:
+    province_id: VB
+    id:          H203
+    name:        Re
+    latitude:    46.13324
+    longitude:   8.549962
+  rea:
+    province_id: PV
+    id:          H204
+    name:        Rea
+    latitude:    45.114389
+    longitude:   9.155796
+  realmonte:
+    province_id: AG
+    id:          H205
+    name:        Realmonte
+    latitude:    37.310333
+    longitude:   13.462833
+  reana_del_rojale:
+    province_id: UD
+    id:          H206
+    name:        'Reana del Rojale'
+    latitude:    46.143944
+    longitude:   13.24692
+  reano:
+    province_id: TO
+    id:          H207
+    name:        Reano
+    latitude:    45.052202
+    longitude:   7.430206
+  recale:
+    province_id: CE
+    id:          H210
+    name:        Recale
+    latitude:    41.056278
+    longitude:   14.305018
+  recanati:
+    province_id: MC
+    id:          H211
+    name:        Recanati
+    latitude:    43.403409
+    longitude:   13.562287
+  recco:
+    province_id: GE
+    id:          H212
+    name:        Recco
+    latitude:    44.362233
+    longitude:   9.143833
+  recetto:
+    province_id: NO
+    id:          H213
+    name:        Recetto
+    latitude:    45.461426
+    longitude:   8.436889
+  recoaro_terme:
+    province_id: VI
+    id:          H214
+    name:        'Recoaro Terme'
+    latitude:    45.705167
+    longitude:   11.225648
+  redavalle:
+    province_id: PV
+    id:          H216
+    name:        Redavalle
+    latitude:    45.038907
+    longitude:   9.203463
+  redondesco:
+    province_id: MN
+    id:          H218
+    name:        Redondesco
+    latitude:    45.167352
+    longitude:   10.513463
+  refrancore:
+    province_id: AT
+    id:          H219
+    name:        Refrancore
+    latitude:    44.936485
+    longitude:   8.343804
+  refrontolo:
+    province_id: TV
+    id:          H220
+    name:        Refrontolo
+    latitude:    45.925018
+    longitude:   12.210018
+  regalbuto:
+    province_id: EN
+    id:          H221
+    name:        Regalbuto
+    latitude:    37.650875
+    longitude:   14.640888
+  reggello:
+    province_id: FI
+    id:          H222
+    name:        Reggello
+    latitude:    43.682208
+    longitude:   11.530934
+  reggio_emilia:
+    province_id: RE
+    id:          H223
+    name:        'Reggio Emilia'
+    latitude:    44.700561
+    longitude:   10.633656
+  reggio_calabria:
+    province_id: RC
+    id:          H224
+    name:        'Reggio Calabria'
+    latitude:    38.109292
+    longitude:   15.643933
+  reggiolo:
+    province_id: RE
+    id:          H225
+    name:        Reggiolo
+    latitude:    44.917977
+    longitude:   10.805748
+  reino:
+    province_id: BN
+    id:          H227
+    name:        Reino
+    latitude:    41.292667
+    longitude:   14.823926
+  reitano:
+    province_id: ME
+    id:          H228
+    name:        Reitano
+    latitude:    37.97313
+    longitude:   14.344241
+  remanzacco:
+    province_id: UD
+    id:          H229
+    name:        Remanzacco
+    latitude:    46.087518
+    longitude:   13.327815
+  remedello:
+    province_id: BS
+    id:          H230
+    name:        Remedello
+    latitude:    45.2794
+    longitude:   10.373146
+  renate:
+    province_id: MI
+    id:          H233
+    name:        Renate
+    latitude:    45.726449
+    longitude:   9.28223
+  rende:
+    province_id: CS
+    id:          H235
+    name:        Rende
+    latitude:    39.331548
+    longitude:   16.181456
+  renon:
+    province_id: BZ
+    id:          H236
+    name:        Renon
+    latitude:    46.542518
+    longitude:   11.458463
+  resana:
+    province_id: TV
+    id:          H238
+    name:        Resana
+    latitude:    45.633612
+    longitude:   11.955503
+  rescaldina:
+    province_id: MI
+    id:          H240
+    name:        Rescaldina
+    latitude:    45.615762
+    longitude:   8.950083
+  resia:
+    province_id: UD
+    id:          H242
+    name:        Resia
+    latitude:    46.375018
+    longitude:   13.305944
+  ercolano:
+    province_id: NA
+    id:          H243
+    name:        Ercolano
+    latitude:    40.806038
+    longitude:   14.352857
+  resiutta:
+    province_id: UD
+    id:          H244
+    name:        Resiutta
+    latitude:    46.394332
+    longitude:   13.220339
+  resuttano:
+    province_id: CL
+    id:          H245
+    name:        Resuttano
+    latitude:    37.67987
+    longitude:   14.030315
+  retorbido:
+    province_id: PV
+    id:          H246
+    name:        Retorbido
+    latitude:    44.950481
+    longitude:   9.03737
+  revello:
+    province_id: CN
+    id:          H247
+    name:        Revello
+    latitude:    44.65563
+    longitude:   7.392667
+  revere:
+    province_id: MN
+    id:          H248
+    name:        Revere
+    latitude:    44.224905
+    longitude:   -95.361738
+  revigliasco_d_asti:
+    province_id: AT
+    id:          H250
+    name:        'Revigliasco D''Asti'
+    latitude:    44.859047
+    longitude:   8.158629
+  revine_lago:
+    province_id: TV
+    id:          H253
+    name:        'Revine Lago'
+    latitude:    45.991426
+    longitude:   12.228759
+  revo:
+    province_id: TN
+    id:          H254
+    name:        Revò
+    latitude:    46.392833
+    longitude:   11.060796
+  rezzago:
+    province_id: CO
+    id:          H255
+    name:        Rezzago
+    latitude:    45.867761
+    longitude:   9.251225
+  rezzato:
+    province_id: BS
+    id:          H256
+    name:        Rezzato
+    latitude:    45.514418
+    longitude:   10.316849
+  rezzo:
+    province_id: IM
+    id:          H257
+    name:        Rezzo
+    latitude:    44.022518
+    longitude:   7.8725
+  rezzoaglio:
+    province_id: GE
+    id:          H258
+    name:        Rezzoaglio
+    latitude:    44.526303
+    longitude:   9.387788
+  val_rezzo:
+    province_id: CO
+    id:          H259
+    name:        'Val Rezzo'
+    latitude:    46.072251
+    longitude:   9.110591
+  rhemes_notre_dame:
+    province_id: AO
+    id:          H262
+    name:        Rhemes-Notre-Dame
+    latitude:    45.569584
+    longitude:   7.117882
+  rhemes_saint_georges:
+    province_id: AO
+    id:          H263
+    name:        Rhemes-Saint-Georges
+    latitude:    45.654168
+    longitude:   7.155651
+  rho:
+    province_id: MI
+    id:          H264
+    name:        Rho
+    latitude:    45.529783
+    longitude:   9.038125
+  riace:
+    province_id: RC
+    id:          H265
+    name:        Riace
+    latitude:    38.419219
+    longitude:   16.4812
+  rialto:
+    province_id: SV
+    id:          H266
+    name:        Rialto
+    latitude:    44.225879
+    longitude:   8.261613
+  riano:
+    province_id: RM
+    id:          H267
+    name:        Riano
+    latitude:    42.101278
+    longitude:   12.506741
+  riardo:
+    province_id: CE
+    id:          H268
+    name:        Riardo
+    latitude:    41.262123
+    longitude:   14.152222
+  ribera:
+    province_id: AG
+    id:          H269
+    name:        Ribera
+    latitude:    37.502665
+    longitude:   13.266037
+  ribordone:
+    province_id: TO
+    id:          H270
+    name:        Ribordone
+    latitude:    45.4332
+    longitude:   7.502565
+  ricadi:
+    province_id: VV
+    id:          H271
+    name:        Ricadi
+    latitude:    38.626407
+    longitude:   15.86813
+  ricaldone:
+    province_id: AL
+    id:          H272
+    name:        Ricaldone
+    latitude:    44.733463
+    longitude:   8.469222
+  riccia:
+    province_id: CB
+    id:          H273
+    name:        Riccia
+    latitude:    41.482981
+    longitude:   14.834241
+  riccione:
+    province_id: RN
+    id:          H274
+    name:        Riccione
+    latitude:    43.999474
+    longitude:   12.656924
+  ricco_del_golfo_di_spezia:
+    province_id: SP
+    id:          H275
+    name:        'Riccò del Golfo di Spezia'
+    latitude:    44.155018
+    longitude:   9.76563
+  ricengo:
+    province_id: CR
+    id:          H276
+    name:        Ricengo
+    latitude:    45.406741
+    longitude:   9.725
+  ricigliano:
+    province_id: SA
+    id:          H277
+    name:        Ricigliano
+    latitude:    40.668296
+    longitude:   15.479389
+  riese_pio_x:
+    province_id: TV
+    id:          H280
+    name:        'Riese Pio X'
+    latitude:    45.730018
+    longitude:   11.92
+  riesi:
+    province_id: CL
+    id:          H281
+    name:        Riesi
+    latitude:    37.283148
+    longitude:   14.08313
+  rieti:
+    province_id: RI
+    id:          H282
+    name:        Rieti
+    latitude:    42.403056
+    longitude:   12.861179
+  rifiano:
+    province_id: BZ
+    id:          H284
+    name:        Rifiano
+    latitude:    46.703267
+    longitude:   11.176858
+  rifreddo:
+    province_id: CN
+    id:          H285
+    name:        Rifreddo
+    latitude:    44.651722
+    longitude:   7.3475
+  rignano_sull_arno:
+    province_id: FI
+    id:          H286
+    name:        'Rignano sull''Arno'
+    latitude:    43.722037
+    longitude:   11.452518
+  rignano_garganico:
+    province_id: FG
+    id:          H287
+    name:        'Rignano Garganico'
+    latitude:    41.676735
+    longitude:   15.587403
+  rignano_flaminio:
+    province_id: RM
+    id:          H288
+    name:        'Rignano Flaminio'
+    latitude:    42.207352
+    longitude:   12.480315
+  rigolato:
+    province_id: UD
+    id:          H289
+    name:        Rigolato
+    latitude:    46.55272
+    longitude:   12.851089
+  rima_san_giuseppe:
+    province_id: VC
+    id:          H291
+    name:        'Rima San Giuseppe'
+    latitude:    45.884706
+    longitude:   7.998918
+  rimasco:
+    province_id: VC
+    id:          H292
+    name:        Rimasco
+    latitude:    45.86
+    longitude:   8.063907
+  rimella:
+    province_id: VC
+    id:          H293
+    name:        Rimella
+    latitude:    45.909074
+    longitude:   8.183463
+  rimini:
+    province_id: RN
+    id:          H294
+    name:        Rimini
+    latitude:    44.058951
+    longitude:   12.563192
+  rio_nell_elba:
+    province_id: LI
+    id:          H297
+    name:        'Rio nell''Elba'
+    latitude:    42.814241
+    longitude:   10.40237
+  rio_saliceto:
+    province_id: RE
+    id:          H298
+    name:        'Rio Saliceto'
+    latitude:    44.768888
+    longitude:   10.793002
+  rio_di_pusteria:
+    province_id: BZ
+    id:          H299
+    name:        'Rio di Pusteria'
+    latitude:    46.797223
+    longitude:   11.66941
+  riofreddo:
+    province_id: RM
+    id:          H300
+    name:        Riofreddo
+    latitude:    42.060963
+    longitude:   12.99813
+  riola_sardo:
+    province_id: OR
+    id:          H301
+    name:        'Riola Sardo'
+    latitude:    39.995018
+    longitude:   8.539537
+  riolo_terme:
+    province_id: RA
+    id:          H302
+    name:        'Riolo Terme'
+    latitude:    44.276426
+    longitude:   11.728926
+  riolunato:
+    province_id: MO
+    id:          H303
+    name:        Riolunato
+    latitude:    44.230962
+    longitude:   10.652674
+  riomaggiore:
+    province_id: SP
+    id:          H304
+    name:        Riomaggiore
+    latitude:    44.098871
+    longitude:   9.740818
+  rio_marina:
+    province_id: LI
+    id:          H305
+    name:        'Rio Marina'
+    latitude:    42.814556
+    longitude:   10.42737
+  rionero_in_vulture:
+    province_id: PZ
+    id:          H307
+    name:        'Rionero in Vulture'
+    latitude:    40.926722
+    longitude:   15.670963
+  rionero_sannitico:
+    province_id: IS
+    id:          H308
+    name:        'Rionero Sannitico'
+    latitude:    41.712981
+    longitude:   14.139537
+  ripabottoni:
+    province_id: CB
+    id:          H311
+    name:        Ripabottoni
+    latitude:    41.689073
+    longitude:   14.807131
+  ripacandida:
+    province_id: PZ
+    id:          H312
+    name:        Ripacandida
+    latitude:    40.912981
+    longitude:   15.72563
+  ripalimosani:
+    province_id: CB
+    id:          H313
+    name:        Ripalimosani
+    latitude:    41.612037
+    longitude:   14.663778
+  ripalta_arpina:
+    province_id: CR
+    id:          H314
+    name:        'Ripalta Arpina'
+    latitude:    45.302269
+    longitude:   9.729145
+  ripalta_cremasca:
+    province_id: CR
+    id:          H315
+    name:        'Ripalta Cremasca'
+    latitude:    45.333445
+    longitude:   9.693267
+  ripalta_guerina:
+    province_id: CR
+    id:          H316
+    name:        'Ripalta Guerina'
+    latitude:    45.306142
+    longitude:   9.705037
+  riparbella:
+    province_id: PI
+    id:          H319
+    name:        Riparbella
+    latitude:    43.365796
+    longitude:   10.600315
+  ripa_teatina:
+    province_id: CH
+    id:          H320
+    name:        'Ripa Teatina'
+    latitude:    42.359704
+    longitude:   14.235
+  ripatransone:
+    province_id: AP
+    id:          H321
+    name:        Ripatransone
+    latitude:    42.996582
+    longitude:   13.761082
+  ripe:
+    province_id: AN
+    id:          H322
+    name:        Ripe
+    latitude:    43.67
+    longitude:   13.106889
+  ripe_san_ginesio:
+    province_id: MC
+    id:          H323
+    name:        'Ripe San Ginesio'
+    latitude:    43.143759
+    longitude:   13.368611
+  ripi:
+    province_id: FR
+    id:          H324
+    name:        Ripi
+    latitude:    41.613291
+    longitude:   13.426727
+  riposto:
+    province_id: CT
+    id:          H325
+    name:        Riposto
+    latitude:    37.731781
+    longitude:   15.203371
+  rittana:
+    province_id: CN
+    id:          H326
+    name:        Rittana
+    latitude:    44.351256
+    longitude:   7.398546
+  rivamonte_agordino:
+    province_id: BL
+    id:          H327
+    name:        'Rivamonte Agordino'
+    latitude:    46.253907
+    longitude:   12.023907
+  riva_ligure:
+    province_id: IM
+    id:          H328
+    name:        'Riva Ligure'
+    latitude:    43.838907
+    longitude:   7.880796
+  riva_valdobbia:
+    province_id: VC
+    id:          H329
+    name:        'Riva Valdobbia'
+    latitude:    45.832055
+    longitude:   7.957833
+  riva_del_garda:
+    province_id: TN
+    id:          H330
+    name:        'Riva del Garda'
+    latitude:    45.888062
+    longitude:   10.844509
+  riva_di_solto:
+    province_id: BG
+    id:          H331
+    name:        'Riva di Solto'
+    latitude:    45.777981
+    longitude:   10.044704
+  rivalba:
+    province_id: TO
+    id:          H333
+    name:        Rivalba
+    latitude:    45.119389
+    longitude:   7.889222
+  rivalta_bormida:
+    province_id: AL
+    id:          H334
+    name:        'Rivalta Bormida'
+    latitude:    44.710796
+    longitude:   8.552815
+  rivalta_di_torino:
+    province_id: TO
+    id:          H335
+    name:        'Rivalta di Torino'
+    latitude:    45.032989
+    longitude:   7.52318
+  rivanazzano:
+    province_id: PV
+    id:          H336
+    name:        Rivanazzano
+    latitude:    44.926722
+    longitude:   9.014241
+  riva_presso_chieri:
+    province_id: TO
+    id:          H337
+    name:        'Riva Presso Chieri'
+    latitude:    44.985944
+    longitude:   7.873444
+  rivara:
+    province_id: TO
+    id:          H338
+    name:        Rivara
+    latitude:    45.33345
+    longitude:   7.62579
+  rivarolo_canavese:
+    province_id: TO
+    id:          H340
+    name:        'Rivarolo Canavese'
+    latitude:    45.332018
+    longitude:   7.723167
+  rivarolo_del_re_ed_uniti:
+    province_id: CR
+    id:          H341
+    name:        'Rivarolo del Re ed Uniti'
+    latitude:    45.028907
+    longitude:   10.470963
+  rivarolo_mantovano:
+    province_id: MN
+    id:          H342
+    name:        'Rivarolo Mantovano'
+    latitude:    45.070944
+    longitude:   10.43487
+  rivarone:
+    province_id: AL
+    id:          H343
+    name:        Rivarone
+    latitude:    44.977815
+    longitude:   8.716722
+  rivarossa:
+    province_id: TO
+    id:          H344
+    name:        Rivarossa
+    latitude:    45.252667
+    longitude:   7.715944
+  rive:
+    province_id: VC
+    id:          H346
+    name:        Rive
+    latitude:    45.215167
+    longitude:   8.418778
+  rive_d_arcano:
+    province_id: UD
+    id:          H347
+    name:        'Rive D''Arcano'
+    latitude:    46.126553
+    longitude:   13.032928
+  rivello:
+    province_id: PZ
+    id:          H348
+    name:        Rivello
+    latitude:    40.079074
+    longitude:   15.757056
+  rivergaro:
+    province_id: PC
+    id:          H350
+    name:        Rivergaro
+    latitude:    44.910629
+    longitude:   9.598469
+  rivignano:
+    province_id: UD
+    id:          H352
+    name:        Rivignano
+    latitude:    45.879852
+    longitude:   13.0425
+  rivisondoli:
+    province_id: AQ
+    id:          H353
+    name:        Rivisondoli
+    latitude:    41.870743
+    longitude:   14.066418
+  rivodutri:
+    province_id: RI
+    id:          H354
+    name:        Rivodutri
+    latitude:    42.517518
+    longitude:   12.855944
+  rivoli:
+    province_id: TO
+    id:          H355
+    name:        Rivoli
+    latitude:    45.070364
+    longitude:   7.519853
+  rivoli_veronese:
+    province_id: VR
+    id:          H356
+    name:        'Rivoli Veronese'
+    latitude:    45.571561
+    longitude:   10.811929
+  rivolta_d_adda:
+    province_id: CR
+    id:          H357
+    name:        'Rivolta D''Adda'
+    latitude:    45.471278
+    longitude:   9.5125
+  rizziconi:
+    province_id: RC
+    id:          H359
+    name:        Rizziconi
+    latitude:    38.411889
+    longitude:   15.959074
+  ro:
+    province_id: FE
+    id:          H360
+    name:        Ro
+    latitude:    44.94608
+    longitude:   11.757105
+  roana:
+    province_id: VI
+    id:          H361
+    name:        Roana
+    latitude:    45.875993
+    longitude:   11.463132
+  roaschia:
+    province_id: CN
+    id:          H362
+    name:        Roaschia
+    latitude:    44.270225
+    longitude:   7.454314
+  roascio:
+    province_id: CN
+    id:          H363
+    name:        Roascio
+    latitude:    44.415262
+    longitude:   8.029545
+  rovasenda:
+    province_id: VC
+    id:          H364
+    name:        Rovasenda
+    latitude:    45.53987
+    longitude:   8.318778
+  roasio:
+    province_id: VC
+    id:          H365
+    name:        Roasio
+    latitude:    45.605755
+    longitude:   8.287069
+  roatto:
+    province_id: AT
+    id:          H366
+    name:        Roatto
+    latitude:    44.952415
+    longitude:   8.027012
+  robassomero:
+    province_id: TO
+    id:          H367
+    name:        Robassomero
+    latitude:    45.200742
+    longitude:   7.56858
+  robbio:
+    province_id: PV
+    id:          H369
+    name:        Robbio
+    latitude:    45.291583
+    longitude:   8.592304
+  robecchetto_con_induno:
+    province_id: MI
+    id:          H371
+    name:        'Robecchetto con Induno'
+    latitude:    45.532702
+    longitude:   8.764833
+  robecco_d_oglio:
+    province_id: CR
+    id:          H372
+    name:        'Robecco D''Oglio'
+    latitude:    45.260315
+    longitude:   10.077667
+  robecco_sul_naviglio:
+    province_id: MI
+    id:          H373
+    name:        'Robecco sul Naviglio'
+    latitude:    45.435926
+    longitude:   8.88742
+  robecco_pavese:
+    province_id: PV
+    id:          H375
+    name:        'Robecco Pavese'
+    latitude:    45.049333
+    longitude:   9.152014
+  robella:
+    province_id: AT
+    id:          H376
+    name:        Robella
+    latitude:    45.101433
+    longitude:   8.102752
+  robilante:
+    province_id: CN
+    id:          H377
+    name:        Robilante
+    latitude:    44.294477
+    longitude:   7.511336
+  roburent:
+    province_id: CN
+    id:          H378
+    name:        Roburent
+    latitude:    44.307762
+    longitude:   7.892317
+  rocca_pietore:
+    province_id: BL
+    id:          H379
+    name:        'Rocca Pietore'
+    latitude:    46.434852
+    longitude:   11.977815
+  roccavaldina:
+    province_id: ME
+    id:          H380
+    name:        Roccavaldina
+    latitude:    38.181718
+    longitude:   15.372345
+  roccabascerana:
+    province_id: AV
+    id:          H382
+    name:        Roccabascerana
+    latitude:    41.017946
+    longitude:   14.715873
+  roccabernarda:
+    province_id: KR
+    id:          H383
+    name:        Roccabernarda
+    latitude:    39.134124
+    longitude:   16.871329
+  roccabianca:
+    province_id: PR
+    id:          H384
+    name:        Roccabianca
+    latitude:    45.010315
+    longitude:   10.220481
+  roccabruna:
+    province_id: CN
+    id:          H385
+    name:        Roccabruna
+    latitude:    44.477126
+    longitude:   7.341948
+  rocca_canavese:
+    province_id: TO
+    id:          H386
+    name:        'Rocca Canavese'
+    latitude:    45.310796
+    longitude:   7.577352
+  rocca_canterano:
+    province_id: RM
+    id:          H387
+    name:        'Rocca Canterano'
+    latitude:    41.957568
+    longitude:   13.021423
+  roccacasale:
+    province_id: AQ
+    id:          H389
+    name:        Roccacasale
+    latitude:    42.123955
+    longitude:   13.886598
+  roccafluvione:
+    province_id: AP
+    id:          H390
+    name:        Roccafluvione
+    latitude:    42.859438
+    longitude:   13.47639
+  rocca_ciglie:
+    province_id: CN
+    id:          H391
+    name:        'Rocca Cigliè'
+    latitude:    44.446723
+    longitude:   7.950784
+  rocca_d_arazzo:
+    province_id: AT
+    id:          H392
+    name:        'Rocca D''Arazzo'
+    latitude:    44.872148
+    longitude:   8.284846
+  rocca_d_arce:
+    province_id: FR
+    id:          H393
+    name:        'Rocca D''Arce'
+    latitude:    41.587155
+    longitude:   13.585422
+  roccadaspide:
+    province_id: SA
+    id:          H394
+    name:        Roccadaspide
+    latitude:    40.426407
+    longitude:   15.192981
+  rocca_de_baldi:
+    province_id: CN
+    id:          H395
+    name:        'Rocca De'' Baldi'
+    latitude:    44.424317
+    longitude:   7.761944
+  rocca_de_giorgi:
+    province_id: PV
+    id:          H396
+    name:        'Rocca de'' Giorgi'
+    latitude:    44.970605
+    longitude:   9.253864
+  rocca_d_evandro:
+    province_id: CE
+    id:          H398
+    name:        'Rocca D''Evandro'
+    latitude:    41.39
+    longitude:   13.909074
+  rocca_di_botte:
+    province_id: AQ
+    id:          H399
+    name:        'Rocca di Botte'
+    latitude:    42.025158
+    longitude:   13.069129
+  rocca_di_cambio:
+    province_id: AQ
+    id:          H400
+    name:        'Rocca di Cambio'
+    latitude:    42.237204
+    longitude:   13.490018
+  rocca_di_cave:
+    province_id: RM
+    id:          H401
+    name:        'Rocca di Cave'
+    latitude:    41.847518
+    longitude:   12.946407
+  rocca_di_mezzo:
+    province_id: AQ
+    id:          H402
+    name:        'Rocca di Mezzo'
+    latitude:    42.205796
+    longitude:   13.520333
+  rocca_di_neto:
+    province_id: KR
+    id:          H403
+    name:        'Rocca di Neto'
+    latitude:    39.191345
+    longitude:   17.002697
+  rocca_di_papa:
+    province_id: RM
+    id:          H404
+    name:        'Rocca di Papa'
+    latitude:    41.761964
+    longitude:   12.708093
+  roccafiorita:
+    province_id: ME
+    id:          H405
+    name:        Roccafiorita
+    latitude:    37.932056
+    longitude:   15.268296
+  roccaforte_ligure:
+    province_id: AL
+    id:          H406
+    name:        'Roccaforte Ligure'
+    latitude:    44.67829
+    longitude:   9.028472
+  roccaforte_mondovi:
+    province_id: CN
+    id:          H407
+    name:        'Roccaforte Mondovì'
+    latitude:    44.318907
+    longitude:   7.745963
+  roccaforte_del_greco:
+    province_id: RC
+    id:          H408
+    name:        'Roccaforte del Greco'
+    latitude:    38.048097
+    longitude:   15.896447
+  roccaforzata:
+    province_id: TA
+    id:          H409
+    name:        Roccaforzata
+    latitude:    40.438444
+    longitude:   17.390481
+  roccafranca:
+    province_id: BS
+    id:          H410
+    name:        Roccafranca
+    latitude:    45.465315
+    longitude:   9.915648
+  roccagiovine:
+    province_id: RM
+    id:          H411
+    name:        Roccagiovine
+    latitude:    42.051111
+    longitude:   12.900315
+  roccagloriosa:
+    province_id: SA
+    id:          H412
+    name:        Roccagloriosa
+    latitude:    40.109283
+    longitude:   15.430897
+  roccagorga:
+    province_id: LT
+    id:          H413
+    name:        Roccagorga
+    latitude:    41.526278
+    longitude:   13.156111
+  rocca_grimalda:
+    province_id: AL
+    id:          H414
+    name:        'Rocca Grimalda'
+    latitude:    44.672518
+    longitude:   8.649537
+  rocca_imperiale:
+    province_id: CS
+    id:          H416
+    name:        'Rocca Imperiale'
+    latitude:    40.110796
+    longitude:   16.581111
+  roccalbegna:
+    province_id: GR
+    id:          H417
+    name:        Roccalbegna
+    latitude:    42.78582
+    longitude:   11.507874
+  roccalumera:
+    province_id: ME
+    id:          H418
+    name:        Roccalumera
+    latitude:    37.969302
+    longitude:   15.388344
+  roccamandolfi:
+    province_id: IS
+    id:          H420
+    name:        Roccamandolfi
+    latitude:    41.492892
+    longitude:   14.350553
+  rocca_massima:
+    province_id: LT
+    id:          H421
+    name:        'Rocca Massima'
+    latitude:    41.680384
+    longitude:   12.920306
+  roccamena:
+    province_id: PA
+    id:          H422
+    name:        Roccamena
+    latitude:    37.8355
+    longitude:   13.153769
+  roccamonfina:
+    province_id: CE
+    id:          H423
+    name:        Roccamonfina
+    latitude:    41.289222
+    longitude:   13.984074
+  roccamontepiano:
+    province_id: CH
+    id:          H424
+    name:        Roccamontepiano
+    latitude:    42.243128
+    longitude:   14.128652
+  roccamorice:
+    province_id: PE
+    id:          H425
+    name:        Roccamorice
+    latitude:    42.21554
+    longitude:   14.024414
+  roccanova:
+    province_id: PZ
+    id:          H426
+    name:        Roccanova
+    latitude:    40.213148
+    longitude:   16.204074
+  roccantica:
+    province_id: RI
+    id:          H427
+    name:        Roccantica
+    latitude:    42.319701
+    longitude:   12.695143
+  roccapalumba:
+    province_id: PA
+    id:          H428
+    name:        Roccapalumba
+    latitude:    37.807037
+    longitude:   13.639389
+  rocca_pia:
+    province_id: AQ
+    id:          H429
+    name:        'Rocca Pia'
+    latitude:    41.934473
+    longitude:   13.977474
+  roccapiemonte:
+    province_id: SA
+    id:          H431
+    name:        Roccapiemonte
+    latitude:    40.761722
+    longitude:   14.693611
+  rocca_priora:
+    province_id: RM
+    id:          H432
+    name:        'Rocca Priora'
+    latitude:    41.79178
+    longitude:   12.760655
+  roccarainola:
+    province_id: NA
+    id:          H433
+    name:        Roccarainola
+    latitude:    40.970481
+    longitude:   14.560796
+  roccaraso:
+    province_id: AQ
+    id:          H434
+    name:        Roccaraso
+    latitude:    41.847663
+    longitude:   14.079944
+  roccaromana:
+    province_id: CE
+    id:          H436
+    name:        Roccaromana
+    latitude:    41.275167
+    longitude:   14.22237
+  rocca_san_casciano:
+    province_id: FC
+    id:          H437
+    name:        'Rocca San Casciano'
+    latitude:    44.060167
+    longitude:   11.844241
+  rocca_san_felice:
+    province_id: AV
+    id:          H438
+    name:        'Rocca San Felice'
+    latitude:    40.951426
+    longitude:   15.166111
+  rocca_san_giovanni:
+    province_id: CH
+    id:          H439
+    name:        'Rocca San Giovanni'
+    latitude:    42.247037
+    longitude:   14.4625
+  rocca_santa_maria:
+    province_id: TE
+    id:          H440
+    name:        'Rocca Santa Maria'
+    latitude:    42.68707
+    longitude:   13.527534
+  rocca_santo_stefano:
+    province_id: RM
+    id:          H441
+    name:        'Rocca Santo Stefano'
+    latitude:    41.911574
+    longitude:   13.02487
+  roccascalegna:
+    province_id: CH
+    id:          H442
+    name:        Roccascalegna
+    latitude:    42.063611
+    longitude:   14.307833
+  roccasecca:
+    province_id: FR
+    id:          H443
+    name:        Roccasecca
+    latitude:    41.552352
+    longitude:   13.668148
+  roccasecca_dei_volsci:
+    province_id: LT
+    id:          H444
+    name:        'Roccasecca dei Volsci'
+    latitude:    41.479868
+    longitude:   13.214544
+  roccasicura:
+    province_id: IS
+    id:          H445
+    name:        Roccasicura
+    latitude:    41.697667
+    longitude:   14.235315
+  rocca_sinibalda:
+    province_id: RI
+    id:          H446
+    name:        'Rocca Sinibalda'
+    latitude:    42.274884
+    longitude:   12.925631
+  roccasparvera:
+    province_id: CN
+    id:          H447
+    name:        Roccasparvera
+    latitude:    44.341399
+    longitude:   7.441436
+  roccaspinalveti:
+    province_id: CH
+    id:          H448
+    name:        Roccaspinalveti
+    latitude:    41.93704
+    longitude:   14.470332
+  roccastrada:
+    province_id: GR
+    id:          H449
+    name:        Roccastrada
+    latitude:    43.010472
+    longitude:   11.168309
+  rocca_susella:
+    province_id: PV
+    id:          H450
+    name:        'Rocca Susella'
+    latitude:    44.912578
+    longitude:   9.096205
+  roccaverano:
+    province_id: AT
+    id:          H451
+    name:        Roccaverano
+    latitude:    44.592537
+    longitude:   8.272038
+  roccavignale:
+    province_id: SV
+    id:          H452
+    name:        Roccavignale
+    latitude:    44.361729
+    longitude:   8.19173
+  roccavione:
+    province_id: CN
+    id:          H453
+    name:        Roccavione
+    latitude:    44.315631
+    longitude:   7.483613
+  roccavivara:
+    province_id: CB
+    id:          H454
+    name:        Roccavivara
+    latitude:    41.835602
+    longitude:   14.598512
+  roccella_valdemone:
+    province_id: ME
+    id:          H455
+    name:        'Roccella Valdemone'
+    latitude:    37.934537
+    longitude:   15.010648
+  roccella_ionica:
+    province_id: RC
+    id:          H456
+    name:        'Roccella Ionica'
+    latitude:    38.323148
+    longitude:   16.401722
+  rocchetta_a_volturno:
+    province_id: IS
+    id:          H458
+    name:        'Rocchetta a Volturno'
+    latitude:    41.628738
+    longitude:   14.091198
+  rocchetta_e_croce:
+    province_id: CE
+    id:          H459
+    name:        'Rocchetta e Croce'
+    latitude:    41.236929
+    longitude:   14.157266
+  rocchetta_nervina:
+    province_id: IM
+    id:          H460
+    name:        'Rocchetta Nervina'
+    latitude:    43.890413
+    longitude:   7.599883
+  rocchetta_di_vara:
+    province_id: SP
+    id:          H461
+    name:        'Rocchetta di Vara'
+    latitude:    44.251692
+    longitude:   9.758036
+  rocchetta_belbo:
+    province_id: CN
+    id:          H462
+    name:        'Rocchetta Belbo'
+    latitude:    44.637037
+    longitude:   8.176407
+  rocchetta_ligure:
+    province_id: AL
+    id:          H465
+    name:        'Rocchetta Ligure'
+    latitude:    44.7075
+    longitude:   9.051574
+  rocchetta_palafea:
+    province_id: AT
+    id:          H466
+    name:        'Rocchetta Palafea'
+    latitude:    44.707673
+    longitude:   8.343749
+  rocchetta_sant_antonio:
+    province_id: FG
+    id:          H467
+    name:        'Rocchetta Sant''Antonio'
+    latitude:    41.103056
+    longitude:   15.460179
+  rocchetta_tanaro:
+    province_id: AT
+    id:          H468
+    name:        'Rocchetta Tanaro'
+    latitude:    44.859577
+    longitude:   8.344789
+  rodano:
+    province_id: MI
+    id:          H470
+    name:        Rodano
+    latitude:    45.477233
+    longitude:   9.35204
+  roddi:
+    province_id: CN
+    id:          H472
+    name:        Roddi
+    latitude:    44.68063
+    longitude:   7.976574
+  roddino:
+    province_id: CN
+    id:          H473
+    name:        Roddino
+    latitude:    44.573923
+    longitude:   8.019125
+  rodello:
+    province_id: CN
+    id:          H474
+    name:        Rodello
+    latitude:    44.629537
+    longitude:   8.057981
+  rodengo:
+    province_id: BZ
+    id:          H475
+    name:        Rodengo
+    latitude:    46.787996
+    longitude:   11.737649
+  rodengo_saiano:
+    province_id: BS
+    id:          H477
+    name:        Rodengo-Saiano
+    latitude:    45.601237
+    longitude:   10.108297
+  rodero:
+    province_id: CO
+    id:          H478
+    name:        Rodero
+    latitude:    45.825019
+    longitude:   8.916426
+  rodi_milici:
+    province_id: ME
+    id:          H479
+    name:        'Rodì Milici'
+    latitude:    38.11011
+    longitude:   15.170146
+  rodi_garganico:
+    province_id: FG
+    id:          H480
+    name:        'Rodi Garganico'
+    latitude:    41.928588
+    longitude:   15.884253
+  rodigo:
+    province_id: MN
+    id:          H481
+    name:        Rodigo
+    latitude:    45.200635
+    longitude:   10.623486
+  roe_volciano:
+    province_id: BS
+    id:          H484
+    name:        'Roè Volciano'
+    latitude:    45.61292
+    longitude:   10.490499
+  rofrano:
+    province_id: SA
+    id:          H485
+    name:        Rofrano
+    latitude:    40.212518
+    longitude:   15.428759
+  rogeno:
+    province_id: LC
+    id:          H486
+    name:        Rogeno
+    latitude:    45.783463
+    longitude:   9.275167
+  roggiano_gravina:
+    province_id: CS
+    id:          H488
+    name:        'Roggiano Gravina'
+    latitude:    39.618881
+    longitude:   16.160851
+  roghudi:
+    province_id: RC
+    id:          H489
+    name:        Roghudi
+    latitude:    38.049655
+    longitude:   15.916734
+  rogliano:
+    province_id: CS
+    id:          H490
+    name:        Rogliano
+    latitude:    39.18237
+    longitude:   16.321889
+  rognano:
+    province_id: PV
+    id:          H491
+    name:        Rognano
+    latitude:    45.288894
+    longitude:   9.090372
+  rogno:
+    province_id: BG
+    id:          H492
+    name:        Rogno
+    latitude:    45.8575
+    longitude:   10.133296
+  rogolo:
+    province_id: SO
+    id:          H493
+    name:        Rogolo
+    latitude:    46.137037
+    longitude:   9.485481
+  roiate:
+    province_id: RM
+    id:          H494
+    name:        Roiate
+    latitude:    41.873463
+    longitude:   13.068296
+  roio_del_sangro:
+    province_id: CH
+    id:          H495
+    name:        'Roio del Sangro'
+    latitude:    41.911711
+    longitude:   14.37266
+  roisan:
+    province_id: AO
+    id:          H497
+    name:        Roisan
+    latitude:    45.78464
+    longitude:   7.310522
+  roletto:
+    province_id: TO
+    id:          H498
+    name:        Roletto
+    latitude:    44.925106
+    longitude:   7.330915
+  rolo:
+    province_id: RE
+    id:          H500
+    name:        Rolo
+    latitude:    44.886741
+    longitude:   10.861259
+  roma:
+    province_id: RM
+    id:          H501
+    name:        Roma
+    latitude:    41.895466
+    longitude:   12.482324
+  romagnano_sesia:
+    province_id: NO
+    id:          H502
+    name:        'Romagnano Sesia'
+    latitude:    45.632037
+    longitude:   8.38987
+  romagnano_al_monte:
+    province_id: SA
+    id:          H503
+    name:        'Romagnano al Monte'
+    latitude:    40.628368
+    longitude:   15.45715
+  romagnese:
+    province_id: PV
+    id:          H505
+    name:        Romagnese
+    latitude:    44.840519
+    longitude:   9.331236
+  romallo:
+    province_id: TN
+    id:          H506
+    name:        Romallo
+    latitude:    46.39813
+    longitude:   11.06737
+  romana:
+    province_id: SS
+    id:          H507
+    name:        Romana
+    latitude:    40.484833
+    longitude:   8.587879
+  romanengo:
+    province_id: CR
+    id:          H508
+    name:        Romanengo
+    latitude:    45.378463
+    longitude:   9.782833
+  romano_di_lombardia:
+    province_id: BG
+    id:          H509
+    name:        'Romano di Lombardia'
+    latitude:    45.521535
+    longitude:   9.753613
+  romano_canavese:
+    province_id: TO
+    id:          H511
+    name:        'Romano Canavese'
+    latitude:    45.390186
+    longitude:   7.865512
+  romano_d_ezzelino:
+    province_id: VI
+    id:          H512
+    name:        'Romano D''Ezzelino'
+    latitude:    45.796271
+    longitude:   11.758312
+  romans_d_isonzo:
+    province_id: GO
+    id:          H514
+    name:        'Romans D''Isonzo'
+    latitude:    45.889537
+    longitude:   13.442981
+  rombiolo:
+    province_id: VV
+    id:          H516
+    name:        Rombiolo
+    latitude:    38.592815
+    longitude:   16.0025
+  romeno:
+    province_id: TN
+    id:          H517
+    name:        Romeno
+    latitude:    46.395796
+    longitude:   11.119537
+  romentino:
+    province_id: NO
+    id:          H518
+    name:        Romentino
+    latitude:    45.465018
+    longitude:   8.720167
+  rometta:
+    province_id: ME
+    id:          H519
+    name:        Rometta
+    latitude:    38.17059
+    longitude:   15.413476
+  ronago:
+    province_id: CO
+    id:          H521
+    name:        Ronago
+    latitude:    45.833296
+    longitude:   8.98487
+  ronca:
+    province_id: VR
+    id:          H522
+    name:        Roncà
+    latitude:    45.479073
+    longitude:   11.289127
+  roncade:
+    province_id: TV
+    id:          H523
+    name:        Roncade
+    latitude:    45.628061
+    longitude:   12.374799
+  roncadelle:
+    province_id: BS
+    id:          H525
+    name:        Roncadelle
+    latitude:    45.522095
+    longitude:   10.149698
+  roncaro:
+    province_id: PV
+    id:          H527
+    name:        Roncaro
+    latitude:    45.229241
+    longitude:   9.276574
+  roncegno:
+    province_id: TN
+    id:          H528
+    name:        Roncegno
+    latitude:    46.050811
+    longitude:   11.409443
+  roncello:
+    province_id: MI
+    id:          H529
+    name:        Roncello
+    latitude:    45.602406
+    longitude:   9.457478
+  ronchi_dei_legionari:
+    province_id: GO
+    id:          H531
+    name:        'Ronchi dei Legionari'
+    latitude:    45.823744
+    longitude:   13.50103
+  ronchi_valsugana:
+    province_id: TN
+    id:          H532
+    name:        'Ronchi Valsugana'
+    latitude:    46.069389
+    longitude:   11.436259
+  ronchis:
+    province_id: UD
+    id:          H533
+    name:        Ronchis
+    latitude:    45.807716
+    longitude:   12.99996
+  ronciglione:
+    province_id: VT
+    id:          H534
+    name:        Ronciglione
+    latitude:    42.291407
+    longitude:   12.214222
+  roncobello:
+    province_id: BG
+    id:          H535
+    name:        Roncobello
+    latitude:    45.95637
+    longitude:   9.748774
+  ronco_scrivia:
+    province_id: GE
+    id:          H536
+    name:        'Ronco Scrivia'
+    latitude:    44.612797
+    longitude:   8.948379
+  ronco_briantino:
+    province_id: MI
+    id:          H537
+    name:        'Ronco Briantino'
+    latitude:    45.666602
+    longitude:   9.40391
+  ronco_biellese:
+    province_id: BI
+    id:          H538
+    name:        'Ronco Biellese'
+    latitude:    45.579561
+    longitude:   8.091892
+  ronco_canavese:
+    province_id: TO
+    id:          H539
+    name:        'Ronco Canavese'
+    latitude:    45.499686
+    longitude:   7.547327
+  ronco_all_adige:
+    province_id: VR
+    id:          H540
+    name:        'Ronco all''Adige'
+    latitude:    45.337667
+    longitude:   11.244074
+  roncoferraro:
+    province_id: MN
+    id:          H541
+    name:        Roncoferraro
+    latitude:    45.135128
+    longitude:   10.954495
+  roncofreddo:
+    province_id: FC
+    id:          H542
+    name:        Roncofreddo
+    latitude:    44.042508
+    longitude:   12.319214
+  roncola:
+    province_id: BG
+    id:          H544
+    name:        Roncola
+    latitude:    45.769704
+    longitude:   9.561722
+  roncone:
+    province_id: TN
+    id:          H545
+    name:        Roncone
+    latitude:    45.983778
+    longitude:   10.669222
+  rondanina:
+    province_id: GE
+    id:          H546
+    name:        Rondanina
+    latitude:    44.563209
+    longitude:   9.217827
+  rondissone:
+    province_id: TO
+    id:          H547
+    name:        Rondissone
+    latitude:    45.247815
+    longitude:   7.964222
+  ronsecco:
+    province_id: VC
+    id:          H549
+    name:        Ronsecco
+    latitude:    45.25313
+    longitude:   8.278148
+  ronzone:
+    province_id: TN
+    id:          H552
+    name:        Ronzone
+    latitude:    46.423611
+    longitude:   11.151426
+  roppolo:
+    province_id: BI
+    id:          H553
+    name:        Roppolo
+    latitude:    45.421574
+    longitude:   8.070963
+  rora:
+    province_id: TO
+    id:          H554
+    name:        Rorà
+    latitude:    44.79313
+    longitude:   7.200167
+  roure:
+    province_id: TO
+    id:          H555
+    name:        Roure
+    latitude:    45.002189
+    longitude:   7.128417
+  rosa:
+    province_id: VI
+    id:          H556
+    name:        Rosà
+    latitude:    45.727668
+    longitude:   11.763215
+  rosarno:
+    province_id: RC
+    id:          H558
+    name:        Rosarno
+    latitude:    38.487326
+    longitude:   15.976367
+  rosasco:
+    province_id: PV
+    id:          H559
+    name:        Rosasco
+    latitude:    45.25189
+    longitude:   8.580095
+  rosate:
+    province_id: MI
+    id:          H560
+    name:        Rosate
+    latitude:    45.353393
+    longitude:   9.023475
+  rosazza:
+    province_id: BI
+    id:          H561
+    name:        Rosazza
+    latitude:    45.67677
+    longitude:   7.977447
+  rosciano:
+    province_id: PE
+    id:          H562
+    name:        Rosciano
+    latitude:    42.325018
+    longitude:   14.047204
+  roscigno:
+    province_id: SA
+    id:          H564
+    name:        Roscigno
+    latitude:    40.400333
+    longitude:   15.347204
+  rose:
+    province_id: CS
+    id:          H565
+    name:        Rose
+    latitude:    39.399537
+    longitude:   16.288148
+  rosello:
+    province_id: CH
+    id:          H566
+    name:        Rosello
+    latitude:    41.901889
+    longitude:   14.350796
+  roseto_valfortore:
+    province_id: FG
+    id:          H568
+    name:        'Roseto Valfortore'
+    latitude:    41.373444
+    longitude:   15.097037
+  rosignano_monferrato:
+    province_id: AL
+    id:          H569
+    name:        'Rosignano Monferrato'
+    latitude:    45.081144
+    longitude:   8.399803
+  rosignano_marittimo:
+    province_id: LI
+    id:          H570
+    name:        'Rosignano Marittimo'
+    latitude:    43.405624
+    longitude:   10.473952
+  roseto_capo_spulico:
+    province_id: CS
+    id:          H572
+    name:        'Roseto Capo Spulico'
+    latitude:    39.988094
+    longitude:   16.599369
+  rosolina:
+    province_id: RO
+    id:          H573
+    name:        Rosolina
+    latitude:    45.075963
+    longitude:   12.243296
+  rosolini:
+    province_id: SR
+    id:          H574
+    name:        Rosolini
+    latitude:    36.821285
+    longitude:   14.95111
+  rosora:
+    province_id: AN
+    id:          H575
+    name:        Rosora
+    latitude:    43.482498
+    longitude:   13.068131
+  rossa:
+    province_id: VC
+    id:          H577
+    name:        Rossa
+    latitude:    45.832962
+    longitude:   8.120643
+  rossana:
+    province_id: CN
+    id:          H578
+    name:        Rossana
+    latitude:    44.544067
+    longitude:   7.432386
+  rossano:
+    province_id: CS
+    id:          H579
+    name:        Rossano
+    latitude:    39.576392
+    longitude:   16.63416
+  rossano_veneto:
+    province_id: VI
+    id:          H580
+    name:        'Rossano Veneto'
+    latitude:    45.706722
+    longitude:   11.807037
+  rossiglione:
+    province_id: GE
+    id:          H581
+    name:        Rossiglione
+    latitude:    44.558775
+    longitude:   8.674267
+  rosta:
+    province_id: TO
+    id:          H583
+    name:        Rosta
+    latitude:    45.068907
+    longitude:   7.466259
+  rota_d_imagna:
+    province_id: BG
+    id:          H584
+    name:        'Rota D''Imagna'
+    latitude:    45.831722
+    longitude:   9.512453
+  rota_greca:
+    province_id: CS
+    id:          H585
+    name:        'Rota Greca'
+    latitude:    39.469537
+    longitude:   16.113444
+  rotella:
+    province_id: AP
+    id:          H588
+    name:        Rotella
+    latitude:    42.954326
+    longitude:   13.560051
+  rotello:
+    province_id: CB
+    id:          H589
+    name:        Rotello
+    latitude:    41.748489
+    longitude:   15.005543
+  rotonda:
+    province_id: PZ
+    id:          H590
+    name:        Rotonda
+    latitude:    39.953759
+    longitude:   16.040018
+  rotondella:
+    province_id: MT
+    id:          H591
+    name:        Rotondella
+    latitude:    40.172352
+    longitude:   16.526407
+  rotondi:
+    province_id: AV
+    id:          H592
+    name:        Rotondi
+    latitude:    41.032518
+    longitude:   14.595944
+  rottofreno:
+    province_id: PC
+    id:          H593
+    name:        Rottofreno
+    latitude:    45.058444
+    longitude:   9.548926
+  rotzo:
+    province_id: VI
+    id:          H594
+    name:        Rotzo
+    latitude:    45.862815
+    longitude:   11.39737
+  rovagnate:
+    province_id: LC
+    id:          H596
+    name:        Rovagnate
+    latitude:    45.737448
+    longitude:   9.371573
+  rovato:
+    province_id: BS
+    id:          H598
+    name:        Rovato
+    latitude:    45.568248
+    longitude:   9.999985
+  rovegno:
+    province_id: GE
+    id:          H599
+    name:        Rovegno
+    latitude:    44.577833
+    longitude:   9.280333
+  rovellasca:
+    province_id: CO
+    id:          H601
+    name:        Rovellasca
+    latitude:    45.665481
+    longitude:   9.05237
+  rovello_porro:
+    province_id: CO
+    id:          H602
+    name:        'Rovello Porro'
+    latitude:    45.656111
+    longitude:   9.041574
+  roverbella:
+    province_id: MN
+    id:          H604
+    name:        Roverbella
+    latitude:    45.266605
+    longitude:   10.769113
+  roverchiara:
+    province_id: VR
+    id:          H606
+    name:        Roverchiara
+    latitude:    45.268502
+    longitude:   11.244955
+  rovere_della_luna:
+    province_id: TN
+    id:          H607
+    name:        'Roverè della Luna'
+    latitude:    46.249496
+    longitude:   11.171555
+  rovere_veronese:
+    province_id: VR
+    id:          H608
+    name:        'Roverè Veronese'
+    latitude:    45.592046
+    longitude:   11.069511
+  roveredo_in_piano:
+    province_id: PN
+    id:          H609
+    name:        'Roveredo in Piano'
+    latitude:    46.009852
+    longitude:   12.623463
+  roveredo_di_gua:
+    province_id: VR
+    id:          H610
+    name:        'Roveredo di Guà'
+    latitude:    45.274074
+    longitude:   11.445333
+  rovereto:
+    province_id: TN
+    id:          H612
+    name:        Rovereto
+    latitude:    45.890648
+    longitude:   11.03987
+  rovescala:
+    province_id: PV
+    id:          H614
+    name:        Rovescala
+    latitude:    45.007981
+    longitude:   9.347056
+  rovetta:
+    province_id: BG
+    id:          H615
+    name:        Rovetta
+    latitude:    45.893907
+    longitude:   9.984537
+  roviano:
+    province_id: RM
+    id:          H618
+    name:        Roviano
+    latitude:    42.026016
+    longitude:   12.994424
+  rovigo:
+    province_id: RO
+    id:          H620
+    name:        Rovigo
+    latitude:    45.070736
+    longitude:   11.789796
+  rovito:
+    province_id: CS
+    id:          H621
+    name:        Rovito
+    latitude:    39.309074
+    longitude:   16.322055
+  rovolon:
+    province_id: PD
+    id:          H622
+    name:        Rovolon
+    latitude:    45.365394
+    longitude:   11.662325
+  rozzano:
+    province_id: MI
+    id:          H623
+    name:        Rozzano
+    latitude:    45.387462
+    longitude:   9.1514
+  rubano:
+    province_id: PD
+    id:          H625
+    name:        Rubano
+    latitude:    45.421889
+    longitude:   11.808296
+  rubiana:
+    province_id: TO
+    id:          H627
+    name:        Rubiana
+    latitude:    45.138831
+    longitude:   7.382674
+  rubiera:
+    province_id: RE
+    id:          H628
+    name:        Rubiera
+    latitude:    44.65372
+    longitude:   10.781259
+  ruda:
+    province_id: UD
+    id:          H629
+    name:        Ruda
+    latitude:    45.841407
+    longitude:   13.40563
+  rudiano:
+    province_id: BS
+    id:          H630
+    name:        Rudiano
+    latitude:    45.489537
+    longitude:   9.88813
+  rueglio:
+    province_id: TO
+    id:          H631
+    name:        Rueglio
+    latitude:    45.468039
+    longitude:   7.756068
+  ruffano:
+    province_id: LE
+    id:          H632
+    name:        Ruffano
+    latitude:    39.983907
+    longitude:   18.24737
+  ruffia:
+    province_id: CN
+    id:          H633
+    name:        Ruffia
+    latitude:    44.707667
+    longitude:   7.605167
+  ruffre:
+    province_id: TN
+    id:          H634
+    name:        Ruffrè
+    latitude:    46.415517
+    longitude:   11.178907
+  rufina:
+    province_id: FI
+    id:          H635
+    name:        Rufina
+    latitude:    43.825333
+    longitude:   11.486111
+  ruino:
+    province_id: PV
+    id:          H637
+    name:        Ruino
+    latitude:    44.927297
+    longitude:   9.274333
+  rumo:
+    province_id: TN
+    id:          H639
+    name:        Rumo
+    latitude:    46.441892
+    longitude:   11.018624
+  ruoti:
+    province_id: PZ
+    id:          H641
+    name:        Ruoti
+    latitude:    40.718087
+    longitude:   15.679197
+  russi:
+    province_id: RA
+    id:          H642
+    name:        Russi
+    latitude:    44.372189
+    longitude:   12.031452
+  rutigliano:
+    province_id: BA
+    id:          H643
+    name:        Rutigliano
+    latitude:    41.011071
+    longitude:   17.003907
+  rutino:
+    province_id: SA
+    id:          H644
+    name:        Rutino
+    latitude:    40.299961
+    longitude:   15.073276
+  ruvo_di_puglia:
+    province_id: BA
+    id:          H645
+    name:        'Ruvo di Puglia'
+    latitude:    41.118367
+    longitude:   16.485165
+  ruvo_del_monte:
+    province_id: PZ
+    id:          H646
+    name:        'Ruvo del Monte'
+    latitude:    40.849852
+    longitude:   15.54237

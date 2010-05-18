@@ -1,0 +1,517 @@
+City:
+  idro:
+    province_id: BS
+    id:          E280
+    name:        Idro
+    latitude:    45.736055
+    longitude:   10.465146
+  iglesias:
+    province_id: CI
+    id:          E281
+    name:        Iglesias
+    latitude:    39.312768
+    longitude:   8.534325
+  igliano:
+    province_id: CN
+    id:          E282
+    name:        Igliano
+    latitude:    44.443781
+    longitude:   8.013723
+  ilbono:
+    province_id: OG
+    id:          E283
+    name:        Ilbono
+    latitude:    39.893776
+    longitude:   9.550669
+  illasi:
+    province_id: VR
+    id:          E284
+    name:        Illasi
+    latitude:    45.46813
+    longitude:   11.183444
+  illorai:
+    province_id: SS
+    id:          E285
+    name:        Illorai
+    latitude:    40.355018
+    longitude:   9.002037
+  imbersago:
+    province_id: LC
+    id:          E287
+    name:        Imbersago
+    latitude:    45.706889
+    longitude:   9.445648
+  imer:
+    province_id: TN
+    id:          E288
+    name:        Imer
+    latitude:    46.150374
+    longitude:   11.794326
+  imola:
+    province_id: BO
+    id:          E289
+    name:        Imola
+    latitude:    44.355913
+    longitude:   11.71612
+  imperia:
+    province_id: IM
+    id:          E290
+    name:        Imperia
+    latitude:    43.887892
+    longitude:   8.031564
+  impruneta:
+    province_id: FI
+    id:          E291
+    name:        Impruneta
+    latitude:    43.685975
+    longitude:   11.254211
+  inarzo:
+    province_id: VA
+    id:          E292
+    name:        Inarzo
+    latitude:    45.786722
+    longitude:   8.736722
+  incisa_scapaccino:
+    province_id: AT
+    id:          E295
+    name:        'Incisa Scapaccino'
+    latitude:    44.808772
+    longitude:   8.375134
+  incisa_in_val_d_arno:
+    province_id: FI
+    id:          E296
+    name:        'Incisa in Val D''Arno'
+    latitude:    43.656136
+    longitude:   11.449096
+  incudine:
+    province_id: BS
+    id:          E297
+    name:        Incudine
+    latitude:    46.221259
+    longitude:   10.359852
+  induno_olona:
+    province_id: VA
+    id:          E299
+    name:        'Induno Olona'
+    latitude:    45.852312
+    longitude:   8.839855
+  ingria:
+    province_id: TO
+    id:          E301
+    name:        Ingria
+    latitude:    45.46628
+    longitude:   7.571243
+  intragna:
+    province_id: VB
+    id:          E304
+    name:        Intragna
+    latitude:    45.992927
+    longitude:   8.57358
+  introbio:
+    province_id: LC
+    id:          E305
+    name:        Introbio
+    latitude:    45.973751
+    longitude:   9.450344
+  introd:
+    province_id: AO
+    id:          E306
+    name:        Introd
+    latitude:    45.69292
+    longitude:   7.182156
+  introdacqua:
+    province_id: AQ
+    id:          E307
+    name:        Introdacqua
+    latitude:    42.008444
+    longitude:   13.899222
+  introzzo:
+    province_id: LC
+    id:          E308
+    name:        Introzzo
+    latitude:    46.082092
+    longitude:   9.341284
+  inverigo:
+    province_id: CO
+    id:          E309
+    name:        Inverigo
+    latitude:    45.73813
+    longitude:   9.218926
+  inverno_e_monteleone:
+    province_id: PV
+    id:          E310
+    name:        'Inverno e Monteleone'
+    latitude:    45.198795
+    longitude:   9.385333
+  inverso_pinasca:
+    province_id: TO
+    id:          E311
+    name:        'Inverso Pinasca'
+    latitude:    44.945047
+    longitude:   7.218059
+  inveruno:
+    province_id: MI
+    id:          E313
+    name:        Inveruno
+    latitude:    45.515685
+    longitude:   8.853754
+  invorio:
+    province_id: NO
+    id:          E314
+    name:        Invorio
+    latitude:    45.757868
+    longitude:   8.489471
+  inzago:
+    province_id: MI
+    id:          E317
+    name:        Inzago
+    latitude:    45.537596
+    longitude:   9.479023
+  jolanda_di_savoia:
+    province_id: FE
+    id:          E320
+    name:        'Jolanda di Savoia'
+    latitude:    44.885018
+    longitude:   11.977815
+  jonadi:
+    province_id: VV
+    id:          E321
+    name:        Jonadi
+    latitude:    38.630046
+    longitude:   16.062059
+  irgoli:
+    province_id: NU
+    id:          E323
+    name:        Irgoli
+    latitude:    40.411574
+    longitude:   9.631574
+  irma:
+    province_id: BS
+    id:          E325
+    name:        Irma
+    latitude:    45.771186
+    longitude:   10.284988
+  irsina:
+    province_id: MT
+    id:          E326
+    name:        Irsina
+    latitude:    40.748567
+    longitude:   16.239464
+  isasca:
+    province_id: CN
+    id:          E327
+    name:        Isasca
+    latitude:    44.587438
+    longitude:   7.38086
+  isca_sullo_ionio:
+    province_id: CZ
+    id:          E328
+    name:        'Isca sullo Ionio'
+    latitude:    38.60087
+    longitude:   16.516071
+  ischia:
+    province_id: NA
+    id:          E329
+    name:        Ischia
+    latitude:    40.735333
+    longitude:   13.948148
+  ischia_di_castro:
+    province_id: VT
+    id:          E330
+    name:        'Ischia di Castro'
+    latitude:    42.545
+    longitude:   11.75737
+  ischitella:
+    province_id: FG
+    id:          E332
+    name:        Ischitella
+    latitude:    41.904932
+    longitude:   15.900233
+  iseo:
+    province_id: BS
+    id:          E333
+    name:        Iseo
+    latitude:    45.659518
+    longitude:   10.047464
+  isera:
+    province_id: TN
+    id:          E334
+    name:        Isera
+    latitude:    45.888611
+    longitude:   11.010333
+  isernia:
+    province_id: IS
+    id:          E335
+    name:        Isernia
+    latitude:    41.594333
+    longitude:   14.230828
+  isili:
+    province_id: CA
+    id:          E336
+    name:        Isili
+    latitude:    39.740104
+    longitude:   9.107762
+  isnello:
+    province_id: PA
+    id:          E337
+    name:        Isnello
+    latitude:    37.944686
+    longitude:   14.006614
+  isola_d_asti:
+    province_id: AT
+    id:          E338
+    name:        'Isola D''Asti'
+    latitude:    44.829108
+    longitude:   8.177766
+  isola_di_capo_rizzuto:
+    province_id: KR
+    id:          E339
+    name:        'Isola di Capo Rizzuto'
+    latitude:    38.961111
+    longitude:   17.094241
+  isola_del_liri:
+    province_id: FR
+    id:          E340
+    name:        'Isola del Liri'
+    latitude:    41.678552
+    longitude:   13.574071
+  isola_del_cantone:
+    province_id: GE
+    id:          E341
+    name:        'Isola del Cantone'
+    latitude:    44.646567
+    longitude:   8.956822
+  madesimo:
+    province_id: SO
+    id:          E342
+    name:        Madesimo
+    latitude:    46.436953
+    longitude:   9.359472
+  isola_del_gran_sasso_d_italia:
+    province_id: TE
+    id:          E343
+    name:        'Isola del Gran Sasso D''Italia'
+    latitude:    42.502517
+    longitude:   13.660914
+  isolabella:
+    province_id: TO
+    id:          E345
+    name:        Isolabella
+    latitude:    44.907518
+    longitude:   7.910167
+  isolabona:
+    province_id: IM
+    id:          E346
+    name:        Isolabona
+    latitude:    43.880648
+    longitude:   7.640371
+  isola_del_giglio:
+    province_id: GR
+    id:          E348
+    name:        'Isola del Giglio'
+    latitude:    42.365614
+    longitude:   10.901525
+  isola_della_scala:
+    province_id: VR
+    id:          E349
+    name:        'Isola della Scala'
+    latitude:    45.273555
+    longitude:   11.008834
+  isola_delle_femmine:
+    province_id: PA
+    id:          E350
+    name:        'Isola delle Femmine'
+    latitude:    38.194537
+    longitude:   13.24987
+  isola_del_piano:
+    province_id: PU
+    id:          E351
+    name:        'Isola del Piano'
+    latitude:    43.737923
+    longitude:   12.784307
+  isola_di_fondra:
+    province_id: BG
+    id:          E353
+    name:        'Isola di Fondra'
+    latitude:    45.979537
+    longitude:   9.748444
+  isola_vicentina:
+    province_id: VI
+    id:          E354
+    name:        'Isola Vicentina'
+    latitude:    45.629234
+    longitude:   11.44372
+  isola_dovarese:
+    province_id: CR
+    id:          E356
+    name:        'Isola Dovarese'
+    latitude:    45.175333
+    longitude:   10.312204
+  isola_rizza:
+    province_id: VR
+    id:          E358
+    name:        'Isola Rizza'
+    latitude:    45.293296
+    longitude:   11.2
+  isola_sant_antonio:
+    province_id: AL
+    id:          E360
+    name:        'Isola Sant''Antonio'
+    latitude:    45.030705
+    longitude:   8.850178
+  isole_tremiti:
+    province_id: FG
+    id:          E363
+    name:        'Isole Tremiti'
+    latitude:    42.114804
+    longitude:   15.491094
+  isorella:
+    province_id: BS
+    id:          E364
+    name:        Isorella
+    latitude:    45.309222
+    longitude:   10.323463
+  ispani:
+    province_id: SA
+    id:          E365
+    name:        Ispani
+    latitude:    40.088031
+    longitude:   15.558122
+  ispica:
+    province_id: RG
+    id:          E366
+    name:        Ispica
+    latitude:    36.785648
+    longitude:   14.907204
+  ispra:
+    province_id: VA
+    id:          E367
+    name:        Ispra
+    latitude:    45.815061
+    longitude:   8.609953
+  issiglio:
+    province_id: TO
+    id:          E368
+    name:        Issiglio
+    latitude:    45.446331
+    longitude:   7.755256
+  issime:
+    province_id: AO
+    id:          E369
+    name:        Issime
+    latitude:    45.68657
+    longitude:   7.853888
+  isso:
+    province_id: BG
+    id:          E370
+    name:        Isso
+    latitude:    45.476859
+    longitude:   9.757708
+  issogne:
+    province_id: AO
+    id:          E371
+    name:        Issogne
+    latitude:    45.654741
+    longitude:   7.686416
+  vasto:
+    province_id: CH
+    id:          E372
+    name:        Vasto
+    latitude:    42.112706
+    longitude:   14.709621
+  istrana:
+    province_id: TV
+    id:          E373
+    name:        Istrana
+    latitude:    45.677833
+    longitude:   12.104241
+  itala:
+    province_id: ME
+    id:          E374
+    name:        Itala
+    latitude:    38.051055
+    longitude:   15.436934
+  itri:
+    province_id: LT
+    id:          E375
+    name:        Itri
+    latitude:    41.290333
+    longitude:   13.527352
+  ittireddu:
+    province_id: SS
+    id:          E376
+    name:        Ittireddu
+    latitude:    40.544994
+    longitude:   8.903461
+  ittiri:
+    province_id: SS
+    id:          E377
+    name:        Ittiri
+    latitude:    40.593907
+    longitude:   8.569556
+  ivano_fracena:
+    province_id: TN
+    id:          E378
+    name:        Ivano-Fracena
+    latitude:    46.057751
+    longitude:   11.531658
+  ivrea:
+    province_id: TO
+    id:          E379
+    name:        Ivrea
+    latitude:    45.466605
+    longitude:   7.875945
+  izano:
+    province_id: CR
+    id:          E380
+    name:        Izano
+    latitude:    45.357056
+    longitude:   9.751259
+  jelsi:
+    province_id: CB
+    id:          E381
+    name:        Jelsi
+    latitude:    41.518907
+    longitude:   14.799704
+  jenne:
+    province_id: RM
+    id:          E382
+    name:        Jenne
+    latitude:    41.889852
+    longitude:   13.170648
+  jerago_con_orago:
+    province_id: VA
+    id:          E386
+    name:        'Jerago con Orago'
+    latitude:    45.703173
+    longitude:   8.800982
+  jerzu:
+    province_id: OG
+    id:          E387
+    name:        Jerzu
+    latitude:    39.79237
+    longitude:   9.518214
+  jesi:
+    province_id: AN
+    id:          E388
+    name:        Jesi
+    latitude:    43.522435
+    longitude:   13.243386
+  joppolo:
+    province_id: VV
+    id:          E389
+    name:        Joppolo
+    latitude:    38.586089
+    longitude:   15.895612
+  joppolo_giancaxio:
+    province_id: AG
+    id:          E390
+    name:        'Joppolo Giancaxio'
+    latitude:    37.387581
+    longitude:   13.555655
+  jovencan:
+    province_id: AO
+    id:          E391
+    name:        Jovencan
+    latitude:    45.715963
+    longitude:   7.273759
