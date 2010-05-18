@@ -1,235 +1,235 @@
 City:
   City_eboli:
     Province:  ProvinceSA
-    code:      D390
+    id:        D390
     name:      Eboli
     latitude:  40.615333
     longitude: 15.058759
   City_edolo:
     Province:  ProvinceBS
-    code:      D391
+    id:        D391
     name:      Edolo
     latitude:  46.179241
     longitude: 10.330333
   City_egna:
     Province:  ProvinceBZ
-    code:      D392
+    id:        D392
     name:      Egna
     latitude:  46.317815
     longitude: 11.273778
   City_elice:
     Province:  ProvincePE
-    code:      D394
+    id:        D394
     name:      Elice
     latitude:  42.521407
     longitude: 13.970333
   City_elini:
     Province:  ProvinceOG
-    code:      D395
+    id:        D395
     name:      Elini
     latitude:  39.900754
     longitude: 9.531276
   City_ello:
     Province:  ProvinceLC
-    code:      D398
+    id:        D398
     name:      Ello
     latitude:  45.786741
     longitude: 9.366407
   City_elmas:
     Province:  ProvinceCA
-    code:      D399
+    id:        D399
     name:      Elmas
     latitude:  39.267525
     longitude: 9.049545
   City_elva:
     Province:  ProvinceCN
-    code:      D401
+    id:        D401
     name:      Elva
     latitude:  44.539875
     longitude: 7.089808
   City_emarese:
     Province:  ProvinceAO
-    code:      D402
+    id:        D402
     name:      Emarese
     latitude:  45.725974
     longitude: 7.687691
   City_empoli:
     Province:  ProvinceFI
-    code:      D403
+    id:        D403
     name:      Empoli
     latitude:  43.718611
     longitude: 10.942518
   City_endine_gaiano:
     Province:  ProvinceBG
-    code:      D406
+    id:        D406
     name:      'Endine Gaiano'
     latitude:  45.793444
     longitude: 9.970167
   City_enego:
     Province:  ProvinceVI
-    code:      D407
+    id:        D407
     name:      Enego
     latitude:  45.9425
     longitude: 11.706574
   City_enemonzo:
     Province:  ProvinceUD
-    code:      D408
+    id:        D408
     name:      Enemonzo
     latitude:  46.41
     longitude: 12.87737
   City_entracque:
     Province:  ProvinceCN
-    code:      D410
+    id:        D410
     name:      Entracque
     latitude:  44.240588
     longitude: 7.397581
   City_entratico:
     Province:  ProvinceBG
-    code:      D411
+    id:        D411
     name:      Entratico
     latitude:  45.708759
     longitude: 9.874222
   City_envie:
     Province:  ProvinceCN
-    code:      D412
+    id:        D412
     name:      Envie
     latitude:  44.683296
     longitude: 7.37237
   City_episcopia:
     Province:  ProvincePZ
-    code:      D414
+    id:        D414
     name:      Episcopia
     latitude:  40.075963
     longitude: 16.099074
   City_eraclea:
     Province:  ProvinceVE
-    code:      D415
+    id:        D415
     name:      Eraclea
     latitude:  45.57858
     longitude: 12.678104
   City_erba:
     Province:  ProvinceCO
-    code:      D416
+    id:        D416
     name:      Erba
     latitude:  45.812211
     longitude: 9.223979
   City_erbe:
     Province:  ProvinceVR
-    code:      D419
+    id:        D419
     name:      Erbè
     latitude:  45.242518
     longitude: 10.970333
   City_erbezzo:
     Province:  ProvinceVR
-    code:      D420
+    id:        D420
     name:      Erbezzo
     latitude:  45.641407
     longitude: 11.001722
   City_erbusco:
     Province:  ProvinceBS
-    code:      D421
+    id:        D421
     name:      Erbusco
     latitude:  45.597418
     longitude: 9.971828
   City_erchie:
     Province:  ProvinceBR
-    code:      D422
+    id:        D422
     name:      Erchie
     latitude:  40.439076
     longitude: 17.731399
   City_erice:
     Province:  ProvinceTP
-    code:      D423
+    id:        D423
     name:      Erice
     latitude:  38.036517
     longitude: 12.583611
   City_erli:
     Province:  ProvinceSV
-    code:      D424
+    id:        D424
     name:      Erli
     latitude:  44.136481
     longitude: 8.10365
   City_erto_e_casso:
     Province:  ProvincePN
-    code:      D426
+    id:        D426
     name:      'Erto e Casso'
     latitude:  46.277833
     longitude: 12.373148
   City_erve:
     Province:  ProvinceLC
-    code:      D428
+    id:        D428
     name:      Erve
     latitude:  45.822348
     longitude: 9.453338
   City_esanatoglia:
     Province:  ProvinceMC
-    code:      D429
+    id:        D429
     name:      Esanatoglia
     latitude:  43.252888
     longitude: 12.950252
   City_escalaplano:
     Province:  ProvinceCA
-    code:      D430
+    id:        D430
     name:      Escalaplano
     latitude:  39.627829
     longitude: 9.358112
   City_escolca:
     Province:  ProvinceCA
-    code:      D431
+    id:        D431
     name:      Escolca
     latitude:  39.699537
     longitude: 9.1225
   City_exilles:
     Province:  ProvinceTO
-    code:      D433
+    id:        D433
     name:      Exilles
     latitude:  45.098611
     longitude: 6.930315
   City_esine:
     Province:  ProvinceBS
-    code:      D434
+    id:        D434
     name:      Esine
     latitude:  45.925427
     longitude: 10.250954
   City_esino_lario:
     Province:  ProvinceLC
-    code:      D436
+    id:        D436
     name:      'Esino Lario'
     latitude:  45.995341
     longitude: 9.33595
   City_esperia:
     Province:  ProvinceFR
-    code:      D440
+    id:        D440
     name:      Esperia
     latitude:  41.384974
     longitude: 13.684714
   City_esporlatu:
     Province:  ProvinceSS
-    code:      D441
+    id:        D441
     name:      Esporlatu
     latitude:  40.38563
     longitude: 8.990963
   City_este:
     Province:  ProvincePD
-    code:      D442
+    id:        D442
     name:      Este
     latitude:  45.227638
     longitude: 11.656559
   City_esterzili:
     Province:  ProvinceCA
-    code:      D443
+    id:        D443
     name:      Esterzili
     latitude:  39.780333
     longitude: 9.285796
   City_etroubles:
     Province:  ProvinceAO
-    code:      D444
+    id:        D444
     name:      Etroubles
     latitude:  45.821574
     longitude: 7.230481
   City_eupilio:
     Province:  ProvinceCO
-    code:      D445
+    id:        D445
     name:      Eupilio
     latitude:  45.819058
     longitude: 9.270945

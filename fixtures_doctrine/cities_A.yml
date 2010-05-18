@@ -1,2665 +1,2665 @@
 City:
   City_abano_terme:
     Province:  ProvincePD
-    code:    A001
-    name:    'Abano Terme'
+    id:        A001
+    name:      'Abano Terme'
     latitude:  45.360542
     longitude: 11.789381
   City_abbadia_cerreto:
     Province:  ProvinceLO
-    code:    A004
-    name:    'Abbadia Cerreto'
+    id:        A004
+    name:      'Abbadia Cerreto'
     latitude:  45.31279
     longitude: 9.595495
   City_abbadia_lariana:
     Province:  ProvinceLC
-    code:    A005
-    name:    'Abbadia Lariana'
+    id:        A005
+    name:      'Abbadia Lariana'
     latitude:  45.900509
     longitude: 9.334459
   City_abbadia_san_salvatore:
     Province:  ProvinceSI
-    code:    A006
-    name:    'Abbadia San Salvatore'
+    id:        A006
+    name:      'Abbadia San Salvatore'
     latitude:  42.88313
     longitude: 11.670648
   City_abbasanta:
     Province:  ProvinceOR
-    code:    A007
-    name:    Abbasanta
+    id:        A007
+    name:      Abbasanta
     latitude:  40.127815
     longitude: 8.819074
   City_abbateggio:
     Province:  ProvincePE
-    code:    A008
-    name:    Abbateggio
+    id:        A008
+    name:      Abbateggio
     latitude:  42.224515
     longitude: 14.013646
   City_abbiategrasso:
     Province:  ProvinceMI
-    code:    A010
-    name:    Abbiategrasso
+    id:        A010
+    name:      Abbiategrasso
     latitude:  45.393034
     longitude: 8.919825
   City_abetone:
     Province:  ProvincePT
-    code:    A012
-    name:    Abetone
+    id:        A012
+    name:      Abetone
     latitude:  44.145642
     longitude: 10.664979
   City_abriola:
     Province:  ProvincePZ
-    code:    A013
-    name:    Abriola
+    id:        A013
+    name:      Abriola
     latitude:  40.508072
     longitude: 15.813747
   City_acate:
     Province:  ProvinceRG
-    code:    A014
-    name:    Acate
+    id:        A014
+    name:      Acate
     latitude:  37.026278
     longitude: 14.493926
   City_accadia:
     Province:  ProvinceFG
-    code:    A015
-    name:    Accadia
+    id:        A015
+    name:      Accadia
     latitude:  41.159506
     longitude: 15.329638
   City_acceglio:
     Province:  ProvinceCN
-    code:    A016
-    name:    Acceglio
+    id:        A016
+    name:      Acceglio
     latitude:  44.475173
     longitude: 6.99071
   City_accettura:
     Province:  ProvinceMT
-    code:    A017
-    name:    Accettura
+    id:        A017
+    name:      Accettura
     latitude:  40.492037
     longitude: 16.158926
   City_acciano:
     Province:  ProvinceAQ
-    code:    A018
-    name:    Acciano
+    id:        A018
+    name:      Acciano
     latitude:  42.176416
     longitude: 13.716908
   City_accumoli:
     Province:  ProvinceRI
-    code:    A019
-    name:    Accumoli
+    id:        A019
+    name:      Accumoli
     latitude:  42.695167
     longitude: 13.248778
   City_acerenza:
     Province:  ProvincePZ
-    code:    A020
-    name:    Acerenza
+    id:        A020
+    name:      Acerenza
     latitude:  40.793128
     longitude: 15.937513
   City_cermes:
     Province:  ProvinceBZ
-    code:    A022
-    name:    Cermes
+    id:        A022
+    name:      Cermes
     latitude:  46.634261
     longitude: 11.148936
   City_acerno:
     Province:  ProvinceSA
-    code:    A023
-    name:    Acerno
+    id:        A023
+    name:      Acerno
     latitude:  40.738759
     longitude: 15.057815
   City_acerra:
     Province:  ProvinceNA
-    code:    A024
-    name:    Acerra
+    id:        A024
+    name:      Acerra
     latitude:  40.951722
     longitude: 14.377204
   City_aci_bonaccorsi:
     Province:  ProvinceCT
-    code:    A025
-    name:    'Aci Bonaccorsi'
+    id:        A025
+    name:      'Aci Bonaccorsi'
     latitude:  37.598472
     longitude: 15.108115
   City_aci_castello:
     Province:  ProvinceCT
-    code:    A026
-    name:    'Aci Castello'
+    id:        A026
+    name:      'Aci Castello'
     latitude:  37.555614
     longitude: 15.146544
   City_aci_catena:
     Province:  ProvinceCT
-    code:    A027
-    name:    'Aci Catena'
+    id:        A027
+    name:      'Aci Catena'
     latitude:  37.606667
     longitude: 15.142054
   City_acireale:
     Province:  ProvinceCT
-    code:    A028
-    name:    Acireale
+    id:        A028
+    name:      Acireale
     latitude:  37.612877
     longitude: 15.165768
   City_aci_sant_antonio:
     Province:  ProvinceCT
-    code:    A029
-    name:    'Aci Sant''Antonio'
+    id:        A029
+    name:      'Aci Sant''Antonio'
     latitude:  37.606527
     longitude: 15.126136
   City_acquacanina:
     Province:  ProvinceMC
-    code:    A031
-    name:    Acquacanina
+    id:        A031
+    name:      Acquacanina
     latitude:  43.030523
     longitude: 13.175598
   City_acquafondata:
     Province:  ProvinceFR
-    code:    A032
-    name:    Acquafondata
+    id:        A032
+    name:      Acquafondata
     latitude:  41.543926
     longitude: 13.953759
   City_acquaformosa:
     Province:  ProvinceCS
-    code:    A033
-    name:    Acquaformosa
+    id:        A033
+    name:      Acquaformosa
     latitude:  39.724241
     longitude: 16.090796
   City_acquafredda:
     Province:  ProvinceBS
-    code:    A034
-    name:    Acquafredda
+    id:        A034
+    name:      Acquafredda
     latitude:  45.306205
     longitude: 10.415578
   City_acqualagna:
     Province:  ProvincePU
-    code:    A035
-    name:    Acqualagna
+    id:        A035
+    name:      Acqualagna
     latitude:  43.613463
     longitude: 12.674556
   City_acquanegra_sul_chiese:
     Province:  ProvinceMN
-    code:    A038
-    name:    'Acquanegra sul Chiese'
+    id:        A038
+    name:      'Acquanegra sul Chiese'
     latitude:  45.163444
     longitude: 10.435796
   City_acquanegra_cremonese:
     Province:  ProvinceCR
-    code:    A039
-    name:    'Acquanegra Cremonese'
+    id:        A039
+    name:      'Acquanegra Cremonese'
     latitude:  45.168271
     longitude: 9.890046
   City_acquapendente:
     Province:  ProvinceVT
-    code:    A040
-    name:    Acquapendente
+    id:        A040
+    name:      Acquapendente
     latitude:  42.744847
     longitude: 11.865162
   City_acquappesa:
     Province:  ProvinceCS
-    code:    A041
-    name:    Acquappesa
+    id:        A041
+    name:      Acquappesa
     latitude:  39.495079
     longitude: 15.95353
   City_acquarica_del_capo:
     Province:  ProvinceLE
-    code:    A042
-    name:    'Acquarica del Capo'
+    id:        A042
+    name:      'Acquarica del Capo'
     latitude:  39.912204
     longitude: 18.246259
   City_acquaro:
     Province:  ProvinceVV
-    code:    A043
-    name:    Acquaro
+    id:        A043
+    name:      Acquaro
     latitude:  38.555963
     longitude: 16.188148
   City_acquasanta_terme:
     Province:  ProvinceAP
-    code:    A044
-    name:    'Acquasanta Terme'
+    id:        A044
+    name:      'Acquasanta Terme'
     latitude:  42.77077
     longitude: 13.411007
   City_acquasparta:
     Province:  ProvinceTR
-    code:    A045
-    name:    Acquasparta
+    id:        A045
+    name:      Acquasparta
     latitude:  42.691278
     longitude: 12.541111
   City_acquaviva_picena:
     Province:  ProvinceAP
-    code:    A047
-    name:    'Acquaviva Picena'
+    id:        A047
+    name:      'Acquaviva Picena'
     latitude:  42.944819
     longitude: 13.812462
   City_acquaviva_delle_fonti:
     Province:  ProvinceBA
-    code:    A048
-    name:    'Acquaviva delle Fonti'
+    id:        A048
+    name:      'Acquaviva delle Fonti'
     latitude:  40.898926
     longitude: 16.843463
   City_acquaviva_platani:
     Province:  ProvinceCL
-    code:    A049
-    name:    'Acquaviva Platani'
+    id:        A049
+    name:      'Acquaviva Platani'
     latitude:  37.572815
     longitude: 13.702518
   City_acquaviva_collecroce:
     Province:  ProvinceCB
-    code:    A050
-    name:    'Acquaviva Collecroce'
+    id:        A050
+    name:      'Acquaviva Collecroce'
     latitude:  41.867786
     longitude: 14.746744
   City_acquaviva_d_isernia:
     Province:  ProvinceIS
-    code:    A051
-    name:    'Acquaviva D''Isernia'
+    id:        A051
+    name:      'Acquaviva D''Isernia'
     latitude:  41.67313
     longitude: 14.149852
   City_acqui_terme:
     Province:  ProvinceAL
-    code:    A052
-    name:    'Acqui Terme'
+    id:        A052
+    name:      'Acqui Terme'
     latitude:  44.675527
     longitude: 8.470669
   City_acri:
     Province:  ProvinceCS
-    code:    A053
-    name:    Acri
+    id:        A053
+    name:      Acri
     latitude:  39.49101
     longitude: 16.386146
   City_acuto:
     Province:  ProvinceFR
-    code:    A054
-    name:    Acuto
+    id:        A054
+    name:      Acuto
     latitude:  41.7925
     longitude: 13.175315
   City_adelfia:
     Province:  ProvinceBA
-    code:    A055
-    name:    Adelfia
+    id:        A055
+    name:      Adelfia
     latitude:  41.003656
     longitude: 16.870685
   City_adrano:
     Province:  ProvinceCT
-    code:    A056
-    name:    Adrano
+    id:        A056
+    name:      Adrano
     latitude:  37.662815
     longitude: 14.83563
   City_adrara_san_martino:
     Province:  ProvinceBG
-    code:    A057
-    name:    'Adrara San Martino'
+    id:        A057
+    name:      'Adrara San Martino'
     latitude:  45.69953
     longitude: 9.947649
   City_adrara_san_rocco:
     Province:  ProvinceBG
-    code:    A058
-    name:    'Adrara San Rocco'
+    id:        A058
+    name:      'Adrara San Rocco'
     latitude:  45.716722
     longitude: 9.960167
   City_adria:
     Province:  ProvinceRO
-    code:    A059
-    name:    Adria
+    id:        A059
+    name:      Adria
     latitude:  45.057518
     longitude: 12.055944
   City_adro:
     Province:  ProvinceBS
-    code:    A060
-    name:    Adro
+    id:        A060
+    name:      Adro
     latitude:  45.621823
     longitude: 9.957437
   City_affi:
     Province:  ProvinceVR
-    code:    A061
-    name:    Affi
+    id:        A061
+    name:      Affi
     latitude:  45.552931
     longitude: 10.778731
   City_affile:
     Province:  ProvinceRM
-    code:    A062
-    name:    Affile
+    id:        A062
+    name:      Affile
     latitude:  41.885124
     longitude: 13.097666
   City_afragola:
     Province:  ProvinceNA
-    code:    A064
-    name:    Afragola
+    id:        A064
+    name:      Afragola
     latitude:  40.921038
     longitude: 14.307217
   City_africo:
     Province:  ProvinceRC
-    code:    A065
-    name:    Africo
+    id:        A065
+    name:      Africo
     latitude:  38.051722
     longitude: 16.134074
   City_agazzano:
     Province:  ProvincePC
-    code:    A067
-    name:    Agazzano
+    id:        A067
+    name:      Agazzano
     latitude:  44.946741
     longitude: 9.519704
   City_agerola:
     Province:  ProvinceNA
-    code:    A068
-    name:    Agerola
+    id:        A068
+    name:      Agerola
     latitude:  40.638759
     longitude: 14.53987
   City_aggius:
     Province:  ProvinceOT
-    code:    A069
-    name:    Aggius
+    id:        A069
+    name:      Aggius
     latitude:  40.931399
     longitude: 9.067055
   City_agira:
     Province:  ProvinceEN
-    code:    A070
-    name:    Agira
+    id:        A070
+    name:      Agira
     latitude:  37.65737
     longitude: 14.522518
   City_agliana:
     Province:  ProvincePT
-    code:    A071
-    name:    Agliana
+    id:        A071
+    name:      Agliana
     latitude:  43.9075
     longitude: 11.00737
   City_agliano_terme:
     Province:  ProvinceAT
-    code:    A072
-    name:    'Agliano Terme'
+    id:        A072
+    name:      'Agliano Terme'
     latitude:  44.791466
     longitude: 8.249714
   City_aglie:
     Province:  ProvinceTO
-    code:    A074
-    name:    Agliè
+    id:        A074
+    name:      Agliè
     latitude:  45.368148
     longitude: 7.768148
   City_agna:
     Province:  ProvincePD
-    code:    A075
-    name:    Agna
+    id:        A075
+    name:      Agna
     latitude:  45.169747
     longitude: 11.960401
   City_agnadello:
     Province:  ProvinceCR
-    code:    A076
-    name:    Agnadello
+    id:        A076
+    name:      Agnadello
     latitude:  45.445315
     longitude: 9.55813
   City_agnana_calabra:
     Province:  ProvinceRC
-    code:    A077
-    name:    'Agnana Calabra'
+    id:        A077
+    name:      'Agnana Calabra'
     latitude:  38.303759
     longitude: 16.223759
   City_agnone:
     Province:  ProvinceIS
-    code:    A080
-    name:    Agnone
+    id:        A080
+    name:      Agnone
     latitude:  41.810481
     longitude: 14.378611
   City_villa_latina:
     Province:  ProvinceFR
-    code:    A081
-    name:    'Villa Latina'
+    id:        A081
+    name:      'Villa Latina'
     latitude:  41.615237
     longitude: 13.836572
   City_agnosine:
     Province:  ProvinceBS
-    code:    A082
-    name:    Agnosine
+    id:        A082
+    name:      Agnosine
     latitude:  45.650772
     longitude: 10.352113
   City_agordo:
     Province:  ProvinceBL
-    code:    A083
-    name:    Agordo
+    id:        A083
+    name:      Agordo
     latitude:  46.282317
     longitude: 12.03441
   City_agosta:
     Province:  ProvinceRM
-    code:    A084
-    name:    Agosta
+    id:        A084
+    name:      Agosta
     latitude:  41.98257
     longitude: 13.033799
   City_agra:
     Province:  ProvinceVA
-    code:    A085
-    name:    Agra
+    id:        A085
+    name:      Agra
     latitude:  46.033842
     longitude: 8.773068
   City_agrate_brianza:
     Province:  ProvinceMI
-    code:    A087
-    name:    'Agrate Brianza'
+    id:        A087
+    name:      'Agrate Brianza'
     latitude:  45.575548
     longitude: 9.351072
   City_agrate_conturbia:
     Province:  ProvinceNO
-    code:    A088
-    name:    'Agrate Conturbia'
+    id:        A088
+    name:      'Agrate Conturbia'
     latitude:  45.677404
     longitude: 8.558366
   City_agrigento:
     Province:  ProvinceAG
-    code:    A089
-    name:    Agrigento
+    id:        A089
+    name:      Agrigento
     latitude:  37.311114
     longitude: 13.57673
   City_agropoli:
     Province:  ProvinceSA
-    code:    A091
-    name:    Agropoli
+    id:        A091
+    name:      Agropoli
     latitude:  40.350583
     longitude: 14.989516
   City_agugliano:
     Province:  ProvinceAN
-    code:    A092
-    name:    Agugliano
+    id:        A092
+    name:      Agugliano
     latitude:  43.544537
     longitude: 13.390481
   City_agugliaro:
     Province:  ProvinceVI
-    code:    A093
-    name:    Agugliaro
+    id:        A093
+    name:      Agugliaro
     latitude:  45.326426
     longitude: 11.585333
   City_ayas:
     Province:  ProvinceAO
-    code:    A094
-    name:    Ayas
+    id:        A094
+    name:      Ayas
     latitude:  45.816115
     longitude: 7.690326
   City_aicurzio:
     Province:  ProvinceMI
-    code:    A096
-    name:    Aicurzio
+    id:        A096
+    name:      Aicurzio
     latitude:  45.641329
     longitude: 9.416164
   City_aidomaggiore:
     Province:  ProvinceOR
-    code:    A097
-    name:    Aidomaggiore
+    id:        A097
+    name:      Aidomaggiore
     latitude:  40.171889
     longitude: 8.8575
   City_aidone:
     Province:  ProvinceEN
-    code:    A098
-    name:    Aidone
+    id:        A098
+    name:      Aidone
     latitude:  37.417838
     longitude: 14.444257
   City_aielli:
     Province:  ProvinceAQ
-    code:    A100
-    name:    Aielli
+    id:        A100
+    name:      Aielli
     latitude:  42.081889
     longitude: 13.591574
   City_aiello_del_sabato:
     Province:  ProvinceAV
-    code:    A101
-    name:    'Aiello del Sabato'
+    id:        A101
+    name:      'Aiello del Sabato'
     latitude:  40.890167
     longitude: 14.821722
   City_aiello_calabro:
     Province:  ProvinceCS
-    code:    A102
-    name:    'Aiello Calabro'
+    id:        A102
+    name:      'Aiello Calabro'
     latitude:  39.117203
     longitude: 16.166851
   City_aiello_del_friuli:
     Province:  ProvinceUD
-    code:    A103
-    name:    'Aiello del Friuli'
+    id:        A103
+    name:      'Aiello del Friuli'
     latitude:  45.87218
     longitude: 13.364254
   City_aieta:
     Province:  ProvinceCS
-    code:    A105
-    name:    Aieta
+    id:        A105
+    name:      Aieta
     latitude:  39.928926
     longitude: 15.824389
   City_ailano:
     Province:  ProvinceCE
-    code:    A106
-    name:    Ailano
+    id:        A106
+    name:      Ailano
     latitude:  41.391407
     longitude: 14.205944
   City_ailoche:
     Province:  ProvinceBI
-    code:    A107
-    name:    Ailoche
+    id:        A107
+    name:      Ailoche
     latitude:  45.699764
     longitude: 8.222153
   City_aymavilles:
     Province:  ProvinceAO
-    code:    A108
-    name:    Aymavilles
+    id:        A108
+    name:      Aymavilles
     latitude:  45.702833
     longitude: 7.246722
   City_airasca:
     Province:  ProvinceTO
-    code:    A109
-    name:    Airasca
+    id:        A109
+    name:      Airasca
     latitude:  44.918156
     longitude: 7.48547
   City_airola:
     Province:  ProvinceBN
-    code:    A110
-    name:    Airola
+    id:        A110
+    name:      Airola
     latitude:  41.05958
     longitude: 14.555621
   City_airole:
     Province:  ProvinceIM
-    code:    A111
-    name:    Airole
+    id:        A111
+    name:      Airole
     latitude:  43.872055
     longitude: 7.555333
   City_airuno:
     Province:  ProvinceLC
-    code:    A112
-    name:    Airuno
+    id:        A112
+    name:      Airuno
     latitude:  45.754852
     longitude: 9.425315
   City_aisone:
     Province:  ProvinceCN
-    code:    A113
-    name:    Aisone
+    id:        A113
+    name:      Aisone
     latitude:  44.313492
     longitude: 7.219117
   City_ala_dei_sardi:
     Province:  ProvinceOT
-    code:    A115
-    name:    'Alà dei Sardi'
+    id:        A115
+    name:      'Alà dei Sardi'
     latitude:  40.651278
     longitude: 9.328926
   City_ala:
     Province:  ProvinceTN
-    code:    A116
-    name:    Ala
+    id:        A116
+    name:      Ala
     latitude:  45.757753
     longitude: 11.000256
   City_ala_di_stura:
     Province:  ProvinceTO
-    code:    A117
-    name:    'Ala di Stura'
+    id:        A117
+    name:      'Ala di Stura'
     latitude:  45.315385
     longitude: 7.302593
   City_alagna:
     Province:  ProvincePV
-    code:    A118
-    name:    Alagna
+    id:        A118
+    name:      Alagna
     latitude:  45.169343
     longitude: 8.890177
   City_alagna_valsesia:
     Province:  ProvinceVC
-    code:    A119
-    name:    'Alagna Valsesia'
+    id:        A119
+    name:      'Alagna Valsesia'
     latitude:  45.854245
     longitude: 7.937364
   City_alanno:
     Province:  ProvincePE
-    code:    A120
-    name:    Alanno
+    id:        A120
+    name:      Alanno
     latitude:  42.294949
     longitude: 13.971743
   City_alano_di_piave:
     Province:  ProvinceBL
-    code:    A121
-    name:    'Alano di Piave'
+    id:        A121
+    name:      'Alano di Piave'
     latitude:  45.907832
     longitude: 11.909544
   City_alassio:
     Province:  ProvinceSV
-    code:    A122
-    name:    Alassio
+    id:        A122
+    name:      Alassio
     latitude:  44.00267
     longitude: 8.166939
   City_alatri:
     Province:  ProvinceFR
-    code:    A123
-    name:    Alatri
+    id:        A123
+    name:      Alatri
     latitude:  41.726495
     longitude: 13.34211
   City_alba:
     Province:  ProvinceCN
-    code:    A124
-    name:    Alba
+    id:        A124
+    name:      Alba
     latitude:  44.700862
     longitude: 8.035259
   City_alba_adriatica:
     Province:  ProvinceTE
-    code:    A125
-    name:    'Alba Adriatica'
+    id:        A125
+    name:      'Alba Adriatica'
     latitude:  42.831834
     longitude: 13.926037
   City_albagiara:
     Province:  ProvinceOR
-    code:    A126
-    name:    Albagiara
+    id:        A126
+    name:      Albagiara
     latitude:  39.788759
     longitude: 8.863148
   City_albairate:
     Province:  ProvinceMI
-    code:    A127
-    name:    Albairate
+    id:        A127
+    name:      Albairate
     latitude:  45.419605
     longitude: 8.935588
   City_albanella:
     Province:  ProvinceSA
-    code:    A128
-    name:    Albanella
+    id:        A128
+    name:      Albanella
     latitude:  40.480018
     longitude: 15.117204
   City_albano_sant_alessandro:
     Province:  ProvinceBG
-    code:    A129
-    name:    'Albano Sant''Alessandro'
+    id:        A129
+    name:      'Albano Sant''Alessandro'
     latitude:  45.687519
     longitude: 9.771711
   City_albano_vercellese:
     Province:  ProvinceVC
-    code:    A130
-    name:    'Albano Vercellese'
+    id:        A130
+    name:      'Albano Vercellese'
     latitude:  45.427204
     longitude: 8.380736
   City_albano_di_lucania:
     Province:  ProvincePZ
-    code:    A131
-    name:    'Albano di Lucania'
+    id:        A131
+    name:      'Albano di Lucania'
     latitude:  40.58563
     longitude: 16.037037
   City_albano_laziale:
     Province:  ProvinceRM
-    code:    A132
-    name:    'Albano Laziale'
+    id:        A132
+    name:      'Albano Laziale'
     latitude:  41.728484
     longitude: 12.66084
   City_albaredo_arnaboldi:
     Province:  ProvincePV
-    code:    A134
-    name:    'Albaredo Arnaboldi'
+    id:        A134
+    name:      'Albaredo Arnaboldi'
     latitude:  45.107051
     longitude: 9.242821
   City_albaredo_per_san_marco:
     Province:  ProvinceSO
-    code:    A135
-    name:    'Albaredo per San Marco'
+    id:        A135
+    name:      'Albaredo per San Marco'
     latitude:  46.100886
     longitude: 9.592581
   City_albaredo_d_adige:
     Province:  ProvinceVR
-    code:    A137
-    name:    'Albaredo D''Adige'
+    id:        A137
+    name:      'Albaredo D''Adige'
     latitude:  45.317903
     longitude: 11.275303
   City_albareto:
     Province:  ProvincePR
-    code:    A138
-    name:    Albareto
+    id:        A138
+    name:      Albareto
     latitude:  44.4475
     longitude: 9.701111
   City_albaretto_della_torre:
     Province:  ProvinceCN
-    code:    A139
-    name:    'Albaretto della Torre'
+    id:        A139
+    name:      'Albaretto della Torre'
     latitude:  44.596811
     longitude: 8.064511
   City_albavilla:
     Province:  ProvinceCO
-    code:    A143
-    name:    Albavilla
+    id:        A143
+    name:      Albavilla
     latitude:  45.80144
     longitude: 9.186269
   City_albenga:
     Province:  ProvinceSV
-    code:    A145
-    name:    Albenga
+    id:        A145
+    name:      Albenga
     latitude:  44.04845
     longitude: 8.214959
   City_albera_ligure:
     Province:  ProvinceAL
-    code:    A146
-    name:    'Albera Ligure'
+    id:        A146
+    name:      'Albera Ligure'
     latitude:  44.703174
     longitude: 9.066029
   City_alberobello:
     Province:  ProvinceBA
-    code:    A149
-    name:    Alberobello
+    id:        A149
+    name:      Alberobello
     latitude:  40.786222
     longitude: 17.237602
   City_alberona:
     Province:  ProvinceFG
-    code:    A150
-    name:    Alberona
+    id:        A150
+    name:      Alberona
     latitude:  41.433759
     longitude: 15.123907
   City_albese_con_cassano:
     Province:  ProvinceCO
-    code:    A153
-    name:    'Albese con Cassano'
+    id:        A153
+    name:      'Albese con Cassano'
     latitude:  45.795963
     longitude: 9.16487
   City_albettone:
     Province:  ProvinceVI
-    code:    A154
-    name:    Albettone
+    id:        A154
+    name:      Albettone
     latitude:  45.357815
     longitude: 11.582815
   City_albi:
     Province:  ProvinceCZ
-    code:    A155
-    name:    Albi
+    id:        A155
+    name:      Albi
     latitude:  39.025018
     longitude: 16.59555
   City_albiano_d_ivrea:
     Province:  ProvinceTO
-    code:    A157
-    name:    'Albiano D''Ivrea'
+    id:        A157
+    name:      'Albiano D''Ivrea'
     latitude:  45.433907
     longitude: 7.951722
   City_albiano:
     Province:  ProvinceTN
-    code:    A158
-    name:    Albiano
+    id:        A158
+    name:      Albiano
     latitude:  46.145963
     longitude: 11.194537
   City_albiate:
     Province:  ProvinceMI
-    code:    A159
-    name:    Albiate
+    id:        A159
+    name:      Albiate
     latitude:  45.657385
     longitude: 9.252745
   City_albidona:
     Province:  ProvinceCS
-    code:    A160
-    name:    Albidona
+    id:        A160
+    name:      Albidona
     latitude:  39.923778
     longitude: 16.471111
   City_albignasego:
     Province:  ProvincePD
-    code:    A161
-    name:    Albignasego
+    id:        A161
+    name:      Albignasego
     latitude:  45.348444
     longitude: 11.868296
   City_albinea:
     Province:  ProvinceRE
-    code:    A162
-    name:    Albinea
+    id:        A162
+    name:      Albinea
     latitude:  44.60456
     longitude: 10.621974
   City_albino:
     Province:  ProvinceBG
-    code:    A163
-    name:    Albino
+    id:        A163
+    name:      Albino
     latitude:  45.758309
     longitude: 9.796855
   City_albiolo:
     Province:  ProvinceCO
-    code:    A164
-    name:    Albiolo
+    id:        A164
+    name:      Albiolo
     latitude:  45.806574
     longitude: 8.940315
   City_albissola_marina:
     Province:  ProvinceSV
-    code:    A165
-    name:    'Albissola Marina'
+    id:        A165
+    name:      'Albissola Marina'
     latitude:  44.327769
     longitude: 8.502571
   City_albisola_superiore:
     Province:  ProvinceSV
-    code:    A166
-    name:    'Albisola Superiore'
+    id:        A166
+    name:      'Albisola Superiore'
     latitude:  44.340963
     longitude: 8.510481
   City_albizzate:
     Province:  ProvinceVA
-    code:    A167
-    name:    Albizzate
+    id:        A167
+    name:      Albizzate
     latitude:  45.726826
     longitude: 8.802269
   City_albonese:
     Province:  ProvincePV
-    code:    A171
-    name:    Albonese
+    id:        A171
+    name:      Albonese
     latitude:  45.293392
     longitude: 8.708048
   City_albosaggia:
     Province:  ProvinceSO
-    code:    A172
-    name:    Albosaggia
+    id:        A172
+    name:      Albosaggia
     latitude:  46.148444
     longitude: 9.855167
   City_albugnano:
     Province:  ProvinceAT
-    code:    A173
-    name:    Albugnano
+    id:        A173
+    name:      Albugnano
     latitude:  45.077979
     longitude: 7.97125
   City_albuzzano:
     Province:  ProvincePV
-    code:    A175
-    name:    Albuzzano
+    id:        A175
+    name:      Albuzzano
     latitude:  45.186348
     longitude: 9.274096
   City_alcamo:
     Province:  ProvinceTP
-    code:    A176
-    name:    Alcamo
+    id:        A176
+    name:      Alcamo
     latitude:  37.980807
     longitude: 12.960209
   City_alcara_li_fusi:
     Province:  ProvinceME
-    code:    A177
-    name:    'Alcara Li Fusi'
+    id:        A177
+    name:      'Alcara Li Fusi'
     latitude:  38.02095
     longitude: 14.702641
   City_aldeno:
     Province:  ProvinceTN
-    code:    A178
-    name:    Aldeno
+    id:        A178
+    name:      Aldeno
     latitude:  45.979074
     longitude: 11.094556
   City_aldino:
     Province:  ProvinceBZ
-    code:    A179
-    name:    Aldino
+    id:        A179
+    name:      Aldino
     latitude:  46.367056
     longitude: 11.353926
   City_ales:
     Province:  ProvinceOR
-    code:    A180
-    name:    Ales
+    id:        A180
+    name:      Ales
     latitude:  39.769389
     longitude: 8.816741
   City_alessandria_della_rocca:
     Province:  ProvinceAG
-    code:    A181
-    name:    'Alessandria della Rocca'
+    id:        A181
+    name:      'Alessandria della Rocca'
     latitude:  37.5675
     longitude: 13.454222
   City_alessandria:
     Province:  ProvinceAL
-    code:    A182
-    name:    Alessandria
+    id:        A182
+    name:      Alessandria
     latitude:  44.913217
     longitude: 8.616951
   City_alessandria_del_carretto:
     Province:  ProvinceCS
-    code:    A183
-    name:    'Alessandria del Carretto'
+    id:        A183
+    name:      'Alessandria del Carretto'
     latitude:  39.959394
     longitude: 16.380936
   City_alessano:
     Province:  ProvinceLE
-    code:    A184
-    name:    Alessano
+    id:        A184
+    name:      Alessano
     latitude:  39.889696
     longitude: 18.331895
   City_alezio:
     Province:  ProvinceLE
-    code:    A185
-    name:    Alezio
+    id:        A185
+    name:      Alezio
     latitude:  40.062352
     longitude: 18.059074
   City_alfano:
     Province:  ProvinceSA
-    code:    A186
-    name:    Alfano
+    id:        A186
+    name:      Alfano
     latitude:  40.175727
     longitude: 15.424411
   City_alfedena:
     Province:  ProvinceAQ
-    code:    A187
-    name:    Alfedena
+    id:        A187
+    name:      Alfedena
     latitude:  41.734238
     longitude: 14.032533
   City_alfianello:
     Province:  ProvinceBS
-    code:    A188
-    name:    Alfianello
+    id:        A188
+    name:      Alfianello
     latitude:  45.267981
     longitude: 10.149222
   City_alfiano_natta:
     Province:  ProvinceAL
-    code:    A189
-    name:    'Alfiano Natta'
+    id:        A189
+    name:      'Alfiano Natta'
     latitude:  45.047588
     longitude: 8.208302
   City_alfonsine:
     Province:  ProvinceRA
-    code:    A191
-    name:    Alfonsine
+    id:        A191
+    name:      Alfonsine
     latitude:  44.506259
     longitude: 12.041426
   City_alghero:
     Province:  ProvinceSS
-    code:    A192
-    name:    Alghero
+    id:        A192
+    name:      Alghero
     latitude:  40.557981
     longitude: 8.322204
   City_algua:
     Province:  ProvinceBG
-    code:    A193
-    name:    Algua
+    id:        A193
+    name:      Algua
     latitude:  45.801663
     longitude: 9.743999
   City_ali:
     Province:  ProvinceME
-    code:    A194
-    name:    Alì
+    id:        A194
+    name:      Alì
     latitude:  38.026955
     longitude: 15.417002
   City_alia:
     Province:  ProvincePA
-    code:    A195
-    name:    Alia
+    id:        A195
+    name:      Alia
     latitude:  37.781111
     longitude: 13.71487
   City_aliano:
     Province:  ProvinceMT
-    code:    A196
-    name:    Aliano
+    id:        A196
+    name:      Aliano
     latitude:  40.313787
     longitude: 16.229853
   City_alice_bel_colle:
     Province:  ProvinceAL
-    code:    A197
-    name:    'Alice Bel Colle'
+    id:        A197
+    name:      'Alice Bel Colle'
     latitude:  44.727037
     longitude: 8.451889
   City_alice_castello:
     Province:  ProvinceVC
-    code:    A198
-    name:    'Alice Castello'
+    id:        A198
+    name:      'Alice Castello'
     latitude:  45.366278
     longitude: 8.074074
   City_alice_superiore:
     Province:  ProvinceTO
-    code:    A199
-    name:    'Alice Superiore'
+    id:        A199
+    name:      'Alice Superiore'
     latitude:  45.459864
     longitude: 7.777441
   City_alife:
     Province:  ProvinceCE
-    code:    A200
-    name:    Alife
+    id:        A200
+    name:      Alife
     latitude:  41.328485
     longitude: 14.330584
   City_ali_terme:
     Province:  ProvinceME
-    code:    A201
-    name:    'Alì Terme'
+    id:        A201
+    name:      'Alì Terme'
     latitude:  38.006278
     longitude: 15.423611
   City_alimena:
     Province:  ProvincePA
-    code:    A202
-    name:    Alimena
+    id:        A202
+    name:      Alimena
     latitude:  37.69487
     longitude: 14.114537
   City_aliminusa:
     Province:  ProvincePA
-    code:    A203
-    name:    Aliminusa
+    id:        A203
+    name:      Aliminusa
     latitude:  37.865
     longitude: 13.782204
   City_allai:
     Province:  ProvinceOR
-    code:    A204
-    name:    Allai
+    id:        A204
+    name:      Allai
     latitude:  39.957798
     longitude: 8.863792
   City_allein:
     Province:  ProvinceAO
-    code:    A205
-    name:    Allein
+    id:        A205
+    name:      Allein
     latitude:  45.808611
     longitude: 7.2725
   City_alleghe:
     Province:  ProvinceBL
-    code:    A206
-    name:    Alleghe
+    id:        A206
+    name:      Alleghe
     latitude:  46.407347
     longitude: 12.025321
   City_allerona:
     Province:  ProvinceTR
-    code:    A207
-    name:    Allerona
+    id:        A207
+    name:      Allerona
     latitude:  42.813112
     longitude: 11.974053
   City_alliste:
     Province:  ProvinceLE
-    code:    A208
-    name:    Alliste
+    id:        A208
+    name:      Alliste
     latitude:  39.949698
     longitude: 18.089705
   City_allumiere:
     Province:  ProvinceRM
-    code:    A210
-    name:    Allumiere
+    id:        A210
+    name:      Allumiere
     latitude:  42.15737
     longitude: 11.905018
   City_alluvioni_cambio:
     Province:  ProvinceAL
-    code:    A211
-    name:    'Alluvioni Cambiò'
+    id:        A211
+    name:      'Alluvioni Cambiò'
     latitude:  45.00237
     longitude: 8.796259
   City_alme:
     Province:  ProvinceBG
-    code:    A214
-    name:    Almè
+    id:        A214
+    name:      Almè
     latitude:  45.737056
     longitude: 9.615333
   City_villa_d_alme:
     Province:  ProvinceBG
-    code:    A215
-    name:    'Villa D''Almè'
+    id:        A215
+    name:      'Villa D''Almè'
     latitude:  45.750859
     longitude: 9.615855
   City_almenno_san_bartolomeo:
     Province:  ProvinceBG
-    code:    A216
-    name:    'Almenno San Bartolomeo'
+    id:        A216
+    name:      'Almenno San Bartolomeo'
     latitude:  45.748751
     longitude: 9.579699
   City_almenno_san_salvatore:
     Province:  ProvinceBG
-    code:    A217
-    name:    'Almenno San Salvatore'
+    id:        A217
+    name:      'Almenno San Salvatore'
     latitude:  45.751278
     longitude: 9.597352
   City_almese:
     Province:  ProvinceTO
-    code:    A218
-    name:    Almese
+    id:        A218
+    name:      Almese
     latitude:  45.116914
     longitude: 7.395387
   City_alonte:
     Province:  ProvinceVI
-    code:    A220
-    name:    Alonte
+    id:        A220
+    name:      Alonte
     latitude:  45.366889
     longitude: 11.42813
   City_alpette:
     Province:  ProvinceTO
-    code:    A221
-    name:    Alpette
+    id:        A221
+    name:      Alpette
     latitude:  45.41055
     longitude: 7.580774
   City_alpignano:
     Province:  ProvinceTO
-    code:    A222
-    name:    Alpignano
+    id:        A222
+    name:      Alpignano
     latitude:  45.094269
     longitude: 7.524406
   City_alseno:
     Province:  ProvincePC
-    code:    A223
-    name:    Alseno
+    id:        A223
+    name:      Alseno
     latitude:  44.896987
     longitude: 9.966562
   City_alserio:
     Province:  ProvinceCO
-    code:    A224
-    name:    Alserio
+    id:        A224
+    name:      Alserio
     latitude:  45.779852
     longitude: 9.201259
   City_altamura:
     Province:  ProvinceBA
-    code:    A225
-    name:    Altamura
+    id:        A225
+    name:      Altamura
     latitude:  40.830257
     longitude: 16.554523
   City_altare:
     Province:  ProvinceSV
-    code:    A226
-    name:    Altare
+    id:        A226
+    name:      Altare
     latitude:  44.335669
     longitude: 8.343714
   City_altavilla_monferrato:
     Province:  ProvinceAL
-    code:    A227
-    name:    'Altavilla Monferrato'
+    id:        A227
+    name:      'Altavilla Monferrato'
     latitude:  44.994537
     longitude: 8.377037
   City_altavilla_irpina:
     Province:  ProvinceAV
-    code:    A228
-    name:    'Altavilla Irpina'
+    id:        A228
+    name:      'Altavilla Irpina'
     latitude:  41.005534
     longitude: 14.778408
   City_altavilla_milicia:
     Province:  ProvincePA
-    code:    A229
-    name:    'Altavilla Milicia'
+    id:        A229
+    name:      'Altavilla Milicia'
     latitude:  38.042146
     longitude: 13.548875
   City_altavilla_silentina:
     Province:  ProvinceSA
-    code:    A230
-    name:    'Altavilla Silentina'
+    id:        A230
+    name:      'Altavilla Silentina'
     latitude:  40.529762
     longitude: 15.13125
   City_altavilla_vicentina:
     Province:  ProvinceVI
-    code:    A231
-    name:    'Altavilla Vicentina'
+    id:        A231
+    name:      'Altavilla Vicentina'
     latitude:  45.511935
     longitude: 11.460371
   City_altidona:
     Province:  ProvinceAP
-    code:    A233
-    name:    Altidona
+    id:        A233
+    name:      Altidona
     latitude:  43.10677
     longitude: 13.794289
   City_altilia:
     Province:  ProvinceCS
-    code:    A234
-    name:    Altilia
+    id:        A234
+    name:      Altilia
     latitude:  39.128694
     longitude: 16.253093
   City_altino:
     Province:  ProvinceCH
-    code:    A235
-    name:    Altino
+    id:        A235
+    name:      Altino
     latitude:  42.102414
     longitude: 14.330666
   City_altissimo:
     Province:  ProvinceVI
-    code:    A236
-    name:    Altissimo
+    id:        A236
+    name:      Altissimo
     latitude:  45.615397
     longitude: 11.252679
   City_altivole:
     Province:  ProvinceTV
-    code:    A237
-    name:    Altivole
+    id:        A237
+    name:      Altivole
     latitude:  45.754704
     longitude: 11.95737
   City_alto:
     Province:  ProvinceCN
-    code:    A238
-    name:    Alto
+    id:        A238
+    name:      Alto
     latitude:  44.10888
     longitude: 8.002788
   City_altofonte:
     Province:  ProvincePA
-    code:    A239
-    name:    Altofonte
+    id:        A239
+    name:      Altofonte
     latitude:  38.043023
     longitude: 13.297618
   City_altomonte:
     Province:  ProvinceCS
-    code:    A240
-    name:    Altomonte
+    id:        A240
+    name:      Altomonte
     latitude:  39.699302
     longitude: 16.131274
   City_altopascio:
     Province:  ProvinceLU
-    code:    A241
-    name:    Altopascio
+    id:        A241
+    name:      Altopascio
     latitude:  43.814484
     longitude: 10.674472
   City_alviano:
     Province:  ProvinceTR
-    code:    A242
-    name:    Alviano
+    id:        A242
+    name:      Alviano
     latitude:  42.588467
     longitude: 12.295694
   City_alvignano:
     Province:  ProvinceCE
-    code:    A243
-    name:    Alvignano
+    id:        A243
+    name:      Alvignano
     latitude:  41.251957
     longitude: 14.327115
   City_alvito:
     Province:  ProvinceFR
-    code:    A244
-    name:    Alvito
+    id:        A244
+    name:      Alvito
     latitude:  41.69194
     longitude: 13.741453
   City_alzano_scrivia:
     Province:  ProvinceAL
-    code:    A245
-    name:    'Alzano Scrivia'
+    id:        A245
+    name:      'Alzano Scrivia'
     latitude:  45.019074
     longitude: 8.881722
   City_alzano_lombardo:
     Province:  ProvinceBG
-    code:    A246
-    name:    'Alzano Lombardo'
+    id:        A246
+    name:      'Alzano Lombardo'
     latitude:  45.737091
     longitude: 9.737192
   City_alzate_brianza:
     Province:  ProvinceCO
-    code:    A249
-    name:    'Alzate Brianza'
+    id:        A249
+    name:      'Alzate Brianza'
     latitude:  45.770796
     longitude: 9.18313
   City_amalfi:
     Province:  ProvinceSA
-    code:    A251
-    name:    Amalfi
+    id:        A251
+    name:      Amalfi
     latitude:  40.634362
     longitude: 14.602572
   City_amandola:
     Province:  ProvinceAP
-    code:    A252
-    name:    Amandola
+    id:        A252
+    name:      Amandola
     latitude:  42.98087
     longitude: 13.361929
   City_amantea:
     Province:  ProvinceCS
-    code:    A253
-    name:    Amantea
+    id:        A253
+    name:      Amantea
     latitude:  39.134222
     longitude: 16.075481
   City_amaro:
     Province:  ProvinceUD
-    code:    A254
-    name:    Amaro
+    id:        A254
+    name:      Amaro
     latitude:  46.375167
     longitude: 13.096574
   City_amaroni:
     Province:  ProvinceCZ
-    code:    A255
-    name:    Amaroni
+    id:        A255
+    name:      Amaroni
     latitude:  38.794241
     longitude: 16.448907
   City_amaseno:
     Province:  ProvinceFR
-    code:    A256
-    name:    Amaseno
+    id:        A256
+    name:      Amaseno
     latitude:  41.468926
     longitude: 13.337056
   City_amato:
     Province:  ProvinceCZ
-    code:    A257
-    name:    Amato
+    id:        A257
+    name:      Amato
     latitude:  38.942815
     longitude: 16.463148
   City_amatrice:
     Province:  ProvinceRI
-    code:    A258
-    name:    Amatrice
+    id:        A258
+    name:      Amatrice
     latitude:  42.628615
     longitude: 13.290993
   City_ambivere:
     Province:  ProvinceBG
-    code:    A259
-    name:    Ambivere
+    id:        A259
+    name:      Ambivere
     latitude:  45.720695
     longitude: 9.550966
   City_amblar:
     Province:  ProvinceTN
-    code:    A260
-    name:    Amblar
+    id:        A260
+    name:      Amblar
     latitude:  46.395311
     longitude: 11.144262
   City_ameglia:
     Province:  ProvinceSP
-    code:    A261
-    name:    Ameglia
+    id:        A261
+    name:      Ameglia
     latitude:  44.068759
     longitude: 9.966259
   City_amelia:
     Province:  ProvinceTR
-    code:    A262
-    name:    Amelia
+    id:        A262
+    name:      Amelia
     latitude:  42.557174
     longitude: 12.413401
   City_amendolara:
     Province:  ProvinceCS
-    code:    A263
-    name:    Amendolara
+    id:        A263
+    name:      Amendolara
     latitude:  39.952995
     longitude: 16.582314
   City_ameno:
     Province:  ProvinceNO
-    code:    A264
-    name:    Ameno
+    id:        A264
+    name:      Ameno
     latitude:  45.789704
     longitude: 8.442037
   City_amorosi:
     Province:  ProvinceBN
-    code:    A265
-    name:    Amorosi
+    id:        A265
+    name:      Amorosi
     latitude:  41.204241
     longitude: 14.46487
   City_cortina_d_ampezzo:
     Province:  ProvinceBL
-    code:    A266
-    name:    'Cortina D''Ampezzo'
+    id:        A266
+    name:      'Cortina D''Ampezzo'
     latitude:  46.537383
     longitude: 12.138922
   City_ampezzo:
     Province:  ProvinceUD
-    code:    A267
-    name:    Ampezzo
+    id:        A267
+    name:      Ampezzo
     latitude:  46.416295
     longitude: 12.794606
   City_anacapri:
     Province:  ProvinceNA
-    code:    A268
-    name:    Anacapri
+    id:        A268
+    name:      Anacapri
     latitude:  40.555992
     longitude: 14.221241
   City_anagni:
     Province:  ProvinceFR
-    code:    A269
-    name:    Anagni
+    id:        A269
+    name:      Anagni
     latitude:  41.742235
     longitude: 13.158999
   City_ancarano:
     Province:  ProvinceTE
-    code:    A270
-    name:    Ancarano
+    id:        A270
+    name:      Ancarano
     latitude:  42.836979
     longitude: 13.740651
   City_ancona:
     Province:  ProvinceAN
-    code:    A271
-    name:    Ancona
+    id:        A271
+    name:      Ancona
     latitude:  43.615828
     longitude: 13.518945
   City_andali:
     Province:  ProvinceCZ
-    code:    A272
-    name:    Andali
+    id:        A272
+    name:      Andali
     latitude:  39.014546
     longitude: 16.769217
   City_andalo_valtellino:
     Province:  ProvinceSO
-    code:    A273
-    name:    'Andalo Valtellino'
+    id:        A273
+    name:      'Andalo Valtellino'
     latitude:  46.131971
     longitude: 9.475995
   City_andalo:
     Province:  ProvinceTN
-    code:    A274
-    name:    Andalo
+    id:        A274
+    name:      Andalo
     latitude:  46.166111
     longitude: 11.005167
   City_andezeno:
     Province:  ProvinceTO
-    code:    A275
-    name:    Andezeno
+    id:        A275
+    name:      Andezeno
     latitude:  45.037276
     longitude: 7.87314
   City_andora:
     Province:  ProvinceSV
-    code:    A278
-    name:    Andora
+    id:        A278
+    name:      Andora
     latitude:  43.952981
     longitude: 8.146722
   City_andorno_micca:
     Province:  ProvinceBI
-    code:    A280
-    name:    'Andorno Micca'
+    id:        A280
+    name:      'Andorno Micca'
     latitude:  45.612166
     longitude: 8.056297
   City_andrano:
     Province:  ProvinceLE
-    code:    A281
-    name:    Andrano
+    id:        A281
+    name:      Andrano
     latitude:  39.984222
     longitude: 18.383463
   City_andrate:
     Province:  ProvinceTO
-    code:    A282
-    name:    Andrate
+    id:        A282
+    name:      Andrate
     latitude:  45.528463
     longitude: 7.881407
   City_andreis:
     Province:  ProvincePN
-    code:    A283
-    name:    Andreis
+    id:        A283
+    name:      Andreis
     latitude:  46.201889
     longitude: 12.615018
   City_andretta:
     Province:  ProvinceAV
-    code:    A284
-    name:    Andretta
+    id:        A284
+    name:      Andretta
     latitude:  40.938444
     longitude: 15.325796
   City_andria:
     Province:  ProvinceBA
-    code:    A285
-    name:    Andria
+    id:        A285
+    name:      Andria
     latitude:  41.231688
     longitude: 16.29173
   City_andriano:
     Province:  ProvinceBZ
-    code:    A286
-    name:    Andriano
+    id:        A286
+    name:      Andriano
     latitude:  46.518611
     longitude: 11.232518
   City_anela:
     Province:  ProvinceSS
-    code:    A287
-    name:    Anela
+    id:        A287
+    name:      Anela
     latitude:  40.442751
     longitude: 9.056922
   City_anfo:
     Province:  ProvinceBS
-    code:    A288
-    name:    Anfo
+    id:        A288
+    name:      Anfo
     latitude:  45.767352
     longitude: 10.494852
   City_angera:
     Province:  ProvinceVA
-    code:    A290
-    name:    Angera
+    id:        A290
+    name:      Angera
     latitude:  45.773705
     longitude: 8.577835
   City_anghiari:
     Province:  ProvinceAR
-    code:    A291
-    name:    Anghiari
+    id:        A291
+    name:      Anghiari
     latitude:  43.541889
     longitude: 12.060648
   City_angiari:
     Province:  ProvinceVR
-    code:    A292
-    name:    Angiari
+    id:        A292
+    name:      Angiari
     latitude:  45.223753
     longitude: 11.278961
   City_angolo_terme:
     Province:  ProvinceBS
-    code:    A293
-    name:    'Angolo Terme'
+    id:        A293
+    name:      'Angolo Terme'
     latitude:  45.892168
     longitude: 10.144483
   City_angri:
     Province:  ProvinceSA
-    code:    A294
-    name:    Angri
+    id:        A294
+    name:      Angri
     latitude:  40.734474
     longitude: 14.571741
   City_angrogna:
     Province:  ProvinceTO
-    code:    A295
-    name:    Angrogna
+    id:        A295
+    name:      Angrogna
     latitude:  44.843809
     longitude: 7.224643
   City_anguillara_veneta:
     Province:  ProvincePD
-    code:    A296
-    name:    'Anguillara Veneta'
+    id:        A296
+    name:      'Anguillara Veneta'
     latitude:  45.139389
     longitude: 11.889038
   City_anguillara_sabazia:
     Province:  ProvinceRM
-    code:    A297
-    name:    'Anguillara Sabazia'
+    id:        A297
+    name:      'Anguillara Sabazia'
     latitude:  42.092644
     longitude: 12.269893
   City_annicco:
     Province:  ProvinceCR
-    code:    A299
-    name:    Annicco
+    id:        A299
+    name:      Annicco
     latitude:  45.245648
     longitude: 9.880648
   City_castello_di_annone:
     Province:  ProvinceAT
-    code:    A300
-    name:    'Castello di Annone'
+    id:        A300
+    name:      'Castello di Annone'
     latitude:  44.879244
     longitude: 8.313776
   City_annone_di_brianza:
     Province:  ProvinceLC
-    code:    A301
-    name:    'Annone di Brianza'
+    id:        A301
+    name:      'Annone di Brianza'
     latitude:  45.803926
     longitude: 9.331574
   City_annone_veneto:
     Province:  ProvinceVE
-    code:    A302
-    name:    'Annone Veneto'
+    id:        A302
+    name:      'Annone Veneto'
     latitude:  45.794099
     longitude: 12.683527
   City_anoia:
     Province:  ProvinceRC
-    code:    A303
-    name:    Anoia
+    id:        A303
+    name:      Anoia
     latitude:  38.436042
     longitude: 16.083046
   City_antegnate:
     Province:  ProvinceBG
-    code:    A304
-    name:    Antegnate
+    id:        A304
+    name:      Antegnate
     latitude:  45.487518
     longitude: 9.7925
   City_antey_saint_andre:
     Province:  ProvinceAO
-    code:    A305
-    name:    Antey-Saint-Andrè
+    id:        A305
+    name:      Antey-Saint-Andrè
     latitude:  45.807667
     longitude: 7.590018
   City_anterivo:
     Province:  ProvinceBZ
-    code:    A306
-    name:    Anterivo
+    id:        A306
+    name:      Anterivo
     latitude:  46.281147
     longitude: 11.367908
   City_la_magdeleine:
     Province:  ProvinceAO
-    code:    A308
-    name:    'La Magdeleine'
+    id:        A308
+    name:      'La Magdeleine'
     latitude:  45.811063
     longitude: 7.620169
   City_anticoli_corrado:
     Province:  ProvinceRM
-    code:    A309
-    name:    'Anticoli Corrado'
+    id:        A309
+    name:      'Anticoli Corrado'
     latitude:  42.009711
     longitude: 12.989007
   City_fiuggi:
     Province:  ProvinceFR
-    code:    A310
-    name:    Fiuggi
+    id:        A310
+    name:      Fiuggi
     latitude:  41.796736
     longitude: 13.22325
   City_antignano:
     Province:  ProvinceAT
-    code:    A312
-    name:    Antignano
+    id:        A312
+    name:      Antignano
     latitude:  44.844986
     longitude: 8.135851
   City_antillo:
     Province:  ProvinceME
-    code:    A313
-    name:    Antillo
+    id:        A313
+    name:      Antillo
     latitude:  37.976858
     longitude: 15.244293
   City_antonimina:
     Province:  ProvinceRC
-    code:    A314
-    name:    Antonimina
+    id:        A314
+    name:      Antonimina
     latitude:  38.272127
     longitude: 16.148805
   City_antrodoco:
     Province:  ProvinceRI
-    code:    A315
-    name:    Antrodoco
+    id:        A315
+    name:      Antrodoco
     latitude:  42.416066
     longitude: 13.081007
   City_antrona_schieranco:
     Province:  ProvinceVB
-    code:    A317
-    name:    'Antrona Schieranco'
+    id:        A317
+    name:      'Antrona Schieranco'
     latitude:  46.061194
     longitude: 8.115095
   City_anversa_degli_abruzzi:
     Province:  ProvinceAQ
-    code:    A318
-    name:    'Anversa degli Abruzzi'
+    id:        A318
+    name:      'Anversa degli Abruzzi'
     latitude:  41.994852
     longitude: 13.804852
   City_anzano_del_parco:
     Province:  ProvinceCO
-    code:    A319
-    name:    'Anzano del Parco'
+    id:        A319
+    name:      'Anzano del Parco'
     latitude:  45.769555
     longitude: 9.196574
   City_anzano_di_puglia:
     Province:  ProvinceFG
-    code:    A320
-    name:    'Anzano di Puglia'
+    id:        A320
+    name:      'Anzano di Puglia'
     latitude:  41.123676
     longitude: 15.284695
   City_anzi:
     Province:  ProvincePZ
-    code:    A321
-    name:    Anzi
+    id:        A321
+    name:      Anzi
     latitude:  40.517667
     longitude: 15.925481
   City_anzio:
     Province:  ProvinceRM
-    code:    A323
-    name:    Anzio
+    id:        A323
+    name:      Anzio
     latitude:  41.447947
     longitude: 12.629052
   City_anzola_dell_emilia:
     Province:  ProvinceBO
-    code:    A324
-    name:    'Anzola dell''Emilia'
+    id:        A324
+    name:      'Anzola dell''Emilia'
     latitude:  44.547352
     longitude: 11.19563
   City_anzola_d_ossola:
     Province:  ProvinceVB
-    code:    A325
-    name:    'Anzola D''Ossola'
+    id:        A325
+    name:      'Anzola D''Ossola'
     latitude:  45.990018
     longitude: 8.34563
   City_aosta:
     Province:  ProvinceAO
-    code:    A326
-    name:    Aosta
+    id:        A326
+    name:      Aosta
     latitude:  46.510601
     longitude: 13.530801
   City_apecchio:
     Province:  ProvincePU
-    code:    A327
-    name:    Apecchio
+    id:        A327
+    name:      Apecchio
     latitude:  43.559278
     longitude: 12.422035
   City_apice:
     Province:  ProvinceBN
-    code:    A328
-    name:    Apice
+    id:        A328
+    name:      Apice
     latitude:  41.121278
     longitude: 14.932055
   City_apiro:
     Province:  ProvinceMC
-    code:    A329
-    name:    Apiro
+    id:        A329
+    name:      Apiro
     latitude:  43.390977
     longitude: 13.131771
   City_apollosa:
     Province:  ProvinceBN
-    code:    A330
-    name:    Apollosa
+    id:        A330
+    name:      Apollosa
     latitude:  41.095167
     longitude: 14.706259
   City_appiano_sulla_strada_del_vino:
     Province:  ProvinceBZ
-    code:    A332
-    name:    'Appiano sulla Strada del Vino'
+    id:        A332
+    name:      'Appiano sulla Strada del Vino'
     latitude:  46.455775
     longitude: 11.258823
   City_appiano_gentile:
     Province:  ProvinceCO
-    code:    A333
-    name:    'Appiano Gentile'
+    id:        A333
+    name:      'Appiano Gentile'
     latitude:  45.738611
     longitude: 8.979852
   City_appignano:
     Province:  ProvinceMC
-    code:    A334
-    name:    Appignano
+    id:        A334
+    name:      Appignano
     latitude:  43.363759
     longitude: 13.348778
   City_appignano_del_tronto:
     Province:  ProvinceAP
-    code:    A335
-    name:    'Appignano del Tronto'
+    id:        A335
+    name:      'Appignano del Tronto'
     latitude:  42.899575
     longitude: 13.662339
   City_aprica:
     Province:  ProvinceSO
-    code:    A337
-    name:    Aprica
+    id:        A337
+    name:      Aprica
     latitude:  46.153778
     longitude: 10.152833
   City_apricale:
     Province:  ProvinceIM
-    code:    A338
-    name:    Apricale
+    id:        A338
+    name:      Apricale
     latitude:  43.880853
     longitude: 7.660807
   City_apricena:
     Province:  ProvinceFG
-    code:    A339
-    name:    Apricena
+    id:        A339
+    name:      Apricena
     latitude:  41.785018
     longitude: 15.444704
   City_aprigliano:
     Province:  ProvinceCS
-    code:    A340
-    name:    Aprigliano
+    id:        A340
+    name:      Aprigliano
     latitude:  39.239687
     longitude: 16.34064
   City_aprilia:
     Province:  ProvinceLT
-    code:    A341
-    name:    Aprilia
+    id:        A341
+    name:      Aprilia
     latitude:  41.590648
     longitude: 12.651111
   City_aquara:
     Province:  ProvinceSA
-    code:    A343
-    name:    Aquara
+    id:        A343
+    name:      Aquara
     latitude:  40.445018
     longitude: 15.25487
   City_aquila_di_arroscia:
     Province:  ProvinceIM
-    code:    A344
-    name:    'Aquila di Arroscia'
+    id:        A344
+    name:      'Aquila di Arroscia'
     latitude:  44.086776
     longitude: 8.006364
   City_l_aquila:
     Province:  ProvinceAQ
-    code:    A345
-    name:    'L''Aquila'
+    id:        A345
+    name:      'L''Aquila'
     latitude:  42.350698
     longitude: 13.399934
   City_aquileia:
     Province:  ProvinceUD
-    code:    A346
-    name:    Aquileia
+    id:        A346
+    name:      Aquileia
     latitude:  45.768299
     longitude: 13.364626
   City_aquilonia:
     Province:  ProvinceAV
-    code:    A347
-    name:    Aquilonia
+    id:        A347
+    name:      Aquilonia
     latitude:  40.987833
     longitude: 15.475315
   City_aquino:
     Province:  ProvinceFR
-    code:    A348
-    name:    Aquino
+    id:        A348
+    name:      Aquino
     latitude:  41.492204
     longitude: 13.70563
   City_aradeo:
     Province:  ProvinceLE
-    code:    A350
-    name:    Aradeo
+    id:        A350
+    name:      Aradeo
     latitude:  40.130886
     longitude: 18.131829
   City_aragona:
     Province:  ProvinceAG
-    code:    A351
-    name:    Aragona
+    id:        A351
+    name:      Aragona
     latitude:  37.403181
     longitude: 13.617838
   City_aramengo:
     Province:  ProvinceAT
-    code:    A352
-    name:    Aramengo
+    id:        A352
+    name:      Aramengo
     latitude:  45.10012
     longitude: 8.001092
   City_arba:
     Province:  ProvincePN
-    code:    A354
-    name:    Arba
+    id:        A354
+    name:      Arba
     latitude:  46.147815
     longitude: 12.791426
   City_tortoli:
     Province:  ProvinceOG
-    code:    A355
-    name:    Tortolì
+    id:        A355
+    name:      Tortolì
     latitude:  39.926636
     longitude: 9.657849
   City_arborea:
     Province:  ProvinceOR
-    code:    A357
-    name:    Arborea
+    id:        A357
+    name:      Arborea
     latitude:  39.774074
     longitude: 8.581407
   City_arborio:
     Province:  ProvinceVC
-    code:    A358
-    name:    Arborio
+    id:        A358
+    name:      Arborio
     latitude:  45.495944
     longitude: 8.386407
   City_arbus:
     Province:  ProvinceVS
-    code:    A359
-    name:    Arbus
+    id:        A359
+    name:      Arbus
     latitude:  39.527055
     longitude: 8.598926
   City_arcade:
     Province:  ProvinceTV
-    code:    A360
-    name:    Arcade
+    id:        A360
+    name:      Arcade
     latitude:  45.784537
     longitude: 12.222833
   City_arce:
     Province:  ProvinceFR
-    code:    A363
-    name:    Arce
+    id:        A363
+    name:      Arce
     latitude:  41.587667
     longitude: 13.574537
   City_arcene:
     Province:  ProvinceBG
-    code:    A365
-    name:    Arcene
+    id:        A365
+    name:      Arcene
     latitude:  45.576574
     longitude: 9.615167
   City_arcevia:
     Province:  ProvinceAN
-    code:    A366
-    name:    Arcevia
+    id:        A366
+    name:      Arcevia
     latitude:  43.50193
     longitude: 12.941784
   City_archi:
     Province:  ProvinceCH
-    code:    A367
-    name:    Archi
+    id:        A367
+    name:      Archi
     latitude:  42.090418
     longitude: 14.382181
   City_san_nicolo_d_arcidano:
     Province:  ProvinceOR
-    code:    A368
-    name:    'San Nicolò D''Arcidano'
+    id:        A368
+    name:      'San Nicolò D''Arcidano'
     latitude:  39.68396
     longitude: 8.645956
   City_arcidosso:
     Province:  ProvinceGR
-    code:    A369
-    name:    Arcidosso
+    id:        A369
+    name:      Arcidosso
     latitude:  42.872677
     longitude: 11.537843
   City_arcinazzo_romano:
     Province:  ProvinceRM
-    code:    A370
-    name:    'Arcinazzo Romano'
+    id:        A370
+    name:      'Arcinazzo Romano'
     latitude:  41.880796
     longitude: 13.115315
   City_arcisate:
     Province:  ProvinceVA
-    code:    A371
-    name:    Arcisate
+    id:        A371
+    name:      Arcisate
     latitude:  45.859777
     longitude: 8.860921
   City_arco:
     Province:  ProvinceTN
-    code:    A372
-    name:    Arco
+    id:        A372
+    name:      Arco
     latitude:  45.917826
     longitude: 10.886865
   City_arcola:
     Province:  ProvinceSP
-    code:    A373
-    name:    Arcola
+    id:        A373
+    name:      Arcola
     latitude:  44.114314
     longitude: 9.905754
   City_arcole:
     Province:  ProvinceVR
-    code:    A374
-    name:    Arcole
+    id:        A374
+    name:      Arcole
     latitude:  45.357833
     longitude: 11.285648
   City_arconate:
     Province:  ProvinceMI
-    code:    A375
-    name:    Arconate
+    id:        A375
+    name:      Arconate
     latitude:  45.539546
     longitude: 8.84794
   City_arcore:
     Province:  ProvinceMI
-    code:    A376
-    name:    Arcore
+    id:        A376
+    name:      Arcore
     latitude:  45.62694
     longitude: 9.326516
   City_arcugnano:
     Province:  ProvinceVI
-    code:    A377
-    name:    Arcugnano
+    id:        A377
+    name:      Arcugnano
     latitude:  45.495161
     longitude: 11.55147
   City_ardara:
     Province:  ProvinceSS
-    code:    A379
-    name:    Ardara
+    id:        A379
+    name:      Ardara
     latitude:  40.622898
     longitude: 8.810182
   City_ardauli:
     Province:  ProvinceOR
-    code:    A380
-    name:    Ardauli
+    id:        A380
+    name:      Ardauli
     latitude:  40.085796
     longitude: 8.9125
   City_ardenno:
     Province:  ProvinceSO
-    code:    A382
-    name:    Ardenno
+    id:        A382
+    name:      Ardenno
     latitude:  46.165333
     longitude: 9.646111
   City_ardesio:
     Province:  ProvinceBG
-    code:    A383
-    name:    Ardesio
+    id:        A383
+    name:      Ardesio
     latitude:  45.938444
     longitude: 9.93237
   City_ardore:
     Province:  ProvinceRC
-    code:    A385
-    name:    Ardore
+    id:        A385
+    name:      Ardore
     latitude:  38.192691
     longitude: 16.167414
   City_arena:
     Province:  ProvinceVV
-    code:    A386
-    name:    Arena
+    id:        A386
+    name:      Arena
     latitude:  38.562487
     longitude: 16.210387
   City_arena_po:
     Province:  ProvincePV
-    code:    A387
-    name:    'Arena Po'
+    id:        A387
+    name:      'Arena Po'
     latitude:  45.097667
     longitude: 9.363611
   City_arenzano:
     Province:  ProvinceGE
-    code:    A388
-    name:    Arenzano
+    id:        A388
+    name:      Arenzano
     latitude:  44.404025
     longitude: 8.680979
   City_arese:
     Province:  ProvinceMI
-    code:    A389
-    name:    Arese
+    id:        A389
+    name:      Arese
     latitude:  45.55017
     longitude: 9.078381
   City_arezzo:
     Province:  ProvinceAR
-    code:    A390
-    name:    Arezzo
+    id:        A390
+    name:      Arezzo
     latitude:  43.471201
     longitude: 11.863062
   City_argegno:
     Province:  ProvinceCO
-    code:    A391
-    name:    Argegno
+    id:        A391
+    name:      Argegno
     latitude:  45.943907
     longitude: 9.126722
   City_argelato:
     Province:  ProvinceBO
-    code:    A392
-    name:    Argelato
+    id:        A392
+    name:      Argelato
     latitude:  44.6425
     longitude: 11.348926
   City_argenta:
     Province:  ProvinceFE
-    code:    A393
-    name:    Argenta
+    id:        A393
+    name:      Argenta
     latitude:  44.613916
     longitude: 11.83679
   City_argentera:
     Province:  ProvinceCN
-    code:    A394
-    name:    Argentera
+    id:        A394
+    name:      Argentera
     latitude:  44.396263
     longitude: 6.938113
   City_arguello:
     Province:  ProvinceCN
-    code:    A396
-    name:    Arguello
+    id:        A396
+    name:      Arguello
     latitude:  44.583105
     longitude: 8.108608
   City_argusto:
     Province:  ProvinceCZ
-    code:    A397
-    name:    Argusto
+    id:        A397
+    name:      Argusto
     latitude:  38.681889
     longitude: 16.436259
   City_ari:
     Province:  ProvinceCH
-    code:    A398
-    name:    Ari
+    id:        A398
+    name:      Ari
     latitude:  42.293367
     longitude: 14.264034
   City_ariano_irpino:
     Province:  ProvinceAV
-    code:    A399
-    name:    'Ariano Irpino'
+    id:        A399
+    name:      'Ariano Irpino'
     latitude:  41.152519
     longitude: 15.08758
   City_ariano_nel_polesine:
     Province:  ProvinceRO
-    code:    A400
-    name:    'Ariano nel Polesine'
+    id:        A400
+    name:      'Ariano nel Polesine'
     latitude:  44.947037
     longitude: 12.125944
   City_ariccia:
     Province:  ProvinceRM
-    code:    A401
-    name:    Ariccia
+    id:        A401
+    name:      Ariccia
     latitude:  41.721701
     longitude: 12.674063
   City_arielli:
     Province:  ProvinceCH
-    code:    A402
-    name:    Arielli
+    id:        A402
+    name:      Arielli
     latitude:  42.263168
     longitude: 14.307327
   City_arienzo:
     Province:  ProvinceCE
-    code:    A403
-    name:    Arienzo
+    id:        A403
+    name:      Arienzo
     latitude:  41.022027
     longitude: 14.49372
   City_arignano:
     Province:  ProvinceTO
-    code:    A405
-    name:    Arignano
+    id:        A405
+    name:      Arignano
     latitude:  45.043812
     longitude: 7.90109
   City_aritzo:
     Province:  ProvinceNU
-    code:    A407
-    name:    Aritzo
+    id:        A407
+    name:      Aritzo
     latitude:  39.957833
     longitude: 9.197518
   City_arizzano:
     Province:  ProvinceVB
-    code:    A409
-    name:    Arizzano
+    id:        A409
+    name:      Arizzano
     latitude:  45.956035
     longitude: 8.582134
   City_arlena_di_castro:
     Province:  ProvinceVT
-    code:    A412
-    name:    'Arlena di Castro'
+    id:        A412
+    name:      'Arlena di Castro'
     latitude:  42.46391
     longitude: 11.821774
   City_arluno:
     Province:  ProvinceMI
-    code:    A413
-    name:    Arluno
+    id:        A413
+    name:      Arluno
     latitude:  45.505223
     longitude: 8.93887
   City_armeno:
     Province:  ProvinceNO
-    code:    A414
-    name:    Armeno
+    id:        A414
+    name:      Armeno
     latitude:  45.822548
     longitude: 8.440001
   City_armento:
     Province:  ProvincePZ
-    code:    A415
-    name:    Armento
+    id:        A415
+    name:      Armento
     latitude:  40.307799
     longitude: 16.065471
   City_armo:
     Province:  ProvinceIM
-    code:    A418
-    name:    Armo
+    id:        A418
+    name:      Armo
     latitude:  44.088039
     longitude: 7.91344
   City_armungia:
     Province:  ProvinceCA
-    code:    A419
-    name:    Armungia
+    id:        A419
+    name:      Armungia
     latitude:  39.522536
     longitude: 9.38231
   City_arnara:
     Province:  ProvinceFR
-    code:    A421
-    name:    Arnara
+    id:        A421
+    name:      Arnara
     latitude:  41.585648
     longitude: 13.389389
   City_arnasco:
     Province:  ProvinceSV
-    code:    A422
-    name:    Arnasco
+    id:        A422
+    name:      Arnasco
     latitude:  44.078138
     longitude: 8.108822
   City_arnad:
     Province:  ProvinceAO
-    code:    A424
-    name:    Arnad
+    id:        A424
+    name:      Arnad
     latitude:  45.643363
     longitude: 7.72295
   City_arnesano:
     Province:  ProvinceLE
-    code:    A425
-    name:    Arnesano
+    id:        A425
+    name:      Arnesano
     latitude:  40.33813
     longitude: 18.091722
   City_arola:
     Province:  ProvinceVB
-    code:    A427
-    name:    Arola
+    id:        A427
+    name:      Arola
     latitude:  45.809556
     longitude: 8.35813
   City_arona:
     Province:  ProvinceNO
-    code:    A429
-    name:    Arona
+    id:        A429
+    name:      Arona
     latitude:  45.756984
     longitude: 8.559952
   City_arosio:
     Province:  ProvinceCO
-    code:    A430
-    name:    Arosio
+    id:        A430
+    name:      Arosio
     latitude:  45.717981
     longitude: 9.209241
   City_arpaia:
     Province:  ProvinceBN
-    code:    A431
-    name:    Arpaia
+    id:        A431
+    name:      Arpaia
     latitude:  41.03838
     longitude: 14.551094
   City_arpaise:
     Province:  ProvinceBN
-    code:    A432
-    name:    Arpaise
+    id:        A432
+    name:      Arpaise
     latitude:  41.032352
     longitude: 14.745333
   City_arpino:
     Province:  ProvinceFR
-    code:    A433
-    name:    Arpino
+    id:        A433
+    name:      Arpino
     latitude:  41.648444
     longitude: 13.60987
   City_arqua_petrarca:
     Province:  ProvincePD
-    code:    A434
-    name:    'Arquà Petrarca'
+    id:        A434
+    name:      'Arquà Petrarca'
     latitude:  45.270052
     longitude: 11.716792
   City_arqua_polesine:
     Province:  ProvinceRO
-    code:    A435
-    name:    'Arquà Polesine'
+    id:        A435
+    name:      'Arquà Polesine'
     latitude:  45.011111
     longitude: 11.740963
   City_arquata_scrivia:
     Province:  ProvinceAL
-    code:    A436
-    name:    'Arquata Scrivia'
+    id:        A436
+    name:      'Arquata Scrivia'
     latitude:  44.68799
     longitude: 8.885708
   City_arquata_del_tronto:
     Province:  ProvinceAP
-    code:    A437
-    name:    'Arquata del Tronto'
+    id:        A437
+    name:      'Arquata del Tronto'
     latitude:  42.773065
     longitude: 13.296665
   City_arre:
     Province:  ProvincePD
-    code:    A438
-    name:    Arre
+    id:        A438
+    name:      Arre
     latitude:  45.219074
     longitude: 11.925333
   City_arrone:
     Province:  ProvinceTR
-    code:    A439
-    name:    Arrone
+    id:        A439
+    name:      Arrone
     latitude:  42.583712
     longitude: 12.767753
   City_arzago_d_adda:
     Province:  ProvinceBG
-    code:    A440
-    name:    'Arzago D''Adda'
+    id:        A440
+    name:      'Arzago D''Adda'
     latitude:  45.482352
     longitude: 9.565333
   City_arsago_seprio:
     Province:  ProvinceVA
-    code:    A441
-    name:    'Arsago Seprio'
+    id:        A441
+    name:      'Arsago Seprio'
     latitude:  45.689389
     longitude: 8.735796
   City_arsie:
     Province:  ProvinceBL
-    code:    A443
-    name:    Arsiè
+    id:        A443
+    name:      Arsiè
     latitude:  45.983907
     longitude: 11.759389
   City_arsiero:
     Province:  ProvinceVI
-    code:    A444
-    name:    Arsiero
+    id:        A444
+    name:      Arsiero
     latitude:  45.803926
     longitude: 11.355333
   City_arsita:
     Province:  ProvinceTE
-    code:    A445
-    name:    Arsita
+    id:        A445
+    name:      Arsita
     latitude:  42.50238
     longitude: 13.784568
   City_arsoli:
     Province:  ProvinceRM
-    code:    A446
-    name:    Arsoli
+    id:        A446
+    name:      Arsoli
     latitude:  42.03733
     longitude: 13.013876
   City_arta_terme:
     Province:  ProvinceUD
-    code:    A447
-    name:    'Arta Terme'
+    id:        A447
+    name:      'Arta Terme'
     latitude:  46.483391
     longitude: 13.019112
   City_artegna:
     Province:  ProvinceUD
-    code:    A448
-    name:    Artegna
+    id:        A448
+    name:      Artegna
     latitude:  46.23737
     longitude: 13.153926
   City_artena:
     Province:  ProvinceRM
-    code:    A449
-    name:    Artena
+    id:        A449
+    name:      Artena
     latitude:  41.739673
     longitude: 12.916397
   City_artogne:
     Province:  ProvinceBS
-    code:    A451
-    name:    Artogne
+    id:        A451
+    name:      Artogne
     latitude:  45.849606
     longitude: 10.165234
   City_arvier:
     Province:  ProvinceAO
-    code:    A452
-    name:    Arvier
+    id:        A452
+    name:      Arvier
     latitude:  45.703148
     longitude: 7.167056
   City_arzachena:
     Province:  ProvinceOT
-    code:    A453
-    name:    Arzachena
+    id:        A453
+    name:      Arzachena
     latitude:  41.078754
     longitude: 9.388149
   City_arzana:
     Province:  ProvinceOG
-    code:    A454
-    name:    Arzana
+    id:        A454
+    name:      Arzana
     latitude:  39.92
     longitude: 9.528926
   City_arzano:
     Province:  ProvinceNA
-    code:    A455
-    name:    Arzano
+    id:        A455
+    name:      Arzano
     latitude:  40.915498
     longitude: 14.268152
   City_arzene:
     Province:  ProvincePN
-    code:    A456
-    name:    Arzene
+    id:        A456
+    name:      Arzene
     latitude:  46.00237
     longitude: 12.847833
   City_arzergrande:
     Province:  ProvincePD
-    code:    A458
-    name:    Arzergrande
+    id:        A458
+    name:      Arzergrande
     latitude:  45.273759
     longitude: 12.052833
   City_arzignano:
     Province:  ProvinceVI
-    code:    A459
-    name:    Arzignano
+    id:        A459
+    name:      Arzignano
     latitude:  45.519388
     longitude: 11.339584
   City_ascea:
     Province:  ProvinceSA
-    code:    A460
-    name:    Ascea
+    id:        A460
+    name:      Ascea
     latitude:  40.142667
     longitude: 15.186741
   City_asciano:
     Province:  ProvinceSI
-    code:    A461
-    name:    Asciano
+    id:        A461
+    name:      Asciano
     latitude:  43.233379
     longitude: 11.56151
   City_ascoli_piceno:
     Province:  ProvinceAP
-    code:    A462
-    name:    'Ascoli Piceno'
+    id:        A462
+    name:      'Ascoli Piceno'
     latitude:  42.855402
     longitude: 13.574977
   City_ascoli_satriano:
     Province:  ProvinceFG
-    code:    A463
-    name:    'Ascoli Satriano'
+    id:        A463
+    name:      'Ascoli Satriano'
     latitude:  41.207153
     longitude: 15.562485
   City_ascrea:
     Province:  ProvinceRI
-    code:    A464
-    name:    Ascrea
+    id:        A464
+    name:      Ascrea
     latitude:  42.195614
     longitude: 12.996878
   City_asiago:
     Province:  ProvinceVI
-    code:    A465
-    name:    Asiago
+    id:        A465
+    name:      Asiago
     latitude:  45.876111
     longitude: 11.508778
   City_asigliano_vercellese:
     Province:  ProvinceVC
-    code:    A466
-    name:    'Asigliano Vercellese'
+    id:        A466
+    name:      'Asigliano Vercellese'
     latitude:  45.262518
     longitude: 8.409704
   City_asigliano_veneto:
     Province:  ProvinceVI
-    code:    A467
-    name:    'Asigliano Veneto'
+    id:        A467
+    name:      'Asigliano Veneto'
     latitude:  45.30563
     longitude: 11.447518
   City_sinalunga:
     Province:  ProvinceSI
-    code:    A468
-    name:    Sinalunga
+    id:        A468
+    name:      Sinalunga
     latitude:  43.214915
     longitude: 11.743505
   City_asola:
     Province:  ProvinceMN
-    code:    A470
-    name:    Asola
+    id:        A470
+    name:      Asola
     latitude:  45.222037
     longitude: 10.414704
   City_asolo:
     Province:  ProvinceTV
-    code:    A471
-    name:    Asolo
+    id:        A471
+    name:      Asolo
     latitude:  45.793296
     longitude: 11.912833
   City_casperia:
     Province:  ProvinceRI
-    code:    A472
-    name:    Casperia
+    id:        A472
+    name:      Casperia
     latitude:  42.340796
     longitude: 12.671722
   City_assago:
     Province:  ProvinceMI
-    code:    A473
-    name:    Assago
+    id:        A473
+    name:      Assago
     latitude:  45.404921
     longitude: 9.130413
   City_assemini:
     Province:  ProvinceCA
-    code:    A474
-    name:    Assemini
+    id:        A474
+    name:      Assemini
     latitude:  39.292667
     longitude: 9.0025
   City_assisi:
     Province:  ProvincePG
-    code:    A475
-    name:    Assisi
+    id:        A475
+    name:      Assisi
     latitude:  43.070167
     longitude: 12.617518
   City_asso:
     Province:  ProvinceCO
-    code:    A476
-    name:    Asso
+    id:        A476
+    name:      Asso
     latitude:  45.86227
     longitude: 9.27085
   City_assolo:
     Province:  ProvinceOR
-    code:    A477
-    name:    Assolo
+    id:        A477
+    name:      Assolo
     latitude:  39.810938
     longitude: 8.919056
   City_assoro:
     Province:  ProvinceEN
-    code:    A478
-    name:    Assoro
+    id:        A478
+    name:      Assoro
     latitude:  37.628419
     longitude: 14.423879
   City_asti:
     Province:  ProvinceAT
-    code:    A479
-    name:    Asti
+    id:        A479
+    name:      Asti
     latitude:  44.900864
     longitude: 8.206813
   City_asuni:
     Province:  ProvinceOR
-    code:    A480
-    name:    Asuni
+    id:        A480
+    name:      Asuni
     latitude:  39.873611
     longitude: 8.947518
   City_ateleta:
     Province:  ProvinceAQ
-    code:    A481
-    name:    Ateleta
+    id:        A481
+    name:      Ateleta
     latitude:  41.854829
     longitude: 14.201356
   City_atella:
     Province:  ProvincePZ
-    code:    A482
-    name:    Atella
+    id:        A482
+    name:      Atella
     latitude:  40.87681
     longitude: 15.651314
   City_atena_lucana:
     Province:  ProvinceSA
-    code:    A484
-    name:    'Atena Lucana'
+    id:        A484
+    name:      'Atena Lucana'
     latitude:  40.454251
     longitude: 15.556088
   City_atessa:
     Province:  ProvinceCH
-    code:    A485
-    name:    Atessa
+    id:        A485
+    name:      Atessa
     latitude:  42.066713
     longitude: 14.446061
   City_atina:
     Province:  ProvinceFR
-    code:    A486
-    name:    Atina
+    id:        A486
+    name:      Atina
     latitude:  41.620924
     longitude: 13.801186
   City_atrani:
     Province:  ProvinceSA
-    code:    A487
-    name:    Atrani
+    id:        A487
+    name:      Atrani
     latitude:  40.636063
     longitude: 14.608905
   City_atri:
     Province:  ProvinceTE
-    code:    A488
-    name:    Atri
+    id:        A488
+    name:      Atri
     latitude:  42.580202
     longitude: 13.981002
   City_atripalda:
     Province:  ProvinceAV
-    code:    A489
-    name:    Atripalda
+    id:        A489
+    name:      Atripalda
     latitude:  40.916889
     longitude: 14.825648
   City_attigliano:
     Province:  ProvinceTR
-    code:    A490
-    name:    Attigliano
+    id:        A490
+    name:      Attigliano
     latitude:  42.516753
     longitude: 12.292746
   City_attimis:
     Province:  ProvinceUD
-    code:    A491
-    name:    Attimis
+    id:        A491
+    name:      Attimis
     latitude:  46.188076
     longitude: 13.306249
   City_atzara:
     Province:  ProvinceNU
-    code:    A492
-    name:    Atzara
+    id:        A492
+    name:      Atzara
     latitude:  39.992927
     longitude: 9.076494
   City_auditore:
     Province:  ProvincePU
-    code:    A493
-    name:    Auditore
+    id:        A493
+    name:      Auditore
     latitude:  43.821354
     longitude: 12.57098
   City_augusta:
     Province:  ProvinceSR
-    code:    A494
-    name:    Augusta
+    id:        A494
+    name:      Augusta
     latitude:  37.233799
     longitude: 15.21889
   City_auletta:
     Province:  ProvinceSA
-    code:    A495
-    name:    Auletta
+    id:        A495
+    name:      Auletta
     latitude:  40.562309
     longitude: 15.425603
   City_aulla:
     Province:  ProvinceMS
-    code:    A496
-    name:    Aulla
+    id:        A496
+    name:      Aulla
     latitude:  44.205533
     longitude: 9.969807
   City_aurano:
     Province:  ProvinceVB
-    code:    A497
-    name:    Aurano
+    id:        A497
+    name:      Aurano
     latitude:  45.999932
     longitude: 8.589027
   City_aurigo:
     Province:  ProvinceIM
-    code:    A499
-    name:    Aurigo
+    id:        A499
+    name:      Aurigo
     latitude:  43.983626
     longitude: 7.92338
   City_auronzo_di_cadore:
     Province:  ProvinceBL
-    code:    A501
-    name:    'Auronzo di Cadore'
+    id:        A501
+    name:      'Auronzo di Cadore'
     latitude:  46.551201
     longitude: 12.443205
   City_ausonia:
     Province:  ProvinceFR
-    code:    A502
-    name:    Ausonia
+    id:        A502
+    name:      Ausonia
     latitude:  41.361587
     longitude: 13.749198
   City_austis:
     Province:  ProvinceNU
-    code:    A503
-    name:    Austis
+    id:        A503
+    name:      Austis
     latitude:  40.071722
     longitude: 9.088907
   City_avegno:
     Province:  ProvinceGE
-    code:    A506
-    name:    Avegno
+    id:        A506
+    name:      Avegno
     latitude:  44.388237
     longitude: 9.1637
   City_avelengo:
     Province:  ProvinceBZ
-    code:    A507
-    name:    Avelengo
+    id:        A507
+    name:      Avelengo
     latitude:  46.646225
     longitude: 11.224718
   City_avella:
     Province:  ProvinceAV
-    code:    A508
-    name:    Avella
+    id:        A508
+    name:      Avella
     latitude:  40.960018
     longitude: 14.601407
   City_avellino:
     Province:  ProvinceAV
-    code:    A509
-    name:    Avellino
+    id:        A509
+    name:      Avellino
     latitude:  40.915168
     longitude: 14.795488
   City_averara:
     Province:  ProvinceBG
-    code:    A511
-    name:    Averara
+    id:        A511
+    name:      Averara
     latitude:  45.989222
     longitude: 9.631741
   City_aversa:
     Province:  ProvinceCE
-    code:    A512
-    name:    Aversa
+    id:        A512
+    name:      Aversa
     latitude:  40.973335
     longitude: 14.207684
   City_avetrana:
     Province:  ProvinceTA
-    code:    A514
-    name:    Avetrana
+    id:        A514
+    name:      Avetrana
     latitude:  40.34942
     longitude: 17.727739
   City_avezzano:
     Province:  ProvinceAQ
-    code:    A515
-    name:    Avezzano
+    id:        A515
+    name:      Avezzano
     latitude:  42.028408
     longitude: 13.425618
   City_aviano:
     Province:  ProvincePN
-    code:    A516
-    name:    Aviano
+    id:        A516
+    name:      Aviano
     latitude:  46.070456
     longitude: 12.58675
   City_aviatico:
     Province:  ProvinceBG
-    code:    A517
-    name:    Aviatico
+    id:        A517
+    name:      Aviatico
     latitude:  45.798611
     longitude: 9.7725
   City_avigliana:
     Province:  ProvinceTO
-    code:    A518
-    name:    Avigliana
+    id:        A518
+    name:      Avigliana
     latitude:  45.07928
     longitude: 7.396676
   City_avigliano:
     Province:  ProvincePZ
-    code:    A519
-    name:    Avigliano
+    id:        A519
+    name:      Avigliano
     latitude:  40.730796
     longitude: 15.721278
   City_avio:
     Province:  ProvinceTN
-    code:    A520
-    name:    Avio
+    id:        A520
+    name:      Avio
     latitude:  45.73487
     longitude: 10.938296
   City_avise:
     Province:  ProvinceAO
-    code:    A521
-    name:    Avise
+    id:        A521
+    name:      Avise
     latitude:  45.709852
     longitude: 7.141111
   City_avola:
     Province:  ProvinceSR
-    code:    A522
-    name:    Avola
+    id:        A522
+    name:      Avola
     latitude:  36.909868
     longitude: 15.13432
   City_avolasca:
     Province:  ProvinceAL
-    code:    A523
-    name:    Avolasca
+    id:        A523
+    name:      Avolasca
     latitude:  44.803724
     longitude: 8.96565
   City_azeglio:
     Province:  ProvinceTO
-    code:    A525
-    name:    Azeglio
+    id:        A525
+    name:      Azeglio
     latitude:  45.424556
     longitude: 7.995
   City_azzanello:
     Province:  ProvinceCR
-    code:    A526
-    name:    Azzanello
+    id:        A526
+    name:      Azzanello
     latitude:  45.315018
     longitude: 9.920796
   City_azzano_d_asti:
     Province:  ProvinceAT
-    code:    A527
-    name:    'Azzano D''Asti'
+    id:        A527
+    name:      'Azzano D''Asti'
     latitude:  44.875411
     longitude: 8.26794
   City_azzano_san_paolo:
     Province:  ProvinceBG
-    code:    A528
-    name:    'Azzano San Paolo'
+    id:        A528
+    name:      'Azzano San Paolo'
     latitude:  45.658907
     longitude: 9.674241
   City_azzano_mella:
     Province:  ProvinceBS
-    code:    A529
-    name:    'Azzano Mella'
+    id:        A529
+    name:      'Azzano Mella'
     latitude:  45.455648
     longitude: 10.118296
   City_azzano_decimo:
     Province:  ProvincePN
-    code:    A530
-    name:    'Azzano Decimo'
+    id:        A530
+    name:      'Azzano Decimo'
     latitude:  45.881753
     longitude: 12.714705
   City_azzate:
     Province:  ProvinceVA
-    code:    A531
-    name:    Azzate
+    id:        A531
+    name:      Azzate
     latitude:  45.779651
     longitude: 8.793903
   City_azzio:
     Province:  ProvinceVA
-    code:    A532
-    name:    Azzio
+    id:        A532
+    name:      Azzio
     latitude:  45.88563
     longitude: 8.709704
   City_azzone:
     Province:  ProvinceBG
-    code:    A533
-    name:    Azzone
+    id:        A533
+    name:      Azzone
     latitude:  45.979232
     longitude: 10.111898

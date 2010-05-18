@@ -1,2665 +1,2665 @@
 City:
   abano_terme:
     province_id: PD
-    code:        A001
+    id:          A001
     name:        'Abano Terme'
     latitude:    45.360542
     longitude:   11.789381
   abbadia_cerreto:
     province_id: LO
-    code:        A004
+    id:          A004
     name:        'Abbadia Cerreto'
     latitude:    45.31279
     longitude:   9.595495
   abbadia_lariana:
     province_id: LC
-    code:        A005
+    id:          A005
     name:        'Abbadia Lariana'
     latitude:    45.900509
     longitude:   9.334459
   abbadia_san_salvatore:
     province_id: SI
-    code:        A006
+    id:          A006
     name:        'Abbadia San Salvatore'
     latitude:    42.88313
     longitude:   11.670648
   abbasanta:
     province_id: OR
-    code:        A007
+    id:          A007
     name:        Abbasanta
     latitude:    40.127815
     longitude:   8.819074
   abbateggio:
     province_id: PE
-    code:        A008
+    id:          A008
     name:        Abbateggio
     latitude:    42.224515
     longitude:   14.013646
   abbiategrasso:
     province_id: MI
-    code:        A010
+    id:          A010
     name:        Abbiategrasso
     latitude:    45.393034
     longitude:   8.919825
   abetone:
     province_id: PT
-    code:        A012
+    id:          A012
     name:        Abetone
     latitude:    44.145642
     longitude:   10.664979
   abriola:
     province_id: PZ
-    code:        A013
+    id:          A013
     name:        Abriola
     latitude:    40.508072
     longitude:   15.813747
   acate:
     province_id: RG
-    code:        A014
+    id:          A014
     name:        Acate
     latitude:    37.026278
     longitude:   14.493926
   accadia:
     province_id: FG
-    code:        A015
+    id:          A015
     name:        Accadia
     latitude:    41.159506
     longitude:   15.329638
   acceglio:
     province_id: CN
-    code:        A016
+    id:          A016
     name:        Acceglio
     latitude:    44.475173
     longitude:   6.99071
   accettura:
     province_id: MT
-    code:        A017
+    id:          A017
     name:        Accettura
     latitude:    40.492037
     longitude:   16.158926
   acciano:
     province_id: AQ
-    code:        A018
+    id:          A018
     name:        Acciano
     latitude:    42.176416
     longitude:   13.716908
   accumoli:
     province_id: RI
-    code:        A019
+    id:          A019
     name:        Accumoli
     latitude:    42.695167
     longitude:   13.248778
   acerenza:
     province_id: PZ
-    code:        A020
+    id:          A020
     name:        Acerenza
     latitude:    40.793128
     longitude:   15.937513
   cermes:
     province_id: BZ
-    code:        A022
+    id:          A022
     name:        Cermes
     latitude:    46.634261
     longitude:   11.148936
   acerno:
     province_id: SA
-    code:        A023
+    id:          A023
     name:        Acerno
     latitude:    40.738759
     longitude:   15.057815
   acerra:
     province_id: NA
-    code:        A024
+    id:          A024
     name:        Acerra
     latitude:    40.951722
     longitude:   14.377204
   aci_bonaccorsi:
     province_id: CT
-    code:        A025
+    id:          A025
     name:        'Aci Bonaccorsi'
     latitude:    37.598472
     longitude:   15.108115
   aci_castello:
     province_id: CT
-    code:        A026
+    id:          A026
     name:        'Aci Castello'
     latitude:    37.555614
     longitude:   15.146544
   aci_catena:
     province_id: CT
-    code:        A027
+    id:          A027
     name:        'Aci Catena'
     latitude:    37.606667
     longitude:   15.142054
   acireale:
     province_id: CT
-    code:        A028
+    id:          A028
     name:        Acireale
     latitude:    37.612877
     longitude:   15.165768
   aci_sant_antonio:
     province_id: CT
-    code:        A029
+    id:          A029
     name:        'Aci Sant''Antonio'
     latitude:    37.606527
     longitude:   15.126136
   acquacanina:
     province_id: MC
-    code:        A031
+    id:          A031
     name:        Acquacanina
     latitude:    43.030523
     longitude:   13.175598
   acquafondata:
     province_id: FR
-    code:        A032
+    id:          A032
     name:        Acquafondata
     latitude:    41.543926
     longitude:   13.953759
   acquaformosa:
     province_id: CS
-    code:        A033
+    id:          A033
     name:        Acquaformosa
     latitude:    39.724241
     longitude:   16.090796
   acquafredda:
     province_id: BS
-    code:        A034
+    id:          A034
     name:        Acquafredda
     latitude:    45.306205
     longitude:   10.415578
   acqualagna:
     province_id: PU
-    code:        A035
+    id:          A035
     name:        Acqualagna
     latitude:    43.613463
     longitude:   12.674556
   acquanegra_sul_chiese:
     province_id: MN
-    code:        A038
+    id:          A038
     name:        'Acquanegra sul Chiese'
     latitude:    45.163444
     longitude:   10.435796
   acquanegra_cremonese:
     province_id: CR
-    code:        A039
+    id:          A039
     name:        'Acquanegra Cremonese'
     latitude:    45.168271
     longitude:   9.890046
   acquapendente:
     province_id: VT
-    code:        A040
+    id:          A040
     name:        Acquapendente
     latitude:    42.744847
     longitude:   11.865162
   acquappesa:
     province_id: CS
-    code:        A041
+    id:          A041
     name:        Acquappesa
     latitude:    39.495079
     longitude:   15.95353
   acquarica_del_capo:
     province_id: LE
-    code:        A042
+    id:          A042
     name:        'Acquarica del Capo'
     latitude:    39.912204
     longitude:   18.246259
   acquaro:
     province_id: VV
-    code:        A043
+    id:          A043
     name:        Acquaro
     latitude:    38.555963
     longitude:   16.188148
   acquasanta_terme:
     province_id: AP
-    code:        A044
+    id:          A044
     name:        'Acquasanta Terme'
     latitude:    42.77077
     longitude:   13.411007
   acquasparta:
     province_id: TR
-    code:        A045
+    id:          A045
     name:        Acquasparta
     latitude:    42.691278
     longitude:   12.541111
   acquaviva_picena:
     province_id: AP
-    code:        A047
+    id:          A047
     name:        'Acquaviva Picena'
     latitude:    42.944819
     longitude:   13.812462
   acquaviva_delle_fonti:
     province_id: BA
-    code:        A048
+    id:          A048
     name:        'Acquaviva delle Fonti'
     latitude:    40.898926
     longitude:   16.843463
   acquaviva_platani:
     province_id: CL
-    code:        A049
+    id:          A049
     name:        'Acquaviva Platani'
     latitude:    37.572815
     longitude:   13.702518
   acquaviva_collecroce:
     province_id: CB
-    code:        A050
+    id:          A050
     name:        'Acquaviva Collecroce'
     latitude:    41.867786
     longitude:   14.746744
   acquaviva_d_isernia:
     province_id: IS
-    code:        A051
+    id:          A051
     name:        'Acquaviva D''Isernia'
     latitude:    41.67313
     longitude:   14.149852
   acqui_terme:
     province_id: AL
-    code:        A052
+    id:          A052
     name:        'Acqui Terme'
     latitude:    44.675527
     longitude:   8.470669
   acri:
     province_id: CS
-    code:        A053
+    id:          A053
     name:        Acri
     latitude:    39.49101
     longitude:   16.386146
   acuto:
     province_id: FR
-    code:        A054
+    id:          A054
     name:        Acuto
     latitude:    41.7925
     longitude:   13.175315
   adelfia:
     province_id: BA
-    code:        A055
+    id:          A055
     name:        Adelfia
     latitude:    41.003656
     longitude:   16.870685
   adrano:
     province_id: CT
-    code:        A056
+    id:          A056
     name:        Adrano
     latitude:    37.662815
     longitude:   14.83563
   adrara_san_martino:
     province_id: BG
-    code:        A057
+    id:          A057
     name:        'Adrara San Martino'
     latitude:    45.69953
     longitude:   9.947649
   adrara_san_rocco:
     province_id: BG
-    code:        A058
+    id:          A058
     name:        'Adrara San Rocco'
     latitude:    45.716722
     longitude:   9.960167
   adria:
     province_id: RO
-    code:        A059
+    id:          A059
     name:        Adria
     latitude:    45.057518
     longitude:   12.055944
   adro:
     province_id: BS
-    code:        A060
+    id:          A060
     name:        Adro
     latitude:    45.621823
     longitude:   9.957437
   affi:
     province_id: VR
-    code:        A061
+    id:          A061
     name:        Affi
     latitude:    45.552931
     longitude:   10.778731
   affile:
     province_id: RM
-    code:        A062
+    id:          A062
     name:        Affile
     latitude:    41.885124
     longitude:   13.097666
   afragola:
     province_id: NA
-    code:        A064
+    id:          A064
     name:        Afragola
     latitude:    40.921038
     longitude:   14.307217
   africo:
     province_id: RC
-    code:        A065
+    id:          A065
     name:        Africo
     latitude:    38.051722
     longitude:   16.134074
   agazzano:
     province_id: PC
-    code:        A067
+    id:          A067
     name:        Agazzano
     latitude:    44.946741
     longitude:   9.519704
   agerola:
     province_id: NA
-    code:        A068
+    id:          A068
     name:        Agerola
     latitude:    40.638759
     longitude:   14.53987
   aggius:
     province_id: OT
-    code:        A069
+    id:          A069
     name:        Aggius
     latitude:    40.931399
     longitude:   9.067055
   agira:
     province_id: EN
-    code:        A070
+    id:          A070
     name:        Agira
     latitude:    37.65737
     longitude:   14.522518
   agliana:
     province_id: PT
-    code:        A071
+    id:          A071
     name:        Agliana
     latitude:    43.9075
     longitude:   11.00737
   agliano_terme:
     province_id: AT
-    code:        A072
+    id:          A072
     name:        'Agliano Terme'
     latitude:    44.791466
     longitude:   8.249714
   aglie:
     province_id: TO
-    code:        A074
+    id:          A074
     name:        Agliè
     latitude:    45.368148
     longitude:   7.768148
   agna:
     province_id: PD
-    code:        A075
+    id:          A075
     name:        Agna
     latitude:    45.169747
     longitude:   11.960401
   agnadello:
     province_id: CR
-    code:        A076
+    id:          A076
     name:        Agnadello
     latitude:    45.445315
     longitude:   9.55813
   agnana_calabra:
     province_id: RC
-    code:        A077
+    id:          A077
     name:        'Agnana Calabra'
     latitude:    38.303759
     longitude:   16.223759
   agnone:
     province_id: IS
-    code:        A080
+    id:          A080
     name:        Agnone
     latitude:    41.810481
     longitude:   14.378611
   villa_latina:
     province_id: FR
-    code:        A081
+    id:          A081
     name:        'Villa Latina'
     latitude:    41.615237
     longitude:   13.836572
   agnosine:
     province_id: BS
-    code:        A082
+    id:          A082
     name:        Agnosine
     latitude:    45.650772
     longitude:   10.352113
   agordo:
     province_id: BL
-    code:        A083
+    id:          A083
     name:        Agordo
     latitude:    46.282317
     longitude:   12.03441
   agosta:
     province_id: RM
-    code:        A084
+    id:          A084
     name:        Agosta
     latitude:    41.98257
     longitude:   13.033799
   agra:
     province_id: VA
-    code:        A085
+    id:          A085
     name:        Agra
     latitude:    46.033842
     longitude:   8.773068
   agrate_brianza:
     province_id: MI
-    code:        A087
+    id:          A087
     name:        'Agrate Brianza'
     latitude:    45.575548
     longitude:   9.351072
   agrate_conturbia:
     province_id: NO
-    code:        A088
+    id:          A088
     name:        'Agrate Conturbia'
     latitude:    45.677404
     longitude:   8.558366
   agrigento:
     province_id: AG
-    code:        A089
+    id:          A089
     name:        Agrigento
     latitude:    37.311114
     longitude:   13.57673
   agropoli:
     province_id: SA
-    code:        A091
+    id:          A091
     name:        Agropoli
     latitude:    40.350583
     longitude:   14.989516
   agugliano:
     province_id: AN
-    code:        A092
+    id:          A092
     name:        Agugliano
     latitude:    43.544537
     longitude:   13.390481
   agugliaro:
     province_id: VI
-    code:        A093
+    id:          A093
     name:        Agugliaro
     latitude:    45.326426
     longitude:   11.585333
   ayas:
     province_id: AO
-    code:        A094
+    id:          A094
     name:        Ayas
     latitude:    45.816115
     longitude:   7.690326
   aicurzio:
     province_id: MI
-    code:        A096
+    id:          A096
     name:        Aicurzio
     latitude:    45.641329
     longitude:   9.416164
   aidomaggiore:
     province_id: OR
-    code:        A097
+    id:          A097
     name:        Aidomaggiore
     latitude:    40.171889
     longitude:   8.8575
   aidone:
     province_id: EN
-    code:        A098
+    id:          A098
     name:        Aidone
     latitude:    37.417838
     longitude:   14.444257
   aielli:
     province_id: AQ
-    code:        A100
+    id:          A100
     name:        Aielli
     latitude:    42.081889
     longitude:   13.591574
   aiello_del_sabato:
     province_id: AV
-    code:        A101
+    id:          A101
     name:        'Aiello del Sabato'
     latitude:    40.890167
     longitude:   14.821722
   aiello_calabro:
     province_id: CS
-    code:        A102
+    id:          A102
     name:        'Aiello Calabro'
     latitude:    39.117203
     longitude:   16.166851
   aiello_del_friuli:
     province_id: UD
-    code:        A103
+    id:          A103
     name:        'Aiello del Friuli'
     latitude:    45.87218
     longitude:   13.364254
   aieta:
     province_id: CS
-    code:        A105
+    id:          A105
     name:        Aieta
     latitude:    39.928926
     longitude:   15.824389
   ailano:
     province_id: CE
-    code:        A106
+    id:          A106
     name:        Ailano
     latitude:    41.391407
     longitude:   14.205944
   ailoche:
     province_id: BI
-    code:        A107
+    id:          A107
     name:        Ailoche
     latitude:    45.699764
     longitude:   8.222153
   aymavilles:
     province_id: AO
-    code:        A108
+    id:          A108
     name:        Aymavilles
     latitude:    45.702833
     longitude:   7.246722
   airasca:
     province_id: TO
-    code:        A109
+    id:          A109
     name:        Airasca
     latitude:    44.918156
     longitude:   7.48547
   airola:
     province_id: BN
-    code:        A110
+    id:          A110
     name:        Airola
     latitude:    41.05958
     longitude:   14.555621
   airole:
     province_id: IM
-    code:        A111
+    id:          A111
     name:        Airole
     latitude:    43.872055
     longitude:   7.555333
   airuno:
     province_id: LC
-    code:        A112
+    id:          A112
     name:        Airuno
     latitude:    45.754852
     longitude:   9.425315
   aisone:
     province_id: CN
-    code:        A113
+    id:          A113
     name:        Aisone
     latitude:    44.313492
     longitude:   7.219117
   ala_dei_sardi:
     province_id: OT
-    code:        A115
+    id:          A115
     name:        'Alà dei Sardi'
     latitude:    40.651278
     longitude:   9.328926
   ala:
     province_id: TN
-    code:        A116
+    id:          A116
     name:        Ala
     latitude:    45.757753
     longitude:   11.000256
   ala_di_stura:
     province_id: TO
-    code:        A117
+    id:          A117
     name:        'Ala di Stura'
     latitude:    45.315385
     longitude:   7.302593
   alagna:
     province_id: PV
-    code:        A118
+    id:          A118
     name:        Alagna
     latitude:    45.169343
     longitude:   8.890177
   alagna_valsesia:
     province_id: VC
-    code:        A119
+    id:          A119
     name:        'Alagna Valsesia'
     latitude:    45.854245
     longitude:   7.937364
   alanno:
     province_id: PE
-    code:        A120
+    id:          A120
     name:        Alanno
     latitude:    42.294949
     longitude:   13.971743
   alano_di_piave:
     province_id: BL
-    code:        A121
+    id:          A121
     name:        'Alano di Piave'
     latitude:    45.907832
     longitude:   11.909544
   alassio:
     province_id: SV
-    code:        A122
+    id:          A122
     name:        Alassio
     latitude:    44.00267
     longitude:   8.166939
   alatri:
     province_id: FR
-    code:        A123
+    id:          A123
     name:        Alatri
     latitude:    41.726495
     longitude:   13.34211
   alba:
     province_id: CN
-    code:        A124
+    id:          A124
     name:        Alba
     latitude:    44.700862
     longitude:   8.035259
   alba_adriatica:
     province_id: TE
-    code:        A125
+    id:          A125
     name:        'Alba Adriatica'
     latitude:    42.831834
     longitude:   13.926037
   albagiara:
     province_id: OR
-    code:        A126
+    id:          A126
     name:        Albagiara
     latitude:    39.788759
     longitude:   8.863148
   albairate:
     province_id: MI
-    code:        A127
+    id:          A127
     name:        Albairate
     latitude:    45.419605
     longitude:   8.935588
   albanella:
     province_id: SA
-    code:        A128
+    id:          A128
     name:        Albanella
     latitude:    40.480018
     longitude:   15.117204
   albano_sant_alessandro:
     province_id: BG
-    code:        A129
+    id:          A129
     name:        'Albano Sant''Alessandro'
     latitude:    45.687519
     longitude:   9.771711
   albano_vercellese:
     province_id: VC
-    code:        A130
+    id:          A130
     name:        'Albano Vercellese'
     latitude:    45.427204
     longitude:   8.380736
   albano_di_lucania:
     province_id: PZ
-    code:        A131
+    id:          A131
     name:        'Albano di Lucania'
     latitude:    40.58563
     longitude:   16.037037
   albano_laziale:
     province_id: RM
-    code:        A132
+    id:          A132
     name:        'Albano Laziale'
     latitude:    41.728484
     longitude:   12.66084
   albaredo_arnaboldi:
     province_id: PV
-    code:        A134
+    id:          A134
     name:        'Albaredo Arnaboldi'
     latitude:    45.107051
     longitude:   9.242821
   albaredo_per_san_marco:
     province_id: SO
-    code:        A135
+    id:          A135
     name:        'Albaredo per San Marco'
     latitude:    46.100886
     longitude:   9.592581
   albaredo_d_adige:
     province_id: VR
-    code:        A137
+    id:          A137
     name:        'Albaredo D''Adige'
     latitude:    45.317903
     longitude:   11.275303
   albareto:
     province_id: PR
-    code:        A138
+    id:          A138
     name:        Albareto
     latitude:    44.4475
     longitude:   9.701111
   albaretto_della_torre:
     province_id: CN
-    code:        A139
+    id:          A139
     name:        'Albaretto della Torre'
     latitude:    44.596811
     longitude:   8.064511
   albavilla:
     province_id: CO
-    code:        A143
+    id:          A143
     name:        Albavilla
     latitude:    45.80144
     longitude:   9.186269
   albenga:
     province_id: SV
-    code:        A145
+    id:          A145
     name:        Albenga
     latitude:    44.04845
     longitude:   8.214959
   albera_ligure:
     province_id: AL
-    code:        A146
+    id:          A146
     name:        'Albera Ligure'
     latitude:    44.703174
     longitude:   9.066029
   alberobello:
     province_id: BA
-    code:        A149
+    id:          A149
     name:        Alberobello
     latitude:    40.786222
     longitude:   17.237602
   alberona:
     province_id: FG
-    code:        A150
+    id:          A150
     name:        Alberona
     latitude:    41.433759
     longitude:   15.123907
   albese_con_cassano:
     province_id: CO
-    code:        A153
+    id:          A153
     name:        'Albese con Cassano'
     latitude:    45.795963
     longitude:   9.16487
   albettone:
     province_id: VI
-    code:        A154
+    id:          A154
     name:        Albettone
     latitude:    45.357815
     longitude:   11.582815
   albi:
     province_id: CZ
-    code:        A155
+    id:          A155
     name:        Albi
     latitude:    39.025018
     longitude:   16.59555
   albiano_d_ivrea:
     province_id: TO
-    code:        A157
+    id:          A157
     name:        'Albiano D''Ivrea'
     latitude:    45.433907
     longitude:   7.951722
   albiano:
     province_id: TN
-    code:        A158
+    id:          A158
     name:        Albiano
     latitude:    46.145963
     longitude:   11.194537
   albiate:
     province_id: MI
-    code:        A159
+    id:          A159
     name:        Albiate
     latitude:    45.657385
     longitude:   9.252745
   albidona:
     province_id: CS
-    code:        A160
+    id:          A160
     name:        Albidona
     latitude:    39.923778
     longitude:   16.471111
   albignasego:
     province_id: PD
-    code:        A161
+    id:          A161
     name:        Albignasego
     latitude:    45.348444
     longitude:   11.868296
   albinea:
     province_id: RE
-    code:        A162
+    id:          A162
     name:        Albinea
     latitude:    44.60456
     longitude:   10.621974
   albino:
     province_id: BG
-    code:        A163
+    id:          A163
     name:        Albino
     latitude:    45.758309
     longitude:   9.796855
   albiolo:
     province_id: CO
-    code:        A164
+    id:          A164
     name:        Albiolo
     latitude:    45.806574
     longitude:   8.940315
   albissola_marina:
     province_id: SV
-    code:        A165
+    id:          A165
     name:        'Albissola Marina'
     latitude:    44.327769
     longitude:   8.502571
   albisola_superiore:
     province_id: SV
-    code:        A166
+    id:          A166
     name:        'Albisola Superiore'
     latitude:    44.340963
     longitude:   8.510481
   albizzate:
     province_id: VA
-    code:        A167
+    id:          A167
     name:        Albizzate
     latitude:    45.726826
     longitude:   8.802269
   albonese:
     province_id: PV
-    code:        A171
+    id:          A171
     name:        Albonese
     latitude:    45.293392
     longitude:   8.708048
   albosaggia:
     province_id: SO
-    code:        A172
+    id:          A172
     name:        Albosaggia
     latitude:    46.148444
     longitude:   9.855167
   albugnano:
     province_id: AT
-    code:        A173
+    id:          A173
     name:        Albugnano
     latitude:    45.077979
     longitude:   7.97125
   albuzzano:
     province_id: PV
-    code:        A175
+    id:          A175
     name:        Albuzzano
     latitude:    45.186348
     longitude:   9.274096
   alcamo:
     province_id: TP
-    code:        A176
+    id:          A176
     name:        Alcamo
     latitude:    37.980807
     longitude:   12.960209
   alcara_li_fusi:
     province_id: ME
-    code:        A177
+    id:          A177
     name:        'Alcara Li Fusi'
     latitude:    38.02095
     longitude:   14.702641
   aldeno:
     province_id: TN
-    code:        A178
+    id:          A178
     name:        Aldeno
     latitude:    45.979074
     longitude:   11.094556
   aldino:
     province_id: BZ
-    code:        A179
+    id:          A179
     name:        Aldino
     latitude:    46.367056
     longitude:   11.353926
   ales:
     province_id: OR
-    code:        A180
+    id:          A180
     name:        Ales
     latitude:    39.769389
     longitude:   8.816741
   alessandria_della_rocca:
     province_id: AG
-    code:        A181
+    id:          A181
     name:        'Alessandria della Rocca'
     latitude:    37.5675
     longitude:   13.454222
   alessandria:
     province_id: AL
-    code:        A182
+    id:          A182
     name:        Alessandria
     latitude:    44.913217
     longitude:   8.616951
   alessandria_del_carretto:
     province_id: CS
-    code:        A183
+    id:          A183
     name:        'Alessandria del Carretto'
     latitude:    39.959394
     longitude:   16.380936
   alessano:
     province_id: LE
-    code:        A184
+    id:          A184
     name:        Alessano
     latitude:    39.889696
     longitude:   18.331895
   alezio:
     province_id: LE
-    code:        A185
+    id:          A185
     name:        Alezio
     latitude:    40.062352
     longitude:   18.059074
   alfano:
     province_id: SA
-    code:        A186
+    id:          A186
     name:        Alfano
     latitude:    40.175727
     longitude:   15.424411
   alfedena:
     province_id: AQ
-    code:        A187
+    id:          A187
     name:        Alfedena
     latitude:    41.734238
     longitude:   14.032533
   alfianello:
     province_id: BS
-    code:        A188
+    id:          A188
     name:        Alfianello
     latitude:    45.267981
     longitude:   10.149222
   alfiano_natta:
     province_id: AL
-    code:        A189
+    id:          A189
     name:        'Alfiano Natta'
     latitude:    45.047588
     longitude:   8.208302
   alfonsine:
     province_id: RA
-    code:        A191
+    id:          A191
     name:        Alfonsine
     latitude:    44.506259
     longitude:   12.041426
   alghero:
     province_id: SS
-    code:        A192
+    id:          A192
     name:        Alghero
     latitude:    40.557981
     longitude:   8.322204
   algua:
     province_id: BG
-    code:        A193
+    id:          A193
     name:        Algua
     latitude:    45.801663
     longitude:   9.743999
   ali:
     province_id: ME
-    code:        A194
+    id:          A194
     name:        Alì
     latitude:    38.026955
     longitude:   15.417002
   alia:
     province_id: PA
-    code:        A195
+    id:          A195
     name:        Alia
     latitude:    37.781111
     longitude:   13.71487
   aliano:
     province_id: MT
-    code:        A196
+    id:          A196
     name:        Aliano
     latitude:    40.313787
     longitude:   16.229853
   alice_bel_colle:
     province_id: AL
-    code:        A197
+    id:          A197
     name:        'Alice Bel Colle'
     latitude:    44.727037
     longitude:   8.451889
   alice_castello:
     province_id: VC
-    code:        A198
+    id:          A198
     name:        'Alice Castello'
     latitude:    45.366278
     longitude:   8.074074
   alice_superiore:
     province_id: TO
-    code:        A199
+    id:          A199
     name:        'Alice Superiore'
     latitude:    45.459864
     longitude:   7.777441
   alife:
     province_id: CE
-    code:        A200
+    id:          A200
     name:        Alife
     latitude:    41.328485
     longitude:   14.330584
   ali_terme:
     province_id: ME
-    code:        A201
+    id:          A201
     name:        'Alì Terme'
     latitude:    38.006278
     longitude:   15.423611
   alimena:
     province_id: PA
-    code:        A202
+    id:          A202
     name:        Alimena
     latitude:    37.69487
     longitude:   14.114537
   aliminusa:
     province_id: PA
-    code:        A203
+    id:          A203
     name:        Aliminusa
     latitude:    37.865
     longitude:   13.782204
   allai:
     province_id: OR
-    code:        A204
+    id:          A204
     name:        Allai
     latitude:    39.957798
     longitude:   8.863792
   allein:
     province_id: AO
-    code:        A205
+    id:          A205
     name:        Allein
     latitude:    45.808611
     longitude:   7.2725
   alleghe:
     province_id: BL
-    code:        A206
+    id:          A206
     name:        Alleghe
     latitude:    46.407347
     longitude:   12.025321
   allerona:
     province_id: TR
-    code:        A207
+    id:          A207
     name:        Allerona
     latitude:    42.813112
     longitude:   11.974053
   alliste:
     province_id: LE
-    code:        A208
+    id:          A208
     name:        Alliste
     latitude:    39.949698
     longitude:   18.089705
   allumiere:
     province_id: RM
-    code:        A210
+    id:          A210
     name:        Allumiere
     latitude:    42.15737
     longitude:   11.905018
   alluvioni_cambio:
     province_id: AL
-    code:        A211
+    id:          A211
     name:        'Alluvioni Cambiò'
     latitude:    45.00237
     longitude:   8.796259
   alme:
     province_id: BG
-    code:        A214
+    id:          A214
     name:        Almè
     latitude:    45.737056
     longitude:   9.615333
   villa_d_alme:
     province_id: BG
-    code:        A215
+    id:          A215
     name:        'Villa D''Almè'
     latitude:    45.750859
     longitude:   9.615855
   almenno_san_bartolomeo:
     province_id: BG
-    code:        A216
+    id:          A216
     name:        'Almenno San Bartolomeo'
     latitude:    45.748751
     longitude:   9.579699
   almenno_san_salvatore:
     province_id: BG
-    code:        A217
+    id:          A217
     name:        'Almenno San Salvatore'
     latitude:    45.751278
     longitude:   9.597352
   almese:
     province_id: TO
-    code:        A218
+    id:          A218
     name:        Almese
     latitude:    45.116914
     longitude:   7.395387
   alonte:
     province_id: VI
-    code:        A220
+    id:          A220
     name:        Alonte
     latitude:    45.366889
     longitude:   11.42813
   alpette:
     province_id: TO
-    code:        A221
+    id:          A221
     name:        Alpette
     latitude:    45.41055
     longitude:   7.580774
   alpignano:
     province_id: TO
-    code:        A222
+    id:          A222
     name:        Alpignano
     latitude:    45.094269
     longitude:   7.524406
   alseno:
     province_id: PC
-    code:        A223
+    id:          A223
     name:        Alseno
     latitude:    44.896987
     longitude:   9.966562
   alserio:
     province_id: CO
-    code:        A224
+    id:          A224
     name:        Alserio
     latitude:    45.779852
     longitude:   9.201259
   altamura:
     province_id: BA
-    code:        A225
+    id:          A225
     name:        Altamura
     latitude:    40.830257
     longitude:   16.554523
   altare:
     province_id: SV
-    code:        A226
+    id:          A226
     name:        Altare
     latitude:    44.335669
     longitude:   8.343714
   altavilla_monferrato:
     province_id: AL
-    code:        A227
+    id:          A227
     name:        'Altavilla Monferrato'
     latitude:    44.994537
     longitude:   8.377037
   altavilla_irpina:
     province_id: AV
-    code:        A228
+    id:          A228
     name:        'Altavilla Irpina'
     latitude:    41.005534
     longitude:   14.778408
   altavilla_milicia:
     province_id: PA
-    code:        A229
+    id:          A229
     name:        'Altavilla Milicia'
     latitude:    38.042146
     longitude:   13.548875
   altavilla_silentina:
     province_id: SA
-    code:        A230
+    id:          A230
     name:        'Altavilla Silentina'
     latitude:    40.529762
     longitude:   15.13125
   altavilla_vicentina:
     province_id: VI
-    code:        A231
+    id:          A231
     name:        'Altavilla Vicentina'
     latitude:    45.511935
     longitude:   11.460371
   altidona:
     province_id: AP
-    code:        A233
+    id:          A233
     name:        Altidona
     latitude:    43.10677
     longitude:   13.794289
   altilia:
     province_id: CS
-    code:        A234
+    id:          A234
     name:        Altilia
     latitude:    39.128694
     longitude:   16.253093
   altino:
     province_id: CH
-    code:        A235
+    id:          A235
     name:        Altino
     latitude:    42.102414
     longitude:   14.330666
   altissimo:
     province_id: VI
-    code:        A236
+    id:          A236
     name:        Altissimo
     latitude:    45.615397
     longitude:   11.252679
   altivole:
     province_id: TV
-    code:        A237
+    id:          A237
     name:        Altivole
     latitude:    45.754704
     longitude:   11.95737
   alto:
     province_id: CN
-    code:        A238
+    id:          A238
     name:        Alto
     latitude:    44.10888
     longitude:   8.002788
   altofonte:
     province_id: PA
-    code:        A239
+    id:          A239
     name:        Altofonte
     latitude:    38.043023
     longitude:   13.297618
   altomonte:
     province_id: CS
-    code:        A240
+    id:          A240
     name:        Altomonte
     latitude:    39.699302
     longitude:   16.131274
   altopascio:
     province_id: LU
-    code:        A241
+    id:          A241
     name:        Altopascio
     latitude:    43.814484
     longitude:   10.674472
   alviano:
     province_id: TR
-    code:        A242
+    id:          A242
     name:        Alviano
     latitude:    42.588467
     longitude:   12.295694
   alvignano:
     province_id: CE
-    code:        A243
+    id:          A243
     name:        Alvignano
     latitude:    41.251957
     longitude:   14.327115
   alvito:
     province_id: FR
-    code:        A244
+    id:          A244
     name:        Alvito
     latitude:    41.69194
     longitude:   13.741453
   alzano_scrivia:
     province_id: AL
-    code:        A245
+    id:          A245
     name:        'Alzano Scrivia'
     latitude:    45.019074
     longitude:   8.881722
   alzano_lombardo:
     province_id: BG
-    code:        A246
+    id:          A246
     name:        'Alzano Lombardo'
     latitude:    45.737091
     longitude:   9.737192
   alzate_brianza:
     province_id: CO
-    code:        A249
+    id:          A249
     name:        'Alzate Brianza'
     latitude:    45.770796
     longitude:   9.18313
   amalfi:
     province_id: SA
-    code:        A251
+    id:          A251
     name:        Amalfi
     latitude:    40.634362
     longitude:   14.602572
   amandola:
     province_id: AP
-    code:        A252
+    id:          A252
     name:        Amandola
     latitude:    42.98087
     longitude:   13.361929
   amantea:
     province_id: CS
-    code:        A253
+    id:          A253
     name:        Amantea
     latitude:    39.134222
     longitude:   16.075481
   amaro:
     province_id: UD
-    code:        A254
+    id:          A254
     name:        Amaro
     latitude:    46.375167
     longitude:   13.096574
   amaroni:
     province_id: CZ
-    code:        A255
+    id:          A255
     name:        Amaroni
     latitude:    38.794241
     longitude:   16.448907
   amaseno:
     province_id: FR
-    code:        A256
+    id:          A256
     name:        Amaseno
     latitude:    41.468926
     longitude:   13.337056
   amato:
     province_id: CZ
-    code:        A257
+    id:          A257
     name:        Amato
     latitude:    38.942815
     longitude:   16.463148
   amatrice:
     province_id: RI
-    code:        A258
+    id:          A258
     name:        Amatrice
     latitude:    42.628615
     longitude:   13.290993
   ambivere:
     province_id: BG
-    code:        A259
+    id:          A259
     name:        Ambivere
     latitude:    45.720695
     longitude:   9.550966
   amblar:
     province_id: TN
-    code:        A260
+    id:          A260
     name:        Amblar
     latitude:    46.395311
     longitude:   11.144262
   ameglia:
     province_id: SP
-    code:        A261
+    id:          A261
     name:        Ameglia
     latitude:    44.068759
     longitude:   9.966259
   amelia:
     province_id: TR
-    code:        A262
+    id:          A262
     name:        Amelia
     latitude:    42.557174
     longitude:   12.413401
   amendolara:
     province_id: CS
-    code:        A263
+    id:          A263
     name:        Amendolara
     latitude:    39.952995
     longitude:   16.582314
   ameno:
     province_id: NO
-    code:        A264
+    id:          A264
     name:        Ameno
     latitude:    45.789704
     longitude:   8.442037
   amorosi:
     province_id: BN
-    code:        A265
+    id:          A265
     name:        Amorosi
     latitude:    41.204241
     longitude:   14.46487
   cortina_d_ampezzo:
     province_id: BL
-    code:        A266
+    id:          A266
     name:        'Cortina D''Ampezzo'
     latitude:    46.537383
     longitude:   12.138922
   ampezzo:
     province_id: UD
-    code:        A267
+    id:          A267
     name:        Ampezzo
     latitude:    46.416295
     longitude:   12.794606
   anacapri:
     province_id: NA
-    code:        A268
+    id:          A268
     name:        Anacapri
     latitude:    40.555992
     longitude:   14.221241
   anagni:
     province_id: FR
-    code:        A269
+    id:          A269
     name:        Anagni
     latitude:    41.742235
     longitude:   13.158999
   ancarano:
     province_id: TE
-    code:        A270
+    id:          A270
     name:        Ancarano
     latitude:    42.836979
     longitude:   13.740651
   ancona:
     province_id: AN
-    code:        A271
+    id:          A271
     name:        Ancona
     latitude:    43.615828
     longitude:   13.518945
   andali:
     province_id: CZ
-    code:        A272
+    id:          A272
     name:        Andali
     latitude:    39.014546
     longitude:   16.769217
   andalo_valtellino:
     province_id: SO
-    code:        A273
+    id:          A273
     name:        'Andalo Valtellino'
     latitude:    46.131971
     longitude:   9.475995
   andalo:
     province_id: TN
-    code:        A274
+    id:          A274
     name:        Andalo
     latitude:    46.166111
     longitude:   11.005167
   andezeno:
     province_id: TO
-    code:        A275
+    id:          A275
     name:        Andezeno
     latitude:    45.037276
     longitude:   7.87314
   andora:
     province_id: SV
-    code:        A278
+    id:          A278
     name:        Andora
     latitude:    43.952981
     longitude:   8.146722
   andorno_micca:
     province_id: BI
-    code:        A280
+    id:          A280
     name:        'Andorno Micca'
     latitude:    45.612166
     longitude:   8.056297
   andrano:
     province_id: LE
-    code:        A281
+    id:          A281
     name:        Andrano
     latitude:    39.984222
     longitude:   18.383463
   andrate:
     province_id: TO
-    code:        A282
+    id:          A282
     name:        Andrate
     latitude:    45.528463
     longitude:   7.881407
   andreis:
     province_id: PN
-    code:        A283
+    id:          A283
     name:        Andreis
     latitude:    46.201889
     longitude:   12.615018
   andretta:
     province_id: AV
-    code:        A284
+    id:          A284
     name:        Andretta
     latitude:    40.938444
     longitude:   15.325796
   andria:
     province_id: BA
-    code:        A285
+    id:          A285
     name:        Andria
     latitude:    41.231688
     longitude:   16.29173
   andriano:
     province_id: BZ
-    code:        A286
+    id:          A286
     name:        Andriano
     latitude:    46.518611
     longitude:   11.232518
   anela:
     province_id: SS
-    code:        A287
+    id:          A287
     name:        Anela
     latitude:    40.442751
     longitude:   9.056922
   anfo:
     province_id: BS
-    code:        A288
+    id:          A288
     name:        Anfo
     latitude:    45.767352
     longitude:   10.494852
   angera:
     province_id: VA
-    code:        A290
+    id:          A290
     name:        Angera
     latitude:    45.773705
     longitude:   8.577835
   anghiari:
     province_id: AR
-    code:        A291
+    id:          A291
     name:        Anghiari
     latitude:    43.541889
     longitude:   12.060648
   angiari:
     province_id: VR
-    code:        A292
+    id:          A292
     name:        Angiari
     latitude:    45.223753
     longitude:   11.278961
   angolo_terme:
     province_id: BS
-    code:        A293
+    id:          A293
     name:        'Angolo Terme'
     latitude:    45.892168
     longitude:   10.144483
   angri:
     province_id: SA
-    code:        A294
+    id:          A294
     name:        Angri
     latitude:    40.734474
     longitude:   14.571741
   angrogna:
     province_id: TO
-    code:        A295
+    id:          A295
     name:        Angrogna
     latitude:    44.843809
     longitude:   7.224643
   anguillara_veneta:
     province_id: PD
-    code:        A296
+    id:          A296
     name:        'Anguillara Veneta'
     latitude:    45.139389
     longitude:   11.889038
   anguillara_sabazia:
     province_id: RM
-    code:        A297
+    id:          A297
     name:        'Anguillara Sabazia'
     latitude:    42.092644
     longitude:   12.269893
   annicco:
     province_id: CR
-    code:        A299
+    id:          A299
     name:        Annicco
     latitude:    45.245648
     longitude:   9.880648
   castello_di_annone:
     province_id: AT
-    code:        A300
+    id:          A300
     name:        'Castello di Annone'
     latitude:    44.879244
     longitude:   8.313776
   annone_di_brianza:
     province_id: LC
-    code:        A301
+    id:          A301
     name:        'Annone di Brianza'
     latitude:    45.803926
     longitude:   9.331574
   annone_veneto:
     province_id: VE
-    code:        A302
+    id:          A302
     name:        'Annone Veneto'
     latitude:    45.794099
     longitude:   12.683527
   anoia:
     province_id: RC
-    code:        A303
+    id:          A303
     name:        Anoia
     latitude:    38.436042
     longitude:   16.083046
   antegnate:
     province_id: BG
-    code:        A304
+    id:          A304
     name:        Antegnate
     latitude:    45.487518
     longitude:   9.7925
   antey_saint_andre:
     province_id: AO
-    code:        A305
+    id:          A305
     name:        Antey-Saint-Andrè
     latitude:    45.807667
     longitude:   7.590018
   anterivo:
     province_id: BZ
-    code:        A306
+    id:          A306
     name:        Anterivo
     latitude:    46.281147
     longitude:   11.367908
   la_magdeleine:
     province_id: AO
-    code:        A308
+    id:          A308
     name:        'La Magdeleine'
     latitude:    45.811063
     longitude:   7.620169
   anticoli_corrado:
     province_id: RM
-    code:        A309
+    id:          A309
     name:        'Anticoli Corrado'
     latitude:    42.009711
     longitude:   12.989007
   fiuggi:
     province_id: FR
-    code:        A310
+    id:          A310
     name:        Fiuggi
     latitude:    41.796736
     longitude:   13.22325
   antignano:
     province_id: AT
-    code:        A312
+    id:          A312
     name:        Antignano
     latitude:    44.844986
     longitude:   8.135851
   antillo:
     province_id: ME
-    code:        A313
+    id:          A313
     name:        Antillo
     latitude:    37.976858
     longitude:   15.244293
   antonimina:
     province_id: RC
-    code:        A314
+    id:          A314
     name:        Antonimina
     latitude:    38.272127
     longitude:   16.148805
   antrodoco:
     province_id: RI
-    code:        A315
+    id:          A315
     name:        Antrodoco
     latitude:    42.416066
     longitude:   13.081007
   antrona_schieranco:
     province_id: VB
-    code:        A317
+    id:          A317
     name:        'Antrona Schieranco'
     latitude:    46.061194
     longitude:   8.115095
   anversa_degli_abruzzi:
     province_id: AQ
-    code:        A318
+    id:          A318
     name:        'Anversa degli Abruzzi'
     latitude:    41.994852
     longitude:   13.804852
   anzano_del_parco:
     province_id: CO
-    code:        A319
+    id:          A319
     name:        'Anzano del Parco'
     latitude:    45.769555
     longitude:   9.196574
   anzano_di_puglia:
     province_id: FG
-    code:        A320
+    id:          A320
     name:        'Anzano di Puglia'
     latitude:    41.123676
     longitude:   15.284695
   anzi:
     province_id: PZ
-    code:        A321
+    id:          A321
     name:        Anzi
     latitude:    40.517667
     longitude:   15.925481
   anzio:
     province_id: RM
-    code:        A323
+    id:          A323
     name:        Anzio
     latitude:    41.447947
     longitude:   12.629052
   anzola_dell_emilia:
     province_id: BO
-    code:        A324
+    id:          A324
     name:        'Anzola dell''Emilia'
     latitude:    44.547352
     longitude:   11.19563
   anzola_d_ossola:
     province_id: VB
-    code:        A325
+    id:          A325
     name:        'Anzola D''Ossola'
     latitude:    45.990018
     longitude:   8.34563
   aosta:
     province_id: AO
-    code:        A326
+    id:          A326
     name:        Aosta
     latitude:    46.510601
     longitude:   13.530801
   apecchio:
     province_id: PU
-    code:        A327
+    id:          A327
     name:        Apecchio
     latitude:    43.559278
     longitude:   12.422035
   apice:
     province_id: BN
-    code:        A328
+    id:          A328
     name:        Apice
     latitude:    41.121278
     longitude:   14.932055
   apiro:
     province_id: MC
-    code:        A329
+    id:          A329
     name:        Apiro
     latitude:    43.390977
     longitude:   13.131771
   apollosa:
     province_id: BN
-    code:        A330
+    id:          A330
     name:        Apollosa
     latitude:    41.095167
     longitude:   14.706259
   appiano_sulla_strada_del_vino:
     province_id: BZ
-    code:        A332
+    id:          A332
     name:        'Appiano sulla Strada del Vino'
     latitude:    46.455775
     longitude:   11.258823
   appiano_gentile:
     province_id: CO
-    code:        A333
+    id:          A333
     name:        'Appiano Gentile'
     latitude:    45.738611
     longitude:   8.979852
   appignano:
     province_id: MC
-    code:        A334
+    id:          A334
     name:        Appignano
     latitude:    43.363759
     longitude:   13.348778
   appignano_del_tronto:
     province_id: AP
-    code:        A335
+    id:          A335
     name:        'Appignano del Tronto'
     latitude:    42.899575
     longitude:   13.662339
   aprica:
     province_id: SO
-    code:        A337
+    id:          A337
     name:        Aprica
     latitude:    46.153778
     longitude:   10.152833
   apricale:
     province_id: IM
-    code:        A338
+    id:          A338
     name:        Apricale
     latitude:    43.880853
     longitude:   7.660807
   apricena:
     province_id: FG
-    code:        A339
+    id:          A339
     name:        Apricena
     latitude:    41.785018
     longitude:   15.444704
   aprigliano:
     province_id: CS
-    code:        A340
+    id:          A340
     name:        Aprigliano
     latitude:    39.239687
     longitude:   16.34064
   aprilia:
     province_id: LT
-    code:        A341
+    id:          A341
     name:        Aprilia
     latitude:    41.590648
     longitude:   12.651111
   aquara:
     province_id: SA
-    code:        A343
+    id:          A343
     name:        Aquara
     latitude:    40.445018
     longitude:   15.25487
   aquila_di_arroscia:
     province_id: IM
-    code:        A344
+    id:          A344
     name:        'Aquila di Arroscia'
     latitude:    44.086776
     longitude:   8.006364
   l_aquila:
     province_id: AQ
-    code:        A345
+    id:          A345
     name:        'L''Aquila'
     latitude:    42.350698
     longitude:   13.399934
   aquileia:
     province_id: UD
-    code:        A346
+    id:          A346
     name:        Aquileia
     latitude:    45.768299
     longitude:   13.364626
   aquilonia:
     province_id: AV
-    code:        A347
+    id:          A347
     name:        Aquilonia
     latitude:    40.987833
     longitude:   15.475315
   aquino:
     province_id: FR
-    code:        A348
+    id:          A348
     name:        Aquino
     latitude:    41.492204
     longitude:   13.70563
   aradeo:
     province_id: LE
-    code:        A350
+    id:          A350
     name:        Aradeo
     latitude:    40.130886
     longitude:   18.131829
   aragona:
     province_id: AG
-    code:        A351
+    id:          A351
     name:        Aragona
     latitude:    37.403181
     longitude:   13.617838
   aramengo:
     province_id: AT
-    code:        A352
+    id:          A352
     name:        Aramengo
     latitude:    45.10012
     longitude:   8.001092
   arba:
     province_id: PN
-    code:        A354
+    id:          A354
     name:        Arba
     latitude:    46.147815
     longitude:   12.791426
   tortoli:
     province_id: OG
-    code:        A355
+    id:          A355
     name:        Tortolì
     latitude:    39.926636
     longitude:   9.657849
   arborea:
     province_id: OR
-    code:        A357
+    id:          A357
     name:        Arborea
     latitude:    39.774074
     longitude:   8.581407
   arborio:
     province_id: VC
-    code:        A358
+    id:          A358
     name:        Arborio
     latitude:    45.495944
     longitude:   8.386407
   arbus:
     province_id: VS
-    code:        A359
+    id:          A359
     name:        Arbus
     latitude:    39.527055
     longitude:   8.598926
   arcade:
     province_id: TV
-    code:        A360
+    id:          A360
     name:        Arcade
     latitude:    45.784537
     longitude:   12.222833
   arce:
     province_id: FR
-    code:        A363
+    id:          A363
     name:        Arce
     latitude:    41.587667
     longitude:   13.574537
   arcene:
     province_id: BG
-    code:        A365
+    id:          A365
     name:        Arcene
     latitude:    45.576574
     longitude:   9.615167
   arcevia:
     province_id: AN
-    code:        A366
+    id:          A366
     name:        Arcevia
     latitude:    43.50193
     longitude:   12.941784
   archi:
     province_id: CH
-    code:        A367
+    id:          A367
     name:        Archi
     latitude:    42.090418
     longitude:   14.382181
   san_nicolo_d_arcidano:
     province_id: OR
-    code:        A368
+    id:          A368
     name:        'San Nicolò D''Arcidano'
     latitude:    39.68396
     longitude:   8.645956
   arcidosso:
     province_id: GR
-    code:        A369
+    id:          A369
     name:        Arcidosso
     latitude:    42.872677
     longitude:   11.537843
   arcinazzo_romano:
     province_id: RM
-    code:        A370
+    id:          A370
     name:        'Arcinazzo Romano'
     latitude:    41.880796
     longitude:   13.115315
   arcisate:
     province_id: VA
-    code:        A371
+    id:          A371
     name:        Arcisate
     latitude:    45.859777
     longitude:   8.860921
   arco:
     province_id: TN
-    code:        A372
+    id:          A372
     name:        Arco
     latitude:    45.917826
     longitude:   10.886865
   arcola:
     province_id: SP
-    code:        A373
+    id:          A373
     name:        Arcola
     latitude:    44.114314
     longitude:   9.905754
   arcole:
     province_id: VR
-    code:        A374
+    id:          A374
     name:        Arcole
     latitude:    45.357833
     longitude:   11.285648
   arconate:
     province_id: MI
-    code:        A375
+    id:          A375
     name:        Arconate
     latitude:    45.539546
     longitude:   8.84794
   arcore:
     province_id: MI
-    code:        A376
+    id:          A376
     name:        Arcore
     latitude:    45.62694
     longitude:   9.326516
   arcugnano:
     province_id: VI
-    code:        A377
+    id:          A377
     name:        Arcugnano
     latitude:    45.495161
     longitude:   11.55147
   ardara:
     province_id: SS
-    code:        A379
+    id:          A379
     name:        Ardara
     latitude:    40.622898
     longitude:   8.810182
   ardauli:
     province_id: OR
-    code:        A380
+    id:          A380
     name:        Ardauli
     latitude:    40.085796
     longitude:   8.9125
   ardenno:
     province_id: SO
-    code:        A382
+    id:          A382
     name:        Ardenno
     latitude:    46.165333
     longitude:   9.646111
   ardesio:
     province_id: BG
-    code:        A383
+    id:          A383
     name:        Ardesio
     latitude:    45.938444
     longitude:   9.93237
   ardore:
     province_id: RC
-    code:        A385
+    id:          A385
     name:        Ardore
     latitude:    38.192691
     longitude:   16.167414
   arena:
     province_id: VV
-    code:        A386
+    id:          A386
     name:        Arena
     latitude:    38.562487
     longitude:   16.210387
   arena_po:
     province_id: PV
-    code:        A387
+    id:          A387
     name:        'Arena Po'
     latitude:    45.097667
     longitude:   9.363611
   arenzano:
     province_id: GE
-    code:        A388
+    id:          A388
     name:        Arenzano
     latitude:    44.404025
     longitude:   8.680979
   arese:
     province_id: MI
-    code:        A389
+    id:          A389
     name:        Arese
     latitude:    45.55017
     longitude:   9.078381
   arezzo:
     province_id: AR
-    code:        A390
+    id:          A390
     name:        Arezzo
     latitude:    43.471201
     longitude:   11.863062
   argegno:
     province_id: CO
-    code:        A391
+    id:          A391
     name:        Argegno
     latitude:    45.943907
     longitude:   9.126722
   argelato:
     province_id: BO
-    code:        A392
+    id:          A392
     name:        Argelato
     latitude:    44.6425
     longitude:   11.348926
   argenta:
     province_id: FE
-    code:        A393
+    id:          A393
     name:        Argenta
     latitude:    44.613916
     longitude:   11.83679
   argentera:
     province_id: CN
-    code:        A394
+    id:          A394
     name:        Argentera
     latitude:    44.396263
     longitude:   6.938113
   arguello:
     province_id: CN
-    code:        A396
+    id:          A396
     name:        Arguello
     latitude:    44.583105
     longitude:   8.108608
   argusto:
     province_id: CZ
-    code:        A397
+    id:          A397
     name:        Argusto
     latitude:    38.681889
     longitude:   16.436259
   ari:
     province_id: CH
-    code:        A398
+    id:          A398
     name:        Ari
     latitude:    42.293367
     longitude:   14.264034
   ariano_irpino:
     province_id: AV
-    code:        A399
+    id:          A399
     name:        'Ariano Irpino'
     latitude:    41.152519
     longitude:   15.08758
   ariano_nel_polesine:
     province_id: RO
-    code:        A400
+    id:          A400
     name:        'Ariano nel Polesine'
     latitude:    44.947037
     longitude:   12.125944
   ariccia:
     province_id: RM
-    code:        A401
+    id:          A401
     name:        Ariccia
     latitude:    41.721701
     longitude:   12.674063
   arielli:
     province_id: CH
-    code:        A402
+    id:          A402
     name:        Arielli
     latitude:    42.263168
     longitude:   14.307327
   arienzo:
     province_id: CE
-    code:        A403
+    id:          A403
     name:        Arienzo
     latitude:    41.022027
     longitude:   14.49372
   arignano:
     province_id: TO
-    code:        A405
+    id:          A405
     name:        Arignano
     latitude:    45.043812
     longitude:   7.90109
   aritzo:
     province_id: NU
-    code:        A407
+    id:          A407
     name:        Aritzo
     latitude:    39.957833
     longitude:   9.197518
   arizzano:
     province_id: VB
-    code:        A409
+    id:          A409
     name:        Arizzano
     latitude:    45.956035
     longitude:   8.582134
   arlena_di_castro:
     province_id: VT
-    code:        A412
+    id:          A412
     name:        'Arlena di Castro'
     latitude:    42.46391
     longitude:   11.821774
   arluno:
     province_id: MI
-    code:        A413
+    id:          A413
     name:        Arluno
     latitude:    45.505223
     longitude:   8.93887
   armeno:
     province_id: NO
-    code:        A414
+    id:          A414
     name:        Armeno
     latitude:    45.822548
     longitude:   8.440001
   armento:
     province_id: PZ
-    code:        A415
+    id:          A415
     name:        Armento
     latitude:    40.307799
     longitude:   16.065471
   armo:
     province_id: IM
-    code:        A418
+    id:          A418
     name:        Armo
     latitude:    44.088039
     longitude:   7.91344
   armungia:
     province_id: CA
-    code:        A419
+    id:          A419
     name:        Armungia
     latitude:    39.522536
     longitude:   9.38231
   arnara:
     province_id: FR
-    code:        A421
+    id:          A421
     name:        Arnara
     latitude:    41.585648
     longitude:   13.389389
   arnasco:
     province_id: SV
-    code:        A422
+    id:          A422
     name:        Arnasco
     latitude:    44.078138
     longitude:   8.108822
   arnad:
     province_id: AO
-    code:        A424
+    id:          A424
     name:        Arnad
     latitude:    45.643363
     longitude:   7.72295
   arnesano:
     province_id: LE
-    code:        A425
+    id:          A425
     name:        Arnesano
     latitude:    40.33813
     longitude:   18.091722
   arola:
     province_id: VB
-    code:        A427
+    id:          A427
     name:        Arola
     latitude:    45.809556
     longitude:   8.35813
   arona:
     province_id: NO
-    code:        A429
+    id:          A429
     name:        Arona
     latitude:    45.756984
     longitude:   8.559952
   arosio:
     province_id: CO
-    code:        A430
+    id:          A430
     name:        Arosio
     latitude:    45.717981
     longitude:   9.209241
   arpaia:
     province_id: BN
-    code:        A431
+    id:          A431
     name:        Arpaia
     latitude:    41.03838
     longitude:   14.551094
   arpaise:
     province_id: BN
-    code:        A432
+    id:          A432
     name:        Arpaise
     latitude:    41.032352
     longitude:   14.745333
   arpino:
     province_id: FR
-    code:        A433
+    id:          A433
     name:        Arpino
     latitude:    41.648444
     longitude:   13.60987
   arqua_petrarca:
     province_id: PD
-    code:        A434
+    id:          A434
     name:        'Arquà Petrarca'
     latitude:    45.270052
     longitude:   11.716792
   arqua_polesine:
     province_id: RO
-    code:        A435
+    id:          A435
     name:        'Arquà Polesine'
     latitude:    45.011111
     longitude:   11.740963
   arquata_scrivia:
     province_id: AL
-    code:        A436
+    id:          A436
     name:        'Arquata Scrivia'
     latitude:    44.68799
     longitude:   8.885708
   arquata_del_tronto:
     province_id: AP
-    code:        A437
+    id:          A437
     name:        'Arquata del Tronto'
     latitude:    42.773065
     longitude:   13.296665
   arre:
     province_id: PD
-    code:        A438
+    id:          A438
     name:        Arre
     latitude:    45.219074
     longitude:   11.925333
   arrone:
     province_id: TR
-    code:        A439
+    id:          A439
     name:        Arrone
     latitude:    42.583712
     longitude:   12.767753
   arzago_d_adda:
     province_id: BG
-    code:        A440
+    id:          A440
     name:        'Arzago D''Adda'
     latitude:    45.482352
     longitude:   9.565333
   arsago_seprio:
     province_id: VA
-    code:        A441
+    id:          A441
     name:        'Arsago Seprio'
     latitude:    45.689389
     longitude:   8.735796
   arsie:
     province_id: BL
-    code:        A443
+    id:          A443
     name:        Arsiè
     latitude:    45.983907
     longitude:   11.759389
   arsiero:
     province_id: VI
-    code:        A444
+    id:          A444
     name:        Arsiero
     latitude:    45.803926
     longitude:   11.355333
   arsita:
     province_id: TE
-    code:        A445
+    id:          A445
     name:        Arsita
     latitude:    42.50238
     longitude:   13.784568
   arsoli:
     province_id: RM
-    code:        A446
+    id:          A446
     name:        Arsoli
     latitude:    42.03733
     longitude:   13.013876
   arta_terme:
     province_id: UD
-    code:        A447
+    id:          A447
     name:        'Arta Terme'
     latitude:    46.483391
     longitude:   13.019112
   artegna:
     province_id: UD
-    code:        A448
+    id:          A448
     name:        Artegna
     latitude:    46.23737
     longitude:   13.153926
   artena:
     province_id: RM
-    code:        A449
+    id:          A449
     name:        Artena
     latitude:    41.739673
     longitude:   12.916397
   artogne:
     province_id: BS
-    code:        A451
+    id:          A451
     name:        Artogne
     latitude:    45.849606
     longitude:   10.165234
   arvier:
     province_id: AO
-    code:        A452
+    id:          A452
     name:        Arvier
     latitude:    45.703148
     longitude:   7.167056
   arzachena:
     province_id: OT
-    code:        A453
+    id:          A453
     name:        Arzachena
     latitude:    41.078754
     longitude:   9.388149
   arzana:
     province_id: OG
-    code:        A454
+    id:          A454
     name:        Arzana
     latitude:    39.92
     longitude:   9.528926
   arzano:
     province_id: NA
-    code:        A455
+    id:          A455
     name:        Arzano
     latitude:    40.915498
     longitude:   14.268152
   arzene:
     province_id: PN
-    code:        A456
+    id:          A456
     name:        Arzene
     latitude:    46.00237
     longitude:   12.847833
   arzergrande:
     province_id: PD
-    code:        A458
+    id:          A458
     name:        Arzergrande
     latitude:    45.273759
     longitude:   12.052833
   arzignano:
     province_id: VI
-    code:        A459
+    id:          A459
     name:        Arzignano
     latitude:    45.519388
     longitude:   11.339584
   ascea:
     province_id: SA
-    code:        A460
+    id:          A460
     name:        Ascea
     latitude:    40.142667
     longitude:   15.186741
   asciano:
     province_id: SI
-    code:        A461
+    id:          A461
     name:        Asciano
     latitude:    43.233379
     longitude:   11.56151
   ascoli_piceno:
     province_id: AP
-    code:        A462
+    id:          A462
     name:        'Ascoli Piceno'
     latitude:    42.855402
     longitude:   13.574977
   ascoli_satriano:
     province_id: FG
-    code:        A463
+    id:          A463
     name:        'Ascoli Satriano'
     latitude:    41.207153
     longitude:   15.562485
   ascrea:
     province_id: RI
-    code:        A464
+    id:          A464
     name:        Ascrea
     latitude:    42.195614
     longitude:   12.996878
   asiago:
     province_id: VI
-    code:        A465
+    id:          A465
     name:        Asiago
     latitude:    45.876111
     longitude:   11.508778
   asigliano_vercellese:
     province_id: VC
-    code:        A466
+    id:          A466
     name:        'Asigliano Vercellese'
     latitude:    45.262518
     longitude:   8.409704
   asigliano_veneto:
     province_id: VI
-    code:        A467
+    id:          A467
     name:        'Asigliano Veneto'
     latitude:    45.30563
     longitude:   11.447518
   sinalunga:
     province_id: SI
-    code:        A468
+    id:          A468
     name:        Sinalunga
     latitude:    43.214915
     longitude:   11.743505
   asola:
     province_id: MN
-    code:        A470
+    id:          A470
     name:        Asola
     latitude:    45.222037
     longitude:   10.414704
   asolo:
     province_id: TV
-    code:        A471
+    id:          A471
     name:        Asolo
     latitude:    45.793296
     longitude:   11.912833
   casperia:
     province_id: RI
-    code:        A472
+    id:          A472
     name:        Casperia
     latitude:    42.340796
     longitude:   12.671722
   assago:
     province_id: MI
-    code:        A473
+    id:          A473
     name:        Assago
     latitude:    45.404921
     longitude:   9.130413
   assemini:
     province_id: CA
-    code:        A474
+    id:          A474
     name:        Assemini
     latitude:    39.292667
     longitude:   9.0025
   assisi:
     province_id: PG
-    code:        A475
+    id:          A475
     name:        Assisi
     latitude:    43.070167
     longitude:   12.617518
   asso:
     province_id: CO
-    code:        A476
+    id:          A476
     name:        Asso
     latitude:    45.86227
     longitude:   9.27085
   assolo:
     province_id: OR
-    code:        A477
+    id:          A477
     name:        Assolo
     latitude:    39.810938
     longitude:   8.919056
   assoro:
     province_id: EN
-    code:        A478
+    id:          A478
     name:        Assoro
     latitude:    37.628419
     longitude:   14.423879
   asti:
     province_id: AT
-    code:        A479
+    id:          A479
     name:        Asti
     latitude:    44.900864
     longitude:   8.206813
   asuni:
     province_id: OR
-    code:        A480
+    id:          A480
     name:        Asuni
     latitude:    39.873611
     longitude:   8.947518
   ateleta:
     province_id: AQ
-    code:        A481
+    id:          A481
     name:        Ateleta
     latitude:    41.854829
     longitude:   14.201356
   atella:
     province_id: PZ
-    code:        A482
+    id:          A482
     name:        Atella
     latitude:    40.87681
     longitude:   15.651314
   atena_lucana:
     province_id: SA
-    code:        A484
+    id:          A484
     name:        'Atena Lucana'
     latitude:    40.454251
     longitude:   15.556088
   atessa:
     province_id: CH
-    code:        A485
+    id:          A485
     name:        Atessa
     latitude:    42.066713
     longitude:   14.446061
   atina:
     province_id: FR
-    code:        A486
+    id:          A486
     name:        Atina
     latitude:    41.620924
     longitude:   13.801186
   atrani:
     province_id: SA
-    code:        A487
+    id:          A487
     name:        Atrani
     latitude:    40.636063
     longitude:   14.608905
   atri:
     province_id: TE
-    code:        A488
+    id:          A488
     name:        Atri
     latitude:    42.580202
     longitude:   13.981002
   atripalda:
     province_id: AV
-    code:        A489
+    id:          A489
     name:        Atripalda
     latitude:    40.916889
     longitude:   14.825648
   attigliano:
     province_id: TR
-    code:        A490
+    id:          A490
     name:        Attigliano
     latitude:    42.516753
     longitude:   12.292746
   attimis:
     province_id: UD
-    code:        A491
+    id:          A491
     name:        Attimis
     latitude:    46.188076
     longitude:   13.306249
   atzara:
     province_id: NU
-    code:        A492
+    id:          A492
     name:        Atzara
     latitude:    39.992927
     longitude:   9.076494
   auditore:
     province_id: PU
-    code:        A493
+    id:          A493
     name:        Auditore
     latitude:    43.821354
     longitude:   12.57098
   augusta:
     province_id: SR
-    code:        A494
+    id:          A494
     name:        Augusta
     latitude:    37.233799
     longitude:   15.21889
   auletta:
     province_id: SA
-    code:        A495
+    id:          A495
     name:        Auletta
     latitude:    40.562309
     longitude:   15.425603
   aulla:
     province_id: MS
-    code:        A496
+    id:          A496
     name:        Aulla
     latitude:    44.205533
     longitude:   9.969807
   aurano:
     province_id: VB
-    code:        A497
+    id:          A497
     name:        Aurano
     latitude:    45.999932
     longitude:   8.589027
   aurigo:
     province_id: IM
-    code:        A499
+    id:          A499
     name:        Aurigo
     latitude:    43.983626
     longitude:   7.92338
   auronzo_di_cadore:
     province_id: BL
-    code:        A501
+    id:          A501
     name:        'Auronzo di Cadore'
     latitude:    46.551201
     longitude:   12.443205
   ausonia:
     province_id: FR
-    code:        A502
+    id:          A502
     name:        Ausonia
     latitude:    41.361587
     longitude:   13.749198
   austis:
     province_id: NU
-    code:        A503
+    id:          A503
     name:        Austis
     latitude:    40.071722
     longitude:   9.088907
   avegno:
     province_id: GE
-    code:        A506
+    id:          A506
     name:        Avegno
     latitude:    44.388237
     longitude:   9.1637
   avelengo:
     province_id: BZ
-    code:        A507
+    id:          A507
     name:        Avelengo
     latitude:    46.646225
     longitude:   11.224718
   avella:
     province_id: AV
-    code:        A508
+    id:          A508
     name:        Avella
     latitude:    40.960018
     longitude:   14.601407
   avellino:
     province_id: AV
-    code:        A509
+    id:          A509
     name:        Avellino
     latitude:    40.915168
     longitude:   14.795488
   averara:
     province_id: BG
-    code:        A511
+    id:          A511
     name:        Averara
     latitude:    45.989222
     longitude:   9.631741
   aversa:
     province_id: CE
-    code:        A512
+    id:          A512
     name:        Aversa
     latitude:    40.973335
     longitude:   14.207684
   avetrana:
     province_id: TA
-    code:        A514
+    id:          A514
     name:        Avetrana
     latitude:    40.34942
     longitude:   17.727739
   avezzano:
     province_id: AQ
-    code:        A515
+    id:          A515
     name:        Avezzano
     latitude:    42.028408
     longitude:   13.425618
   aviano:
     province_id: PN
-    code:        A516
+    id:          A516
     name:        Aviano
     latitude:    46.070456
     longitude:   12.58675
   aviatico:
     province_id: BG
-    code:        A517
+    id:          A517
     name:        Aviatico
     latitude:    45.798611
     longitude:   9.7725
   avigliana:
     province_id: TO
-    code:        A518
+    id:          A518
     name:        Avigliana
     latitude:    45.07928
     longitude:   7.396676
   avigliano:
     province_id: PZ
-    code:        A519
+    id:          A519
     name:        Avigliano
     latitude:    40.730796
     longitude:   15.721278
   avio:
     province_id: TN
-    code:        A520
+    id:          A520
     name:        Avio
     latitude:    45.73487
     longitude:   10.938296
   avise:
     province_id: AO
-    code:        A521
+    id:          A521
     name:        Avise
     latitude:    45.709852
     longitude:   7.141111
   avola:
     province_id: SR
-    code:        A522
+    id:          A522
     name:        Avola
     latitude:    36.909868
     longitude:   15.13432
   avolasca:
     province_id: AL
-    code:        A523
+    id:          A523
     name:        Avolasca
     latitude:    44.803724
     longitude:   8.96565
   azeglio:
     province_id: TO
-    code:        A525
+    id:          A525
     name:        Azeglio
     latitude:    45.424556
     longitude:   7.995
   azzanello:
     province_id: CR
-    code:        A526
+    id:          A526
     name:        Azzanello
     latitude:    45.315018
     longitude:   9.920796
   azzano_d_asti:
     province_id: AT
-    code:        A527
+    id:          A527
     name:        'Azzano D''Asti'
     latitude:    44.875411
     longitude:   8.26794
   azzano_san_paolo:
     province_id: BG
-    code:        A528
+    id:          A528
     name:        'Azzano San Paolo'
     latitude:    45.658907
     longitude:   9.674241
   azzano_mella:
     province_id: BS
-    code:        A529
+    id:          A529
     name:        'Azzano Mella'
     latitude:    45.455648
     longitude:   10.118296
   azzano_decimo:
     province_id: PN
-    code:        A530
+    id:          A530
     name:        'Azzano Decimo'
     latitude:    45.881753
     longitude:   12.714705
   azzate:
     province_id: VA
-    code:        A531
+    id:          A531
     name:        Azzate
     latitude:    45.779651
     longitude:   8.793903
   azzio:
     province_id: VA
-    code:        A532
+    id:          A532
     name:        Azzio
     latitude:    45.88563
     longitude:   8.709704
   azzone:
     province_id: BG
-    code:        A533
+    id:          A533
     name:        Azzone
     latitude:    45.979232
     longitude:   10.111898
