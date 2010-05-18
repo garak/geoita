@@ -1,0 +1,235 @@
+City:
+  eboli:
+    province_id: SA
+    code:        D390
+    name:        Eboli
+    latitude:    40.615333
+    longitude:   15.058759
+  edolo:
+    province_id: BS
+    code:        D391
+    name:        Edolo
+    latitude:    46.179241
+    longitude:   10.330333
+  egna:
+    province_id: BZ
+    code:        D392
+    name:        Egna
+    latitude:    46.317815
+    longitude:   11.273778
+  elice:
+    province_id: PE
+    code:        D394
+    name:        Elice
+    latitude:    42.521407
+    longitude:   13.970333
+  elini:
+    province_id: OG
+    code:        D395
+    name:        Elini
+    latitude:    39.900754
+    longitude:   9.531276
+  ello:
+    province_id: LC
+    code:        D398
+    name:        Ello
+    latitude:    45.786741
+    longitude:   9.366407
+  elmas:
+    province_id: CA
+    code:        D399
+    name:        Elmas
+    latitude:    39.267525
+    longitude:   9.049545
+  elva:
+    province_id: CN
+    code:        D401
+    name:        Elva
+    latitude:    44.539875
+    longitude:   7.089808
+  emarese:
+    province_id: AO
+    code:        D402
+    name:        Emarese
+    latitude:    45.725974
+    longitude:   7.687691
+  empoli:
+    province_id: FI
+    code:        D403
+    name:        Empoli
+    latitude:    43.718611
+    longitude:   10.942518
+  endine_gaiano:
+    province_id: BG
+    code:        D406
+    name:        'Endine Gaiano'
+    latitude:    45.793444
+    longitude:   9.970167
+  enego:
+    province_id: VI
+    code:        D407
+    name:        Enego
+    latitude:    45.9425
+    longitude:   11.706574
+  enemonzo:
+    province_id: UD
+    code:        D408
+    name:        Enemonzo
+    latitude:    46.41
+    longitude:   12.87737
+  entracque:
+    province_id: CN
+    code:        D410
+    name:        Entracque
+    latitude:    44.240588
+    longitude:   7.397581
+  entratico:
+    province_id: BG
+    code:        D411
+    name:        Entratico
+    latitude:    45.708759
+    longitude:   9.874222
+  envie:
+    province_id: CN
+    code:        D412
+    name:        Envie
+    latitude:    44.683296
+    longitude:   7.37237
+  episcopia:
+    province_id: PZ
+    code:        D414
+    name:        Episcopia
+    latitude:    40.075963
+    longitude:   16.099074
+  eraclea:
+    province_id: VE
+    code:        D415
+    name:        Eraclea
+    latitude:    45.57858
+    longitude:   12.678104
+  erba:
+    province_id: CO
+    code:        D416
+    name:        Erba
+    latitude:    45.812211
+    longitude:   9.223979
+  erbe:
+    province_id: VR
+    code:        D419
+    name:        Erbè
+    latitude:    45.242518
+    longitude:   10.970333
+  erbezzo:
+    province_id: VR
+    code:        D420
+    name:        Erbezzo
+    latitude:    45.641407
+    longitude:   11.001722
+  erbusco:
+    province_id: BS
+    code:        D421
+    name:        Erbusco
+    latitude:    45.597418
+    longitude:   9.971828
+  erchie:
+    province_id: BR
+    code:        D422
+    name:        Erchie
+    latitude:    40.439076
+    longitude:   17.731399
+  erice:
+    province_id: TP
+    code:        D423
+    name:        Erice
+    latitude:    38.036517
+    longitude:   12.583611
+  erli:
+    province_id: SV
+    code:        D424
+    name:        Erli
+    latitude:    44.136481
+    longitude:   8.10365
+  erto_e_casso:
+    province_id: PN
+    code:        D426
+    name:        'Erto e Casso'
+    latitude:    46.277833
+    longitude:   12.373148
+  erve:
+    province_id: LC
+    code:        D428
+    name:        Erve
+    latitude:    45.822348
+    longitude:   9.453338
+  esanatoglia:
+    province_id: MC
+    code:        D429
+    name:        Esanatoglia
+    latitude:    43.252888
+    longitude:   12.950252
+  escalaplano:
+    province_id: CA
+    code:        D430
+    name:        Escalaplano
+    latitude:    39.627829
+    longitude:   9.358112
+  escolca:
+    province_id: CA
+    code:        D431
+    name:        Escolca
+    latitude:    39.699537
+    longitude:   9.1225
+  exilles:
+    province_id: TO
+    code:        D433
+    name:        Exilles
+    latitude:    45.098611
+    longitude:   6.930315
+  esine:
+    province_id: BS
+    code:        D434
+    name:        Esine
+    latitude:    45.925427
+    longitude:   10.250954
+  esino_lario:
+    province_id: LC
+    code:        D436
+    name:        'Esino Lario'
+    latitude:    45.995341
+    longitude:   9.33595
+  esperia:
+    province_id: FR
+    code:        D440
+    name:        Esperia
+    latitude:    41.384974
+    longitude:   13.684714
+  esporlatu:
+    province_id: SS
+    code:        D441
+    name:        Esporlatu
+    latitude:    40.38563
+    longitude:   8.990963
+  este:
+    province_id: PD
+    code:        D442
+    name:        Este
+    latitude:    45.227638
+    longitude:   11.656559
+  esterzili:
+    province_id: CA
+    code:        D443
+    name:        Esterzili
+    latitude:    39.780333
+    longitude:   9.285796
+  etroubles:
+    province_id: AO
+    code:        D444
+    name:        Etroubles
+    latitude:    45.821574
+    longitude:   7.230481
+  eupilio:
+    province_id: CO
+    code:        D445
+    name:        Eupilio
+    latitude:    45.819058
+    longitude:   9.270945

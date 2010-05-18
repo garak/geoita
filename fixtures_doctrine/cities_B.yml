@@ -1,0 +1,3577 @@
+City:
+  City_baceno:
+    Province:  ProvinceVB
+    code:      A534
+    name:      Baceno
+    latitude:  46.261316
+    longitude: 8.318878
+  City_bacoli:
+    Province:  ProvinceNA
+    code:      A535
+    name:      Bacoli
+    latitude:  40.8013
+    longitude: 14.079796
+  City_badalucco:
+    Province:  ProvinceIM
+    code:      A536
+    name:      Badalucco
+    latitude:  43.916848
+    longitude: 7.847316
+  City_badia:
+    Province:  ProvinceBZ
+    code:      A537
+    name:      Badia
+    latitude:  46.611096
+    longitude: 11.894537
+  City_badia_pavese:
+    Province:  ProvincePV
+    code:      A538
+    name:      'Badia Pavese'
+    latitude:  45.121889
+    longitude: 9.46987
+  City_badia_polesine:
+    Province:  ProvinceRO
+    code:      A539
+    name:      'Badia Polesine'
+    latitude:  45.097234
+    longitude: 11.489113
+  City_badia_calavena:
+    Province:  ProvinceVR
+    code:      A540
+    name:      'Badia Calavena'
+    latitude:  45.567352
+    longitude: 11.153778
+  City_badia_tedalda:
+    Province:  ProvinceAR
+    code:      A541
+    name:      'Badia Tedalda'
+    latitude:  43.708958
+    longitude: 12.186491
+  City_badolato:
+    Province:  ProvinceCZ
+    code:      A542
+    name:      Badolato
+    latitude:  38.569232
+    longitude: 16.525315
+  City_bagaladi:
+    Province:  ProvinceRC
+    code:      A544
+    name:      Bagaladi
+    latitude:  38.027833
+    longitude: 15.82237
+  City_bagheria:
+    Province:  ProvincePA
+    code:      A546
+    name:      Bagheria
+    latitude:  38.078368
+    longitude: 13.506819
+  City_bagnacavallo:
+    Province:  ProvinceRA
+    code:      A547
+    name:      Bagnacavallo
+    latitude:  44.413444
+    longitude: 11.97813
+  City_bagnaria:
+    Province:  ProvincePV
+    code:      A550
+    name:      Bagnaria
+    latitude:  44.827609
+    longitude: 9.12331
+  City_bagnara_di_romagna:
+    Province:  ProvinceRA
+    code:      A551
+    name:      'Bagnara di Romagna'
+    latitude:  44.38929
+    longitude: 11.826567
+  City_bagnara_calabra:
+    Province:  ProvinceRC
+    code:      A552
+    name:      'Bagnara Calabra'
+    latitude:  38.288488
+    longitude: 15.808182
+  City_bagnaria_arsa:
+    Province:  ProvinceUD
+    code:      A553
+    name:      'Bagnaria Arsa'
+    latitude:  45.883681
+    longitude: 13.284466
+  City_bagnasco:
+    Province:  ProvinceCN
+    code:      A555
+    name:      Bagnasco
+    latitude:  44.307293
+    longitude: 8.046251
+  City_bagnatica:
+    Province:  ProvinceBG
+    code:      A557
+    name:      Bagnatica
+    latitude:  45.661895
+    longitude: 9.782194
+  City_porretta_terme:
+    Province:  ProvinceBO
+    code:      A558
+    name:      'Porretta Terme'
+    latitude:  44.160167
+    longitude: 10.973463
+  City_casciana_terme:
+    Province:  ProvincePI
+    code:      A559
+    name:      'Casciana Terme'
+    latitude:  43.528463
+    longitude: 10.619222
+  City_bagni_di_lucca:
+    Province:  ProvinceLU
+    code:      A560
+    name:      'Bagni di Lucca'
+    latitude:  44.011949
+    longitude: 10.59078
+  City_montecatini_terme:
+    Province:  ProvincePT
+    code:      A561
+    name:      'Montecatini Terme'
+    latitude:  43.884537
+    longitude: 10.774704
+  City_san_giuliano_terme:
+    Province:  ProvincePI
+    code:      A562
+    name:      'San Giuliano Terme'
+    latitude:  43.762515
+    longitude: 10.440353
+  City_bagno_a_ripoli:
+    Province:  ProvinceFI
+    code:      A564
+    name:      'Bagno a Ripoli'
+    latitude:  43.753664
+    longitude: 11.32261
+  City_bagno_di_romagna:
+    Province:  ProvinceFC
+    code:      A565
+    name:      'Bagno di Romagna'
+    latitude:  43.833602
+    longitude: 11.959911
+  City_bagnoli_irpino:
+    Province:  ProvinceAV
+    code:      A566
+    name:      'Bagnoli Irpino'
+    latitude:  40.831716
+    longitude: 15.070243
+  City_bagnoli_del_trigno:
+    Province:  ProvinceIS
+    code:      A567
+    name:      'Bagnoli del Trigno'
+    latitude:  41.704074
+    longitude: 14.457518
+  City_bagnoli_di_sopra:
+    Province:  ProvincePD
+    code:      A568
+    name:      'Bagnoli di Sopra'
+    latitude:  45.188611
+    longitude: 11.885944
+  City_bagnolo_mella:
+    Province:  ProvinceBS
+    code:      A569
+    name:      'Bagnolo Mella'
+    latitude:  45.429719
+    longitude: 10.186154
+  City_bagnolo_cremasco:
+    Province:  ProvinceCR
+    code:      A570
+    name:      'Bagnolo Cremasco'
+    latitude:  45.362204
+    longitude: 9.614074
+  City_bagnolo_piemonte:
+    Province:  ProvinceCN
+    code:      A571
+    name:      'Bagnolo Piemonte'
+    latitude:  44.761553
+    longitude: 7.314969
+  City_bagnolo_del_salento:
+    Province:  ProvinceLE
+    code:      A572
+    name:      'Bagnolo del Salento'
+    latitude:  40.151741
+    longitude: 18.353444
+  City_bagnolo_in_piano:
+    Province:  ProvinceRE
+    code:      A573
+    name:      'Bagnolo in Piano'
+    latitude:  44.759132
+    longitude: 10.671362
+  City_bagnolo_di_po:
+    Province:  ProvinceRO
+    code:      A574
+    name:      'Bagnolo di Po'
+    latitude:  45.016407
+    longitude: 11.502056
+  City_bagnolo_san_vito:
+    Province:  ProvinceMN
+    code:      A575
+    name:      'Bagnolo San Vito'
+    latitude:  45.08934
+    longitude: 10.876407
+  City_bagnone:
+    Province:  ProvinceMS
+    code:      A576
+    name:      Bagnone
+    latitude:  44.31532
+    longitude: 9.995653
+  City_bagnoregio:
+    Province:  ProvinceVT
+    code:      A577
+    name:      Bagnoregio
+    latitude:  42.627233
+    longitude: 12.090299
+  City_bagolino:
+    Province:  ProvinceBS
+    code:      A578
+    name:      Bagolino
+    latitude:  45.826278
+    longitude: 10.460648
+  City_baia_e_latina:
+    Province:  ProvinceCE
+    code:      A579
+    name:      'Baia e Latina'
+    latitude:  41.303907
+    longitude: 14.253148
+  City_baiano:
+    Province:  ProvinceAV
+    code:      A580
+    name:      Baiano
+    latitude:  40.953611
+    longitude: 14.617667
+  City_baiardo:
+    Province:  ProvinceIM
+    code:      A581
+    name:      Baiardo
+    latitude:  43.903522
+    longitude: 7.718819
+  City_bairo:
+    Province:  ProvinceTO
+    code:      A584
+    name:      Bairo
+    latitude:  45.387037
+    longitude: 7.756407
+  City_baiso:
+    Province:  ProvinceRE
+    code:      A586
+    name:      Baiso
+    latitude:  44.502055
+    longitude: 10.604832
+  City_balangero:
+    Province:  ProvinceTO
+    code:      A587
+    name:      Balangero
+    latitude:  45.271407
+    longitude: 7.518611
+  City_baldichieri_d_asti:
+    Province:  ProvinceAT
+    code:      A588
+    name:      'Baldichieri D''Asti'
+    latitude:  44.905458
+    longitude: 8.090815
+  City_baldissero_d_alba:
+    Province:  ProvinceCN
+    code:      A589
+    name:      'Baldissero D''Alba'
+    latitude:  44.763937
+    longitude: 7.90861
+  City_baldissero_canavese:
+    Province:  ProvinceTO
+    code:      A590
+    name:      'Baldissero Canavese'
+    latitude:  45.411259
+    longitude: 7.745315
+  City_baldissero_torinese:
+    Province:  ProvinceTO
+    code:      A591
+    name:      'Baldissero Torinese'
+    latitude:  45.068529
+    longitude: 7.817025
+  City_balestrate:
+    Province:  ProvincePA
+    code:      A592
+    name:      Balestrate
+    latitude:  38.052371
+    longitude: 13.008154
+  City_balestrino:
+    Province:  ProvinceSV
+    code:      A593
+    name:      Balestrino
+    latitude:  44.124672
+    longitude: 8.172249
+  City_ballabio:
+    Province:  ProvinceLC
+    code:      A594
+    name:      Ballabio
+    latitude:  45.89924
+    longitude: 9.424522
+  City_ballao:
+    Province:  ProvinceCA
+    code:      A597
+    name:      Ballao
+    latitude:  39.54906
+    longitude: 9.361819
+  City_balme:
+    Province:  ProvinceTO
+    code:      A599
+    name:      Balme
+    latitude:  45.302172
+    longitude: 7.218066
+  City_balmuccia:
+    Province:  ProvinceVC
+    code:      A600
+    name:      Balmuccia
+    latitude:  45.818897
+    longitude: 8.142656
+  City_balocco:
+    Province:  ProvinceVC
+    code:      A601
+    name:      Balocco
+    latitude:  45.456259
+    longitude: 8.281259
+  City_balsorano:
+    Province:  ProvinceAQ
+    code:      A603
+    name:      Balsorano
+    latitude:  41.810963
+    longitude: 13.560796
+  City_balvano:
+    Province:  ProvincePZ
+    code:      A604
+    name:      Balvano
+    latitude:  40.651426
+    longitude: 15.515
+  City_balzola:
+    Province:  ProvinceAL
+    code:      A605
+    name:      Balzola
+    latitude:  45.184537
+    longitude: 8.404537
+  City_banari:
+    Province:  ProvinceSS
+    code:      A606
+    name:      Banari
+    latitude:  40.571621
+    longitude: 8.701545
+  City_banchette:
+    Province:  ProvinceTO
+    code:      A607
+    name:      Banchette
+    latitude:  45.454537
+    longitude: 7.857518
+  City_villa_verde:
+    Province:  ProvinceOR
+    code:      A609
+    name:      'Villa Verde'
+    latitude:  39.797246
+    longitude: 8.820442
+  City_bannio_anzino:
+    Province:  ProvinceVB
+    code:      A610
+    name:      'Bannio Anzino'
+    latitude:  45.983531
+    longitude: 8.146019
+  City_banzi:
+    Province:  ProvincePZ
+    code:      A612
+    name:      Banzi
+    latitude:  40.861741
+    longitude: 16.013926
+  City_baone:
+    Province:  ProvincePD
+    code:      A613
+    name:      Baone
+    latitude:  45.244537
+    longitude: 11.689241
+  City_baradili:
+    Province:  ProvinceOR
+    code:      A614
+    name:      Baradili
+    latitude:  39.722518
+    longitude: 8.898444
+  City_baragiano:
+    Province:  ProvincePZ
+    code:      A615
+    name:      Baragiano
+    latitude:  40.680315
+    longitude: 15.595315
+  City_baranello:
+    Province:  ProvinceCB
+    code:      A616
+    name:      Baranello
+    latitude:  41.527206
+    longitude: 14.556125
+  City_barano_d_ischia:
+    Province:  ProvinceNA
+    code:      A617
+    name:      'Barano d''Ischia'
+    latitude:  40.715278
+    longitude: 13.910462
+  City_baranzate:
+    Province:  ProvinceMI
+    code:      A618
+    name:      Baranzate
+    latitude:  45.52739
+    longitude: 9.117011
+  City_barasso:
+    Province:  ProvinceVA
+    code:      A619
+    name:      Barasso
+    latitude:  45.840247
+    longitude: 8.757175
+  City_baratili_san_pietro:
+    Province:  ProvinceOR
+    code:      A621
+    name:      'Baratili San Pietro'
+    latitude:  39.992439
+    longitude: 8.556722
+  City_barbania:
+    Province:  ProvinceTO
+    code:      A625
+    name:      Barbania
+    latitude:  45.29237
+    longitude: 7.631407
+  City_barbara:
+    Province:  ProvinceAN
+    code:      A626
+    name:      Barbara
+    latitude:  43.581064
+    longitude: 13.02607
+  City_barbarano_vicentino:
+    Province:  ProvinceVI
+    code:      A627
+    name:      'Barbarano Vicentino'
+    latitude:  45.409285
+    longitude: 11.542238
+  City_barbarano_romano:
+    Province:  ProvinceVT
+    code:      A628
+    name:      'Barbarano Romano'
+    latitude:  42.250133
+    longitude: 12.066556
+  City_barbaresco:
+    Province:  ProvinceCN
+    code:      A629
+    name:      Barbaresco
+    latitude:  44.725046
+    longitude: 8.080868
+  City_barbariga:
+    Province:  ProvinceBS
+    code:      A630
+    name:      Barbariga
+    latitude:  45.406111
+    longitude: 10.055481
+  City_barbata:
+    Province:  ProvinceBG
+    code:      A631
+    name:      Barbata
+    latitude:  45.475147
+    longitude: 9.776854
+  City_barberino_di_mugello:
+    Province:  ProvinceFI
+    code:      A632
+    name:      'Barberino di Mugello'
+    latitude:  44.001045
+    longitude: 11.238543
+  City_barberino_val_d_elsa:
+    Province:  ProvinceFI
+    code:      A633
+    name:      'Barberino Val D''Elsa'
+    latitude:  43.542056
+    longitude: 11.170796
+  City_barbianello:
+    Province:  ProvincePV
+    code:      A634
+    name:      Barbianello
+    latitude:  45.077198
+    longitude: 9.205793
+  City_barbiano:
+    Province:  ProvinceBZ
+    code:      A635
+    name:      Barbiano
+    latitude:  46.603122
+    longitude: 11.520319
+  City_barbona:
+    Province:  ProvincePD
+    code:      A637
+    name:      Barbona
+    latitude:  45.103371
+    longitude: 11.703052
+  City_barcellona_pozzo_di_gotto:
+    Province:  ProvinceME
+    code:      A638
+    name:      'Barcellona Pozzo di Gotto'
+    latitude:  38.148794
+    longitude: 15.211291
+  City_barchi:
+    Province:  ProvincePU
+    code:      A639
+    name:      Barchi
+    latitude:  43.671279
+    longitude: 12.932497
+  City_barcis:
+    Province:  ProvincePN
+    code:      A640
+    name:      Barcis
+    latitude:  46.191441
+    longitude: 12.560209
+  City_bard:
+    Province:  ProvinceAO
+    code:      A643
+    name:      Bard
+    latitude:  45.608926
+    longitude: 7.745464
+  City_bardello:
+    Province:  ProvinceVA
+    code:      A645
+    name:      Bardello
+    latitude:  45.834891
+    longitude: 8.697251
+  City_bardi:
+    Province:  ProvincePR
+    code:      A646
+    name:      Bardi
+    latitude:  44.633907
+    longitude: 9.731259
+  City_bardineto:
+    Province:  ProvinceSV
+    code:      A647
+    name:      Bardineto
+    latitude:  44.191573
+    longitude: 8.135491
+  City_bardolino:
+    Province:  ProvinceVR
+    code:      A650
+    name:      Bardolino
+    latitude:  45.547558
+    longitude: 10.721004
+  City_bardonecchia:
+    Province:  ProvinceTO
+    code:      A651
+    name:      Bardonecchia
+    latitude:  45.078767
+    longitude: 6.704287
+  City_bareggio:
+    Province:  ProvinceMI
+    code:      A652
+    name:      Bareggio
+    latitude:  45.475953
+    longitude: 8.994901
+  City_barengo:
+    Province:  ProvinceNO
+    code:      A653
+    name:      Barengo
+    latitude:  45.577056
+    longitude: 8.515167
+  City_baressa:
+    Province:  ProvinceOR
+    code:      A655
+    name:      Baressa
+    latitude:  39.713926
+    longitude: 8.876426
+  City_barete:
+    Province:  ProvinceAQ
+    code:      A656
+    name:      Barete
+    latitude:  42.449088
+    longitude: 13.283232
+  City_barga:
+    Province:  ProvinceLU
+    code:      A657
+    name:      Barga
+    latitude:  44.075333
+    longitude: 10.481889
+  City_bargagli:
+    Province:  ProvinceGE
+    code:      A658
+    name:      Bargagli
+    latitude:  44.450286
+    longitude: 9.087173
+  City_barge:
+    Province:  ProvinceCN
+    code:      A660
+    name:      Barge
+    latitude:  44.725278
+    longitude: 7.324214
+  City_barghe:
+    Province:  ProvinceBS
+    code:      A661
+    name:      Barghe
+    latitude:  45.679439
+    longitude: 10.409632
+  City_bari:
+    Province:  ProvinceBA
+    code:      A662
+    name:      Bari
+    latitude:  41.126053
+    longitude: 16.86929
+  City_bari_sardo:
+    Province:  ProvinceOG
+    code:      A663
+    name:      'Bari Sardo'
+    latitude:  39.843137
+    longitude: 9.645187
+  City_bariano:
+    Province:  ProvinceBG
+    code:      A664
+    name:      Bariano
+    latitude:  45.513597
+    longitude: 9.70488
+  City_baricella:
+    Province:  ProvinceBO
+    code:      A665
+    name:      Baricella
+    latitude:  44.647667
+    longitude: 11.535648
+  City_barile:
+    Province:  ProvincePZ
+    code:      A666
+    name:      Barile
+    latitude:  40.947121
+    longitude: 15.673235
+  City_barisciano:
+    Province:  ProvinceAQ
+    code:      A667
+    name:      Barisciano
+    latitude:  42.325481
+    longitude: 13.593463
+  City_barlassina:
+    Province:  ProvinceMI
+    code:      A668
+    name:      Barlassina
+    latitude:  45.656561
+    longitude: 9.129883
+  City_barletta:
+    Province:  ProvinceBA
+    code:      A669
+    name:      Barletta
+    latitude:  41.319277
+    longitude: 16.28399
+  City_barni:
+    Province:  ProvinceCO
+    code:      A670
+    name:      Barni
+    latitude:  45.91236
+    longitude: 9.266264
+  City_barolo:
+    Province:  ProvinceCN
+    code:      A671
+    name:      Barolo
+    latitude:  44.610429
+    longitude: 7.942577
+  City_barone_canavese:
+    Province:  ProvinceTO
+    code:      A673
+    name:      'Barone Canavese'
+    latitude:  45.326722
+    longitude: 7.874537
+  City_baronissi:
+    Province:  ProvinceSA
+    code:      A674
+    name:      Baronissi
+    latitude:  40.748759
+    longitude: 14.771722
+  City_barrafranca:
+    Province:  ProvinceEN
+    code:      A676
+    name:      Barrafranca
+    latitude:  37.375664
+    longitude: 14.20095
+  City_barrali:
+    Province:  ProvinceCA
+    code:      A677
+    name:      Barrali
+    latitude:  39.476322
+    longitude: 9.100728
+  City_barrea:
+    Province:  ProvinceAQ
+    code:      A678
+    name:      Barrea
+    latitude:  41.755249
+    longitude: 13.992042
+  City_barumini:
+    Province:  ProvinceVS
+    code:      A681
+    name:      Barumini
+    latitude:  39.702667
+    longitude: 9.003759
+  City_barzago:
+    Province:  ProvinceLC
+    code:      A683
+    name:      Barzago
+    latitude:  45.756407
+    longitude: 9.315315
+  City_barzana:
+    Province:  ProvinceBG
+    code:      A684
+    name:      Barzana
+    latitude:  45.736574
+    longitude: 9.568444
+  City_barzano:
+    Province:  ProvinceLC
+    code:      A686
+    name:      Barzanò
+    latitude:  45.734896
+    longitude: 9.316254
+  City_barzio:
+    Province:  ProvinceLC
+    code:      A687
+    name:      Barzio
+    latitude:  45.944556
+    longitude: 9.468148
+  City_basaluzzo:
+    Province:  ProvinceAL
+    code:      A689
+    name:      Basaluzzo
+    latitude:  44.768578
+    longitude: 8.70226
+  City_bascape:
+    Province:  ProvincePV
+    code:      A690
+    name:      Bascapè
+    latitude:  45.30789
+    longitude: 9.31248
+  City_baschi:
+    Province:  ProvinceTR
+    code:      A691
+    name:      Baschi
+    latitude:  42.673926
+    longitude: 12.218907
+  City_basciano:
+    Province:  ProvinceTE
+    code:      A692
+    name:      Basciano
+    latitude:  42.59487
+    longitude: 13.741111
+  City_baselga_di_pine:
+    Province:  ProvinceTN
+    code:      A694
+    name:      'Baselga di Pinè'
+    latitude:  46.132492
+    longitude: 11.246988
+  City_baselice:
+    Province:  ProvinceBN
+    code:      A696
+    name:      Baselice
+    latitude:  41.39487
+    longitude: 14.973759
+  City_basiano:
+    Province:  ProvinceMI
+    code:      A697
+    name:      Basiano
+    latitude:  45.571614
+    longitude: 9.467382
+  City_basico:
+    Province:  ProvinceME
+    code:      A698
+    name:      Basicò
+    latitude:  38.061536
+    longitude: 15.063364
+  City_basiglio:
+    Province:  ProvinceMI
+    code:      A699
+    name:      Basiglio
+    latitude:  45.349189
+    longitude: 9.164447
+  City_basiliano:
+    Province:  ProvinceUD
+    code:      A700
+    name:      Basiliano
+    latitude:  46.01737
+    longitude: 13.10813
+  City_vasanello:
+    Province:  ProvinceVT
+    code:      A701
+    name:      Vasanello
+    latitude:  42.41487
+    longitude: 12.3475
+  City_bassano_bresciano:
+    Province:  ProvinceBS
+    code:      A702
+    name:      'Bassano Bresciano'
+    latitude:  45.327288
+    longitude: 10.125638
+  City_bassano_del_grappa:
+    Province:  ProvinceVI
+    code:      A703
+    name:      'Bassano del Grappa'
+    latitude:  45.766608
+    longitude: 11.733961
+  City_bassano_romano:
+    Province:  ProvinceVT
+    code:      A704
+    name:      'Bassano Romano'
+    latitude:  42.218071
+    longitude: 12.192336
+  City_tronzano_lago_maggiore:
+    Province:  ProvinceVA
+    code:      A705
+    name:      'Tronzano Lago Maggiore'
+    latitude:  46.089983
+    longitude: 8.733796
+  City_bassano_in_teverina:
+    Province:  ProvinceVT
+    code:      A706
+    name:      'Bassano in Teverina'
+    latitude:  42.465539
+    longitude: 12.310556
+  City_bassiano:
+    Province:  ProvinceLT
+    code:      A707
+    name:      Bassiano
+    latitude:  41.550503
+    longitude: 13.032199
+  City_bassignana:
+    Province:  ProvinceAL
+    code:      A708
+    name:      Bassignana
+    latitude:  45.002204
+    longitude: 8.732037
+  City_bastia_mondovi:
+    Province:  ProvinceCN
+    code:      A709
+    name:      'Bastia Mondovì'
+    latitude:  44.442981
+    longitude: 7.895648
+  City_bastia_umbra:
+    Province:  ProvincePG
+    code:      A710
+    name:      'Bastia Umbra'
+    latitude:  43.067956
+    longitude: 12.55145
+  City_bastida_de_dossi:
+    Province:  ProvincePV
+    code:      A711
+    name:      'Bastida de'' Dossi'
+    latitude:  45.040401
+    longitude: 8.92171
+  City_bastida_pancarana:
+    Province:  ProvincePV
+    code:      A712
+    name:      'Bastida Pancarana'
+    latitude:  45.086185
+    longitude: 9.082372
+  City_bastiglia:
+    Province:  ProvinceMO
+    code:      A713
+    name:      Bastiglia
+    latitude:  44.727981
+    longitude: 10.999704
+  City_battaglia_terme:
+    Province:  ProvincePD
+    code:      A714
+    name:      'Battaglia Terme'
+    latitude:  45.28813
+    longitude: 11.79313
+  City_battifollo:
+    Province:  ProvinceCN
+    code:      A716
+    name:      Battifollo
+    latitude:  44.321492
+    longitude: 8.007075
+  City_battipaglia:
+    Province:  ProvinceSA
+    code:      A717
+    name:      Battipaglia
+    latitude:  40.608772
+    longitude: 14.983035
+  City_battuda:
+    Province:  ProvincePV
+    code:      A718
+    name:      Battuda
+    latitude:  45.274926
+    longitude: 9.07786
+  City_baucina:
+    Province:  ProvincePA
+    code:      A719
+    name:      Baucina
+    latitude:  37.926111
+    longitude: 13.53813
+  City_boville_ernica:
+    Province:  ProvinceFR
+    code:      A720
+    name:      'Boville Ernica'
+    latitude:  41.642762
+    longitude: 13.473242
+  City_bauladu:
+    Province:  ProvinceOR
+    code:      A721
+    name:      Bauladu
+    latitude:  40.02047
+    longitude: 8.671849
+  City_baunei:
+    Province:  ProvinceOG
+    code:      A722
+    name:      Baunei
+    latitude:  40.03058
+    longitude: 9.664573
+  City_baveno:
+    Province:  ProvinceVB
+    code:      A725
+    name:      Baveno
+    latitude:  45.909389
+    longitude: 8.500796
+  City_bazzano:
+    Province:  ProvinceBO
+    code:      A726
+    name:      Bazzano
+    latitude:  44.505002
+    longitude: 11.083525
+  City_bedero_valcuvia:
+    Province:  ProvinceVA
+    code:      A728
+    name:      'Bedero Valcuvia'
+    latitude:  45.913878
+    longitude: 8.794351
+  City_bedizzole:
+    Province:  ProvinceBS
+    code:      A729
+    name:      Bedizzole
+    latitude:  45.51173
+    longitude: 10.424605
+  City_bedollo:
+    Province:  ProvinceTN
+    code:      A730
+    name:      Bedollo
+    latitude:  46.170069
+    longitude: 11.301735
+  City_bedonia:
+    Province:  ProvincePR
+    code:      A731
+    name:      Bedonia
+    latitude:  44.501892
+    longitude: 9.633926
+  City_bedulita:
+    Province:  ProvinceBG
+    code:      A732
+    name:      Bedulita
+    latitude:  45.7912
+    longitude: 9.552083
+  City_bee:
+    Province:  ProvinceVB
+    code:      A733
+    name:      Bee
+    latitude:  45.961903
+    longitude: 8.580481
+  City_beinasco:
+    Province:  ProvinceTO
+    code:      A734
+    name:      Beinasco
+    latitude:  45.022809
+    longitude: 7.587822
+  City_beinette:
+    Province:  ProvinceCN
+    code:      A735
+    name:      Beinette
+    latitude:  44.365963
+    longitude: 7.647815
+  City_belcastro:
+    Province:  ProvinceCZ
+    code:      A736
+    name:      Belcastro
+    latitude:  39.019074
+    longitude: 16.78737
+  City_belfiore:
+    Province:  ProvinceVR
+    code:      A737
+    name:      Belfiore
+    latitude:  45.383296
+    longitude: 11.210648
+  City_belforte_monferrato:
+    Province:  ProvinceAL
+    code:      A738
+    name:      'Belforte Monferrato'
+    latitude:  44.626132
+    longitude: 8.661113
+  City_belforte_del_chienti:
+    Province:  ProvinceMC
+    code:      A739
+    name:      'Belforte del Chienti'
+    latitude:  43.164509
+    longitude: 13.239085
+  City_belforte_all_isauro:
+    Province:  ProvincePU
+    code:      A740
+    name:      'Belforte all''Isauro'
+    latitude:  43.717807
+    longitude: 12.376672
+  City_belgioioso:
+    Province:  ProvincePV
+    code:      A741
+    name:      Belgioioso
+    latitude:  45.159536
+    longitude: 9.314816
+  City_belgirate:
+    Province:  ProvinceVB
+    code:      A742
+    name:      Belgirate
+    latitude:  45.839848
+    longitude: 8.572511
+  City_bella:
+    Province:  ProvincePZ
+    code:      A743
+    name:      Bella
+    latitude:  40.759359
+    longitude: 15.539424
+  City_bellagio:
+    Province:  ProvinceCO
+    code:      A744
+    name:      Bellagio
+    latitude:  45.98775
+    longitude: 9.261977
+  City_bellano:
+    Province:  ProvinceLC
+    code:      A745
+    name:      Bellano
+    latitude:  46.041527
+    longitude: 9.303487
+  City_bellante:
+    Province:  ProvinceTE
+    code:      A746
+    name:      Bellante
+    latitude:  42.744854
+    longitude: 13.803994
+  City_bellaria_igea_marina:
+    Province:  ProvinceRN
+    code:      A747
+    name:      'Bellaria Igea Marina'
+    latitude:  44.141301
+    longitude: 12.472117
+  City_bellegra:
+    Province:  ProvinceRM
+    code:      A749
+    name:      Bellegra
+    latitude:  41.883951
+    longitude: 13.027206
+  City_bellino:
+    Province:  ProvinceCN
+    code:      A750
+    name:      Bellino
+    latitude:  44.580537
+    longitude: 7.017237
+  City_bellinzago_lombardo:
+    Province:  ProvinceMI
+    code:      A751
+    name:      'Bellinzago Lombardo'
+    latitude:  45.543745
+    longitude: 9.443966
+  City_bellinzago_novarese:
+    Province:  ProvinceNO
+    code:      A752
+    name:      'Bellinzago Novarese'
+    latitude:  45.56987
+    longitude: 8.644389
+  City_bellona:
+    Province:  ProvinceCE
+    code:      A755
+    name:      Bellona
+    latitude:  41.161111
+    longitude: 14.233296
+  City_bellosguardo:
+    Province:  ProvinceSA
+    code:      A756
+    name:      Bellosguardo
+    latitude:  40.422567
+    longitude: 15.31245
+  City_belluno:
+    Province:  ProvinceBL
+    code:      A757
+    name:      Belluno
+    latitude:  46.139964
+    longitude: 12.217591
+  City_bellusco:
+    Province:  ProvinceMI
+    code:      A759
+    name:      Bellusco
+    latitude:  45.616162
+    longitude: 9.423264
+  City_belmonte_piceno:
+    Province:  ProvinceAP
+    code:      A760
+    name:      'Belmonte Piceno'
+    latitude:  43.091317
+    longitude: 13.539485
+  City_belmonte_del_sannio:
+    Province:  ProvinceIS
+    code:      A761
+    name:      'Belmonte del Sannio'
+    latitude:  41.825918
+    longitude: 14.424483
+  City_belmonte_calabro:
+    Province:  ProvinceCS
+    code:      A762
+    name:      'Belmonte Calabro'
+    latitude:  39.162477
+    longitude: 16.085465
+  City_belmonte_castello:
+    Province:  ProvinceFR
+    code:      A763
+    name:      'Belmonte Castello'
+    latitude:  41.577578
+    longitude: 13.814424
+  City_belmonte_mezzagno:
+    Province:  ProvincePA
+    code:      A764
+    name:      'Belmonte Mezzagno'
+    latitude:  38.047823
+    longitude: 13.388531
+  City_belmonte_in_sabina:
+    Province:  ProvinceRI
+    code:      A765
+    name:      'Belmonte in Sabina'
+    latitude:  42.318498
+    longitude: 12.89319
+  City_belpasso:
+    Province:  ProvinceCT
+    code:      A766
+    name:      Belpasso
+    latitude:  37.595796
+    longitude: 14.984222
+  City_belsito:
+    Province:  ProvinceCS
+    code:      A768
+    name:      Belsito
+    latitude:  39.178296
+    longitude: 16.289241
+  City_belvedere_ostrense:
+    Province:  ProvinceAN
+    code:      A769
+    name:      'Belvedere Ostrense'
+    latitude:  43.58313
+    longitude: 13.169704
+  City_belveglio:
+    Province:  ProvinceAT
+    code:      A770
+    name:      Belveglio
+    latitude:  44.830944
+    longitude: 8.329556
+  City_lizzano_in_belvedere:
+    Province:  ProvinceBO
+    code:      A771
+    name:      'Lizzano in Belvedere'
+    latitude:  44.163298
+    longitude: 10.894033
+  City_belvedere_di_spinello:
+    Province:  ProvinceKR
+    code:      A772
+    name:      'Belvedere di Spinello'
+    latitude:  39.2135
+    longitude: 16.888037
+  City_belvedere_marittimo:
+    Province:  ProvinceCS
+    code:      A773
+    name:      'Belvedere Marittimo'
+    latitude:  39.618907
+    longitude: 15.8625
+  City_belvedere_langhe:
+    Province:  ProvinceCN
+    code:      A774
+    name:      'Belvedere Langhe'
+    latitude:  44.494629
+    longitude: 7.972079
+  City_belvi:
+    Province:  ProvinceNU
+    code:      A776
+    name:      Belvi
+    latitude:  39.963611
+    longitude: 9.186259
+  City_bema:
+    Province:  ProvinceSO
+    code:      A777
+    name:      Bema
+    latitude:  46.104508
+    longitude: 9.564087
+  City_bene_lario:
+    Province:  ProvinceCO
+    code:      A778
+    name:      'Bene Lario'
+    latitude:  46.029367
+    longitude: 9.185078
+  City_bene_vagienna:
+    Province:  ProvinceCN
+    code:      A779
+    name:      'Bene Vagienna'
+    latitude:  44.544389
+    longitude: 7.829556
+  City_benestare:
+    Province:  ProvinceRC
+    code:      A780
+    name:      Benestare
+    latitude:  38.186334
+    longitude: 16.141358
+  City_benetutti:
+    Province:  ProvinceSS
+    code:      A781
+    name:      Benetutti
+    latitude:  40.4575
+    longitude: 9.169852
+  City_benevello:
+    Province:  ProvinceCN
+    code:      A782
+    name:      Benevello
+    latitude:  44.630963
+    longitude: 8.105333
+  City_benevento:
+    Province:  ProvinceBN
+    code:      A783
+    name:      Benevento
+    latitude:  41.130448
+    longitude: 14.781174
+  City_benna:
+    Province:  ProvinceBI
+    code:      A784
+    name:      Benna
+    latitude:  45.514037
+    longitude: 8.126299
+  City_bentivoglio:
+    Province:  ProvinceBO
+    code:      A785
+    name:      Bentivoglio
+    latitude:  44.635648
+    longitude: 11.419074
+  City_berbenno:
+    Province:  ProvinceBG
+    code:      A786
+    name:      Berbenno
+    latitude:  45.815312
+    longitude: 9.572882
+  City_berbenno_di_valtellina:
+    Province:  ProvinceSO
+    code:      A787
+    name:      'Berbenno di Valtellina'
+    latitude:  46.168739
+    longitude: 9.746273
+  City_berceto:
+    Province:  ProvincePR
+    code:      A788
+    name:      Berceto
+    latitude:  44.510601
+    longitude: 9.990058
+  City_berchidda:
+    Province:  ProvinceOT
+    code:      A789
+    name:      Berchidda
+    latitude:  40.78497
+    longitude: 9.165683
+  City_beregazzo_con_figliaro:
+    Province:  ProvinceCO
+    code:      A791
+    name:      'Beregazzo con Figliaro'
+    latitude:  45.781525
+    longitude: 8.94497
+  City_bereguardo:
+    Province:  ProvincePV
+    code:      A792
+    name:      Bereguardo
+    latitude:  45.258148
+    longitude: 9.028444
+  City_bergamasco:
+    Province:  ProvinceAL
+    code:      A793
+    name:      Bergamasco
+    latitude:  44.828296
+    longitude: 8.455963
+  City_bergamo:
+    Province:  ProvinceBG
+    code:      A794
+    name:      Bergamo
+    latitude:  45.694736
+    longitude: 9.668707
+  City_bergantino:
+    Province:  ProvinceRO
+    code:      A795
+    name:      Bergantino
+    latitude:  45.062037
+    longitude: 11.252833
+  City_bergeggi:
+    Province:  ProvinceSV
+    code:      A796
+    name:      Bergeggi
+    latitude:  44.248649
+    longitude: 8.443524
+  City_bergolo:
+    Province:  ProvinceCN
+    code:      A798
+    name:      Bergolo
+    latitude:  44.548789
+    longitude: 8.184256
+  City_berlingo:
+    Province:  ProvinceBS
+    code:      A799
+    name:      Berlingo
+    latitude:  45.502611
+    longitude: 10.044326
+  City_bernalda:
+    Province:  ProvinceMT
+    code:      A801
+    name:      Bernalda
+    latitude:  40.413926
+    longitude: 16.692815
+  City_bernareggio:
+    Province:  ProvinceMI
+    code:      A802
+    name:      Bernareggio
+    latitude:  45.644482
+    longitude: 9.403408
+  City_bernate_ticino:
+    Province:  ProvinceMI
+    code:      A804
+    name:      'Bernate Ticino'
+    latitude:  45.478195
+    longitude: 8.818295
+  City_bernezzo:
+    Province:  ProvinceCN
+    code:      A805
+    name:      Bernezzo
+    latitude:  44.386329
+    longitude: 7.436598
+  City_berra:
+    Province:  ProvinceFE
+    code:      A806
+    name:      Berra
+    latitude:  44.97813
+    longitude: 11.979537
+  City_bersone:
+    Province:  ProvinceTN
+    code:      A808
+    name:      Bersone
+    latitude:  45.94463
+    longitude: 10.632725
+  City_bertinoro:
+    Province:  ProvinceFC
+    code:      A809
+    name:      Bertinoro
+    latitude:  44.149704
+    longitude: 12.135333
+  City_bertiolo:
+    Province:  ProvinceUD
+    code:      A810
+    name:      Bertiolo
+    latitude:  45.945009
+    longitude: 13.055317
+  City_bertonico:
+    Province:  ProvinceLO
+    code:      A811
+    name:      Bertonico
+    latitude:  45.234074
+    longitude: 9.669241
+  City_berzano_di_san_pietro:
+    Province:  ProvinceAT
+    code:      A812
+    name:      'Berzano di San Pietro'
+    latitude:  45.095245
+    longitude: 7.953071
+  City_berzano_di_tortona:
+    Province:  ProvinceAL
+    code:      A813
+    name:      'Berzano di Tortona'
+    latitude:  44.87854
+    longitude: 8.952325
+  City_berzo_san_fermo:
+    Province:  ProvinceBG
+    code:      A815
+    name:      'Berzo San Fermo'
+    latitude:  45.719341
+    longitude: 9.902865
+  City_berzo_demo:
+    Province:  ProvinceBS
+    code:      A816
+    name:      'Berzo Demo'
+    latitude:  46.092941
+    longitude: 10.331748
+  City_berzo_inferiore:
+    Province:  ProvinceBS
+    code:      A817
+    name:      'Berzo Inferiore'
+    latitude:  45.932056
+    longitude: 10.280796
+  City_besana_in_brianza:
+    Province:  ProvinceMI
+    code:      A818
+    name:      'Besana in Brianza'
+    latitude:  45.700304
+    longitude: 9.292241
+  City_besano:
+    Province:  ProvinceVA
+    code:      A819
+    name:      Besano
+    latitude:  45.889585
+    longitude: 8.8902
+  City_besate:
+    Province:  ProvinceMI
+    code:      A820
+    name:      Besate
+    latitude:  45.311999
+    longitude: 8.968842
+  City_besenello:
+    Province:  ProvinceTN
+    code:      A821
+    name:      Besenello
+    latitude:  45.94404
+    longitude: 11.108169
+  City_besenzone:
+    Province:  ProvincePC
+    code:      A823
+    name:      Besenzone
+    latitude:  44.987037
+    longitude: 9.95487
+  City_besnate:
+    Province:  ProvinceVA
+    code:      A825
+    name:      Besnate
+    latitude:  45.701204
+    longitude: 8.766718
+  City_besozzo:
+    Province:  ProvinceVA
+    code:      A826
+    name:      Besozzo
+    latitude:  45.846248
+    longitude: 8.666667
+  City_bessude:
+    Province:  ProvinceSS
+    code:      A827
+    name:      Bessude
+    latitude:  40.556407
+    longitude: 8.727833
+  City_bettola:
+    Province:  ProvincePC
+    code:      A831
+    name:      Bettola
+    latitude:  44.778667
+    longitude: 9.608437
+  City_bettona:
+    Province:  ProvincePG
+    code:      A832
+    name:      Bettona
+    latitude:  43.013681
+    longitude: 12.485417
+  City_beura_cardezza:
+    Province:  ProvinceVB
+    code:      A834
+    name:      Beura-Cardezza
+    latitude:  46.080648
+    longitude: 8.300963
+  City_bevagna:
+    Province:  ProvincePG
+    code:      A835
+    name:      Bevagna
+    latitude:  42.93487
+    longitude: 12.609389
+  City_beverino:
+    Province:  ProvinceSP
+    code:      A836
+    name:      Beverino
+    latitude:  44.194408
+    longitude: 9.769184
+  City_bevilacqua:
+    Province:  ProvinceVR
+    code:      A837
+    name:      Bevilacqua
+    latitude:  45.232833
+    longitude: 11.393611
+  City_bezzecca:
+    Province:  ProvinceTN
+    code:      A839
+    name:      Bezzecca
+    latitude:  45.897352
+    longitude: 10.716741
+  City_biancavilla:
+    Province:  ProvinceCT
+    code:      A841
+    name:      Biancavilla
+    latitude:  37.646259
+    longitude: 14.867981
+  City_bianchi:
+    Province:  ProvinceCS
+    code:      A842
+    name:      Bianchi
+    latitude:  39.102036
+    longitude: 16.410988
+  City_bianco:
+    Province:  ProvinceRC
+    code:      A843
+    name:      Bianco
+    latitude:  38.091722
+    longitude: 16.150167
+  City_biandrate:
+    Province:  ProvinceNO
+    code:      A844
+    name:      Biandrate
+    latitude:  45.453778
+    longitude: 8.463611
+  City_biandronno:
+    Province:  ProvinceVA
+    code:      A845
+    name:      Biandronno
+    latitude:  45.822204
+    longitude: 8.715506
+  City_bianzano:
+    Province:  ProvinceBG
+    code:      A846
+    name:      Bianzano
+    latitude:  45.774074
+    longitude: 9.919222
+  City_bianze:
+    Province:  ProvinceVC
+    code:      A847
+    name:      Bianzè
+    latitude:  45.309555
+    longitude: 8.123778
+  City_bianzone:
+    Province:  ProvinceSO
+    code:      A848
+    name:      Bianzone
+    latitude:  46.189241
+    longitude: 10.110481
+  City_biassono:
+    Province:  ProvinceMI
+    code:      A849
+    name:      Biassono
+    latitude:  45.630963
+    longitude: 9.275302
+  City_bibbiano:
+    Province:  ProvinceRE
+    code:      A850
+    name:      Bibbiano
+    latitude:  44.648349
+    longitude: 10.554145
+  City_bibbiena:
+    Province:  ProvinceAR
+    code:      A851
+    name:      Bibbiena
+    latitude:  43.6975
+    longitude: 11.814537
+  City_bibbona:
+    Province:  ProvinceLI
+    code:      A852
+    name:      Bibbona
+    latitude:  43.269449
+    longitude: 10.59521
+  City_bibiana:
+    Province:  ProvinceTO
+    code:      A853
+    name:      Bibiana
+    latitude:  44.800018
+    longitude: 7.289389
+  City_biccari:
+    Province:  ProvinceFG
+    code:      A854
+    name:      Biccari
+    latitude:  41.397204
+    longitude: 15.195309
+  City_bicinicco:
+    Province:  ProvinceUD
+    code:      A855
+    name:      Bicinicco
+    latitude:  45.936722
+    longitude: 13.252204
+  City_bidoni:
+    Province:  ProvinceOR
+    code:      A856
+    name:      Bidonì
+    latitude:  40.112555
+    longitude: 8.935262
+  City_blera:
+    Province:  ProvinceVT
+    code:      A857
+    name:      Blera
+    latitude:  42.272694
+    longitude: 12.027549
+  City_biella:
+    Province:  ProvinceBI
+    code:      A859
+    name:      Biella
+    latitude:  45.562837
+    longitude: 8.05827
+  City_bienno:
+    Province:  ProvinceBS
+    code:      A861
+    name:      Bienno
+    latitude:  45.936722
+    longitude: 10.294556
+  City_bieno:
+    Province:  ProvinceTN
+    code:      A863
+    name:      Bieno
+    latitude:  46.082518
+    longitude: 11.557204
+  City_bientina:
+    Province:  ProvincePI
+    code:      A864
+    name:      Bientina
+    latitude:  43.709987
+    longitude: 10.619722
+  City_bigarello:
+    Province:  ProvinceMN
+    code:      A866
+    name:      Bigarello
+    latitude:  45.203611
+    longitude: 10.926111
+  City_binago:
+    Province:  ProvinceCO
+    code:      A870
+    name:      Binago
+    latitude:  45.78313
+    longitude: 8.923444
+  City_binasco:
+    Province:  ProvinceMI
+    code:      A872
+    name:      Binasco
+    latitude:  45.336317
+    longitude: 9.101732
+  City_binetto:
+    Province:  ProvinceBA
+    code:      A874
+    name:      Binetto
+    latitude:  41.024556
+    longitude: 16.710796
+  City_bioglio:
+    Province:  ProvinceBI
+    code:      A876
+    name:      Bioglio
+    latitude:  45.616278
+    longitude: 8.137204
+  City_bionaz:
+    Province:  ProvinceAO
+    code:      A877
+    name:      Bionaz
+    latitude:  45.873711
+    longitude: 7.423088
+  City_bione:
+    Province:  ProvinceBS
+    code:      A878
+    name:      Bione
+    latitude:  45.673421
+    longitude: 10.340299
+  City_birori:
+    Province:  ProvinceNU
+    code:      A880
+    name:      Birori
+    latitude:  40.26494
+    longitude: 8.81796
+  City_bisaccia:
+    Province:  ProvinceAV
+    code:      A881
+    name:      Bisaccia
+    latitude:  41.013878
+    longitude: 15.375326
+  City_bisacquino:
+    Province:  ProvincePA
+    code:      A882
+    name:      Bisacquino
+    latitude:  37.703611
+    longitude: 13.26063
+  City_bisceglie:
+    Province:  ProvinceBA
+    code:      A883
+    name:      Bisceglie
+    latitude:  41.241295
+    longitude: 16.501878
+  City_bisegna:
+    Province:  ProvinceAQ
+    code:      A884
+    name:      Bisegna
+    latitude:  41.922204
+    longitude: 13.758611
+  City_bisenti:
+    Province:  ProvinceTE
+    code:      A885
+    name:      Bisenti
+    latitude:  42.528439
+    longitude: 13.801118
+  City_bisignano:
+    Province:  ProvinceCS
+    code:      A887
+    name:      Bisignano
+    latitude:  39.512603
+    longitude: 16.287185
+  City_bistagno:
+    Province:  ProvinceAL
+    code:      A889
+    name:      Bistagno
+    latitude:  44.661278
+    longitude: 8.371407
+  City_bisuschio:
+    Province:  ProvinceVA
+    code:      A891
+    name:      Bisuschio
+    latitude:  45.874794
+    longitude: 8.871934
+  City_bitetto:
+    Province:  ProvinceBA
+    code:      A892
+    name:      Bitetto
+    latitude:  41.039704
+    longitude: 16.747833
+  City_bitonto:
+    Province:  ProvinceBA
+    code:      A893
+    name:      Bitonto
+    latitude:  41.108441
+    longitude: 16.691428
+  City_bitritto:
+    Province:  ProvinceBA
+    code:      A894
+    name:      Bitritto
+    latitude:  41.045648
+    longitude: 16.826111
+  City_bitti:
+    Province:  ProvinceNU
+    code:      A895
+    name:      Bitti
+    latitude:  40.477771
+    longitude: 9.383139
+  City_bivona:
+    Province:  ProvinceAG
+    code:      A896
+    name:      Bivona
+    latitude:  37.618347
+    longitude: 13.440617
+  City_bivongi:
+    Province:  ProvinceRC
+    code:      A897
+    name:      Bivongi
+    latitude:  38.484389
+    longitude: 16.453463
+  City_bizzarone:
+    Province:  ProvinceCO
+    code:      A898
+    name:      Bizzarone
+    latitude:  45.835333
+    longitude: 8.943926
+  City_bleggio_inferiore:
+    Province:  ProvinceTN
+    code:      A901
+    name:      'Bleggio Inferiore'
+    latitude:  46.035715
+    longitude: 10.869349
+  City_bleggio_superiore:
+    Province:  ProvinceTN
+    code:      A902
+    name:      'Bleggio Superiore'
+    latitude:  46.025126
+    longitude: 10.837805
+  City_blello:
+    Province:  ProvinceBG
+    code:      A903
+    name:      Blello
+    latitude:  45.836574
+    longitude: 9.575839
+  City_blessagno:
+    Province:  ProvinceCO
+    code:      A904
+    name:      Blessagno
+    latitude:  45.960017
+    longitude: 9.098152
+  City_blevio:
+    Province:  ProvinceCO
+    code:      A905
+    name:      Blevio
+    latitude:  45.84313
+    longitude: 9.106259
+  City_boara_pisani:
+    Province:  ProvincePD
+    code:      A906
+    name:      'Boara Pisani'
+    latitude:  45.106723
+    longitude: 11.783853
+  City_bobbio:
+    Province:  ProvincePC
+    code:      A909
+    name:      Bobbio
+    latitude:  44.771574
+    longitude: 9.386407
+  City_bobbio_pellice:
+    Province:  ProvinceTO
+    code:      A910
+    name:      'Bobbio Pellice'
+    latitude:  44.807842
+    longitude: 7.117817
+  City_boca:
+    Province:  ProvinceNO
+    code:      A911
+    name:      Boca
+    latitude:  45.67963
+    longitude: 8.409306
+  City_bocchigliero:
+    Province:  ProvinceCS
+    code:      A912
+    name:      Bocchigliero
+    latitude:  39.420963
+    longitude: 16.749852
+  City_boccioleto:
+    Province:  ProvinceVC
+    code:      A914
+    name:      Boccioleto
+    latitude:  45.830217
+    longitude: 8.113028
+  City_bocenago:
+    Province:  ProvinceTN
+    code:      A916
+    name:      Bocenago
+    latitude:  46.12
+    longitude: 10.760019
+  City_bodio_lomnago:
+    Province:  ProvinceVA
+    code:      A918
+    name:      'Bodio Lomnago'
+    latitude:  45.789704
+    longitude: 8.752056
+  City_boffalora_d_adda:
+    Province:  ProvinceLO
+    code:      A919
+    name:      'Boffalora D''Adda'
+    latitude:  45.360796
+    longitude: 9.495333
+  City_boffalora_sopra_ticino:
+    Province:  ProvinceMI
+    code:      A920
+    name:      'Boffalora Sopra Ticino'
+    latitude:  45.468313
+    longitude: 8.831177
+  City_bogliasco:
+    Province:  ProvinceGE
+    code:      A922
+    name:      Bogliasco
+    latitude:  44.38
+    longitude: 9.069074
+  City_bognanco:
+    Province:  ProvinceVB
+    code:      A925
+    name:      Bognanco
+    latitude:  46.127377
+    longitude: 8.202137
+  City_bogogno:
+    Province:  ProvinceNO
+    code:      A929
+    name:      Bogogno
+    latitude:  45.664458
+    longitude: 8.535702
+  City_bojano:
+    Province:  ProvinceCB
+    code:      A930
+    name:      Bojano
+    latitude:  41.486722
+    longitude: 14.473926
+  City_boissano:
+    Province:  ProvinceSV
+    code:      A931
+    name:      Boissano
+    latitude:  44.136889
+    longitude: 8.222667
+  City_bolano:
+    Province:  ProvinceSP
+    code:      A932
+    name:      Bolano
+    latitude:  44.187587
+    longitude: 9.895017
+  City_bolbeno:
+    Province:  ProvinceTN
+    code:      A933
+    name:      Bolbeno
+    latitude:  46.033611
+    longitude: 10.738907
+  City_bolgare:
+    Province:  ProvinceBG
+    code:      A937
+    name:      Bolgare
+    latitude:  45.636111
+    longitude: 9.813907
+  City_bollate:
+    Province:  ProvinceMI
+    code:      A940
+    name:      Bollate
+    latitude:  45.543344
+    longitude: 9.115256
+  City_bollengo:
+    Province:  ProvinceTO
+    code:      A941
+    name:      Bollengo
+    latitude:  45.470305
+    longitude: 7.94661
+  City_nova_siri:
+    Province:  ProvinceMT
+    code:      A942
+    name:      'Nova Siri'
+    latitude:  40.149031
+    longitude: 16.541371
+  City_bologna:
+    Province:  ProvinceBO
+    code:      A944
+    name:      Bologna
+    latitude:  44.494446
+    longitude: 11.349231
+  City_bolognano:
+    Province:  ProvincePE
+    code:      A945
+    name:      Bolognano
+    latitude:  42.219241
+    longitude: 13.961111
+  City_bolognetta:
+    Province:  ProvincePA
+    code:      A946
+    name:      Bolognetta
+    latitude:  37.966307
+    longitude: 13.456716
+  City_bolognola:
+    Province:  ProvinceMC
+    code:      A947
+    name:      Bolognola
+    latitude:  42.994787
+    longitude: 13.226675
+  City_bolotana:
+    Province:  ProvinceNU
+    code:      A948
+    name:      Bolotana
+    latitude:  40.327125
+    longitude: 8.9602
+  City_bolsena:
+    Province:  ProvinceVT
+    code:      A949
+    name:      Bolsena
+    latitude:  42.644852
+    longitude: 11.986111
+  City_boltiere:
+    Province:  ProvinceBG
+    code:      A950
+    name:      Boltiere
+    latitude:  45.601889
+    longitude: 9.579537
+  City_bolzano:
+    Province:  ProvinceBZ
+    code:      A952
+    name:      Bolzano
+    latitude:  46.495166
+    longitude: 11.354103
+  City_bolzano_novarese:
+    Province:  ProvinceNO
+    code:      A953
+    name:      'Bolzano Novarese'
+    latitude:  45.765018
+    longitude: 8.446111
+  City_bolzano_vicentino:
+    Province:  ProvinceVI
+    code:      A954
+    name:      'Bolzano Vicentino'
+    latitude:  45.602798
+    longitude: 11.623102
+  City_bomarzo:
+    Province:  ProvinceVT
+    code:      A955
+    name:      Bomarzo
+    latitude:  42.487133
+    longitude: 12.250393
+  City_bomba:
+    Province:  ProvinceCH
+    code:      A956
+    name:      Bomba
+    latitude:  42.035315
+    longitude: 14.368148
+  City_bompensiere:
+    Province:  ProvinceCL
+    code:      A957
+    name:      Bompensiere
+    latitude:  37.472696
+    longitude: 13.781256
+  City_bompietro:
+    Province:  ProvincePA
+    code:      A958
+    name:      Bompietro
+    latitude:  37.743826
+    longitude: 14.095458
+  City_bomporto:
+    Province:  ProvinceMO
+    code:      A959
+    name:      Bomporto
+    latitude:  44.730796
+    longitude: 11.039555
+  City_bonarcado:
+    Province:  ProvinceOR
+    code:      A960
+    name:      Bonarcado
+    latitude:  40.097055
+    longitude: 8.65813
+  City_bonassola:
+    Province:  ProvinceSP
+    code:      A961
+    name:      Bonassola
+    latitude:  44.185796
+    longitude: 9.583611
+  City_bonate_sotto:
+    Province:  ProvinceBG
+    code:      A962
+    name:      'Bonate Sotto'
+    latitude:  45.669241
+    longitude: 9.55987
+  City_bonate_sopra:
+    Province:  ProvinceBG
+    code:      A963
+    name:      'Bonate Sopra'
+    latitude:  45.682942
+    longitude: 9.558614
+  City_bonavigo:
+    Province:  ProvinceVR
+    code:      A964
+    name:      Bonavigo
+    latitude:  45.26063
+    longitude: 11.28063
+  City_bondeno:
+    Province:  ProvinceFE
+    code:      A965
+    name:      Bondeno
+    latitude:  44.888317
+    longitude: 11.410612
+  City_bondo:
+    Province:  ProvinceTN
+    code:      A967
+    name:      Bondo
+    latitude:  46.001259
+    longitude: 10.693148
+  City_bondone:
+    Province:  ProvinceTN
+    code:      A968
+    name:      Bondone
+    latitude:  45.805758
+    longitude: 10.551278
+  City_bonea:
+    Province:  ProvinceBN
+    code:      A970
+    name:      Bonea
+    latitude:  41.076259
+    longitude: 14.619852
+  City_bonefro:
+    Province:  ProvinceCB
+    code:      A971
+    name:      Bonefro
+    latitude:  41.705696
+    longitude: 14.934339
+  City_bonemerse:
+    Province:  ProvinceCR
+    code:      A972
+    name:      Bonemerse
+    latitude:  45.114704
+    longitude: 10.078611
+  City_bonifati:
+    Province:  ProvinceCS
+    code:      A973
+    name:      Bonifati
+    latitude:  39.585787
+    longitude: 15.89901
+  City_bonito:
+    Province:  ProvinceAV
+    code:      A975
+    name:      Bonito
+    latitude:  41.098759
+    longitude: 15.00237
+  City_bonnanaro:
+    Province:  ProvinceSS
+    code:      A976
+    name:      Bonnanaro
+    latitude:  40.532933
+    longitude: 8.766762
+  City_bono:
+    Province:  ProvinceSS
+    code:      A977
+    name:      Bono
+    latitude:  40.416659
+    longitude: 9.029745
+  City_bonorva:
+    Province:  ProvinceSS
+    code:      A978
+    name:      Bonorva
+    latitude:  40.417414
+    longitude: 8.76917
+  City_bonvicino:
+    Province:  ProvinceCN
+    code:      A979
+    name:      Bonvicino
+    latitude:  44.504701
+    longitude: 8.017107
+  City_borbona:
+    Province:  ProvinceRI
+    code:      A981
+    name:      Borbona
+    latitude:  42.513847
+    longitude: 13.13332
+  City_borca_di_cadore:
+    Province:  ProvinceBL
+    code:      A982
+    name:      'Borca di Cadore'
+    latitude:  46.437352
+    longitude: 12.22063
+  City_bordano:
+    Province:  ProvinceUD
+    code:      A983
+    name:      Bordano
+    latitude:  46.31573
+    longitude: 13.105139
+  City_bordighera:
+    Province:  ProvinceIM
+    code:      A984
+    name:      Bordighera
+    latitude:  43.779813
+    longitude: 7.660823
+  City_bordolano:
+    Province:  ProvinceCR
+    code:      A986
+    name:      Bordolano
+    latitude:  45.293416
+    longitude: 9.9877
+  City_bore:
+    Province:  ProvincePR
+    code:      A987
+    name:      Bore
+    latitude:  44.719704
+    longitude: 9.79313
+  City_boretto:
+    Province:  ProvinceRE
+    code:      A988
+    name:      Boretto
+    latitude:  44.884512
+    longitude: 10.582972
+  City_borgarello:
+    Province:  ProvincePV
+    code:      A989
+    name:      Borgarello
+    latitude:  45.240549
+    longitude: 9.142339
+  City_borgaro_torinese:
+    Province:  ProvinceTO
+    code:      A990
+    name:      'Borgaro Torinese'
+    latitude:  45.15171
+    longitude: 7.657761
+  City_borgetto:
+    Province:  ProvincePA
+    code:      A991
+    name:      Borgetto
+    latitude:  38.04813
+    longitude: 13.144556
+  City_borghetto_di_vara:
+    Province:  ProvinceSP
+    code:      A992
+    name:      'Borghetto di Vara'
+    latitude:  44.224556
+    longitude: 9.721278
+  City_borghetto_d_arroscia:
+    Province:  ProvinceIM
+    code:      A993
+    name:      'Borghetto d''Arroscia'
+    latitude:  44.058759
+    longitude: 7.982815
+  City_borghetto_lodigiano:
+    Province:  ProvinceLO
+    code:      A995
+    name:      'Borghetto Lodigiano'
+    latitude:  45.215796
+    longitude: 9.500315
+  City_borgo_velino:
+    Province:  ProvinceRI
+    code:      A996
+    name:      'Borgo Velino'
+    latitude:  42.407037
+    longitude: 13.060333
+  City_borghetto_di_borbera:
+    Province:  ProvinceAL
+    code:      A998
+    name:      'Borghetto di Borbera'
+    latitude:  44.73068
+    longitude: 8.943802
+  City_borghetto_santo_spirito:
+    Province:  ProvinceSV
+    code:      A999
+    name:      'Borghetto Santo Spirito'
+    latitude:  44.110661
+    longitude: 8.241546
+  City_borghi:
+    Province:  ProvinceFC
+    code:      B001
+    name:      Borghi
+    latitude:  44.032167
+    longitude: 12.356496
+  City_borgia:
+    Province:  ProvinceCZ
+    code:      B002
+    name:      Borgia
+    latitude:  38.827427
+    longitude: 16.509546
+  City_borgiallo:
+    Province:  ProvinceTO
+    code:      B003
+    name:      Borgiallo
+    latitude:  45.418148
+    longitude: 7.669704
+  City_borgio_verezzi:
+    Province:  ProvinceSV
+    code:      B005
+    name:      'Borgio Verezzi'
+    latitude:  44.158204
+    longitude: 8.309311
+  City_borgo_valsugana:
+    Province:  ProvinceTN
+    code:      B006
+    name:      'Borgo Valsugana'
+    latitude:  46.052352
+    longitude: 11.455481
+  City_borgo_a_mozzano:
+    Province:  ProvinceLU
+    code:      B007
+    name:      'Borgo a Mozzano'
+    latitude:  43.980018
+    longitude: 10.546722
+  City_borgorose:
+    Province:  ProvinceRI
+    code:      B008
+    name:      Borgorose
+    latitude:  42.19
+    longitude: 13.235018
+  City_borgo_d_ale:
+    Province:  ProvinceVC
+    code:      B009
+    name:      'Borgo D''Ale'
+    latitude:  45.352667
+    longitude: 8.051889
+  City_borgo_di_terzo:
+    Province:  ProvinceBG
+    code:      B010
+    name:      'Borgo di Terzo'
+    latitude:  45.720761
+    longitude: 9.894132
+  City_borgoforte:
+    Province:  ProvinceMN
+    code:      B011
+    name:      Borgoforte
+    latitude:  45.05237
+    longitude: 10.750315
+  City_motteggiana:
+    Province:  ProvinceMN
+    code:      B012
+    name:      Motteggiana
+    latitude:  45.029183
+    longitude: 10.759164
+  City_borgofranco_sul_po:
+    Province:  ProvinceMN
+    code:      B013
+    name:      'Borgofranco sul Po'
+    latitude:  45.048998
+    longitude: 11.204749
+  City_suardi:
+    Province:  ProvincePV
+    code:      B014
+    name:      Suardi
+    latitude:  45.03563
+    longitude: 8.744074
+  City_borgofranco_d_ivrea:
+    Province:  ProvinceTO
+    code:      B015
+    name:      'Borgofranco D''Ivrea'
+    latitude:  45.513926
+    longitude: 7.859241
+  City_borgolavezzaro:
+    Province:  ProvinceNO
+    code:      B016
+    name:      Borgolavezzaro
+    latitude:  45.32063
+    longitude: 8.70063
+  City_borgo_san_giovanni:
+    Province:  ProvinceLO
+    code:      B017
+    name:      'Borgo San Giovanni'
+    latitude:  45.278915
+    longitude: 9.435977
+  City_borgomale:
+    Province:  ProvinceCN
+    code:      B018
+    name:      Borgomale
+    latitude:  44.621509
+    longitude: 8.132402
+  City_borgomanero:
+    Province:  ProvinceNO
+    code:      B019
+    name:      Borgomanero
+    latitude:  45.698695
+    longitude: 8.462571
+  City_borgomaro:
+    Province:  ProvinceIM
+    code:      B020
+    name:      Borgomaro
+    latitude:  43.975531
+    longitude: 7.945957
+  City_borgomasino:
+    Province:  ProvinceTO
+    code:      B021
+    name:      Borgomasino
+    latitude:  45.364222
+    longitude: 7.988778
+  City_borgone_di_susa:
+    Province:  ProvinceTO
+    code:      B024
+    name:      'Borgone di Susa'
+    latitude:  45.122916
+    longitude: 7.240774
+  City_borgonovo_val_tidone:
+    Province:  ProvincePC
+    code:      B025
+    name:      'Borgonovo Val Tidone'
+    latitude:  45.015315
+    longitude: 9.444537
+  City_borgo_pace:
+    Province:  ProvincePU
+    code:      B026
+    name:      'Borgo Pace'
+    latitude:  43.658122
+    longitude: 12.293055
+  City_borgo_priolo:
+    Province:  ProvincePV
+    code:      B028
+    name:      'Borgo Priolo'
+    latitude:  44.967445
+    longitude: 9.14902
+  City_borgoratto_alessandrino:
+    Province:  ProvinceAL
+    code:      B029
+    name:      'Borgoratto Alessandrino'
+    latitude:  44.83737
+    longitude: 8.539704
+  City_borgoratto_mormorolo:
+    Province:  ProvincePV
+    code:      B030
+    name:      'Borgoratto Mormorolo'
+    latitude:  44.931741
+    longitude: 9.194389
+  City_borgoricco:
+    Province:  ProvincePD
+    code:      B031
+    name:      Borgoricco
+    latitude:  45.536278
+    longitude: 11.942204
+  City_borgo_san_dalmazzo:
+    Province:  ProvinceCN
+    code:      B033
+    name:      'Borgo San Dalmazzo'
+    latitude:  44.329573
+    longitude: 7.488494
+  City_fidenza:
+    Province:  ProvincePR
+    code:      B034
+    name:      Fidenza
+    latitude:  44.865102
+    longitude: 10.061731
+  City_borgo_san_giacomo:
+    Province:  ProvinceBS
+    code:      B035
+    name:      'Borgo San Giacomo'
+    latitude:  45.347981
+    longitude: 9.969537
+  City_borgo_san_lorenzo:
+    Province:  ProvinceFI
+    code:      B036
+    name:      'Borgo San Lorenzo'
+    latitude:  43.956426
+    longitude: 11.384537
+  City_borgo_san_martino:
+    Province:  ProvinceAL
+    code:      B037
+    name:      'Borgo San Martino'
+    latitude:  45.0887
+    longitude: 8.523765
+  City_borgo_san_siro:
+    Province:  ProvincePV
+    code:      B038
+    name:      'Borgo San Siro'
+    latitude:  45.235922
+    longitude: 8.914675
+  City_borgosatollo:
+    Province:  ProvinceBS
+    code:      B040
+    name:      Borgosatollo
+    latitude:  45.481722
+    longitude: 10.242204
+  City_borgosesia:
+    Province:  ProvinceVC
+    code:      B041
+    name:      Borgosesia
+    latitude:  45.715345
+    longitude: 8.277202
+  City_borgo_val_di_taro:
+    Province:  ProvincePR
+    code:      B042
+    name:      'Borgo Val di Taro'
+    latitude:  44.488208
+    longitude: 9.76687
+  City_borgo_ticino:
+    Province:  ProvinceNO
+    code:      B043
+    name:      'Borgo Ticino'
+    latitude:  45.690333
+    longitude: 8.602981
+  City_borgo_tossignano:
+    Province:  ProvinceBO
+    code:      B044
+    name:      'Borgo Tossignano'
+    latitude:  44.277667
+    longitude: 11.591259
+  City_borgo_vercelli:
+    Province:  ProvinceVC
+    code:      B046
+    name:      'Borgo Vercelli'
+    latitude:  45.358924
+    longitude: 8.464246
+  City_bormida:
+    Province:  ProvinceSV
+    code:      B048
+    name:      Bormida
+    latitude:  44.279187
+    longitude: 8.233435
+  City_bormio:
+    Province:  ProvinceSO
+    code:      B049
+    name:      Bormio
+    latitude:  46.467606
+    longitude: 10.378062
+  City_bornasco:
+    Province:  ProvincePV
+    code:      B051
+    name:      Bornasco
+    latitude:  45.2675
+    longitude: 9.219074
+  City_borno:
+    Province:  ProvinceBS
+    code:      B054
+    name:      Borno
+    latitude:  45.946043
+    longitude: 10.199773
+  City_boroneddu:
+    Province:  ProvinceOR
+    code:      B055
+    name:      Boroneddu
+    latitude:  40.113326
+    longitude: 8.869441
+  City_borore:
+    Province:  ProvinceNU
+    code:      B056
+    name:      Borore
+    latitude:  40.215814
+    longitude: 8.805282
+  City_borrello:
+    Province:  ProvinceCH
+    code:      B057
+    name:      Borrello
+    latitude:  41.920018
+    longitude: 14.305315
+  City_borriana:
+    Province:  ProvinceBI
+    code:      B058
+    name:      Borriana
+    latitude:  45.50297
+    longitude: 8.039304
+  City_borso_del_grappa:
+    Province:  ProvinceTV
+    code:      B061
+    name:      'Borso del Grappa'
+    latitude:  45.82077
+    longitude: 11.796086
+  City_bortigali:
+    Province:  ProvinceNU
+    code:      B062
+    name:      Bortigali
+    latitude:  40.283907
+    longitude: 8.83737
+  City_bortigiadas:
+    Province:  ProvinceOT
+    code:      B063
+    name:      Bortigiadas
+    latitude:  40.892833
+    longitude: 9.044537
+  City_borutta:
+    Province:  ProvinceSS
+    code:      B064
+    name:      Borutta
+    latitude:  40.523444
+    longitude: 8.744537
+  City_borzonasca:
+    Province:  ProvinceGE
+    code:      B067
+    name:      Borzonasca
+    latitude:  44.423083
+    longitude: 9.387373
+  City_bosa:
+    Province:  ProvinceOR
+    code:      B068
+    name:      Bosa
+    latitude:  40.299241
+    longitude: 8.49813
+  City_bosaro:
+    Province:  ProvinceRO
+    code:      B069
+    name:      Bosaro
+    latitude:  44.99987
+    longitude: 11.765796
+  City_boschi_sant_anna:
+    Province:  ProvinceVR
+    code:      B070
+    name:      'Boschi Sant''Anna'
+    latitude:  45.218778
+    longitude: 11.35737
+  City_bosco_marengo:
+    Province:  ProvinceAL
+    code:      B071
+    name:      'Bosco Marengo'
+    latitude:  44.824463
+    longitude: 8.677599
+  City_bosco_chiesanuova:
+    Province:  ProvinceVR
+    code:      B073
+    name:      'Bosco Chiesanuova'
+    latitude:  45.619846
+    longitude: 11.035148
+  City_bosconero:
+    Province:  ProvinceTO
+    code:      B075
+    name:      Bosconero
+    latitude:  45.267981
+    longitude: 7.764074
+  City_boscoreale:
+    Province:  ProvinceNA
+    code:      B076
+    name:      Boscoreale
+    latitude:  40.775423
+    longitude: 14.475159
+  City_boscotrecase:
+    Province:  ProvinceNA
+    code:      B077
+    name:      Boscotrecase
+    latitude:  40.775315
+    longitude: 14.462981
+  City_bosentino:
+    Province:  ProvinceTN
+    code:      B078
+    name:      Bosentino
+    latitude:  46.002106
+    longitude: 11.225555
+  City_bosia:
+    Province:  ProvinceCN
+    code:      B079
+    name:      Bosia
+    latitude:  44.602495
+    longitude: 8.147947
+  City_bosio:
+    Province:  ProvinceAL
+    code:      B080
+    name:      Bosio
+    latitude:  44.650796
+    longitude: 8.793907
+  City_bosisio_parini:
+    Province:  ProvinceLC
+    code:      B081
+    name:      'Bosisio Parini'
+    latitude:  45.802024
+    longitude: 9.288795
+  City_bosnasco:
+    Province:  ProvincePV
+    code:      B082
+    name:      Bosnasco
+    latitude:  45.065481
+    longitude: 9.359852
+  City_bossico:
+    Province:  ProvinceBG
+    code:      B083
+    name:      Bossico
+    latitude:  45.82753
+    longitude: 10.044498
+  City_bossolasco:
+    Province:  ProvinceCN
+    code:      B084
+    name:      Bossolasco
+    latitude:  44.529215
+    longitude: 8.052104
+  City_botricello:
+    Province:  ProvinceCZ
+    code:      B085
+    name:      Botricello
+    latitude:  38.936437
+    longitude: 16.856927
+  City_botrugno:
+    Province:  ProvinceLE
+    code:      B086
+    name:      Botrugno
+    latitude:  40.065802
+    longitude: 18.325335
+  City_bottanuco:
+    Province:  ProvinceBG
+    code:      B088
+    name:      Bottanuco
+    latitude:  45.640617
+    longitude: 9.503473
+  City_botticino:
+    Province:  ProvinceBS
+    code:      B091
+    name:      Botticino
+    latitude:  45.537056
+    longitude: 10.302981
+  City_bottidda:
+    Province:  ProvinceSS
+    code:      B094
+    name:      Bottidda
+    latitude:  40.3925
+    longitude: 9.009537
+  City_bova:
+    Province:  ProvinceRC
+    code:      B097
+    name:      Bova
+    latitude:  37.996278
+    longitude: 15.932833
+  City_bovalino:
+    Province:  ProvinceRC
+    code:      B098
+    name:      Bovalino
+    latitude:  38.15
+    longitude: 16.174852
+  City_bova_marina:
+    Province:  ProvinceRC
+    code:      B099
+    name:      'Bova Marina'
+    latitude:  37.931407
+    longitude: 15.918463
+  City_bovegno:
+    Province:  ProvinceBS
+    code:      B100
+    name:      Bovegno
+    latitude:  45.793772
+    longitude: 10.273628
+  City_boves:
+    Province:  ProvinceCN
+    code:      B101
+    name:      Boves
+    latitude:  44.329182
+    longitude: 7.551827
+  City_bovezzo:
+    Province:  ProvinceBS
+    code:      B102
+    name:      Bovezzo
+    latitude:  45.592518
+    longitude: 10.242352
+  City_bovino:
+    Province:  ProvinceFG
+    code:      B104
+    name:      Bovino
+    latitude:  41.250944
+    longitude: 15.342204
+  City_bovisio_masciago:
+    Province:  ProvinceMI
+    code:      B105
+    name:      'Bovisio Masciago'
+    latitude:  45.610647
+    longitude: 9.147656
+  City_bovolenta:
+    Province:  ProvincePD
+    code:      B106
+    name:      Bovolenta
+    latitude:  45.272044
+    longitude: 11.937038
+  City_bovolone:
+    Province:  ProvinceVR
+    code:      B107
+    name:      Bovolone
+    latitude:  45.258147
+    longitude: 11.120048
+  City_bozzole:
+    Province:  ProvinceAL
+    code:      B109
+    name:      Bozzole
+    latitude:  45.071054
+    longitude: 8.607104
+  City_bozzolo:
+    Province:  ProvinceMN
+    code:      B110
+    name:      Bozzolo
+    latitude:  45.103444
+    longitude: 10.485
+  City_bra:
+    Province:  ProvinceCN
+    code:      B111
+    name:      Bra
+    latitude:  44.697818
+    longitude: 7.854536
+  City_bracca:
+    Province:  ProvinceBG
+    code:      B112
+    name:      Bracca
+    latitude:  45.824537
+    longitude: 9.709852
+  City_bracciano:
+    Province:  ProvinceRM
+    code:      B114
+    name:      Bracciano
+    latitude:  42.103597
+    longitude: 12.175568
+  City_bracigliano:
+    Province:  ProvinceSA
+    code:      B115
+    name:      Bracigliano
+    latitude:  40.824537
+    longitude: 14.706426
+  City_braies:
+    Province:  ProvinceBZ
+    code:      B116
+    name:      Braies
+    latitude:  46.721278
+    longitude: 12.134556
+  City_brallo_di_pregola:
+    Province:  ProvincePV
+    code:      B117
+    name:      'Brallo di Pregola'
+    latitude:  44.738227
+    longitude: 9.281046
+  City_brancaleone:
+    Province:  ProvinceRC
+    code:      B118
+    name:      Brancaleone
+    latitude:  37.964074
+    longitude: 16.101259
+  City_brandico:
+    Province:  ProvinceBS
+    code:      B120
+    name:      Brandico
+    latitude:  45.455167
+    longitude: 10.053759
+  City_brandizzo:
+    Province:  ProvinceTO
+    code:      B121
+    name:      Brandizzo
+    latitude:  45.178296
+    longitude: 7.838926
+  City_branzi:
+    Province:  ProvinceBG
+    code:      B123
+    name:      Branzi
+    latitude:  46.003475
+    longitude: 9.760495
+  City_braone:
+    Province:  ProvinceBS
+    code:      B124
+    name:      Braone
+    latitude:  45.989179
+    longitude: 10.342559
+  City_brebbia:
+    Province:  ProvinceVA
+    code:      B126
+    name:      Brebbia
+    latitude:  45.82843
+    longitude: 8.650227
+  City_breda_di_piave:
+    Province:  ProvinceTV
+    code:      B128
+    name:      'Breda di Piave'
+    latitude:  45.724852
+    longitude: 12.333778
+  City_castelverde:
+    Province:  ProvinceCR
+    code:      B129
+    name:      Castelverde
+    latitude:  45.18987
+    longitude: 9.996741
+  City_bregano:
+    Province:  ProvinceVA
+    code:      B131
+    name:      Bregano
+    latitude:  45.826722
+    longitude: 8.688926
+  City_breganze:
+    Province:  ProvinceVI
+    code:      B132
+    name:      Breganze
+    latitude:  45.708061
+    longitude: 11.564795
+  City_bregnano:
+    Province:  ProvinceCO
+    code:      B134
+    name:      Bregnano
+    latitude:  45.698736
+    longitude: 9.060492
+  City_breguzzo:
+    Province:  ProvinceTN
+    code:      B135
+    name:      Breguzzo
+    latitude:  46.008778
+    longitude: 10.700315
+  City_breia:
+    Province:  ProvinceVC
+    code:      B136
+    name:      Breia
+    latitude:  45.7667
+    longitude: 8.310817
+  City_brembate:
+    Province:  ProvinceBG
+    code:      B137
+    name:      Brembate
+    latitude:  45.605796
+    longitude: 9.557667
+  City_brembate_di_sopra:
+    Province:  ProvinceBG
+    code:      B138
+    name:      'Brembate di Sopra'
+    latitude:  45.717667
+    longitude: 9.580648
+  City_brembilla:
+    Province:  ProvinceBG
+    code:      B140
+    name:      Brembilla
+    latitude:  45.81831
+    longitude: 9.599344
+  City_brembio:
+    Province:  ProvinceLO
+    code:      B141
+    name:      Brembio
+    latitude:  45.214551
+    longitude: 9.572813
+  City_breme:
+    Province:  ProvincePV
+    code:      B142
+    name:      Breme
+    latitude:  45.127112
+    longitude: 8.624924
+  City_brendola:
+    Province:  ProvinceVI
+    code:      B143
+    name:      Brendola
+    latitude:  45.472411
+    longitude: 11.446129
+  City_brenna:
+    Province:  ProvinceCO
+    code:      B144
+    name:      Brenna
+    latitude:  45.743907
+    longitude: 9.188296
+  City_brennero:
+    Province:  ProvinceBZ
+    code:      B145
+    name:      Brennero
+    latitude:  46.939308
+    longitude: 11.443564
+  City_breno:
+    Province:  ProvinceBS
+    code:      B149
+    name:      Breno
+    latitude:  45.955463
+    longitude: 10.301864
+  City_brenta:
+    Province:  ProvinceVA
+    code:      B150
+    name:      Brenta
+    latitude:  45.895167
+    longitude: 8.684852
+  City_brentino_belluno:
+    Province:  ProvinceVR
+    code:      B152
+    name:      'Brentino Belluno'
+    latitude:  45.658345
+    longitude: 10.894208
+  City_brentonico:
+    Province:  ProvinceTN
+    code:      B153
+    name:      Brentonico
+    latitude:  45.82
+    longitude: 10.956278
+  City_brenzone:
+    Province:  ProvinceVR
+    code:      B154
+    name:      Brenzone
+    latitude:  45.700963
+    longitude: 10.761741
+  City_brescello:
+    Province:  ProvinceRE
+    code:      B156
+    name:      Brescello
+    latitude:  44.900995
+    longitude: 10.515782
+  City_brescia:
+    Province:  ProvinceBS
+    code:      B157
+    name:      Brescia
+    latitude:  45.539773
+    longitude: 10.222939
+  City_bresimo:
+    Province:  ProvinceTN
+    code:      B158
+    name:      Bresimo
+    latitude:  46.410813
+    longitude: 10.968371
+  City_bressana_bottarone:
+    Province:  ProvincePV
+    code:      B159
+    name:      'Bressana Bottarone'
+    latitude:  45.078894
+    longitude: 9.133021
+  City_bressanone:
+    Province:  ProvinceBZ
+    code:      B160
+    name:      Bressanone
+    latitude:  46.712605
+    longitude: 11.657745
+  City_bressanvido:
+    Province:  ProvinceVI
+    code:      B161
+    name:      Bressanvido
+    latitude:  45.644267
+    longitude: 11.631492
+  City_bresso:
+    Province:  ProvinceMI
+    code:      B162
+    name:      Bresso
+    latitude:  45.537107
+    longitude: 9.191376
+  City_brez:
+    Province:  ProvinceTN
+    code:      B165
+    name:      Brez
+    latitude:  46.431889
+    longitude: 11.107667
+  City_brezzo_di_bedero:
+    Province:  ProvinceVA
+    code:      B166
+    name:      'Brezzo di Bedero'
+    latitude:  45.978135
+    longitude: 8.719163
+  City_briaglia:
+    Province:  ProvinceCN
+    code:      B167
+    name:      Briaglia
+    latitude:  44.395086
+    longitude: 7.876943
+  City_briatico:
+    Province:  ProvinceVV
+    code:      B169
+    name:      Briatico
+    latitude:  38.725517
+    longitude: 16.029821
+  City_bricherasio:
+    Province:  ProvinceTO
+    code:      B171
+    name:      Bricherasio
+    latitude:  44.824537
+    longitude: 7.306574
+  City_brienno:
+    Province:  ProvinceCO
+    code:      B172
+    name:      Brienno
+    latitude:  45.910167
+    longitude: 9.131426
+  City_brienza:
+    Province:  ProvincePZ
+    code:      B173
+    name:      Brienza
+    latitude:  40.478864
+    longitude: 15.630838
+  City_briga_alta:
+    Province:  ProvinceCN
+    code:      B175
+    name:      'Briga Alta'
+    latitude:  44.083356
+    longitude: 7.749462
+  City_briga_novarese:
+    Province:  ProvinceNO
+    code:      B176
+    name:      'Briga Novarese'
+    latitude:  45.733283
+    longitude: 8.450911
+  City_brignano_gera_d_adda:
+    Province:  ProvinceBG
+    code:      B178
+    name:      'Brignano Gera d''Adda'
+    latitude:  45.5475
+    longitude: 9.648759
+  City_brignano_frascata:
+    Province:  ProvinceAL
+    code:      B179
+    name:      Brignano-Frascata
+    latitude:  44.813897
+    longitude: 9.041037
+  City_brindisi:
+    Province:  ProvinceBR
+    code:      B180
+    name:      Brindisi
+    latitude:  40.636175
+    longitude: 17.938991
+  City_brindisi_montagna:
+    Province:  ProvincePZ
+    code:      B181
+    name:      'Brindisi Montagna'
+    latitude:  40.610673
+    longitude: 15.940662
+  City_brinzio:
+    Province:  ProvinceVA
+    code:      B182
+    name:      Brinzio
+    latitude:  45.888192
+    longitude: 8.790492
+  City_briona:
+    Province:  ProvinceNO
+    code:      B183
+    name:      Briona
+    latitude:  45.543444
+    longitude: 8.480963
+  City_brione:
+    Province:  ProvinceTN
+    code:      B185
+    name:      Brione
+    latitude:  45.894339
+    longitude: 10.590493
+  City_briosco:
+    Province:  ProvinceMI
+    code:      B187
+    name:      Briosco
+    latitude:  45.709154
+    longitude: 9.23971
+  City_brisighella:
+    Province:  ProvinceRA
+    code:      B188
+    name:      Brisighella
+    latitude:  44.222877
+    longitude: 11.771728
+  City_brissago_valtravaglia:
+    Province:  ProvinceVA
+    code:      B191
+    name:      Brissago-Valtravaglia
+    latitude:  45.949537
+    longitude: 8.74737
+  City_brissogne:
+    Province:  ProvinceAO
+    code:      B192
+    name:      Brissogne
+    latitude:  45.725805
+    longitude: 7.392204
+  City_brittoli:
+    Province:  ProvincePE
+    code:      B193
+    name:      Brittoli
+    latitude:  42.318494
+    longitude: 13.862457
+  City_brivio:
+    Province:  ProvinceLC
+    code:      B194
+    name:      Brivio
+    latitude:  45.742866
+    longitude: 9.443728
+  City_broccostella:
+    Province:  ProvinceFR
+    code:      B195
+    name:      Broccostella
+    latitude:  41.701818
+    longitude: 13.635922
+  City_brogliano:
+    Province:  ProvinceVI
+    code:      B196
+    name:      Brogliano
+    latitude:  45.589041
+    longitude: 11.367053
+  City_brognaturo:
+    Province:  ProvinceVV
+    code:      B197
+    name:      Brognaturo
+    latitude:  38.602352
+    longitude: 16.34237
+  City_brolo:
+    Province:  ProvinceME
+    code:      B198
+    name:      Brolo
+    latitude:  38.156624
+    longitude: 14.826571
+  City_brondello:
+    Province:  ProvinceCN
+    code:      B200
+    name:      Brondello
+    latitude:  44.601722
+    longitude: 7.407037
+  City_broni:
+    Province:  ProvincePV
+    code:      B201
+    name:      Broni
+    latitude:  45.066407
+    longitude: 9.263463
+  City_bronte:
+    Province:  ProvinceCT
+    code:      B202
+    name:      Bronte
+    latitude:  37.787218
+    longitude: 14.834
+  City_bronzolo:
+    Province:  ProvinceBZ
+    code:      B203
+    name:      Bronzolo
+    latitude:  46.40707
+    longitude: 11.32286
+  City_brossasco:
+    Province:  ProvinceCN
+    code:      B204
+    name:      Brossasco
+    latitude:  44.569704
+    longitude: 7.362815
+  City_brosso:
+    Province:  ProvinceTO
+    code:      B205
+    name:      Brosso
+    latitude:  45.493988
+    longitude: 7.803909
+  City_brovello_carpugnino:
+    Province:  ProvinceVB
+    code:      B207
+    name:      Brovello-Carpugnino
+    latitude:  45.843444
+    longitude: 8.532815
+  City_brozolo:
+    Province:  ProvinceTO
+    code:      B209
+    name:      Brozolo
+    latitude:  45.117733
+    longitude: 8.072537
+  City_brugherio:
+    Province:  ProvinceMI
+    code:      B212
+    name:      Brugherio
+    latitude:  45.552742
+    longitude: 9.301822
+  City_brugine:
+    Province:  ProvincePD
+    code:      B213
+    name:      Brugine
+    latitude:  45.2975
+    longitude: 11.996278
+  City_brugnato:
+    Province:  ProvinceSP
+    code:      B214
+    name:      Brugnato
+    latitude:  44.236836
+    longitude: 9.724684
+  City_brugnera:
+    Province:  ProvincePN
+    code:      B215
+    name:      Brugnera
+    latitude:  45.9025
+    longitude: 12.535167
+  City_bruino:
+    Province:  ProvinceTO
+    code:      B216
+    name:      Bruino
+    latitude:  45.021159
+    longitude: 7.464584
+  City_brumano:
+    Province:  ProvinceBG
+    code:      B217
+    name:      Brumano
+    latitude:  45.852299
+    longitude: 9.500976
+  City_brunate:
+    Province:  ProvinceCO
+    code:      B218
+    name:      Brunate
+    latitude:  45.820176
+    longitude: 9.096043
+  City_brunello:
+    Province:  ProvinceVA
+    code:      B219
+    name:      Brunello
+    latitude:  45.765944
+    longitude: 8.796407
+  City_brunico:
+    Province:  ProvinceBZ
+    code:      B220
+    name:      Brunico
+    latitude:  46.797064
+    longitude: 11.93
+  City_bruno:
+    Province:  ProvinceAT
+    code:      B221
+    name:      Bruno
+    latitude:  44.793946
+    longitude: 8.441015
+  City_brusaporto:
+    Province:  ProvinceBG
+    code:      B223
+    name:      Brusaporto
+    latitude:  45.672358
+    longitude: 9.762526
+  City_brusasco:
+    Province:  ProvinceTO
+    code:      B225
+    name:      Brusasco
+    latitude:  45.155829
+    longitude: 8.059529
+  City_brusciano:
+    Province:  ProvinceNA
+    code:      B227
+    name:      Brusciano
+    latitude:  40.924222
+    longitude: 14.424852
+  City_brusimpiano:
+    Province:  ProvinceVA
+    code:      B228
+    name:      Brusimpiano
+    latitude:  45.945363
+    longitude: 8.890694
+  City_brusnengo:
+    Province:  ProvinceBI
+    code:      B229
+    name:      Brusnengo
+    latitude:  45.603869
+    longitude: 8.248856
+  City_brusson:
+    Province:  ProvinceAO
+    code:      B230
+    name:      Brusson
+    latitude:  45.758759
+    longitude: 7.730796
+  City_bruzolo:
+    Province:  ProvinceTO
+    code:      B232
+    name:      Bruzolo
+    latitude:  45.143396
+    longitude: 7.193776
+  City_bruzzano_zeffirio:
+    Province:  ProvinceRC
+    code:      B234
+    name:      'Bruzzano Zeffirio'
+    latitude:  38.014389
+    longitude: 16.083444
+  City_bubbiano:
+    Province:  ProvinceMI
+    code:      B235
+    name:      Bubbiano
+    latitude:  45.326923
+    longitude: 9.015589
+  City_bubbio:
+    Province:  ProvinceAT
+    code:      B236
+    name:      Bubbio
+    latitude:  44.66422
+    longitude: 8.294975
+  City_buccheri:
+    Province:  ProvinceSR
+    code:      B237
+    name:      Buccheri
+    latitude:  37.126278
+    longitude: 14.850796
+  City_bucchianico:
+    Province:  ProvinceCH
+    code:      B238
+    name:      Bucchianico
+    latitude:  42.305863
+    longitude: 14.182742
+  City_bucciano:
+    Province:  ProvinceBN
+    code:      B239
+    name:      Bucciano
+    latitude:  41.077815
+    longitude: 14.57237
+  City_buccinasco:
+    Province:  ProvinceMI
+    code:      B240
+    name:      Buccinasco
+    latitude:  45.422105
+    longitude: 9.108614
+  City_buccino:
+    Province:  ProvinceSA
+    code:      B242
+    name:      Buccino
+    latitude:  40.633907
+    longitude: 15.379046
+  City_bucine:
+    Province:  ProvinceAR
+    code:      B243
+    name:      Bucine
+    latitude:  43.477518
+    longitude: 11.615963
+  City_budduso:
+    Province:  ProvinceOT
+    code:      B246
+    name:      Buddusò
+    latitude:  40.579241
+    longitude: 9.259241
+  City_budoia:
+    Province:  ProvincePN
+    code:      B247
+    name:      Budoia
+    latitude:  46.047204
+    longitude: 12.531574
+  City_budoni:
+    Province:  ProvinceOT
+    code:      B248
+    name:      Budoni
+    latitude:  40.709495
+    longitude: 9.699232
+  City_budrio:
+    Province:  ProvinceBO
+    code:      B249
+    name:      Budrio
+    latitude:  44.538148
+    longitude: 11.534704
+  City_buggerru:
+    Province:  ProvinceCI
+    code:      B250
+    name:      Buggerru
+    latitude:  39.3975
+    longitude: 8.402667
+  City_buggiano:
+    Province:  ProvincePT
+    code:      B251
+    name:      Buggiano
+    latitude:  43.876401
+    longitude: 10.734535
+  City_buglio_in_monte:
+    Province:  ProvinceSO
+    code:      B255
+    name:      'Buglio in Monte'
+    latitude:  46.185334
+    longitude: 9.679459
+  City_bugnara:
+    Province:  ProvinceAQ
+    code:      B256
+    name:      Bugnara
+    latitude:  42.022198
+    longitude: 13.858679
+  City_buguggiate:
+    Province:  ProvinceVA
+    code:      B258
+    name:      Buguggiate
+    latitude:  45.783296
+    longitude: 8.811722
+  City_buia:
+    Province:  ProvinceUD
+    code:      B259
+    name:      Buia
+    latitude:  46.2075
+    longitude: 13.116889
+  City_bulciago:
+    Province:  ProvinceLC
+    code:      B261
+    name:      Bulciago
+    latitude:  45.751574
+    longitude: 9.286407
+  City_bulgarograsso:
+    Province:  ProvinceCO
+    code:      B262
+    name:      Bulgarograsso
+    latitude:  45.748148
+    longitude: 9.0075
+  City_bultei:
+    Province:  ProvinceSS
+    code:      B264
+    name:      Bultei
+    latitude:  40.457352
+    longitude: 9.065796
+  City_bulzi:
+    Province:  ProvinceSS
+    code:      B265
+    name:      Bulzi
+    latitude:  40.848116
+    longitude: 8.831084
+  City_buonabitacolo:
+    Province:  ProvinceSA
+    code:      B266
+    name:      Buonabitacolo
+    latitude:  40.272352
+    longitude: 15.620963
+  City_buonalbergo:
+    Province:  ProvinceBN
+    code:      B267
+    name:      Buonalbergo
+    latitude:  41.223463
+    longitude: 14.979622
+  City_montebello_sul_sangro:
+    Province:  ProvinceCH
+    code:      B268
+    name:      'Montebello sul Sangro'
+    latitude:  41.987667
+    longitude: 14.325018
+  City_buonconvento:
+    Province:  ProvinceSI
+    code:      B269
+    name:      Buonconvento
+    latitude:  43.134704
+    longitude: 11.484555
+  City_buonvicino:
+    Province:  ProvinceCS
+    code:      B270
+    name:      Buonvicino
+    latitude:  39.69025
+    longitude: 15.883496
+  City_burago_di_molgora:
+    Province:  ProvinceMI
+    code:      B272
+    name:      'Burago di Molgora'
+    latitude:  45.596367
+    longitude: 9.378351
+  City_burcei:
+    Province:  ProvinceCA
+    code:      B274
+    name:      Burcei
+    latitude:  39.345459
+    longitude: 9.360697
+  City_burgio:
+    Province:  ProvinceAG
+    code:      B275
+    name:      Burgio
+    latitude:  37.600648
+    longitude: 13.291111
+  City_burgos:
+    Province:  ProvinceSS
+    code:      B276
+    name:      Burgos
+    latitude:  40.391722
+    longitude: 8.995333
+  City_buriasco:
+    Province:  ProvinceTO
+    code:      B278
+    name:      Buriasco
+    latitude:  44.874704
+    longitude: 7.411407
+  City_burolo:
+    Province:  ProvinceTO
+    code:      B279
+    name:      Burolo
+    latitude:  45.482204
+    longitude: 7.935
+  City_buronzo:
+    Province:  ProvinceVC
+    code:      B280
+    name:      Buronzo
+    latitude:  45.481889
+    longitude: 8.268296
+  City_busachi:
+    Province:  ProvinceOR
+    code:      B281
+    name:      Busachi
+    latitude:  40.03393
+    longitude: 8.897981
+  City_busalla:
+    Province:  ProvinceGE
+    code:      B282
+    name:      Busalla
+    latitude:  44.569876
+    longitude: 8.945867
+  City_busana:
+    Province:  ProvinceRE
+    code:      B283
+    name:      Busana
+    latitude:  44.368973
+    longitude: 10.325308
+  City_busano:
+    Province:  ProvinceTO
+    code:      B284
+    name:      Busano
+    latitude:  45.33313
+    longitude: 7.65707
+  City_busca:
+    Province:  ProvinceCN
+    code:      B285
+    name:      Busca
+    latitude:  44.519241
+    longitude: 7.475481
+  City_buscate:
+    Province:  ProvinceMI
+    code:      B286
+    name:      Buscate
+    latitude:  45.544692
+    longitude: 8.813429
+  City_buscemi:
+    Province:  ProvinceSR
+    code:      B287
+    name:      Buscemi
+    latitude:  37.085707
+    longitude: 14.884131
+  City_buseto_palizzolo:
+    Province:  ProvinceTP
+    code:      B288
+    name:      'Buseto Palizzolo'
+    latitude:  38.027037
+    longitude: 12.718463
+  City_busnago:
+    Province:  ProvinceMI
+    code:      B289
+    name:      Busnago
+    latitude:  45.616542
+    longitude: 9.464565
+  City_bussero:
+    Province:  ProvinceMI
+    code:      B292
+    name:      Bussero
+    latitude:  45.53831
+    longitude: 9.372751
+  City_busseto:
+    Province:  ProvincePR
+    code:      B293
+    name:      Busseto
+    latitude:  44.981574
+    longitude: 10.04313
+  City_bussi_sul_tirino:
+    Province:  ProvincePE
+    code:      B294
+    name:      'Bussi sul Tirino'
+    latitude:  42.212633
+    longitude: 13.824796
+  City_busso:
+    Province:  ProvinceCB
+    code:      B295
+    name:      Busso
+    latitude:  41.555167
+    longitude: 14.562056
+  City_bussolengo:
+    Province:  ProvinceVR
+    code:      B296
+    name:      Bussolengo
+    latitude:  45.474558
+    longitude: 10.846411
+  City_bussoleno:
+    Province:  ProvinceTO
+    code:      B297
+    name:      Bussoleno
+    latitude:  45.141426
+    longitude: 7.1475
+  City_busto_arsizio:
+    Province:  ProvinceVA
+    code:      B300
+    name:      'Busto Arsizio'
+    latitude:  45.611363
+    longitude: 8.849117
+  City_busto_garolfo:
+    Province:  ProvinceMI
+    code:      B301
+    name:      'Busto Garolfo'
+    latitude:  45.545581
+    longitude: 8.883444
+  City_butera:
+    Province:  ProvinceCL
+    code:      B302
+    name:      Butera
+    latitude:  37.189773
+    longitude: 14.182943
+  City_buti:
+    Province:  ProvincePI
+    code:      B303
+    name:      Buti
+    latitude:  43.726964
+    longitude: 10.588882
+  City_buttapietra:
+    Province:  ProvinceVR
+    code:      B304
+    name:      Buttapietra
+    latitude:  45.343778
+    longitude: 11.002204
+  City_buttigliera_alta:
+    Province:  ProvinceTO
+    code:      B305
+    name:      'Buttigliera Alta'
+    latitude:  45.070963
+    longitude: 7.429537
+  City_buttigliera_d_asti:
+    Province:  ProvinceAT
+    code:      B306
+    name:      'Buttigliera D''Asti'
+    latitude:  45.022317
+    longitude: 7.950727
+  City_buttrio:
+    Province:  ProvinceUD
+    code:      B309
+    name:      Buttrio
+    latitude:  46.011426
+    longitude: 13.334852
