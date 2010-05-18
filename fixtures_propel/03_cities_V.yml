@@ -1,0 +1,2791 @@
+City:
+  vaccarizzo_albanese:
+    province_id: CS
+    id:          L524
+    name:        'Vaccarizzo Albanese'
+    latitude:    39.586407
+    longitude:   16.433759
+  vacone:
+    province_id: RI
+    id:          L525
+    name:        Vacone
+    latitude:    42.385479
+    longitude:   12.643469
+  vacri:
+    province_id: CH
+    id:          L526
+    name:        Vacri
+    latitude:    42.297785
+    longitude:   14.232668
+  vadena:
+    province_id: BZ
+    id:          L527
+    name:        Vadena
+    latitude:    46.415574
+    longitude:   11.304359
+  vado_ligure:
+    province_id: SV
+    id:          L528
+    name:        'Vado Ligure'
+    latitude:    44.26935
+    longitude:   8.435763
+  vaglia:
+    province_id: FI
+    id:          L529
+    name:        Vaglia
+    latitude:    43.911426
+    longitude:   11.280167
+  vaglio_serra:
+    province_id: AT
+    id:          L531
+    name:        'Vaglio Serra'
+    latitude:    44.797352
+    longitude:   8.34
+  vaglio_basilicata:
+    province_id: PZ
+    id:          L532
+    name:        'Vaglio Basilicata'
+    latitude:    40.668611
+    longitude:   15.918926
+  vagli_sotto:
+    province_id: LU
+    id:          L533
+    name:        'Vagli Sotto'
+    latitude:    44.109592
+    longitude:   10.289155
+  vaiano_cremasco:
+    province_id: CR
+    id:          L535
+    name:        'Vaiano Cremasco'
+    latitude:    45.373867
+    longitude:   9.590398
+  vaiano:
+    province_id: PO
+    id:          L537
+    name:        Vaiano
+    latitude:    43.969168
+    longitude:   11.123411
+  vaie:
+    province_id: TO
+    id:          L538
+    name:        Vaie
+    latitude:    45.101656
+    longitude:   7.289804
+  vailate:
+    province_id: CR
+    id:          L539
+    name:        Vailate
+    latitude:    45.46418
+    longitude:   9.605389
+  vairano_patenora:
+    province_id: CE
+    id:          L540
+    name:        'Vairano Patenora'
+    latitude:    41.337824
+    longitude:   14.132173
+  valbondione:
+    province_id: BG
+    id:          L544
+    name:        Valbondione
+    latitude:    46.037883
+    longitude:   10.013161
+  valbrembo:
+    province_id: BG
+    id:          L545
+    name:        Valbrembo
+    latitude:    45.719537
+    longitude:   9.610167
+  valbrevenna:
+    province_id: GE
+    id:          L546
+    name:        Valbrevenna
+    latitude:    44.556371
+    longitude:   9.065602
+  valbrona:
+    province_id: CO
+    id:          L547
+    name:        Valbrona
+    latitude:    45.878463
+    longitude:   9.300018
+  vico_canavese:
+    province_id: TO
+    id:          L548
+    name:        'Vico Canavese'
+    latitude:    45.495648
+    longitude:   7.7775
+  valda:
+    province_id: TN
+    id:          L550
+    name:        Valda
+    latitude:    46.20745
+    longitude:   11.266747
+  valdagno:
+    province_id: VI
+    id:          L551
+    name:        Valdagno
+    latitude:    45.6502
+    longitude:   11.300924
+  valdaora:
+    province_id: BZ
+    id:          L552
+    name:        Valdaora
+    latitude:    46.760812
+    longitude:   12.032039
+  valdastico:
+    province_id: VI
+    id:          L554
+    name:        Valdastico
+    latitude:    45.887667
+    longitude:   11.362667
+  val_della_torre:
+    province_id: TO
+    id:          L555
+    name:        'Val della Torre'
+    latitude:    45.156278
+    longitude:   7.446278
+  valdengo:
+    province_id: BI
+    id:          L556
+    name:        Valdengo
+    latitude:    45.568148
+    longitude:   8.139556
+  valdidentro:
+    province_id: SO
+    id:          L557
+    name:        Valdidentro
+    latitude:    46.490018
+    longitude:   10.295167
+  valdieri:
+    province_id: CN
+    id:          L558
+    name:        Valdieri
+    latitude:    44.278778
+    longitude:   7.398759
+  valdina:
+    province_id: ME
+    id:          L561
+    name:        Valdina
+    latitude:    38.19188
+    longitude:   15.371189
+  val_di_nizza:
+    province_id: PV
+    id:          L562
+    name:        'Val di Nizza'
+    latitude:    44.878092
+    longitude:   9.165597
+  valdisotto:
+    province_id: SO
+    id:          L563
+    name:        Valdisotto
+    latitude:    46.428074
+    longitude:   10.356119
+  val_di_vizze:
+    province_id: BZ
+    id:          L564
+    name:        'Val di Vizze'
+    latitude:    46.901125
+    longitude:   11.465214
+  valdobbiadene:
+    province_id: TV
+    id:          L565
+    name:        Valdobbiadene
+    latitude:    45.901333
+    longitude:   11.99544
+  valduggia:
+    province_id: VC
+    id:          L566
+    name:        Valduggia
+    latitude:    45.729389
+    longitude:   8.331111
+  valeggio_sul_mincio:
+    province_id: VR
+    id:          L567
+    name:        'Valeggio sul Mincio'
+    latitude:    45.353972
+    longitude:   10.736491
+  valeggio:
+    province_id: PV
+    id:          L568
+    name:        Valeggio
+    latitude:    45.151741
+    longitude:   8.861111
+  valentano:
+    province_id: VT
+    id:          L569
+    name:        Valentano
+    latitude:    42.566412
+    longitude:   11.818356
+  valenza:
+    province_id: AL
+    id:          L570
+    name:        Valenza
+    latitude:    45.012268
+    longitude:   8.644185
+  valenzano:
+    province_id: BA
+    id:          L571
+    name:        Valenzano
+    latitude:    41.044554
+    longitude:   16.884399
+  valera_fratta:
+    province_id: LO
+    id:          L572
+    name:        'Valera Fratta'
+    latitude:    45.25766
+    longitude:   9.336947
+  valfabbrica:
+    province_id: PG
+    id:          L573
+    name:        Valfabbrica
+    latitude:    43.159571
+    longitude:   12.601404
+  valfenera:
+    province_id: AT
+    id:          L574
+    name:        Valfenera
+    latitude:    44.903004
+    longitude:   7.967398
+  valfloriana:
+    province_id: TN
+    id:          L575
+    name:        Valfloriana
+    latitude:    46.25063
+    longitude:   11.344241
+  valfurva:
+    province_id: SO
+    id:          L576
+    name:        Valfurva
+    latitude:    46.463023
+    longitude:   10.410534
+  valganna:
+    province_id: VA
+    id:          L577
+    name:        Valganna
+    latitude:    45.902226
+    longitude:   8.8256
+  valgioie:
+    province_id: TO
+    id:          L578
+    name:        Valgioie
+    latitude:    45.0761
+    longitude:   7.340726
+  valgoglio:
+    province_id: BG
+    id:          L579
+    name:        Valgoglio
+    latitude:    45.974117
+    longitude:   9.912132
+  valgrana:
+    province_id: CN
+    id:          L580
+    name:        Valgrana
+    latitude:    44.41237
+    longitude:   7.381259
+  valgreghentino:
+    province_id: LC
+    id:          L581
+    name:        Valgreghentino
+    latitude:    45.780383
+    longitude:   9.414435
+  valgrisenche:
+    province_id: AO
+    id:          L582
+    name:        Valgrisenche
+    latitude:    45.630762
+    longitude:   7.064233
+  valguarnera_caropepe:
+    province_id: EN
+    id:          L583
+    name:        'Valguarnera Caropepe'
+    latitude:    37.496741
+    longitude:   14.389704
+  vallada_agordina:
+    province_id: BL
+    id:          L584
+    name:        'Vallada Agordina'
+    latitude:    46.36324
+    longitude:   11.934675
+  vallanzengo:
+    province_id: BI
+    id:          L586
+    name:        Vallanzengo
+    latitude:    45.604059
+    longitude:   8.150844
+  vallarsa:
+    province_id: TN
+    id:          L588
+    name:        Vallarsa
+    latitude:    45.782599
+    longitude:   11.117252
+  vallata:
+    province_id: AV
+    id:          L589
+    name:        Vallata
+    latitude:    41.033403
+    longitude:   15.253148
+  valle_di_cadore:
+    province_id: BL
+    id:          L590
+    name:        'Valle di Cadore'
+    latitude:    46.418926
+    longitude:   12.33563
+  valle_di_maddaloni:
+    province_id: CE
+    id:          L591
+    name:        'Valle di Maddaloni'
+    latitude:    41.080648
+    longitude:   14.416574
+  valle_lomellina:
+    province_id: PV
+    id:          L593
+    name:        'Valle Lomellina'
+    latitude:    45.151769
+    longitude:   8.666761
+  valle_agricola:
+    province_id: CE
+    id:          L594
+    name:        'Valle Agricola'
+    latitude:    41.42395
+    longitude:   14.257495
+  valle_aurina:
+    province_id: BZ
+    id:          L595
+    name:        'Valle Aurina'
+    latitude:    46.997063
+    longitude:   11.980456
+  vallebona:
+    province_id: IM
+    id:          L596
+    name:        Vallebona
+    latitude:    43.813738
+    longitude:   7.667453
+  valle_castellana:
+    province_id: TE
+    id:          L597
+    name:        'Valle Castellana'
+    latitude:    42.73667
+    longitude:   13.496874
+  vallecorsa:
+    province_id: FR
+    id:          L598
+    name:        Vallecorsa
+    latitude:    41.445064
+    longitude:   13.405453
+  vallecrosia:
+    province_id: IM
+    id:          L599
+    name:        Vallecrosia
+    latitude:    43.786052
+    longitude:   7.640142
+  valle_di_casies:
+    province_id: BZ
+    id:          L601
+    name:        'Valle di Casies'
+    latitude:    46.768473
+    longitude:   12.180588
+  valledolmo:
+    province_id: PA
+    id:          L603
+    name:        Valledolmo
+    latitude:    37.748611
+    longitude:   13.828759
+  valledoria:
+    province_id: SS
+    id:          L604
+    name:        Valledoria
+    latitude:    40.92987
+    longitude:   8.824222
+  vallemaio:
+    province_id: FR
+    id:          L605
+    name:        Vallemaio
+    latitude:    41.368257
+    longitude:   13.811416
+  valle_mosso:
+    province_id: BI
+    id:          L606
+    name:        'Valle Mosso'
+    latitude:    45.634725
+    longitude:   8.143261
+  vallelonga:
+    province_id: VV
+    id:          L607
+    name:        Vallelonga
+    latitude:    38.647127
+    longitude:   16.292671
+  vallelunga_pratameno:
+    province_id: CL
+    id:          L609
+    name:        'Vallelunga Pratameno'
+    latitude:    37.68313
+    longitude:   13.832518
+  vallepietra:
+    province_id: RM
+    id:          L611
+    name:        Vallepietra
+    latitude:    41.92533
+    longitude:   13.230783
+  vallerano:
+    province_id: VT
+    id:          L612
+    name:        Vallerano
+    latitude:    42.385
+    longitude:   12.264556
+  vallermosa:
+    province_id: CA
+    id:          L613
+    name:        Vallermosa
+    latitude:    39.365648
+    longitude:   8.797352
+  vallerotonda:
+    province_id: FR
+    id:          L614
+    name:        Vallerotonda
+    latitude:    41.551967
+    longitude:   13.911178
+  vallesaccarda:
+    province_id: AV
+    id:          L616
+    name:        Vallesaccarda
+    latitude:    41.064307
+    longitude:   15.253121
+  valle_salimbene:
+    province_id: PV
+    id:          L617
+    name:        'Valle Salimbene'
+    latitude:    45.172615
+    longitude:   9.235358
+  valle_san_nicolao:
+    province_id: BI
+    id:          L620
+    name:        'Valle San Nicolao'
+    latitude:    45.608148
+    longitude:   8.142204
+  valleve:
+    province_id: BG
+    id:          L623
+    name:        Valleve
+    latitude:    46.027108
+    longitude:   9.743254
+  valli_del_pasubio:
+    province_id: VI
+    id:          L624
+    name:        'Valli del Pasubio'
+    latitude:    45.741722
+    longitude:   11.262833
+  vallinfreda:
+    province_id: RM
+    id:          L625
+    name:        Vallinfreda
+    latitude:    42.084648
+    longitude:   12.997615
+  vallio_terme:
+    province_id: BS
+    id:          L626
+    name:        'Vallio Terme'
+    latitude:    45.610361
+    longitude:   10.395984
+  vallo_di_nera:
+    province_id: PG
+    id:          L627
+    name:        'Vallo di Nera'
+    latitude:    42.75563
+    longitude:   12.865
+  vallo_della_lucania:
+    province_id: SA
+    id:          L628
+    name:        'Vallo della Lucania'
+    latitude:    40.230796
+    longitude:   15.266741
+  vallo_torinese:
+    province_id: TO
+    id:          L629
+    name:        'Vallo Torinese'
+    latitude:    45.224537
+    longitude:   7.497518
+  valloriate:
+    province_id: CN
+    id:          L631
+    name:        Valloriate
+    latitude:    44.338057
+    longitude:   7.372059
+  valmacca:
+    province_id: AL
+    id:          L633
+    name:        Valmacca
+    latitude:    45.101259
+    longitude:   8.584241
+  valmadrera:
+    province_id: LC
+    id:          L634
+    name:        Valmadrera
+    latitude:    45.848024
+    longitude:   9.358473
+  valmala:
+    province_id: CN
+    id:          L636
+    name:        Valmala
+    latitude:    44.544088
+    longitude:   7.346442
+  val_masino:
+    province_id: SO
+    id:          L638
+    name:        'Val Masino'
+    latitude:    46.212407
+    longitude:   9.636796
+  valmontone:
+    province_id: RM
+    id:          L639
+    name:        Valmontone
+    latitude:    41.777088
+    longitude:   12.917845
+  valmorea:
+    province_id: CO
+    id:          L640
+    name:        Valmorea
+    latitude:    45.816278
+    longitude:   8.931722
+  valmozzola:
+    province_id: PR
+    id:          L641
+    name:        Valmozzola
+    latitude:    44.568933
+    longitude:   9.883676
+  valnegra:
+    province_id: BG
+    id:          L642
+    name:        Valnegra
+    latitude:    45.95
+    longitude:   9.690481
+  valpelline:
+    province_id: AO
+    id:          L643
+    name:        Valpelline
+    latitude:    45.825963
+    longitude:   7.326741
+  valperga:
+    province_id: TO
+    id:          L644
+    name:        Valperga
+    latitude:    45.370126
+    longitude:   7.657863
+  valsavarenche:
+    province_id: AO
+    id:          L647
+    name:        Valsavarenche
+    latitude:    45.592427
+    longitude:   7.209844
+  valsecca:
+    province_id: BG
+    id:          L649
+    name:        Valsecca
+    latitude:    45.828296
+    longitude:   9.496407
+  valstagna:
+    province_id: VI
+    id:          L650
+    name:        Valstagna
+    latitude:    45.855273
+    longitude:   11.662358
+  valstrona:
+    province_id: VB
+    id:          L651
+    name:        Valstrona
+    latitude:    45.908798
+    longitude:   8.345824
+  valtopina:
+    province_id: PG
+    id:          L653
+    name:        Valtopina
+    latitude:    43.057833
+    longitude:   12.754074
+  valtournenche:
+    province_id: AO
+    id:          L654
+    name:        Valtournenche
+    latitude:    45.87676
+    longitude:   7.623917
+  valtorta:
+    province_id: BG
+    id:          L655
+    name:        Valtorta
+    latitude:    45.977562
+    longitude:   9.532664
+  valva:
+    province_id: SA
+    id:          L656
+    name:        Valva
+    latitude:    40.739222
+    longitude:   15.270315
+  valvasone:
+    province_id: PN
+    id:          L657
+    name:        Valvasone
+    latitude:    45.995614
+    longitude:   12.869038
+  valverde:
+    province_id: PV
+    id:          L659
+    name:        Valverde
+    latitude:    44.869704
+    longitude:   9.235481
+  vandoies:
+    province_id: BZ
+    id:          L660
+    name:        Vandoies
+    latitude:    46.815991
+    longitude:   11.721414
+  vanzaghello:
+    province_id: MI
+    id:          L664
+    name:        Vanzaghello
+    latitude:    45.580018
+    longitude:   8.779769
+  vanzago:
+    province_id: MI
+    id:          L665
+    name:        Vanzago
+    latitude:    45.526487
+    longitude:   8.996683
+  vanzone_con_san_carlo:
+    province_id: VB
+    id:          L666
+    name:        'Vanzone con San Carlo'
+    latitude:    45.979793
+    longitude:   8.11205
+  vaprio_d_adda:
+    province_id: MI
+    id:          L667
+    name:        'Vaprio D''Adda'
+    latitude:    45.575955
+    longitude:   9.53215
+  vaprio_d_agogna:
+    province_id: NO
+    id:          L668
+    name:        'Vaprio D''Agogna'
+    latitude:    45.604704
+    longitude:   8.554704
+  varallo:
+    province_id: VC
+    id:          L669
+    name:        Varallo
+    latitude:    45.813833
+    longitude:   8.25351
+  varallo_pombia:
+    province_id: NO
+    id:          L670
+    name:        'Varallo Pombia'
+    latitude:    45.667815
+    longitude:   8.63
+  varano_borghi:
+    province_id: VA
+    id:          L671
+    name:        'Varano Borghi'
+    latitude:    45.775
+    longitude:   8.705167
+  varano_de_melegari:
+    province_id: PR
+    id:          L672
+    name:        'Varano de'' Melegari'
+    latitude:    44.689074
+    longitude:   10.0125
+  varapodio:
+    province_id: RC
+    id:          L673
+    name:        Varapodio
+    latitude:    38.314893
+    longitude:   15.984057
+  varazze:
+    province_id: SV
+    id:          L675
+    name:        Varazze
+    latitude:    44.36065
+    longitude:   8.575175
+  varco_sabino:
+    province_id: RI
+    id:          L676
+    name:        'Varco Sabino'
+    latitude:    42.240963
+    longitude:   13.020963
+  varedo:
+    province_id: MI
+    id:          L677
+    name:        Varedo
+    latitude:    45.597852
+    longitude:   9.16043
+  varena:
+    province_id: TN
+    id:          L678
+    name:        Varena
+    latitude:    46.307667
+    longitude:   11.459389
+  varenna:
+    province_id: LC
+    id:          L680
+    name:        Varenna
+    latitude:    46.009968
+    longitude:   9.28369
+  varese_ligure:
+    province_id: SP
+    id:          L681
+    name:        'Varese Ligure'
+    latitude:    44.377352
+    longitude:   9.595333
+  varese:
+    province_id: VA
+    id:          L682
+    name:        Varese
+    latitude:    45.817605
+    longitude:   8.826384
+  varisella:
+    province_id: TO
+    id:          L685
+    name:        Varisella
+    latitude:    45.209621
+    longitude:   7.486139
+  varmo:
+    province_id: UD
+    id:          L686
+    name:        Varmo
+    latitude:    45.887549
+    longitude:   12.988933
+  varna:
+    province_id: BZ
+    id:          L687
+    name:        Varna
+    latitude:    46.740349
+    longitude:   11.636557
+  varsi:
+    province_id: PR
+    id:          L689
+    name:        Varsi
+    latitude:    44.661968
+    longitude:   9.844871
+  varzi:
+    province_id: PV
+    id:          L690
+    name:        Varzi
+    latitude:    44.823653
+    longitude:   9.195856
+  varzo:
+    province_id: VB
+    id:          L691
+    name:        Varzo
+    latitude:    46.207667
+    longitude:   8.253611
+  vas:
+    province_id: BL
+    id:          L692
+    name:        Vas
+    latitude:    45.9392
+    longitude:   11.93572
+  vasia:
+    province_id: IM
+    id:          L693
+    name:        Vasia
+    latitude:    43.933148
+    longitude:   7.954074
+  vastogirardi:
+    province_id: IS
+    id:          L696
+    name:        Vastogirardi
+    latitude:    41.775167
+    longitude:   14.261426
+  vattaro:
+    province_id: TN
+    id:          L697
+    name:        Vattaro
+    latitude:    45.995648
+    longitude:   11.217981
+  vauda_canavese:
+    province_id: TO
+    id:          L698
+    name:        'Vauda Canavese'
+    latitude:    45.2792
+    longitude:   7.616355
+  vazzano:
+    province_id: VV
+    id:          L699
+    name:        Vazzano
+    latitude:    38.633774
+    longitude:   16.248843
+  vazzola:
+    province_id: TV
+    id:          L700
+    name:        Vazzola
+    latitude:    45.842796
+    longitude:   12.384307
+  vecchiano:
+    province_id: PI
+    id:          L702
+    name:        Vecchiano
+    latitude:    43.780988
+    longitude:   10.383387
+  vedano_olona:
+    province_id: VA
+    id:          L703
+    name:        'Vedano Olona'
+    latitude:    45.773266
+    longitude:   8.881159
+  vedano_al_lambro:
+    province_id: MI
+    id:          L704
+    name:        'Vedano al Lambro'
+    latitude:    45.607029
+    longitude:   9.26837
+  veddasca:
+    province_id: VA
+    id:          L705
+    name:        Veddasca
+    latitude:    46.071574
+    longitude:   8.799852
+  vedelago:
+    province_id: TV
+    id:          L706
+    name:        Vedelago
+    latitude:    45.686604
+    longitude:   12.017904
+  vedeseta:
+    province_id: BG
+    id:          L707
+    name:        Vedeseta
+    latitude:    45.891166
+    longitude:   9.539858
+  veduggio_con_colzano:
+    province_id: MI
+    id:          L709
+    name:        'Veduggio con Colzano'
+    latitude:    45.734926
+    longitude:   9.273349
+  veggiano:
+    province_id: PD
+    id:          L710
+    name:        Veggiano
+    latitude:    45.44813
+    longitude:   11.713926
+  veglie:
+    province_id: LE
+    id:          L711
+    name:        Veglie
+    latitude:    40.336283
+    longitude:   17.966107
+  veglio:
+    province_id: BI
+    id:          L712
+    name:        Veglio
+    latitude:    45.640647
+    longitude:   8.114246
+  vejano:
+    province_id: VT
+    id:          L713
+    name:        Vejano
+    latitude:    42.218296
+    longitude:   12.096574
+  veleso:
+    province_id: CO
+    id:          L715
+    name:        Veleso
+    latitude:    45.908455
+    longitude:   9.181557
+  velezzo_lomellina:
+    province_id: PV
+    id:          L716
+    name:        'Velezzo Lomellina'
+    latitude:    45.164131
+    longitude:   8.737739
+  velletri:
+    province_id: RM
+    id:          L719
+    name:        Velletri
+    latitude:    41.691336
+    longitude:   12.777975
+  vellezzo_bellini:
+    province_id: PV
+    id:          L720
+    name:        'Vellezzo Bellini'
+    latitude:    45.271741
+    longitude:   9.100315
+  velo_veronese:
+    province_id: VR
+    id:          L722
+    name:        'Velo Veronese'
+    latitude:    45.607667
+    longitude:   11.096259
+  velo_d_astico:
+    province_id: VI
+    id:          L723
+    name:        'Velo D''Astico'
+    latitude:    45.790049
+    longitude:   11.366323
+  velturno:
+    province_id: BZ
+    id:          L724
+    name:        Velturno
+    latitude:    46.668098
+    longitude:   11.595733
+  venafro:
+    province_id: IS
+    id:          L725
+    name:        Venafro
+    latitude:    41.484556
+    longitude:   14.046111
+  venaus:
+    province_id: TO
+    id:          L726
+    name:        Venaus
+    latitude:    45.159555
+    longitude:   7.009222
+  venaria_reale:
+    province_id: TO
+    id:          L727
+    name:        'Venaria Reale'
+    latitude:    45.134171
+    longitude:   7.629048
+  venarotta:
+    province_id: AP
+    id:          L728
+    name:        Venarotta
+    latitude:    42.881791
+    longitude:   13.49263
+  venasca:
+    province_id: CN
+    id:          L729
+    name:        Venasca
+    latitude:    44.565017
+    longitude:   7.405008
+  vendone:
+    province_id: SV
+    id:          L730
+    name:        Vendone
+    latitude:    44.077103
+    longitude:   8.071881
+  vendrogno:
+    province_id: LC
+    id:          L731
+    name:        Vendrogno
+    latitude:    46.034727
+    longitude:   9.328784
+  venegono_inferiore:
+    province_id: VA
+    id:          L733
+    name:        'Venegono Inferiore'
+    latitude:    45.737914
+    longitude:   8.900614
+  venegono_superiore:
+    province_id: VA
+    id:          L734
+    name:        'Venegono Superiore'
+    latitude:    45.755167
+    longitude:   8.897815
+  venetico:
+    province_id: ME
+    id:          L735
+    name:        Venetico
+    latitude:    38.193167
+    longitude:   15.381025
+  venezia:
+    province_id: VE
+    id:          L736
+    name:        Venezia
+    latitude:    45.434336
+    longitude:   12.338784
+  veniano:
+    province_id: CO
+    id:          L737
+    name:        Veniano
+    latitude:    45.720994
+    longitude:   8.990314
+  venosa:
+    province_id: PZ
+    id:          L738
+    name:        Venosa
+    latitude:    40.962352
+    longitude:   15.815796
+  venticano:
+    province_id: AV
+    id:          L739
+    name:        Venticano
+    latitude:    41.048296
+    longitude:   14.912815
+  ventimiglia_di_sicilia:
+    province_id: PA
+    id:          L740
+    name:        'Ventimiglia di Sicilia'
+    latitude:    37.923077
+    longitude:   13.569317
+  ventimiglia:
+    province_id: IM
+    id:          L741
+    name:        Ventimiglia
+    latitude:    43.790417
+    longitude:   7.607139
+  ventotene:
+    province_id: LT
+    id:          L742
+    name:        Ventotene
+    latitude:    40.797037
+    longitude:   13.432204
+  venzone:
+    province_id: UD
+    id:          L743
+    name:        Venzone
+    latitude:    46.332194
+    longitude:   13.140486
+  verano_brianza:
+    province_id: MI
+    id:          L744
+    name:        'Verano Brianza'
+    latitude:    45.685355
+    longitude:   9.229899
+  verano:
+    province_id: BZ
+    id:          L745
+    name:        Verano
+    latitude:    46.605709
+    longitude:   11.226789
+  verbania:
+    province_id: VB
+    id:          L746
+    name:        Verbania
+    latitude:    45.921507
+    longitude:   8.55156
+  verbicaro:
+    province_id: CS
+    id:          L747
+    name:        Verbicaro
+    latitude:    39.757118
+    longitude:   15.915921
+  vercana:
+    province_id: CO
+    id:          L748
+    name:        Vercana
+    latitude:    46.160249
+    longitude:   9.335313
+  verceia:
+    province_id: SO
+    id:          L749
+    name:        Verceia
+    latitude:    46.199704
+    longitude:   9.455963
+  vercelli:
+    province_id: VC
+    id:          L750
+    name:        Vercelli
+    latitude:    45.321061
+    longitude:   8.426393
+  vercurago:
+    province_id: LC
+    id:          L751
+    name:        Vercurago
+    latitude:    45.811407
+    longitude:   9.425333
+  verdellino:
+    province_id: BG
+    id:          L752
+    name:        Verdellino
+    latitude:    45.602037
+    longitude:   9.609241
+  verdello:
+    province_id: BG
+    id:          L753
+    name:        Verdello
+    latitude:    45.605796
+    longitude:   9.63
+  verderio_inferiore:
+    province_id: LC
+    id:          L755
+    name:        'Verderio Inferiore'
+    latitude:    45.662959
+    longitude:   9.435683
+  verderio_superiore:
+    province_id: LC
+    id:          L756
+    name:        'Verderio Superiore'
+    latitude:    45.668759
+    longitude:   9.441407
+  verduno:
+    province_id: CN
+    id:          L758
+    name:        Verduno
+    latitude:    44.667204
+    longitude:   7.931889
+  vergato:
+    province_id: BO
+    id:          L762
+    name:        Vergato
+    latitude:    44.282822
+    longitude:   11.111561
+  vergemoli:
+    province_id: LU
+    id:          L763
+    name:        Vergemoli
+    latitude:    44.05316
+    longitude:   10.380789
+  verghereto:
+    province_id: FC
+    id:          L764
+    name:        Verghereto
+    latitude:    43.793907
+    longitude:   12.005018
+  vergiate:
+    province_id: VA
+    id:          L765
+    name:        Vergiate
+    latitude:    45.721459
+    longitude:   8.69358
+  vermezzo:
+    province_id: MI
+    id:          L768
+    name:        Vermezzo
+    latitude:    45.394813
+    longitude:   8.980769
+  vermiglio:
+    province_id: TN
+    id:          L769
+    name:        Vermiglio
+    latitude:    46.298463
+    longitude:   10.692773
+  vernante:
+    province_id: CN
+    id:          L771
+    name:        Vernante
+    latitude:    44.245035
+    longitude:   7.53452
+  vernasca:
+    province_id: PC
+    id:          L772
+    name:        Vernasca
+    latitude:    44.800315
+    longitude:   9.831741
+  vernate:
+    province_id: MI
+    id:          L773
+    name:        Vernate
+    latitude:    45.316348
+    longitude:   9.060422
+  vernazza:
+    province_id: SP
+    id:          L774
+    name:        Vernazza
+    latitude:    44.136259
+    longitude:   9.685018
+  vernio:
+    province_id: PO
+    id:          L775
+    name:        Vernio
+    latitude:    44.045044
+    longitude:   11.151041
+  vernole:
+    province_id: LE
+    id:          L776
+    name:        Vernole
+    latitude:    40.290648
+    longitude:   18.304389
+  verolanuova:
+    province_id: BS
+    id:          L777
+    name:        Verolanuova
+    latitude:    45.329241
+    longitude:   10.077056
+  verolavecchia:
+    province_id: BS
+    id:          L778
+    name:        Verolavecchia
+    latitude:    45.328148
+    longitude:   10.058296
+  verolengo:
+    province_id: TO
+    id:          L779
+    name:        Verolengo
+    latitude:    45.191111
+    longitude:   7.969389
+  veroli:
+    province_id: FR
+    id:          L780
+    name:        Veroli
+    latitude:    41.690532
+    longitude:   13.417276
+  verona:
+    province_id: VR
+    id:          L781
+    name:        Verona
+    latitude:    45.442006
+    longitude:   10.995485
+  verrayes:
+    province_id: AO
+    id:          L783
+    name:        Verrayes
+    latitude:    45.764222
+    longitude:   7.535796
+  verretto:
+    province_id: PV
+    id:          L784
+    name:        Verretto
+    latitude:    45.040784
+    longitude:   9.107005
+  verrone:
+    province_id: BI
+    id:          L785
+    name:        Verrone
+    latitude:    45.504704
+    longitude:   8.120167
+  verrua_savoia:
+    province_id: TO
+    id:          L787
+    name:        'Verrua Savoia'
+    latitude:    45.157833
+    longitude:   8.093463
+  verrua_po:
+    province_id: PV
+    id:          L788
+    name:        'Verrua Po'
+    latitude:    45.107815
+    longitude:   9.176407
+  vertemate_con_minoprio:
+    province_id: CO
+    id:          L792
+    name:        'Vertemate con Minoprio'
+    latitude:    45.725667
+    longitude:   9.073066
+  vertova:
+    province_id: BG
+    id:          L795
+    name:        Vertova
+    latitude:    45.811426
+    longitude:   9.854389
+  verucchio:
+    province_id: RN
+    id:          L797
+    name:        Verucchio
+    latitude:    43.983325
+    longitude:   12.422965
+  veruno:
+    province_id: NO
+    id:          L798
+    name:        Veruno
+    latitude:    45.689853
+    longitude:   8.529861
+  vervio:
+    province_id: SO
+    id:          L799
+    name:        Vervio
+    latitude:    46.25211
+    longitude:   10.239441
+  vervo:
+    province_id: TN
+    id:          L800
+    name:        Vervò
+    latitude:    46.310999
+    longitude:   11.119022
+  verzegnis:
+    province_id: UD
+    id:          L801
+    name:        Verzegnis
+    latitude:    46.389879
+    longitude:   12.991924
+  verzino:
+    province_id: KR
+    id:          L802
+    name:        Verzino
+    latitude:    39.312204
+    longitude:   16.861259
+  verzuolo:
+    province_id: CN
+    id:          L804
+    name:        Verzuolo
+    latitude:    44.601201
+    longitude:   7.483091
+  vescovana:
+    province_id: PD
+    id:          L805
+    name:        Vescovana
+    latitude:    45.136319
+    longitude:   11.710785
+  vescovato:
+    province_id: CR
+    id:          L806
+    name:        Vescovato
+    latitude:    45.176111
+    longitude:   10.16563
+  vesime:
+    province_id: AT
+    id:          L807
+    name:        Vesime
+    latitude:    44.636076
+    longitude:   8.228289
+  vespolate:
+    province_id: NO
+    id:          L808
+    name:        Vespolate
+    latitude:    45.351426
+    longitude:   8.668907
+  vessalico:
+    province_id: IM
+    id:          L809
+    name:        Vessalico
+    latitude:    44.046259
+    longitude:   7.960796
+  vestenanova:
+    province_id: VR
+    id:          L810
+    name:        Vestenanova
+    latitude:    45.574537
+    longitude:   11.229537
+  vestigne:
+    province_id: TO
+    id:          L811
+    name:        Vestignè
+    latitude:    45.386722
+    longitude:   7.955944
+  vestone:
+    province_id: BS
+    id:          L812
+    name:        Vestone
+    latitude:    45.708951
+    longitude:   10.400583
+  vestreno:
+    province_id: LC
+    id:          L813
+    name:        Vestreno
+    latitude:    46.084219
+    longitude:   9.325986
+  vetralla:
+    province_id: VT
+    id:          L814
+    name:        Vetralla
+    latitude:    42.320856
+    longitude:   12.053244
+  vetto:
+    province_id: RE
+    id:          L815
+    name:        Vetto
+    latitude:    44.434449
+    longitude:   10.400286
+  vezza_d_oglio:
+    province_id: BS
+    id:          L816
+    name:        'Vezza D''Oglio'
+    latitude:    46.240151
+    longitude:   10.39813
+  vezza_d_alba:
+    province_id: CN
+    id:          L817
+    name:        'Vezza D''Alba'
+    latitude:    44.763759
+    longitude:   8.009074
+  vezzano_ligure:
+    province_id: SP
+    id:          L819
+    name:        'Vezzano Ligure'
+    latitude:    44.141347
+    longitude:   9.88521
+  vezzano_sul_crostolo:
+    province_id: RE
+    id:          L820
+    name:        'Vezzano sul Crostolo'
+    latitude:    44.61914
+    longitude:   10.571043
+  vezzano:
+    province_id: TN
+    id:          L821
+    name:        Vezzano
+    latitude:    46.08
+    longitude:   11.000648
+  vezzi_portio:
+    province_id: SV
+    id:          L823
+    name:        'Vezzi Portio'
+    latitude:    44.228674
+    longitude:   8.363027
+  viadana:
+    province_id: MN
+    id:          L826
+    name:        Viadana
+    latitude:    44.926944
+    longitude:   10.521803
+  viadanica:
+    province_id: BG
+    id:          L827
+    name:        Viadanica
+    latitude:    45.68563
+    longitude:   9.9625
+  viagrande:
+    province_id: CT
+    id:          L828
+    name:        Viagrande
+    latitude:    37.608926
+    longitude:   15.097518
+  viale_d_asti:
+    province_id: AT
+    id:          L829
+    name:        'Viale D''Asti'
+    latitude:    45.001848
+    longitude:   8.050429
+  vialfre:
+    province_id: TO
+    id:          L830
+    name:        Vialfrè
+    latitude:    45.381218
+    longitude:   7.817684
+  viano:
+    province_id: RE
+    id:          L831
+    name:        Viano
+    latitude:    44.60456
+    longitude:   10.621974
+  viareggio:
+    province_id: LU
+    id:          L833
+    name:        Viareggio
+    latitude:    43.874537
+    longitude:   10.256889
+  viarigi:
+    province_id: AT
+    id:          L834
+    name:        Viarigi
+    latitude:    44.9813
+    longitude:   8.357944
+  vibonati:
+    province_id: SA
+    id:          L835
+    name:        Vibonati
+    latitude:    40.100234
+    longitude:   15.582398
+  vicalvi:
+    province_id: FR
+    id:          L836
+    name:        Vicalvi
+    latitude:    41.67795
+    longitude:   13.707477
+  vicari:
+    province_id: PA
+    id:          L837
+    name:        Vicari
+    latitude:    37.822898
+    longitude:   13.566445
+  vicchio:
+    province_id: FI
+    id:          L838
+    name:        Vicchio
+    latitude:    43.932619
+    longitude:   11.467187
+  vicenza:
+    province_id: VI
+    id:          L840
+    name:        Vicenza
+    latitude:    45.545905
+    longitude:   11.540307
+  vicoforte:
+    province_id: CN
+    id:          L841
+    name:        Vicoforte
+    latitude:    44.362946
+    longitude:   7.863622
+  vico_del_gargano:
+    province_id: FG
+    id:          L842
+    name:        'Vico del Gargano'
+    latitude:    41.895093
+    longitude:   15.958209
+  vico_nel_lazio:
+    province_id: FR
+    id:          L843
+    name:        'Vico nel Lazio'
+    latitude:    41.778148
+    longitude:   13.341741
+  villa_literno:
+    province_id: CE
+    id:          L844
+    name:        'Villa Literno'
+    latitude:    41.013079
+    longitude:   14.076612
+  vico_equense:
+    province_id: NA
+    id:          L845
+    name:        'Vico Equense'
+    latitude:    40.662352
+    longitude:   14.426383
+  vicoli:
+    province_id: PE
+    id:          L846
+    name:        Vicoli
+    latitude:    42.341649
+    longitude:   13.89732
+  vicolungo:
+    province_id: NO
+    id:          L847
+    name:        Vicolungo
+    latitude:    45.478611
+    longitude:   8.463926
+  ziano_piacentino:
+    province_id: PC
+    id:          L848
+    name:        'Ziano Piacentino'
+    latitude:    45.002518
+    longitude:   9.402667
+  vicopisano:
+    province_id: PI
+    id:          L850
+    name:        Vicopisano
+    latitude:    43.687145
+    longitude:   10.582597
+  vicovaro:
+    province_id: RM
+    id:          L851
+    name:        Vicovaro
+    latitude:    42.018202
+    longitude:   12.896183
+  vidigulfo:
+    province_id: PV
+    id:          L854
+    name:        Vidigulfo
+    latitude:    45.290448
+    longitude:   9.23496
+  vidor:
+    province_id: TV
+    id:          L856
+    name:        Vidor
+    latitude:    45.861507
+    longitude:   12.03873
+  vidracco:
+    province_id: TO
+    id:          L857
+    name:        Vidracco
+    latitude:    45.431741
+    longitude:   7.758611
+  vieste:
+    province_id: FG
+    id:          L858
+    name:        Vieste
+    latitude:    41.881712
+    longitude:   16.172992
+  vietri_di_potenza:
+    province_id: PZ
+    id:          L859
+    name:        'Vietri di Potenza'
+    latitude:    40.600739
+    longitude:   15.508966
+  vietri_sul_mare:
+    province_id: SA
+    id:          L860
+    name:        'Vietri sul Mare'
+    latitude:    40.672899
+    longitude:   14.728055
+  viganella:
+    province_id: VB
+    id:          L864
+    name:        Viganella
+    latitude:    46.052261
+    longitude:   8.194879
+  vigano_san_martino:
+    province_id: BG
+    id:          L865
+    name:        'Vigano San Martino'
+    latitude:    45.727037
+    longitude:   9.89737
+  vigano:
+    province_id: LC
+    id:          L866
+    name:        Viganò
+    latitude:    45.72563
+    longitude:   9.326111
+  vigarano_mainarda:
+    province_id: FE
+    id:          L868
+    name:        'Vigarano Mainarda'
+    latitude:    44.841111
+    longitude:   11.495796
+  vigasio:
+    province_id: VR
+    id:          L869
+    name:        Vigasio
+    latitude:    45.316741
+    longitude:   10.941278
+  vigevano:
+    province_id: PV
+    id:          L872
+    name:        Vigevano
+    latitude:    45.317092
+    longitude:   8.858649
+  viggianello:
+    province_id: PZ
+    id:          L873
+    name:        Viggianello
+    latitude:    39.97352
+    longitude:   16.086689
+  viggiano:
+    province_id: PZ
+    id:          L874
+    name:        Viggiano
+    latitude:    40.340298
+    longitude:   15.897849
+  viggiu:
+    province_id: VA
+    id:          L876
+    name:        Viggiù
+    latitude:    45.87162
+    longitude:   8.906286
+  vighizzolo_d_este:
+    province_id: PD
+    id:          L878
+    name:        'Vighizzolo D''Este'
+    latitude:    45.17737
+    longitude:   11.625796
+  vigliano_d_asti:
+    province_id: AT
+    id:          L879
+    name:        'Vigliano D''Asti'
+    latitude:    44.835
+    longitude:   8.230333
+  vigliano_biellese:
+    province_id: BI
+    id:          L880
+    name:        'Vigliano Biellese'
+    latitude:    45.565481
+    longitude:   8.10563
+  vignale_monferrato:
+    province_id: AL
+    id:          L881
+    name:        'Vignale Monferrato'
+    latitude:    45.01237
+    longitude:   8.39737
+  vignanello:
+    province_id: VT
+    id:          L882
+    name:        Vignanello
+    latitude:    42.383585
+    longitude:   12.277145
+  vignate:
+    province_id: MI
+    id:          L883
+    name:        Vignate
+    latitude:    45.495001
+    longitude:   9.374657
+  vignola:
+    province_id: MO
+    id:          L885
+    name:        Vignola
+    latitude:    44.478068
+    longitude:   11.007976
+  vignola_falesina:
+    province_id: TN
+    id:          L886
+    name:        Vignola-Falesina
+    latitude:    46.04624
+    longitude:   11.276569
+  vignole_borbera:
+    province_id: AL
+    id:          L887
+    name:        'Vignole Borbera'
+    latitude:    44.707823
+    longitude:   8.890571
+  vignolo:
+    province_id: CN
+    id:          L888
+    name:        Vignolo
+    latitude:    44.363296
+    longitude:   7.473926
+  vignone:
+    province_id: VB
+    id:          L889
+    name:        Vignone
+    latitude:    45.962204
+    longitude:   8.564852
+  vigo_di_cadore:
+    province_id: BL
+    id:          L890
+    name:        'Vigo di Cadore'
+    latitude:    46.499847
+    longitude:   12.472076
+  vigodarzere:
+    province_id: PD
+    id:          L892
+    name:        Vigodarzere
+    latitude:    45.460518
+    longitude:   11.879291
+  vigo_di_fassa:
+    province_id: TN
+    id:          L893
+    name:        'Vigo di Fassa'
+    latitude:    46.419537
+    longitude:   11.674556
+  vigolo:
+    province_id: BG
+    id:          L894
+    name:        Vigolo
+    latitude:    45.717823
+    longitude:   10.035577
+  vigolo_vattaro:
+    province_id: TN
+    id:          L896
+    name:        'Vigolo Vattaro'
+    latitude:    46.006574
+    longitude:   11.19987
+  vigolzone:
+    province_id: PC
+    id:          L897
+    name:        Vigolzone
+    latitude:    44.913731
+    longitude:   9.668837
+  vigone:
+    province_id: TO
+    id:          L898
+    name:        Vigone
+    latitude:    44.845481
+    longitude:   7.496111
+  vigonovo:
+    province_id: VE
+    id:          L899
+    name:        Vigonovo
+    latitude:    45.38939
+    longitude:   12.006252
+  vigonza:
+    province_id: PD
+    id:          L900
+    name:        Vigonza
+    latitude:    45.431547
+    longitude:   11.96704
+  vigo_rendena:
+    province_id: TN
+    id:          L903
+    name:        'Vigo Rendena'
+    latitude:    46.080963
+    longitude:   10.723148
+  viguzzolo:
+    province_id: AL
+    id:          L904
+    name:        Viguzzolo
+    latitude:    44.905481
+    longitude:   8.923759
+  villa_santa_lucia:
+    province_id: FR
+    id:          L905
+    name:        'Villa Santa Lucia'
+    latitude:    41.513073
+    longitude:   13.773746
+  villadossola:
+    province_id: VB
+    id:          L906
+    name:        Villadossola
+    latitude:    46.068035
+    longitude:   8.25714
+  villa_di_chiavenna:
+    province_id: SO
+    id:          L907
+    name:        'Villa di Chiavenna'
+    latitude:    46.330856
+    longitude:   9.482639
+  villa_di_tirano:
+    province_id: SO
+    id:          L908
+    name:        'Villa di Tirano'
+    latitude:    46.204852
+    longitude:   10.135018
+  villa_santina:
+    province_id: UD
+    id:          L909
+    name:        'Villa Santina'
+    latitude:    46.415963
+    longitude:   12.922981
+  villa_agnedo:
+    province_id: TN
+    id:          L910
+    name:        'Villa Agnedo'
+    latitude:    46.053559
+    longitude:   11.527944
+  villa_bartolomea:
+    province_id: VR
+    id:          L912
+    name:        'Villa Bartolomea'
+    latitude:    45.158471
+    longitude:   11.35258
+  villa_basilica:
+    province_id: LU
+    id:          L913
+    name:        'Villa Basilica'
+    latitude:    43.925771
+    longitude:   10.644517
+  villabassa:
+    province_id: BZ
+    id:          L915
+    name:        Villabassa
+    latitude:    46.738072
+    longitude:   12.172723
+  villabate:
+    province_id: PA
+    id:          L916
+    name:        Villabate
+    latitude:    38.081993
+    longitude:   13.434084
+  villa_biscossi:
+    province_id: PV
+    id:          L917
+    name:        'Villa Biscossi'
+    latitude:    45.090632
+    longitude:   8.78774
+  villa_carcina:
+    province_id: BS
+    id:          L919
+    name:        'Villa Carcina'
+    latitude:    45.633392
+    longitude:   10.191725
+  villa_castelli:
+    province_id: BR
+    id:          L920
+    name:        'Villa Castelli'
+    latitude:    40.585648
+    longitude:   17.475481
+  villa_celiera:
+    province_id: PE
+    id:          L922
+    name:        'Villa Celiera'
+    latitude:    42.382815
+    longitude:   13.859537
+  villachiara:
+    province_id: BS
+    id:          L923
+    name:        Villachiara
+    latitude:    45.356426
+    longitude:   9.932037
+  villacidro:
+    province_id: VS
+    id:          L924
+    name:        Villacidro
+    latitude:    39.458778
+    longitude:   8.738611
+  villa_collemandina:
+    province_id: LU
+    id:          L926
+    name:        'Villa Collemandina'
+    latitude:    44.159537
+    longitude:   10.398778
+  villa_cortese:
+    province_id: MI
+    id:          L928
+    name:        'Villa Cortese'
+    latitude:    45.566959
+    longitude:   8.886564
+  villa_d_adda:
+    province_id: BG
+    id:          L929
+    name:        'Villa D''Adda'
+    latitude:    45.715019
+    longitude:   9.462833
+  villadeati:
+    province_id: AL
+    id:          L931
+    name:        Villadeati
+    latitude:    45.072715
+    longitude:   8.169076
+  villa_del_bosco:
+    province_id: BI
+    id:          L933
+    name:        'Villa del Bosco'
+    latitude:    45.622017
+    longitude:   8.280742
+  villa_del_conte:
+    province_id: PD
+    id:          L934
+    name:        'Villa del Conte'
+    latitude:    45.583524
+    longitude:   11.860396
+  villa_di_serio:
+    province_id: BG
+    id:          L936
+    name:        'Villa di Serio'
+    latitude:    45.725167
+    longitude:   9.73737
+  villa_estense:
+    province_id: PD
+    id:          L937
+    name:        'Villa Estense'
+    latitude:    45.172584
+    longitude:   11.667529
+  villa_d_ogna:
+    province_id: BG
+    id:          L938
+    name:        'Villa d''Ogna'
+    latitude:    45.90563
+    longitude:   9.932055
+  villadose:
+    province_id: RO
+    id:          L939
+    name:        Villadose
+    latitude:    45.069852
+    longitude:   11.894389
+  villafalletto:
+    province_id: CN
+    id:          L942
+    name:        Villafalletto
+    latitude:    44.54487
+    longitude:   7.541259
+  villa_faraldi:
+    province_id: IM
+    id:          L943
+    name:        'Villa Faraldi'
+    latitude:    43.969556
+    longitude:   8.090796
+  villafranca_sicula:
+    province_id: AG
+    id:          L944
+    name:        'Villafranca Sicula'
+    latitude:    37.587107
+    longitude:   13.290335
+  villafranca_d_asti:
+    province_id: AT
+    id:          L945
+    name:        'Villafranca D''Asti'
+    latitude:    44.912981
+    longitude:   8.032833
+  villafranca_in_lunigiana:
+    province_id: MS
+    id:          L946
+    name:        'Villafranca in Lunigiana'
+    latitude:    44.295963
+    longitude:   9.95
+  villafranca_padovana:
+    province_id: PD
+    id:          L947
+    name:        'Villafranca Padovana'
+    latitude:    45.492815
+    longitude:   11.794537
+  villafranca_piemonte:
+    province_id: TO
+    id:          L948
+    name:        'Villafranca Piemonte'
+    latitude:    44.780018
+    longitude:   7.501574
+  villafranca_di_verona:
+    province_id: VR
+    id:          L949
+    name:        'Villafranca di Verona'
+    latitude:    45.350697
+    longitude:   10.843318
+  villafranca_tirrena:
+    province_id: ME
+    id:          L950
+    name:        'Villafranca Tirrena'
+    latitude:    38.236124
+    longitude:   15.432458
+  villafrati:
+    province_id: PA
+    id:          L951
+    name:        Villafrati
+    latitude:    37.908148
+    longitude:   13.48563
+  villaga:
+    province_id: VI
+    id:          L952
+    name:        Villaga
+    latitude:    45.40336
+    longitude:   11.533252
+  villagrande_strisaili:
+    province_id: OG
+    id:          L953
+    name:        'Villagrande Strisaili'
+    latitude:    39.962352
+    longitude:   9.508611
+  villa_guardia:
+    province_id: CO
+    id:          L956
+    name:        'Villa Guardia'
+    latitude:    45.777518
+    longitude:   9.027833
+  villa_lagarina:
+    province_id: TN
+    id:          L957
+    name:        'Villa Lagarina'
+    latitude:    45.917204
+    longitude:   11.031741
+  villalago:
+    province_id: AQ
+    id:          L958
+    name:        Villalago
+    latitude:    41.935275
+    longitude:   13.838085
+  villalba:
+    province_id: CL
+    id:          L959
+    name:        Villalba
+    latitude:    41.863469
+    longitude:   -4.860105
+  villalfonsina:
+    province_id: CH
+    id:          L961
+    name:        Villalfonsina
+    latitude:    42.160979
+    longitude:   14.57106
+  villalvernia:
+    province_id: AL
+    id:          L963
+    name:        Villalvernia
+    latitude:    44.814521
+    longitude:   8.855315
+  villamagna:
+    province_id: CH
+    id:          L964
+    name:        Villamagna
+    latitude:    42.330018
+    longitude:   14.237037
+  villamaina:
+    province_id: AV
+    id:          L965
+    name:        Villamaina
+    latitude:    40.970481
+    longitude:   15.090944
+  villamar:
+    province_id: VS
+    id:          L966
+    name:        Villamar
+    latitude:    39.619241
+    longitude:   8.959852
+  villamarzana:
+    province_id: RO
+    id:          L967
+    name:        Villamarzana
+    latitude:    45.014537
+    longitude:   11.698444
+  villamassargia:
+    province_id: CI
+    id:          L968
+    name:        Villamassargia
+    latitude:    39.277037
+    longitude:   8.642518
+  villa_minozzo:
+    province_id: RE
+    id:          L969
+    name:        'Villa Minozzo'
+    latitude:    44.366111
+    longitude:   10.467037
+  villamiroglio:
+    province_id: AL
+    id:          L970
+    name:        Villamiroglio
+    latitude:    45.135648
+    longitude:   8.172204
+  villandro:
+    province_id: BZ
+    id:          L971
+    name:        Villandro
+    latitude:    46.631393
+    longitude:   11.538249
+  villanova_monferrato:
+    province_id: AL
+    id:          L972
+    name:        'Villanova Monferrato'
+    latitude:    45.182935
+    longitude:   8.479846
+  villanova_del_battista:
+    province_id: AV
+    id:          L973
+    name:        'Villanova del Battista'
+    latitude:    41.114449
+    longitude:   15.158407
+  villanova_mondovi:
+    province_id: CN
+    id:          L974
+    name:        'Villanova Mondovì'
+    latitude:    44.347981
+    longitude:   7.767518
+  villanova_d_albenga:
+    province_id: SV
+    id:          L975
+    name:        'Villanova D''Albenga'
+    latitude:    44.047077
+    longitude:   8.141512
+  villanova_del_sillaro:
+    province_id: LO
+    id:          L977
+    name:        'Villanova del Sillaro'
+    latitude:    45.237697
+    longitude:   9.481046
+  villanova_biellese:
+    province_id: BI
+    id:          L978
+    name:        'Villanova Biellese'
+    latitude:    45.482235
+    longitude:   8.192957
+  villanova_di_camposampiero:
+    province_id: PD
+    id:          L979
+    name:        'Villanova di Camposampiero'
+    latitude:    45.490623
+    longitude:   11.970517
+  villanova_sull_arda:
+    province_id: PC
+    id:          L980
+    name:        'Villanova sull''Arda'
+    latitude:    45.027518
+    longitude:   9.999537
+  villeneuve:
+    province_id: AO
+    id:          L981
+    name:        Villeneuve
+    latitude:    45.702833
+    longitude:   7.209074
+  villanova_canavese:
+    province_id: TO
+    id:          L982
+    name:        'Villanova Canavese'
+    latitude:    45.244537
+    longitude:   7.553296
+  villanova_d_ardenghi:
+    province_id: PV
+    id:          L983
+    name:        'Villanova D''Ardenghi'
+    latitude:    45.172667
+    longitude:   9.043444
+  villanova_d_asti:
+    province_id: AT
+    id:          L984
+    name:        'Villanova D''Asti'
+    latitude:    44.942233
+    longitude:   7.937689
+  villanova_del_ghebbo:
+    province_id: RO
+    id:          L985
+    name:        'Villanova del Ghebbo'
+    latitude:    45.060167
+    longitude:   11.64
+  villanovaforru:
+    province_id: VS
+    id:          L986
+    name:        Villanovaforru
+    latitude:    39.632981
+    longitude:   8.87
+  villanovafranca:
+    province_id: VS
+    id:          L987
+    name:        Villanovafranca
+    latitude:    39.646407
+    longitude:   9.003907
+  villanova_marchesana:
+    province_id: RO
+    id:          L988
+    name:        'Villanova Marchesana'
+    latitude:    44.993296
+    longitude:   11.965796
+  villanova_monteleone:
+    province_id: SS
+    id:          L989
+    name:        'Villanova Monteleone'
+    latitude:    40.50487
+    longitude:   8.471889
+  villanova_solaro:
+    province_id: CN
+    id:          L990
+    name:        'Villanova Solaro'
+    latitude:    44.730944
+    longitude:   7.575648
+  villanova_truschedu:
+    province_id: OR
+    id:          L991
+    name:        'Villanova Truschedu'
+    latitude:    39.98987
+    longitude:   8.753148
+  villanova_tulo:
+    province_id: CA
+    id:          L992
+    name:        'Villanova Tulo'
+    latitude:    39.781111
+    longitude:   9.215333
+  villanterio:
+    province_id: PV
+    id:          L994
+    name:        Villanterio
+    latitude:    45.220481
+    longitude:   9.365481
+  villanuova_sul_clisi:
+    province_id: BS
+    id:          L995
+    name:        'Villanuova sul Clisi'
+    latitude:    45.601329
+    longitude:   10.453939
+  villaputzu:
+    province_id: CA
+    id:          L998
+    name:        Villaputzu
+    latitude:    39.442204
+    longitude:   9.575018
+  villar_dora:
+    province_id: TO
+    id:          L999
+    name:        'Villar Dora'
+    latitude:    45.11563
+    longitude:   7.384704
+  villarbasse:
+    province_id: TO
+    id:          M002
+    name:        Villarbasse
+    latitude:    45.046278
+    longitude:   7.469537
+  villarboit:
+    province_id: VC
+    id:          M003
+    name:        Villarboit
+    latitude:    45.438463
+    longitude:   8.338444
+  villareggia:
+    province_id: TO
+    id:          M004
+    name:        Villareggia
+    latitude:    45.311111
+    longitude:   7.977833
+  villa_rendena:
+    province_id: TN
+    id:          M006
+    name:        'Villa Rendena'
+    latitude:    46.062667
+    longitude:   10.712204
+  villar_focchiardo:
+    province_id: TO
+    id:          M007
+    name:        'Villar Focchiardo'
+    latitude:    45.110315
+    longitude:   7.232764
+  villaromagnano:
+    province_id: AL
+    id:          M009
+    name:        Villaromagnano
+    latitude:    44.85063
+    longitude:   8.888926
+  villarosa:
+    province_id: EN
+    id:          M011
+    name:        Villarosa
+    latitude:    37.586771
+    longitude:   14.1732
+  villar_pellice:
+    province_id: TO
+    id:          M013
+    name:        'Villar Pellice'
+    latitude:    44.809389
+    longitude:   7.153296
+  villar_perosa:
+    province_id: TO
+    id:          M014
+    name:        'Villar Perosa'
+    latitude:    44.919321
+    longitude:   7.248118
+  villar_san_costanzo:
+    province_id: CN
+    id:          M015
+    name:        'Villar San Costanzo'
+    latitude:    44.484142
+    longitude:   7.381073
+  villasalto:
+    province_id: CA
+    id:          M016
+    name:        Villasalto
+    latitude:    39.493296
+    longitude:   9.394074
+  villasanta:
+    province_id: MI
+    id:          M017
+    name:        Villasanta
+    latitude:    45.605556
+    longitude:   9.303367
+  villa_san_giovanni:
+    province_id: RC
+    id:          M018
+    name:        'Villa San Giovanni'
+    latitude:    38.217059
+    longitude:   15.636917
+  villa_san_secondo:
+    province_id: AT
+    id:          M019
+    name:        'Villa San Secondo'
+    latitude:    45.004894
+    longitude:   8.135027
+  villa_santa_lucia_degli_abruzzi:
+    province_id: AQ
+    id:          M021
+    name:        'Villa Santa Lucia degli Abruzzi'
+    latitude:    42.334241
+    longitude:   13.777981
+  villa_santa_maria:
+    province_id: CH
+    id:          M022
+    name:        'Villa Santa Maria'
+    latitude:    41.948728
+    longitude:   14.349329
+  villa_sant_angelo:
+    province_id: AQ
+    id:          M023
+    name:        'Villa Sant''Angelo'
+    latitude:    42.271407
+    longitude:   13.538148
+  villasor:
+    province_id: CA
+    id:          M025
+    name:        Villasor
+    latitude:    39.38154
+    longitude:   8.943864
+  villaspeciosa:
+    province_id: CA
+    id:          M026
+    name:        Villaspeciosa
+    latitude:    39.313463
+    longitude:   8.926278
+  villastellone:
+    province_id: TO
+    id:          M027
+    name:        Villastellone
+    latitude:    44.921793
+    longitude:   7.744629
+  villata:
+    province_id: VC
+    id:          M028
+    name:        Villata
+    latitude:    45.388759
+    longitude:   8.433759
+  villaurbana:
+    province_id: OR
+    id:          M030
+    name:        Villaurbana
+    latitude:    39.88674
+    longitude:   8.778408
+  villavallelonga:
+    province_id: AQ
+    id:          M031
+    name:        Villavallelonga
+    latitude:    41.866605
+    longitude:   13.626614
+  villaverla:
+    province_id: VI
+    id:          M032
+    name:        Villaverla
+    latitude:    45.652667
+    longitude:   11.488463
+  villa_vicentina:
+    province_id: UD
+    id:          M034
+    name:        'Villa Vicentina'
+    latitude:    45.818158
+    longitude:   13.396516
+  villetta_barrea:
+    province_id: AQ
+    id:          M041
+    name:        'Villetta Barrea'
+    latitude:    41.775659
+    longitude:   13.934263
+  villette:
+    province_id: VB
+    id:          M042
+    name:        Villette
+    latitude:    46.131991
+    longitude:   8.53498
+  villesse:
+    province_id: GO
+    id:          M043
+    name:        Villesse
+    latitude:    45.860249
+    longitude:   13.438781
+  villimpenta:
+    province_id: MN
+    id:          M044
+    name:        Villimpenta
+    latitude:    45.144654
+    longitude:   11.028193
+  villongo:
+    province_id: BG
+    id:          M045
+    name:        Villongo
+    latitude:    45.668926
+    longitude:   9.930963
+  villorba:
+    province_id: TV
+    id:          M048
+    name:        Villorba
+    latitude:    45.713668
+    longitude:   12.260084
+  vilminore_di_scalve:
+    province_id: BG
+    id:          M050
+    name:        'Vilminore di Scalve'
+    latitude:    45.998757
+    longitude:   10.095145
+  vimercate:
+    province_id: MI
+    id:          M052
+    name:        Vimercate
+    latitude:    45.614008
+    longitude:   9.371263
+  vimodrone:
+    province_id: MI
+    id:          M053
+    name:        Vimodrone
+    latitude:    45.513493
+    longitude:   9.285223
+  vinadio:
+    province_id: CN
+    id:          M055
+    name:        Vinadio
+    latitude:    44.306572
+    longitude:   7.173685
+  vinchiaturo:
+    province_id: CB
+    id:          M057
+    name:        Vinchiaturo
+    latitude:    41.49393
+    longitude:   14.589649
+  vinchio:
+    province_id: AT
+    id:          M058
+    name:        Vinchio
+    latitude:    44.812056
+    longitude:   8.322037
+  vinci:
+    province_id: FI
+    id:          M059
+    name:        Vinci
+    latitude:    43.779852
+    longitude:   10.923444
+  vinovo:
+    province_id: TO
+    id:          M060
+    name:        Vinovo
+    latitude:    44.948172
+    longitude:   7.633767
+  vinzaglio:
+    province_id: NO
+    id:          M062
+    name:        Vinzaglio
+    latitude:    45.323907
+    longitude:   8.520333
+  viola:
+    province_id: CN
+    id:          M063
+    name:        Viola
+    latitude:    44.291194
+    longitude:   7.96519
+  vione:
+    province_id: BS
+    id:          M065
+    name:        Vione
+    latitude:    46.248577
+    longitude:   10.447923
+  vipiteno:
+    province_id: BZ
+    id:          M067
+    name:        Vipiteno
+    latitude:    46.89307
+    longitude:   11.431235
+  virle_piemonte:
+    province_id: TO
+    id:          M069
+    name:        'Virle Piemonte'
+    latitude:    44.865648
+    longitude:   7.571259
+  visano:
+    province_id: BS
+    id:          M070
+    name:        Visano
+    latitude:    45.319389
+    longitude:   10.373444
+  vische:
+    province_id: TO
+    id:          M071
+    name:        Vische
+    latitude:    45.335202
+    longitude:   7.945944
+  visciano:
+    province_id: NA
+    id:          M072
+    name:        Visciano
+    latitude:    40.925478
+    longitude:   14.581299
+  visco:
+    province_id: UD
+    id:          M073
+    name:        Visco
+    latitude:    45.892352
+    longitude:   13.349537
+  visone:
+    province_id: AL
+    id:          M077
+    name:        Visone
+    latitude:    44.66282
+    longitude:   8.501894
+  visso:
+    province_id: MC
+    id:          M078
+    name:        Visso
+    latitude:    42.930333
+    longitude:   13.088463
+  vistarino:
+    province_id: PV
+    id:          M079
+    name:        Vistarino
+    latitude:    45.211505
+    longitude:   9.308914
+  vistrorio:
+    province_id: TO
+    id:          M080
+    name:        Vistrorio
+    latitude:    45.442972
+    longitude:   7.768533
+  vita:
+    province_id: TP
+    id:          M081
+    name:        Vita
+    latitude:    37.87248
+    longitude:   12.821986
+  viterbo:
+    province_id: VT
+    id:          M082
+    name:        Viterbo
+    latitude:    42.417379
+    longitude:   12.104854
+  viticuso:
+    province_id: FR
+    id:          M083
+    name:        Viticuso
+    latitude:    41.525349
+    longitude:   13.971842
+  vito_d_asio:
+    province_id: PN
+    id:          M085
+    name:        'Vito D''Asio'
+    latitude:    46.227872
+    longitude:   12.939244
+  vitorchiano:
+    province_id: VT
+    id:          M086
+    name:        Vitorchiano
+    latitude:    42.466407
+    longitude:   12.173444
+  vittoria:
+    province_id: RG
+    id:          M088
+    name:        Vittoria
+    latitude:    36.94975
+    longitude:   14.535385
+  vittorio_veneto:
+    province_id: TV
+    id:          M089
+    name:        'Vittorio Veneto'
+    latitude:    45.979812
+    longitude:   12.303313
+  vittorito:
+    province_id: AQ
+    id:          M090
+    name:        Vittorito
+    latitude:    42.128152
+    longitude:   13.817655
+  vittuone:
+    province_id: MI
+    id:          M091
+    name:        Vittuone
+    latitude:    45.485081
+    longitude:   8.958647
+  vitulazio:
+    province_id: CE
+    id:          M092
+    name:        Vitulazio
+    latitude:    41.163921
+    longitude:   14.216643
+  vitulano:
+    province_id: BN
+    id:          M093
+    name:        Vitulano
+    latitude:    41.176259
+    longitude:   14.64237
+  viu:
+    province_id: TO
+    id:          M094
+    name:        Viù
+    latitude:    45.238908
+    longitude:   7.376601
+  vivaro_romano:
+    province_id: RM
+    id:          M095
+    name:        'Vivaro Romano'
+    latitude:    42.100952
+    longitude:   13.007774
+  vivaro:
+    province_id: PN
+    id:          M096
+    name:        Vivaro
+    latitude:    46.07737
+    longitude:   12.777815
+  viverone:
+    province_id: BI
+    id:          M098
+    name:        Viverone
+    latitude:    45.424844
+    longitude:   8.054392
+  vizzini:
+    province_id: CT
+    id:          M100
+    name:        Vizzini
+    latitude:    37.162037
+    longitude:   14.750648
+  vizzola_ticino:
+    province_id: VA
+    id:          M101
+    name:        'Vizzola Ticino'
+    latitude:    45.63102
+    longitude:   8.68592
+  vizzolo_predabissi:
+    province_id: MI
+    id:          M102
+    name:        'Vizzolo Predabissi'
+    latitude:    45.355751
+    longitude:   9.347454
+  vo:
+    province_id: PD
+    id:          M103
+    name:        Vo
+    latitude:    45.329222
+    longitude:   11.6425
+  vobarno:
+    province_id: BS
+    id:          M104
+    name:        Vobarno
+    latitude:    45.642349
+    longitude:   10.500931
+  vobbia:
+    province_id: GE
+    id:          M105
+    name:        Vobbia
+    latitude:    44.600413
+    longitude:   9.039275
+  vocca:
+    province_id: VC
+    id:          M106
+    name:        Vocca
+    latitude:    45.832756
+    longitude:   8.195765
+  vodo_cadore:
+    province_id: BL
+    id:          M108
+    name:        'Vodo Cadore'
+    latitude:    46.418486
+    longitude:   12.247796
+  voghera:
+    province_id: PV
+    id:          M109
+    name:        Voghera
+    latitude:    44.992184
+    longitude:   9.00968
+  voghiera:
+    province_id: FE
+    id:          M110
+    name:        Voghiera
+    latitude:    44.756574
+    longitude:   11.752815
+  vogogna:
+    province_id: VB
+    id:          M111
+    name:        Vogogna
+    latitude:    46.010451
+    longitude:   8.290956
+  volano:
+    province_id: TN
+    id:          M113
+    name:        Volano
+    latitude:    45.918527
+    longitude:   11.063342
+  volla:
+    province_id: NA
+    id:          M115
+    name:        Volla
+    latitude:    40.879555
+    longitude:   14.343926
+  volongo:
+    province_id: CR
+    id:          M116
+    name:        Volongo
+    latitude:    45.212815
+    longitude:   10.302518
+  volpago_del_montello:
+    province_id: TV
+    id:          M118
+    name:        'Volpago del Montello'
+    latitude:    45.778296
+    longitude:   12.115481
+  volpara:
+    province_id: PV
+    id:          M119
+    name:        Volpara
+    latitude:    44.954074
+    longitude:   9.297981
+  volpedo:
+    province_id: AL
+    id:          M120
+    name:        Volpedo
+    latitude:    44.891099
+    longitude:   8.981881
+  volpeglino:
+    province_id: AL
+    id:          M121
+    name:        Volpeglino
+    latitude:    44.893426
+    longitude:   8.959793
+  volpiano:
+    province_id: TO
+    id:          M122
+    name:        Volpiano
+    latitude:    45.201464
+    longitude:   7.777262
+  voltaggio:
+    province_id: AL
+    id:          M123
+    name:        Voltaggio
+    latitude:    44.622853
+    longitude:   8.842683
+  voltago_agordino:
+    province_id: BL
+    id:          M124
+    name:        'Voltago Agordino'
+    latitude:    46.272981
+    longitude:   12.006259
+  volta_mantovana:
+    province_id: MN
+    id:          M125
+    name:        'Volta Mantovana'
+    latitude:    45.322168
+    longitude:   10.659353
+  volterra:
+    province_id: PI
+    id:          M126
+    name:        Volterra
+    latitude:    43.401426
+    longitude:   10.861111
+  voltido:
+    province_id: CR
+    id:          M127
+    name:        Voltido
+    latitude:    45.111087
+    longitude:   10.333972
+  volturara_irpina:
+    province_id: AV
+    id:          M130
+    name:        'Volturara Irpina'
+    latitude:    40.879543
+    longitude:   14.917249
+  volturara_appula:
+    province_id: FG
+    id:          M131
+    name:        'Volturara Appula'
+    latitude:    41.497037
+    longitude:   15.05313
+  volturino:
+    province_id: FG
+    id:          M132
+    name:        Volturino
+    latitude:    41.478296
+    longitude:   15.125167
+  volvera:
+    province_id: TO
+    id:          M133
+    name:        Volvera
+    latitude:    44.955963
+    longitude:   7.5125
+  vottignasco:
+    province_id: CN
+    id:          M136
+    name:        Vottignasco
+    latitude:    44.565167
+    longitude:   7.580333

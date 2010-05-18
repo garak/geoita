@@ -1,0 +1,205 @@
+City:
+  uboldo:
+    province_id: VA
+    id:          L480
+    name:        Uboldo
+    latitude:    45.616259
+    longitude:   9.005
+  ucria:
+    province_id: ME
+    id:          L482
+    name:        Ucria
+    latitude:    38.046849
+    longitude:   14.88127
+  udine:
+    province_id: UD
+    id:          L483
+    name:        Udine
+    latitude:    46.064942
+    longitude:   13.230725
+  ugento:
+    province_id: LE
+    id:          L484
+    name:        Ugento
+    latitude:    39.927352
+    longitude:   18.158296
+  uggiano_la_chiesa:
+    province_id: LE
+    id:          L485
+    name:        'Uggiano La Chiesa'
+    latitude:    40.102833
+    longitude:   18.450167
+  uggiate_trevano:
+    province_id: CO
+    id:          L487
+    name:        Uggiate-Trevano
+    latitude:    45.824389
+    longitude:   8.960796
+  ula_tirso:
+    province_id: OR
+    id:          L488
+    name:        'Ulà Tirso'
+    latitude:    40.046304
+    longitude:   8.905532
+  ulassai:
+    province_id: OG
+    id:          L489
+    name:        Ulassai
+    latitude:    39.811751
+    longitude:   9.500003
+  ultimo:
+    province_id: BZ
+    id:          L490
+    name:        Ultimo
+    latitude:    46.548191
+    longitude:   11.003715
+  umbriatico:
+    province_id: KR
+    id:          L492
+    name:        Umbriatico
+    latitude:    39.353774
+    longitude:   16.91896
+  urago_d_oglio:
+    province_id: BS
+    id:          L494
+    name:        'Urago D''Oglio'
+    latitude:    45.517056
+    longitude:   9.870796
+  uras:
+    province_id: OR
+    id:          L496
+    name:        Uras
+    latitude:    39.701722
+    longitude:   8.701111
+  urbana:
+    province_id: PD
+    id:          L497
+    name:        Urbana
+    latitude:    45.193759
+    longitude:   11.445944
+  urbania:
+    province_id: PU
+    id:          L498
+    name:        Urbania
+    latitude:    43.67063
+    longitude:   12.521111
+  urbe:
+    province_id: SV
+    id:          L499
+    name:        Urbe
+    latitude:    44.48813
+    longitude:   8.58737
+  urbino:
+    province_id: PU
+    id:          L500
+    name:        Urbino
+    latitude:    43.724747
+    longitude:   12.636685
+  urbisaglia:
+    province_id: MC
+    id:          L501
+    name:        Urbisaglia
+    latitude:    43.192352
+    longitude:   13.373907
+  urgnano:
+    province_id: BG
+    id:          L502
+    name:        Urgnano
+    latitude:    45.601574
+    longitude:   9.694852
+  uri:
+    province_id: SS
+    id:          L503
+    name:        Uri
+    latitude:    40.642944
+    longitude:   8.482226
+  ururi:
+    province_id: CB
+    id:          L505
+    name:        Ururi
+    latitude:    41.8175
+    longitude:   15.017037
+  urzulei:
+    province_id: OG
+    id:          L506
+    name:        Urzulei
+    latitude:    40.094537
+    longitude:   9.508611
+  uscio:
+    province_id: GE
+    id:          L507
+    name:        Uscio
+    latitude:    44.414744
+    longitude:   9.159852
+  usellus:
+    province_id: OR
+    id:          L508
+    name:        Usellus
+    latitude:    39.810727
+    longitude:   8.850964
+  usini:
+    province_id: SS
+    id:          L509
+    name:        Usini
+    latitude:    40.665167
+    longitude:   8.541574
+  usmate_velate:
+    province_id: MI
+    id:          L511
+    name:        'Usmate Velate'
+    latitude:    45.65084
+    longitude:   9.362482
+  ussana:
+    province_id: CA
+    id:          L512
+    name:        Ussana
+    latitude:    39.395796
+    longitude:   9.074222
+  ussaramanna:
+    province_id: VS
+    id:          L513
+    name:        Ussaramanna
+    latitude:    39.693907
+    longitude:   8.908778
+  ussassai:
+    province_id: OG
+    id:          L514
+    name:        Ussassai
+    latitude:    39.811407
+    longitude:   9.396111
+  usseaux:
+    province_id: TO
+    id:          L515
+    name:        Usseaux
+    latitude:    45.048609
+    longitude:   7.026697
+  usseglio:
+    province_id: TO
+    id:          L516
+    name:        Usseglio
+    latitude:    45.232821
+    longitude:   7.217239
+  ussita:
+    province_id: MC
+    id:          L517
+    name:        Ussita
+    latitude:    42.944769
+    longitude:   13.136722
+  ustica:
+    province_id: PA
+    id:          L519
+    name:        Ustica
+    latitude:    38.709187
+    longitude:   13.19297
+  uta:
+    province_id: CA
+    id:          L521
+    name:        Uta
+    latitude:    39.28843
+    longitude:   8.958584
+  uzzano:
+    province_id: PT
+    id:          L522
+    name:        Uzzano
+    latitude:    43.882254
+    longitude:   10.710426

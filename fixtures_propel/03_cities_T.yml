@@ -1,0 +1,2191 @@
+City:
+  taceno:
+    province_id: LC
+    id:          L022
+    name:        Taceno
+    latitude:    46.025275
+    longitude:   9.364137
+  tadasuni:
+    province_id: OR
+    id:          L023
+    name:        Tadasuni
+    latitude:    40.111111
+    longitude:   8.884537
+  taggia:
+    province_id: IM
+    id:          L024
+    name:        Taggia
+    latitude:    43.855252
+    longitude:   7.852919
+  tagliacozzo:
+    province_id: AQ
+    id:          L025
+    name:        Tagliacozzo
+    latitude:    42.068868
+    longitude:   13.256965
+  taglio_di_po:
+    province_id: RO
+    id:          L026
+    name:        'Taglio di Po'
+    latitude:    45.00737
+    longitude:   12.212056
+  tagliolo_monferrato:
+    province_id: AL
+    id:          L027
+    name:        'Tagliolo Monferrato'
+    latitude:    44.639065
+    longitude:   8.668667
+  taibon_agordino:
+    province_id: BL
+    id:          L030
+    name:        'Taibon Agordino'
+    latitude:    46.302037
+    longitude:   12.010796
+  taino:
+    province_id: VA
+    id:          L032
+    name:        Taino
+    latitude:    45.764137
+    longitude:   8.615186
+  taio:
+    province_id: TN
+    id:          L033
+    name:        Taio
+    latitude:    46.321706
+    longitude:   11.071111
+  talamello:
+    province_id: PU
+    id:          L034
+    name:        Talamello
+    latitude:    43.904167
+    longitude:   12.291321
+  talamona:
+    province_id: SO
+    id:          L035
+    name:        Talamona
+    latitude:    46.139095
+    longitude:   9.614435
+  talana:
+    province_id: OG
+    id:          L036
+    name:        Talana
+    latitude:    40.04313
+    longitude:   9.4975
+  taleggio:
+    province_id: BG
+    id:          L037
+    name:        Taleggio
+    latitude:    45.894389
+    longitude:   9.565944
+  talla:
+    province_id: AR
+    id:          L038
+    name:        Talla
+    latitude:    43.602815
+    longitude:   11.78813
+  talmassons:
+    province_id: UD
+    id:          L039
+    name:        Talmassons
+    latitude:    45.92987
+    longitude:   13.117833
+  tambre:
+    province_id: BL
+    id:          L040
+    name:        Tambre
+    latitude:    46.12737
+    longitude:   12.420481
+  taormina:
+    province_id: ME
+    id:          L042
+    name:        Taormina
+    latitude:    37.853121
+    longitude:   15.287812
+  tapogliano:
+    province_id: UD
+    id:          L044
+    name:        Tapogliano
+    latitude:    45.87813
+    longitude:   13.399537
+  tarano:
+    province_id: RI
+    id:          L046
+    name:        Tarano
+    latitude:    42.356536
+    longitude:   12.596023
+  taranta_peligna:
+    province_id: CH
+    id:          L047
+    name:        'Taranta Peligna'
+    latitude:    42.018643
+    longitude:   14.169393
+  tarantasca:
+    province_id: CN
+    id:          L048
+    name:        Tarantasca
+    latitude:    44.494537
+    longitude:   7.544704
+  taranto:
+    province_id: TA
+    id:          L049
+    name:        Taranto
+    latitude:    40.469238
+    longitude:   17.240009
+  tarcento:
+    province_id: UD
+    id:          L050
+    name:        Tarcento
+    latitude:    46.215333
+    longitude:   13.215018
+  tarsia:
+    province_id: CS
+    id:          L055
+    name:        Tarsia
+    latitude:    39.621762
+    longitude:   16.271263
+  tartano:
+    province_id: SO
+    id:          L056
+    name:        Tartano
+    latitude:    46.10677
+    longitude:   9.679958
+  tarvisio:
+    province_id: UD
+    id:          L057
+    name:        Tarvisio
+    latitude:    46.505402
+    longitude:   13.578493
+  tarzo:
+    province_id: TV
+    id:          L058
+    name:        Tarzo
+    latitude:    45.972833
+    longitude:   12.234074
+  tassarolo:
+    province_id: AL
+    id:          L059
+    name:        Tassarolo
+    latitude:    44.729537
+    longitude:   8.772667
+  tassullo:
+    province_id: TN
+    id:          L060
+    name:        Tassullo
+    latitude:    46.336431
+    longitude:   11.051299
+  taurano:
+    province_id: AV
+    id:          L061
+    name:        Taurano
+    latitude:    40.883458
+    longitude:   14.635752
+  taurasi:
+    province_id: AV
+    id:          L062
+    name:        Taurasi
+    latitude:    41.00987
+    longitude:   14.959537
+  taurianova:
+    province_id: RC
+    id:          L063
+    name:        Taurianova
+    latitude:    38.357352
+    longitude:   16.011722
+  taurisano:
+    province_id: LE
+    id:          L064
+    name:        Taurisano
+    latitude:    39.957664
+    longitude:   18.215011
+  tavagnacco:
+    province_id: UD
+    id:          L065
+    name:        Tavagnacco
+    latitude:    46.128148
+    longitude:   13.214852
+  tavagnasco:
+    province_id: TO
+    id:          L066
+    name:        Tavagnasco
+    latitude:    45.546001
+    longitude:   7.823867
+  tavarnelle_val_di_pesa:
+    province_id: FI
+    id:          L067
+    name:        'Tavarnelle Val di Pesa'
+    latitude:    43.562815
+    longitude:   11.1725
+  tavenna:
+    province_id: CB
+    id:          L069
+    name:        Tavenna
+    latitude:    41.907528
+    longitude:   14.765032
+  taverna:
+    province_id: CZ
+    id:          L070
+    name:        Taverna
+    latitude:    39.021015
+    longitude:   16.582667
+  tavernerio:
+    province_id: CO
+    id:          L071
+    name:        Tavernerio
+    latitude:    45.801741
+    longitude:   9.141741
+  tavernola_bergamasca:
+    province_id: BG
+    id:          L073
+    name:        'Tavernola Bergamasca'
+    latitude:    45.710315
+    longitude:   10.047352
+  taviano:
+    province_id: LE
+    id:          L074
+    name:        Taviano
+    latitude:    39.984537
+    longitude:   18.087667
+  tavigliano:
+    province_id: BI
+    id:          L075
+    name:        Tavigliano
+    latitude:    45.630706
+    longitude:   8.056055
+  tavoleto:
+    province_id: PU
+    id:          L078
+    name:        Tavoleto
+    latitude:    43.845542
+    longitude:   12.591964
+  tavullia:
+    province_id: PU
+    id:          L081
+    name:        Tavullia
+    latitude:    43.898221
+    longitude:   12.754103
+  teana:
+    province_id: PZ
+    id:          L082
+    name:        Teana
+    latitude:    40.127827
+    longitude:   16.154011
+  teano:
+    province_id: CE
+    id:          L083
+    name:        Teano
+    latitude:    41.252352
+    longitude:   14.067518
+  teglio:
+    province_id: SO
+    id:          L084
+    name:        Teglio
+    latitude:    46.172048
+    longitude:   10.067126
+  teglio_veneto:
+    province_id: VE
+    id:          L085
+    name:        'Teglio Veneto'
+    latitude:    45.815401
+    longitude:   12.884605
+  telese_terme:
+    province_id: BN
+    id:          L086
+    name:        'Telese Terme'
+    latitude:    41.218463
+    longitude:   14.528778
+  telgate:
+    province_id: BG
+    id:          L087
+    name:        Telgate
+    latitude:    45.629852
+    longitude:   9.852833
+  telti:
+    province_id: OT
+    id:          L088
+    name:        Telti
+    latitude:    40.877518
+    longitude:   9.353926
+  telve:
+    province_id: TN
+    id:          L089
+    name:        Telve
+    latitude:    46.071489
+    longitude:   11.481266
+  telve_di_sopra:
+    province_id: TN
+    id:          L090
+    name:        'Telve di Sopra'
+    latitude:    46.07237
+    longitude:   11.472815
+  tempio_pausania:
+    province_id: OT
+    id:          L093
+    name:        'Tempio Pausania'
+    latitude:    40.898444
+    longitude:   9.104537
+  temu:
+    province_id: BS
+    id:          L094
+    name:        Temù
+    latitude:    46.24896
+    longitude:   10.469004
+  tenna:
+    province_id: TN
+    id:          L096
+    name:        Tenna
+    latitude:    46.016741
+    longitude:   11.265315
+  tenno:
+    province_id: TN
+    id:          L097
+    name:        Tenno
+    latitude:    45.920321
+    longitude:   10.832539
+  teolo:
+    province_id: PD
+    id:          L100
+    name:        Teolo
+    latitude:    45.348528
+    longitude:   11.672294
+  teor:
+    province_id: UD
+    id:          L101
+    name:        Teor
+    latitude:    45.856111
+    longitude:   13.056278
+  teora:
+    province_id: AV
+    id:          L102
+    name:        Teora
+    latitude:    40.853926
+    longitude:   15.254222
+  teramo:
+    province_id: TE
+    id:          L103
+    name:        Teramo
+    latitude:    42.661269
+    longitude:   13.698531
+  terdobbiate:
+    province_id: NO
+    id:          L104
+    name:        Terdobbiate
+    latitude:    45.3775
+    longitude:   8.696426
+  terelle:
+    province_id: FR
+    id:          L105
+    name:        Terelle
+    latitude:    41.552854
+    longitude:   13.776908
+  terento:
+    province_id: BZ
+    id:          L106
+    name:        Terento
+    latitude:    46.828672
+    longitude:   11.781141
+  terlago:
+    province_id: TN
+    id:          L107
+    name:        Terlago
+    latitude:    46.098445
+    longitude:   11.046882
+  terlano:
+    province_id: BZ
+    id:          L108
+    name:        Terlano
+    latitude:    46.533463
+    longitude:   11.246407
+  terlizzi:
+    province_id: BA
+    id:          L109
+    name:        Terlizzi
+    latitude:    41.129958
+    longitude:   16.542762
+  termeno_sulla_strada_del_vino:
+    province_id: BZ
+    id:          L111
+    name:        'Termeno sulla Strada del Vino'
+    latitude:    46.342651
+    longitude:   11.243627
+  termini_imerese:
+    province_id: PA
+    id:          L112
+    name:        'Termini Imerese'
+    latitude:    37.983994
+    longitude:   13.696132
+  termoli:
+    province_id: CB
+    id:          L113
+    name:        Termoli
+    latitude:    41.995767
+    longitude:   14.990531
+  ternate:
+    province_id: VA
+    id:          L115
+    name:        Ternate
+    latitude:    45.782667
+    longitude:   8.693444
+  ternengo:
+    province_id: BI
+    id:          L116
+    name:        Ternengo
+    latitude:    45.590018
+    longitude:   8.114852
+  terni:
+    province_id: TR
+    id:          L117
+    name:        Terni
+    latitude:    42.560219
+    longitude:   12.646781
+  terno_d_isola:
+    province_id: BG
+    id:          L118
+    name:        'Terno D''Isola'
+    latitude:    45.686407
+    longitude:   9.532037
+  terracina:
+    province_id: LT
+    id:          L120
+    name:        Terracina
+    latitude:    41.291217
+    longitude:   13.248865
+  terragnolo:
+    province_id: TN
+    id:          L121
+    name:        Terragnolo
+    latitude:    45.878809
+    longitude:   11.154626
+  terralba:
+    province_id: OR
+    id:          L122
+    name:        Terralba
+    latitude:    39.718611
+    longitude:   8.638759
+  terranuova_bracciolini:
+    province_id: AR
+    id:          L123
+    name:        'Terranuova Bracciolini'
+    latitude:    43.553355
+    longitude:   11.589848
+  terranova_da_sibari:
+    province_id: CS
+    id:          L124
+    name:        'Terranova da Sibari'
+    latitude:    39.657981
+    longitude:   16.340315
+  terranova_dei_passerini:
+    province_id: LO
+    id:          L125
+    name:        'Terranova dei Passerini'
+    latitude:    45.215464
+    longitude:   9.661114
+  terranova_di_pollino:
+    province_id: PZ
+    id:          L126
+    name:        'Terranova di Pollino'
+    latitude:    39.978366
+    longitude:   16.294826
+  terranova_sappo_minulio:
+    province_id: RC
+    id:          L127
+    name:        'Terranova Sappo Minulio'
+    latitude:    38.322488
+    longitude:   16.006928
+  terrasini:
+    province_id: PA
+    id:          L131
+    name:        Terrasini
+    latitude:    38.147037
+    longitude:   13.085315
+  terrassa_padovana:
+    province_id: PD
+    id:          L132
+    name:        'Terrassa Padovana'
+    latitude:    45.245
+    longitude:   11.903759
+  terravecchia:
+    province_id: CS
+    id:          L134
+    name:        Terravecchia
+    latitude:    39.465944
+    longitude:   16.946889
+  terrazzo:
+    province_id: VR
+    id:          L136
+    name:        Terrazzo
+    latitude:    45.174222
+    longitude:   11.394556
+  terres:
+    province_id: TN
+    id:          L137
+    name:        Terres
+    latitude:    46.310963
+    longitude:   11.024241
+  terricciola:
+    province_id: PI
+    id:          L138
+    name:        Terricciola
+    latitude:    43.523921
+    longitude:   10.676411
+  terruggia:
+    province_id: AL
+    id:          L139
+    name:        Terruggia
+    latitude:    45.083296
+    longitude:   8.444389
+  tertenia:
+    province_id: OG
+    id:          L140
+    name:        Tertenia
+    latitude:    39.697981
+    longitude:   9.578296
+  terzigno:
+    province_id: NA
+    id:          L142
+    name:        Terzigno
+    latitude:    40.808218
+    longitude:   14.502681
+  terzo:
+    province_id: AL
+    id:          L143
+    name:        Terzo
+    latitude:    44.671271
+    longitude:   8.42114
+  terzo_d_aquileia:
+    province_id: UD
+    id:          L144
+    name:        'Terzo D''Aquileia'
+    latitude:    45.799237
+    longitude:   13.334595
+  terzolas:
+    province_id: TN
+    id:          L145
+    name:        Terzolas
+    latitude:    46.362037
+    longitude:   10.927056
+  terzorio:
+    province_id: IM
+    id:          L146
+    name:        Terzorio
+    latitude:    43.852867
+    longitude:   7.898852
+  tesero:
+    province_id: TN
+    id:          L147
+    name:        Tesero
+    latitude:    46.291426
+    longitude:   11.513148
+  tesimo:
+    province_id: BZ
+    id:          L149
+    name:        Tesimo
+    latitude:    46.566426
+    longitude:   11.170481
+  tessennano:
+    province_id: VT
+    id:          L150
+    name:        Tessennano
+    latitude:    42.479389
+    longitude:   11.791426
+  testico:
+    province_id: SV
+    id:          L152
+    name:        Testico
+    latitude:    44.005242
+    longitude:   8.02946
+  teti:
+    province_id: NU
+    id:          L153
+    name:        Teti
+    latitude:    40.096889
+    longitude:   9.119241
+  teulada:
+    province_id: CA
+    id:          L154
+    name:        Teulada
+    latitude:    38.966743
+    longitude:   8.774425
+  teverola:
+    province_id: CE
+    id:          L155
+    name:        Teverola
+    latitude:    40.996741
+    longitude:   14.208611
+  tezze_sul_brenta:
+    province_id: VI
+    id:          L156
+    name:        'Tezze sul Brenta'
+    latitude:    45.68449
+    longitude:   11.703611
+  thiene:
+    province_id: VI
+    id:          L157
+    name:        Thiene
+    latitude:    45.70987
+    longitude:   11.48063
+  thiesi:
+    province_id: SS
+    id:          L158
+    name:        Thiesi
+    latitude:    40.525944
+    longitude:   8.717518
+  tiana:
+    province_id: NU
+    id:          L160
+    name:        Tiana
+    latitude:    40.069373
+    longitude:   9.148311
+  tiarno_di_sopra:
+    province_id: TN
+    id:          L162
+    name:        'Tiarno di Sopra'
+    latitude:    45.889389
+    longitude:   10.670648
+  tiarno_di_sotto:
+    province_id: TN
+    id:          L163
+    name:        'Tiarno di Sotto'
+    latitude:    45.894796
+    longitude:   10.685474
+  ticengo:
+    province_id: CR
+    id:          L164
+    name:        Ticengo
+    latitude:    45.370385
+    longitude:   9.828268
+  ticineto:
+    province_id: AL
+    id:          L165
+    name:        Ticineto
+    latitude:    45.097204
+    longitude:   8.552815
+  tiggiano:
+    province_id: LE
+    id:          L166
+    name:        Tiggiano
+    latitude:    39.906889
+    longitude:   18.365333
+  tiglieto:
+    province_id: GE
+    id:          L167
+    name:        Tiglieto
+    latitude:    44.524069
+    longitude:   8.620435
+  tigliole:
+    province_id: AT
+    id:          L168
+    name:        Tigliole
+    latitude:    44.886623
+    longitude:   8.07674
+  tignale:
+    province_id: BS
+    id:          L169
+    name:        Tignale
+    latitude:    45.739735
+    longitude:   10.721672
+  tinnura:
+    province_id: OR
+    id:          L172
+    name:        Tinnura
+    latitude:    40.268651
+    longitude:   8.548393
+  tione_degli_abruzzi:
+    province_id: AQ
+    id:          L173
+    name:        'Tione degli Abruzzi'
+    latitude:    42.202972
+    longitude:   13.635255
+  tione_di_trento:
+    province_id: TN
+    id:          L174
+    name:        'Tione di Trento'
+    latitude:    46.037056
+    longitude:   10.727518
+  tirano:
+    province_id: SO
+    id:          L175
+    name:        Tirano
+    latitude:    46.216426
+    longitude:   10.168907
+  tires:
+    province_id: BZ
+    id:          L176
+    name:        Tires
+    latitude:    46.470554
+    longitude:   11.572609
+  tiriolo:
+    province_id: CZ
+    id:          L177
+    name:        Tiriolo
+    latitude:    38.949331
+    longitude:   16.510228
+  tirolo:
+    province_id: BZ
+    id:          L178
+    name:        Tirolo
+    latitude:    46.690183
+    longitude:   11.154407
+  tissi:
+    province_id: SS
+    id:          L180
+    name:        Tissi
+    latitude:    40.677833
+    longitude:   8.564241
+  tito:
+    province_id: PZ
+    id:          L181
+    name:        Tito
+    latitude:    40.58375
+    longitude:   15.677049
+  tivoli:
+    province_id: RM
+    id:          L182
+    name:        Tivoli
+    latitude:    41.963579
+    longitude:   12.798272
+  tizzano_val_parma:
+    province_id: PR
+    id:          L183
+    name:        'Tizzano Val Parma'
+    latitude:    44.521574
+    longitude:   10.200963
+  toano:
+    province_id: RE
+    id:          L184
+    name:        Toano
+    latitude:    44.376669
+    longitude:   10.560425
+  tocco_caudio:
+    province_id: BN
+    id:          L185
+    name:        'Tocco Caudio'
+    latitude:    41.125974
+    longitude:   14.635477
+  tocco_da_casauria:
+    province_id: PE
+    id:          L186
+    name:        'Tocco da Casauria'
+    latitude:    42.21487
+    longitude:   13.914555
+  toceno:
+    province_id: VB
+    id:          L187
+    name:        Toceno
+    latitude:    46.14563
+    longitude:   8.470167
+  todi:
+    province_id: PG
+    id:          L188
+    name:        Todi
+    latitude:    42.78023
+    longitude:   12.408453
+  toffia:
+    province_id: RI
+    id:          L189
+    name:        Toffia
+    latitude:    42.212464
+    longitude:   12.753507
+  toirano:
+    province_id: SV
+    id:          L190
+    name:        Toirano
+    latitude:    44.127785
+    longitude:   8.205831
+  tolentino:
+    province_id: MC
+    id:          L191
+    name:        Tolentino
+    latitude:    43.213611
+    longitude:   13.291111
+  tolfa:
+    province_id: RM
+    id:          L192
+    name:        Tolfa
+    latitude:    42.152518
+    longitude:   11.937518
+  tollegno:
+    province_id: BI
+    id:          L193
+    name:        Tollegno
+    latitude:    45.593465
+    longitude:   8.051386
+  tollo:
+    province_id: CH
+    id:          L194
+    name:        Tollo
+    latitude:    42.348907
+    longitude:   14.319074
+  tolmezzo:
+    province_id: UD
+    id:          L195
+    name:        Tolmezzo
+    latitude:    46.406251
+    longitude:   13.012647
+  tolve:
+    province_id: PZ
+    id:          L197
+    name:        Tolve
+    latitude:    40.695333
+    longitude:   16.017204
+  tombolo:
+    province_id: PD
+    id:          L199
+    name:        Tombolo
+    latitude:    45.645468
+    longitude:   11.827331
+  ton:
+    province_id: TN
+    id:          L200
+    name:        Ton
+    latitude:    46.265019
+    longitude:   11.086678
+  tonadico:
+    province_id: TN
+    id:          L201
+    name:        Tonadico
+    latitude:    46.182037
+    longitude:   11.840481
+  tonara:
+    province_id: NU
+    id:          L202
+    name:        Tonara
+    latitude:    40.026278
+    longitude:   9.173907
+  tonco:
+    province_id: AT
+    id:          L203
+    name:        Tonco
+    latitude:    45.024768
+    longitude:   8.190887
+  tonengo:
+    province_id: AT
+    id:          L204
+    name:        Tonengo
+    latitude:    45.118779
+    longitude:   8.001926
+  tora_e_piccilli:
+    province_id: CE
+    id:          L205
+    name:        'Tora e Piccilli'
+    latitude:    41.339235
+    longitude:   14.023454
+  torano_castello:
+    province_id: CS
+    id:          L206
+    name:        'Torano Castello'
+    latitude:    39.505949
+    longitude:   16.145732
+  torano_nuovo:
+    province_id: TE
+    id:          L207
+    name:        'Torano Nuovo'
+    latitude:    42.824074
+    longitude:   13.778296
+  torbole_casaglia:
+    province_id: BS
+    id:          L210
+    name:        'Torbole Casaglia'
+    latitude:    45.513611
+    longitude:   10.116574
+  torcegno:
+    province_id: TN
+    id:          L211
+    name:        Torcegno
+    latitude:    46.075335
+    longitude:   11.450957
+  torchiara:
+    province_id: SA
+    id:          L212
+    name:        Torchiara
+    latitude:    40.323084
+    longitude:   15.051665
+  torchiarolo:
+    province_id: BR
+    id:          L213
+    name:        Torchiarolo
+    latitude:    40.485
+    longitude:   18.052518
+  torella_dei_lombardi:
+    province_id: AV
+    id:          L214
+    name:        'Torella dei Lombardi'
+    latitude:    40.940796
+    longitude:   15.115944
+  torella_del_sannio:
+    province_id: CB
+    id:          L215
+    name:        'Torella del Sannio'
+    latitude:    41.640953
+    longitude:   14.520424
+  torgiano:
+    province_id: PG
+    id:          L216
+    name:        Torgiano
+    latitude:    43.026211
+    longitude:   12.436501
+  torgnon:
+    province_id: AO
+    id:          L217
+    name:        Torgnon
+    latitude:    45.807253
+    longitude:   7.571226
+  torino_di_sangro:
+    province_id: CH
+    id:          L218
+    name:        'Torino di Sangro'
+    latitude:    42.189241
+    longitude:   14.541722
+  torino:
+    province_id: TO
+    id:          L219
+    name:        Torino
+    latitude:    45.070603
+    longitude:   7.68671
+  toritto:
+    province_id: BA
+    id:          L220
+    name:        Toritto
+    latitude:    40.999222
+    longitude:   16.68063
+  torlino_vimercati:
+    province_id: CR
+    id:          L221
+    name:        'Torlino Vimercati'
+    latitude:    45.418444
+    longitude:   9.595963
+  tornaco:
+    province_id: NO
+    id:          L223
+    name:        Tornaco
+    latitude:    45.358611
+    longitude:   8.717037
+  tornareccio:
+    province_id: CH
+    id:          L224
+    name:        Tornareccio
+    latitude:    42.039241
+    longitude:   14.417037
+  tornata:
+    province_id: CR
+    id:          L225
+    name:        Tornata
+    latitude:    45.103862
+    longitude:   10.4305
+  tornimparte:
+    province_id: AQ
+    id:          L227
+    name:        Tornimparte
+    latitude:    42.298529
+    longitude:   13.296848
+  torno:
+    province_id: CO
+    id:          L228
+    name:        Torno
+    latitude:    45.856106
+    longitude:   9.116562
+  tornolo:
+    province_id: PR
+    id:          L229
+    name:        Tornolo
+    latitude:    44.485396
+    longitude:   9.625626
+  toro:
+    province_id: CB
+    id:          L230
+    name:        Toro
+    latitude:    41.573468
+    longitude:   14.765965
+  torpe:
+    province_id: NU
+    id:          L231
+    name:        Torpè
+    latitude:    40.629074
+    longitude:   9.678463
+  torraca:
+    province_id: SA
+    id:          L233
+    name:        Torraca
+    latitude:    40.111778
+    longitude:   15.634708
+  torralba:
+    province_id: SS
+    id:          L235
+    name:        Torralba
+    latitude:    40.514074
+    longitude:   8.766426
+  travagliato:
+    province_id: BS
+    id:          L236
+    name:        Travagliato
+    latitude:    45.523356
+    longitude:   10.079
+  torrazza_coste:
+    province_id: PV
+    id:          L237
+    name:        'Torrazza Coste'
+    latitude:    44.977995
+    longitude:   9.084726
+  torrazza_piemonte:
+    province_id: TO
+    id:          L238
+    name:        'Torrazza Piemonte'
+    latitude:    45.216426
+    longitude:   7.977815
+  torrazzo:
+    province_id: BI
+    id:          L239
+    name:        Torrazzo
+    latitude:    45.499616
+    longitude:   7.955069
+  torre_di_ruggiero:
+    province_id: CZ
+    id:          L240
+    name:        'Torre di Ruggiero'
+    latitude:    38.656228
+    longitude:   16.367276
+  torre_mondovi:
+    province_id: CN
+    id:          L241
+    name:        'Torre Mondovì'
+    latitude:    44.353926
+    longitude:   7.900796
+  torre_cajetani:
+    province_id: FR
+    id:          L243
+    name:        'Torre Cajetani'
+    latitude:    41.785858
+    longitude:   13.264345
+  torre_di_santa_maria:
+    province_id: SO
+    id:          L244
+    name:        'Torre di Santa Maria'
+    latitude:    46.234537
+    longitude:   9.852667
+  torre_annunziata:
+    province_id: NA
+    id:          L245
+    name:        'Torre Annunziata'
+    latitude:    40.750796
+    longitude:   14.465648
+  torreano:
+    province_id: UD
+    id:          L246
+    name:        Torreano
+    latitude:    46.129555
+    longitude:   13.432204
+  torre_canavese:
+    province_id: TO
+    id:          L247
+    name:        'Torre Canavese'
+    latitude:    45.393148
+    longitude:   7.760944
+  torrebelvicino:
+    province_id: VI
+    id:          L248
+    name:        Torrebelvicino
+    latitude:    45.717833
+    longitude:   11.320648
+  torre_beretti_e_castellaro:
+    province_id: PV
+    id:          L250
+    name:        'Torre Beretti e Castellaro'
+    latitude:    45.060944
+    longitude:   8.672037
+  torre_boldone:
+    province_id: BG
+    id:          L251
+    name:        'Torre Boldone'
+    latitude:    45.715167
+    longitude:   9.711259
+  torre_bormida:
+    province_id: CN
+    id:          L252
+    name:        'Torre Bormida'
+    latitude:    44.56314
+    longitude:   8.156924
+  torrebruna:
+    province_id: CH
+    id:          L253
+    name:        Torrebruna
+    latitude:    41.869338
+    longitude:   14.5406
+  torrecuso:
+    province_id: BN
+    id:          L254
+    name:        Torrecuso
+    latitude:    41.190481
+    longitude:   14.680333
+  torre_d_arese:
+    province_id: PV
+    id:          L256
+    name:        'Torre D''Arese'
+    latitude:    45.243759
+    longitude:   9.318444
+  torre_de_busi:
+    province_id: LC
+    id:          L257
+    name:        'Torre de'' Busi'
+    latitude:    45.775
+    longitude:   9.481426
+  torre_de_picenardi:
+    province_id: CR
+    id:          L258
+    name:        'Torre de'' Picenardi'
+    latitude:    45.143287
+    longitude:   10.286593
+  torre_del_greco:
+    province_id: NA
+    id:          L259
+    name:        'Torre del Greco'
+    latitude:    40.787219
+    longitude:   14.368029
+  torre_de_negri:
+    province_id: PV
+    id:          L262
+    name:        'Torre de'' Negri'
+    latitude:    45.15063
+    longitude:   9.33563
+  torre_de_passeri:
+    province_id: PE
+    id:          L263
+    name:        'Torre de'' Passeri'
+    latitude:    42.244222
+    longitude:   13.934222
+  torre_de_roveri:
+    province_id: BG
+    id:          L265
+    name:        'Torre de'' Roveri'
+    latitude:    45.700213
+    longitude:   9.772594
+  torre_di_mosto:
+    province_id: VE
+    id:          L267
+    name:        'Torre di Mosto'
+    latitude:    45.686111
+    longitude:   12.703907
+  torre_d_isola:
+    province_id: PV
+    id:          L269
+    name:        'Torre D''Isola'
+    latitude:    45.218444
+    longitude:   9.07737
+  torreglia:
+    province_id: PD
+    id:          L270
+    name:        Torreglia
+    latitude:    45.33541
+    longitude:   11.731925
+  torregrotta:
+    province_id: ME
+    id:          L271
+    name:        Torregrotta
+    latitude:    38.211682
+    longitude:   15.347978
+  torre_le_nocelle:
+    province_id: AV
+    id:          L272
+    name:        'Torre Le Nocelle'
+    latitude:    41.023562
+    longitude:   14.909748
+  torremaggiore:
+    province_id: FG
+    id:          L273
+    name:        Torremaggiore
+    latitude:    41.687308
+    longitude:   15.292659
+  torre_orsaia:
+    province_id: SA
+    id:          L274
+    name:        'Torre Orsaia'
+    latitude:    40.133089
+    longitude:   15.479766
+  torre_pallavicina:
+    province_id: BG
+    id:          L276
+    name:        'Torre Pallavicina'
+    latitude:    45.447352
+    longitude:   9.87813
+  torre_pellice:
+    province_id: TO
+    id:          L277
+    name:        'Torre Pellice'
+    latitude:    44.820576
+    longitude:   7.223696
+  torre_san_giorgio:
+    province_id: CN
+    id:          L278
+    name:        'Torre San Giorgio'
+    latitude:    44.736722
+    longitude:   7.529222
+  torre_san_patrizio:
+    province_id: AP
+    id:          L279
+    name:        'Torre San Patrizio'
+    latitude:    43.18611
+    longitude:   13.608368
+  torre_santa_susanna:
+    province_id: BR
+    id:          L280
+    name:        'Torre Santa Susanna'
+    latitude:    40.466867
+    longitude:   17.73882
+  torresina:
+    province_id: CN
+    id:          L281
+    name:        Torresina
+    latitude:    44.434704
+    longitude:   8.037815
+  torretta:
+    province_id: PA
+    id:          L282
+    name:        Torretta
+    latitude:    38.131407
+    longitude:   13.232667
+  torrevecchia_teatina:
+    province_id: CH
+    id:          L284
+    name:        'Torrevecchia Teatina'
+    latitude:    42.383714
+    longitude:   14.214408
+  torrevecchia_pia:
+    province_id: PV
+    id:          L285
+    name:        'Torrevecchia Pia'
+    latitude:    45.282981
+    longitude:   9.297518
+  torri_in_sabina:
+    province_id: RI
+    id:          L286
+    name:        'Torri in Sabina'
+    latitude:    42.354074
+    longitude:   12.639537
+  torri_del_benaco:
+    province_id: VR
+    id:          L287
+    name:        'Torri del Benaco'
+    latitude:    45.609806
+    longitude:   10.686882
+  torrice:
+    province_id: FR
+    id:          L290
+    name:        Torrice
+    latitude:    41.630238
+    longitude:   13.397388
+  torricella_peligna:
+    province_id: CH
+    id:          L291
+    name:        'Torricella Peligna'
+    latitude:    42.024762
+    longitude:   14.259603
+  torricella_verzate:
+    province_id: PV
+    id:          L292
+    name:        'Torricella Verzate'
+    latitude:    45.019843
+    longitude:   9.176577
+  torricella_in_sabina:
+    province_id: RI
+    id:          L293
+    name:        'Torricella in Sabina'
+    latitude:    42.262529
+    longitude:   12.870931
+  torricella:
+    province_id: TA
+    id:          L294
+    name:        Torricella
+    latitude:    40.356139
+    longitude:   17.49993
+  torricella_sicura:
+    province_id: TE
+    id:          L295
+    name:        'Torricella Sicura'
+    latitude:    42.658275
+    longitude:   13.655994
+  torricella_del_pizzo:
+    province_id: CR
+    id:          L296
+    name:        'Torricella del Pizzo'
+    latitude:    45.020018
+    longitude:   10.297037
+  torri_di_quartesolo:
+    province_id: VI
+    id:          L297
+    name:        'Torri di Quartesolo'
+    latitude:    45.523087
+    longitude:   11.609696
+  torriglia:
+    province_id: GE
+    id:          L298
+    name:        Torriglia
+    latitude:    44.518713
+    longitude:   9.158938
+  torrile:
+    province_id: PR
+    id:          L299
+    name:        Torrile
+    latitude:    44.924852
+    longitude:   10.325796
+  torrioni:
+    province_id: AV
+    id:          L301
+    name:        Torrioni
+    latitude:    41.034346
+    longitude:   14.812815
+  torrita_tiberina:
+    province_id: RM
+    id:          L302
+    name:        'Torrita Tiberina'
+    latitude:    42.239477
+    longitude:   12.615556
+  torrita_di_siena:
+    province_id: SI
+    id:          L303
+    name:        'Torrita di Siena'
+    latitude:    43.171259
+    longitude:   11.780481
+  tortona:
+    province_id: AL
+    id:          L304
+    name:        Tortona
+    latitude:    44.897171
+    longitude:   8.865485
+  tortora:
+    province_id: CS
+    id:          L305
+    name:        Tortora
+    latitude:    39.941925
+    longitude:   15.805983
+  tortorella:
+    province_id: SA
+    id:          L306
+    name:        Tortorella
+    latitude:    40.142569
+    longitude:   15.606524
+  tortoreto:
+    province_id: TE
+    id:          L307
+    name:        Tortoreto
+    latitude:    42.804399
+    longitude:   13.912978
+  tortorici:
+    province_id: ME
+    id:          L308
+    name:        Tortorici
+    latitude:    38.035445
+    longitude:   14.822162
+  torviscosa:
+    province_id: UD
+    id:          L309
+    name:        Torviscosa
+    latitude:    45.82313
+    longitude:   13.277981
+  tuscania:
+    province_id: VT
+    id:          L310
+    name:        Tuscania
+    latitude:    42.419248
+    longitude:   11.870288
+  toscolano_maderno:
+    province_id: BS
+    id:          L312
+    name:        Toscolano-Maderno
+    latitude:    45.635481
+    longitude:   10.609555
+  tossicia:
+    province_id: TE
+    id:          L314
+    name:        Tossicia
+    latitude:    42.545531
+    longitude:   13.647985
+  tovo_san_giacomo:
+    province_id: SV
+    id:          L315
+    name:        'Tovo San Giacomo'
+    latitude:    44.177056
+    longitude:   8.271574
+  tovo_di_sant_agata:
+    province_id: SO
+    id:          L316
+    name:        'Tovo di Sant''Agata'
+    latitude:    46.246379
+    longitude:   10.25012
+  trabia:
+    province_id: PA
+    id:          L317
+    name:        Trabia
+    latitude:    37.995291
+    longitude:   13.654269
+  tradate:
+    province_id: VA
+    id:          L319
+    name:        Tradate
+    latitude:    45.713573
+    longitude:   8.904642
+  tramatza:
+    province_id: OR
+    id:          L321
+    name:        Tramatza
+    latitude:    40.004852
+    longitude:   8.650648
+  trambileno:
+    province_id: TN
+    id:          L322
+    name:        Trambileno
+    latitude:    45.869868
+    longitude:   11.074554
+  tramonti:
+    province_id: SA
+    id:          L323
+    name:        Tramonti
+    latitude:    40.695118
+    longitude:   14.640938
+  tramonti_di_sopra:
+    province_id: PN
+    id:          L324
+    name:        'Tramonti di Sopra'
+    latitude:    46.311278
+    longitude:   12.790481
+  tramonti_di_sotto:
+    province_id: PN
+    id:          L325
+    name:        'Tramonti di Sotto'
+    latitude:    46.285796
+    longitude:   12.797037
+  tramutola:
+    province_id: PZ
+    id:          L326
+    name:        Tramutola
+    latitude:    40.31541
+    longitude:   15.789691
+  trana:
+    province_id: TO
+    id:          L327
+    name:        Trana
+    latitude:    45.04
+    longitude:   7.422981
+  trani:
+    province_id: BA
+    id:          L328
+    name:        Trani
+    latitude:    41.275523
+    longitude:   16.417578
+  transacqua:
+    province_id: TN
+    id:          L329
+    name:        Transacqua
+    latitude:    46.174225
+    longitude:   11.833425
+  traona:
+    province_id: SO
+    id:          L330
+    name:        Traona
+    latitude:    46.14911
+    longitude:   9.53324
+  trapani:
+    province_id: TP
+    id:          L331
+    name:        Trapani
+    latitude:    38.01712
+    longitude:   12.517833
+  trappeto:
+    province_id: PA
+    id:          L332
+    name:        Trappeto
+    latitude:    38.069852
+    longitude:   13.038926
+  trarego_viggiona:
+    province_id: VB
+    id:          L333
+    name:        'Trarego Viggiona'
+    latitude:    46.03378
+    longitude:   8.663526
+  trasacco:
+    province_id: AQ
+    id:          L334
+    name:        Trasacco
+    latitude:    41.957981
+    longitude:   13.535481
+  trasaghis:
+    province_id: UD
+    id:          L335
+    name:        Trasaghis
+    latitude:    46.282981
+    longitude:   13.0775
+  trasquera:
+    province_id: VB
+    id:          L336
+    name:        Trasquera
+    latitude:    46.213683
+    longitude:   8.213098
+  tratalias:
+    province_id: CI
+    id:          L337
+    name:        Tratalias
+    latitude:    39.097967
+    longitude:   8.572076
+  trausella:
+    province_id: TO
+    id:          L338
+    name:        Trausella
+    latitude:    45.490831
+    longitude:   7.763151
+  traves:
+    province_id: TO
+    id:          L340
+    name:        Traves
+    latitude:    45.268307
+    longitude:   7.430791
+  travedona_monate:
+    province_id: VA
+    id:          L342
+    name:        Travedona-Monate
+    latitude:    45.804767
+    longitude:   8.672766
+  traversella:
+    province_id: TO
+    id:          L345
+    name:        Traversella
+    latitude:    45.509556
+    longitude:   7.750648
+  traversetolo:
+    province_id: PR
+    id:          L346
+    name:        Traversetolo
+    latitude:    44.640236
+    longitude:   10.381364
+  travesio:
+    province_id: PN
+    id:          L347
+    name:        Travesio
+    latitude:    46.197981
+    longitude:   12.87
+  travo:
+    province_id: PC
+    id:          L348
+    name:        Travo
+    latitude:    44.863724
+    longitude:   9.545808
+  trebaseleghe:
+    province_id: PD
+    id:          L349
+    name:        Trebaseleghe
+    latitude:    45.590962
+    longitude:   12.05063
+  trebisacce:
+    province_id: CS
+    id:          L353
+    name:        Trebisacce
+    latitude:    39.872139
+    longitude:   16.53124
+  trecasali:
+    province_id: PR
+    id:          L354
+    name:        Trecasali
+    latitude:    44.936722
+    longitude:   10.273296
+  trecastagni:
+    province_id: CT
+    id:          L355
+    name:        Trecastagni
+    latitude:    37.619704
+    longitude:   15.078926
+  trecate:
+    province_id: NO
+    id:          L356
+    name:        Trecate
+    latitude:    45.432695
+    longitude:   8.738167
+  trecchina:
+    province_id: PZ
+    id:          L357
+    name:        Trecchina
+    latitude:    40.027667
+    longitude:   15.775648
+  trecenta:
+    province_id: RO
+    id:          L359
+    name:        Trecenta
+    latitude:    45.032037
+    longitude:   11.460963
+  tredozio:
+    province_id: FC
+    id:          L361
+    name:        Tredozio
+    latitude:    44.079162
+    longitude:   11.74255
+  treglio:
+    province_id: CH
+    id:          L363
+    name:        Treglio
+    latitude:    42.269128
+    longitude:   14.426093
+  tregnago:
+    province_id: VR
+    id:          L364
+    name:        Tregnago
+    latitude:    45.51452
+    longitude:   11.164624
+  treia:
+    province_id: MC
+    id:          L366
+    name:        Treia
+    latitude:    43.311574
+    longitude:   13.312519
+  treiso:
+    province_id: CN
+    id:          L367
+    name:        Treiso
+    latitude:    44.689359
+    longitude:   8.086895
+  tremenico:
+    province_id: LC
+    id:          L368
+    name:        Tremenico
+    latitude:    46.077518
+    longitude:   9.36737
+  tremestieri_etneo:
+    province_id: CT
+    id:          L369
+    name:        'Tremestieri Etneo'
+    latitude:    37.576119
+    longitude:   15.073125
+  tremezzo:
+    province_id: CO
+    id:          L371
+    name:        Tremezzo
+    latitude:    45.984556
+    longitude:   9.219704
+  tremosine:
+    province_id: BS
+    id:          L372
+    name:        Tremosine
+    latitude:    45.772406
+    longitude:   10.759055
+  trenta:
+    province_id: CS
+    id:          L375
+    name:        Trenta
+    latitude:    39.286278
+    longitude:   16.32237
+  trentinara:
+    province_id: SA
+    id:          L377
+    name:        Trentinara
+    latitude:    40.401722
+    longitude:   15.114074
+  trento:
+    province_id: TN
+    id:          L378
+    name:        Trento
+    latitude:    35.971942
+    longitude:   -88.941832
+  trentola_ducenta:
+    province_id: CE
+    id:          L379
+    name:        Trentola-Ducenta
+    latitude:    40.976407
+    longitude:   14.177204
+  trenzano:
+    province_id: BS
+    id:          L380
+    name:        Trenzano
+    latitude:    45.478296
+    longitude:   10.011722
+  treppo_carnico:
+    province_id: UD
+    id:          L381
+    name:        'Treppo Carnico'
+    latitude:    46.534037
+    longitude:   13.036716
+  treppo_grande:
+    province_id: UD
+    id:          L382
+    name:        'Treppo Grande'
+    latitude:    46.190247
+    longitude:   13.158264
+  trepuzzi:
+    province_id: LE
+    id:          L383
+    name:        Trepuzzi
+    latitude:    40.404714
+    longitude:   18.071575
+  trequanda:
+    province_id: SI
+    id:          L384
+    name:        Trequanda
+    latitude:    43.188759
+    longitude:   11.668611
+  tres:
+    province_id: TN
+    id:          L385
+    name:        Tres
+    latitude:    46.324074
+    longitude:   11.097981
+  tresana:
+    province_id: MS
+    id:          L386
+    name:        Tresana
+    latitude:    44.255333
+    longitude:   9.913907
+  trescore_balneario:
+    province_id: BG
+    id:          L388
+    name:        'Trescore Balneario'
+    latitude:    45.694913
+    longitude:   9.846543
+  trescore_cremasco:
+    province_id: CR
+    id:          L389
+    name:        'Trescore Cremasco'
+    latitude:    45.4025
+    longitude:   9.626111
+  tresigallo:
+    province_id: FE
+    id:          L390
+    name:        Tresigallo
+    latitude:    44.817055
+    longitude:   11.895796
+  tresivio:
+    province_id: SO
+    id:          L392
+    name:        Tresivio
+    latitude:    46.176741
+    longitude:   9.943778
+  tresnuraghes:
+    province_id: OR
+    id:          L393
+    name:        Tresnuraghes
+    latitude:    40.252815
+    longitude:   8.520963
+  trevenzuolo:
+    province_id: VR
+    id:          L396
+    name:        Trevenzuolo
+    latitude:    45.270315
+    longitude:   10.935481
+  trevi:
+    province_id: PG
+    id:          L397
+    name:        Trevi
+    latitude:    42.876722
+    longitude:   12.745167
+  trevi_nel_lazio:
+    province_id: FR
+    id:          L398
+    name:        'Trevi nel Lazio'
+    latitude:    41.862868
+    longitude:   13.251598
+  trevico:
+    province_id: AV
+    id:          L399
+    name:        Trevico
+    latitude:    41.04955
+    longitude:   15.234388
+  treviglio:
+    province_id: BG
+    id:          L400
+    name:        Treviglio
+    latitude:    45.521434
+    longitude:   9.589678
+  trevignano_romano:
+    province_id: RM
+    id:          L401
+    name:        'Trevignano Romano'
+    latitude:    42.158444
+    longitude:   12.241722
+  trevignano:
+    province_id: TV
+    id:          L402
+    name:        Trevignano
+    latitude:    45.743379
+    longitude:   12.092742
+  treville:
+    province_id: AL
+    id:          L403
+    name:        Treville
+    latitude:    45.097814
+    longitude:   8.360621
+  treviolo:
+    province_id: BG
+    id:          L404
+    name:        Treviolo
+    latitude:    45.674704
+    longitude:   9.613148
+  treviso_bresciano:
+    province_id: BS
+    id:          L406
+    name:        'Treviso Bresciano'
+    latitude:    45.712793
+    longitude:   10.461676
+  treviso:
+    province_id: TV
+    id:          L407
+    name:        Treviso
+    latitude:    45.666286
+    longitude:   12.242072
+  trezzano_rosa:
+    province_id: MI
+    id:          L408
+    name:        'Trezzano Rosa'
+    latitude:    45.583768
+    longitude:   9.487789
+  trezzano_sul_naviglio:
+    province_id: MI
+    id:          L409
+    name:        'Trezzano sul Naviglio'
+    latitude:    45.418338
+    longitude:   9.070732
+  trezzo_tinella:
+    province_id: CN
+    id:          L410
+    name:        'Trezzo Tinella'
+    latitude:    44.677881
+    longitude:   8.107646
+  trezzo_sull_adda:
+    province_id: MI
+    id:          L411
+    name:        'Trezzo sull''Adda'
+    latitude:    45.607027
+    longitude:   9.521314
+  trezzone:
+    province_id: CO
+    id:          L413
+    name:        Trezzone
+    latitude:    46.1725
+    longitude:   9.352981
+  tribano:
+    province_id: PD
+    id:          L414
+    name:        Tribano
+    latitude:    45.208832
+    longitude:   11.831091
+  tribiano:
+    province_id: MI
+    id:          L415
+    name:        Tribiano
+    latitude:    45.412481
+    longitude:   9.37962
+  tribogna:
+    province_id: GE
+    id:          L416
+    name:        Tribogna
+    latitude:    44.416475
+    longitude:   9.196077
+  tricarico:
+    province_id: MT
+    id:          L418
+    name:        Tricarico
+    latitude:    40.618778
+    longitude:   16.147352
+  tricase:
+    province_id: LE
+    id:          L419
+    name:        Tricase
+    latitude:    39.931403
+    longitude:   18.356272
+  tricerro:
+    province_id: VC
+    id:          L420
+    name:        Tricerro
+    latitude:    45.236722
+    longitude:   8.326407
+  tricesimo:
+    province_id: UD
+    id:          L421
+    name:        Tricesimo
+    latitude:    46.157667
+    longitude:   13.216111
+  trichiana:
+    province_id: BL
+    id:          L422
+    name:        Trichiana
+    latitude:    46.074122
+    longitude:   12.133179
+  triei:
+    province_id: OG
+    id:          L423
+    name:        Triei
+    latitude:    40.037815
+    longitude:   9.641426
+  trieste:
+    province_id: TS
+    id:          L424
+    name:        Trieste
+    latitude:    45.65363
+    longitude:   13.778407
+  triggiano:
+    province_id: BA
+    id:          L425
+    name:        Triggiano
+    latitude:    41.064239
+    longitude:   16.923737
+  trigolo:
+    province_id: CR
+    id:          L426
+    name:        Trigolo
+    latitude:    45.330944
+    longitude:   9.815944
+  trinita:
+    province_id: CN
+    id:          L427
+    name:        Trinità
+    latitude:    44.509537
+    longitude:   7.75813
+  trinita_d_agultu_e_vignola:
+    province_id: OT
+    id:          L428
+    name:        'Trinità d''Agultu e Vignola'
+    latitude:    40.984834
+    longitude:   8.916777
+  trino:
+    province_id: VC
+    id:          L429
+    name:        Trino
+    latitude:    45.193148
+    longitude:   8.29737
+  triora:
+    province_id: IM
+    id:          L430
+    name:        Triora
+    latitude:    43.993061
+    longitude:   7.765271
+  tripi:
+    province_id: ME
+    id:          L431
+    name:        Tripi
+    latitude:    38.048463
+    longitude:   15.098296
+  trisobbio:
+    province_id: AL
+    id:          L432
+    name:        Trisobbio
+    latitude:    44.662667
+    longitude:   8.58737
+  trissino:
+    province_id: VI
+    id:          L433
+    name:        Trissino
+    latitude:    45.562204
+    longitude:   11.372833
+  triuggio:
+    province_id: MI
+    id:          L434
+    name:        Triuggio
+    latitude:    45.661777
+    longitude:   9.268501
+  trivento:
+    province_id: CB
+    id:          L435
+    name:        Trivento
+    latitude:    41.782157
+    longitude:   14.551936
+  trivero:
+    province_id: BI
+    id:          L436
+    name:        Trivero
+    latitude:    45.6674
+    longitude:   8.179073
+  trivigliano:
+    province_id: FR
+    id:          L437
+    name:        Trivigliano
+    latitude:    41.775791
+    longitude:   13.272102
+  trivignano_udinese:
+    province_id: UD
+    id:          L438
+    name:        'Trivignano Udinese'
+    latitude:    45.944389
+    longitude:   13.341741
+  trivigno:
+    province_id: PZ
+    id:          L439
+    name:        Trivigno
+    latitude:    40.579856
+    longitude:   15.986663
+  trivolzio:
+    province_id: PV
+    id:          L440
+    name:        Trivolzio
+    latitude:    45.259556
+    longitude:   9.043926
+  trodena:
+    province_id: BZ
+    id:          L444
+    name:        Trodena
+    latitude:    46.322134
+    longitude:   11.349358
+  trofarello:
+    province_id: TO
+    id:          L445
+    name:        Trofarello
+    latitude:    44.984704
+    longitude:   7.746426
+  troia:
+    province_id: FG
+    id:          L447
+    name:        Troia
+    latitude:    41.36119
+    longitude:   15.308898
+  troina:
+    province_id: EN
+    id:          L448
+    name:        Troina
+    latitude:    37.786714
+    longitude:   14.591452
+  tromello:
+    province_id: PV
+    id:          L449
+    name:        Tromello
+    latitude:    45.211452
+    longitude:   8.870225
+  trontano:
+    province_id: VB
+    id:          L450
+    name:        Trontano
+    latitude:    46.122673
+    longitude:   8.337307
+  tronzano_vercellese:
+    province_id: VC
+    id:          L451
+    name:        'Tronzano Vercellese'
+    latitude:    45.34237
+    longitude:   8.174241
+  tropea:
+    province_id: VV
+    id:          L452
+    name:        Tropea
+    latitude:    38.679103
+    longitude:   15.896274
+  trovo:
+    province_id: PV
+    id:          L453
+    name:        Trovo
+    latitude:    45.283907
+    longitude:   9.036574
+  truccazzano:
+    province_id: MI
+    id:          L454
+    name:        Truccazzano
+    latitude:    45.485092
+    longitude:   9.465839
+  tubre:
+    province_id: BZ
+    id:          L455
+    name:        Tubre
+    latitude:    46.646574
+    longitude:   10.465333
+  tuenno:
+    province_id: TN
+    id:          L457
+    name:        Tuenno
+    latitude:    46.329852
+    longitude:   11.024074
+  tufara:
+    province_id: CB
+    id:          L458
+    name:        Tufara
+    latitude:    41.483148
+    longitude:   14.947518
+  tufillo:
+    province_id: CH
+    id:          L459
+    name:        Tufillo
+    latitude:    41.918276
+    longitude:   14.624809
+  tufino:
+    province_id: NA
+    id:          L460
+    name:        Tufino
+    latitude:    40.955167
+    longitude:   14.566889
+  tufo:
+    province_id: AV
+    id:          L461
+    name:        Tufo
+    latitude:    41.013052
+    longitude:   14.819398
+  tuglie:
+    province_id: LE
+    id:          L462
+    name:        Tuglie
+    latitude:    40.074852
+    longitude:   18.098907
+  tuili:
+    province_id: VS
+    id:          L463
+    name:        Tuili
+    latitude:    39.714587
+    longitude:   8.961855
+  tula:
+    province_id: SS
+    id:          L464
+    name:        Tula
+    latitude:    40.733611
+    longitude:   8.985018
+  tuoro_sul_trasimeno:
+    province_id: PG
+    id:          L466
+    name:        'Tuoro sul Trasimeno'
+    latitude:    43.208623
+    longitude:   12.071825
+  valvestino:
+    province_id: BS
+    id:          L468
+    name:        Valvestino
+    latitude:    45.758652
+    longitude:   10.581953
+  turano_lodigiano:
+    province_id: LO
+    id:          L469
+    name:        'Turano Lodigiano'
+    latitude:    45.249834
+    longitude:   9.622965
+  turate:
+    province_id: CO
+    id:          L470
+    name:        Turate
+    latitude:    45.658296
+    longitude:   9.005315
+  turbigo:
+    province_id: MI
+    id:          L471
+    name:        Turbigo
+    latitude:    45.530213
+    longitude:   8.739808
+  turi:
+    province_id: BA
+    id:          L472
+    name:        Turi
+    latitude:    40.918463
+    longitude:   17.022037
+  turri:
+    province_id: VS
+    id:          L473
+    name:        Turri
+    latitude:    39.705944
+    longitude:   8.9175
+  turriaco:
+    province_id: GO
+    id:          L474
+    name:        Turriaco
+    latitude:    45.823444
+    longitude:   13.443296
+  turrivalignani:
+    province_id: PE
+    id:          L475
+    name:        Turrivalignani
+    latitude:    42.261716
+    longitude:   14.026137
+  tursi:
+    province_id: MT
+    id:          L477
+    name:        Tursi
+    latitude:    40.246259
+    longitude:   16.470648
+  tusa:
+    province_id: ME
+    id:          L478
+    name:        Tusa
+    latitude:    37.98329
+    longitude:   14.236352

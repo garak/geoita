@@ -1,0 +1,2791 @@
+City:
+  City_vaccarizzo_albanese:
+    Province:  ProvinceCS
+    id:        L524
+    name:      'Vaccarizzo Albanese'
+    latitude:  39.586407
+    longitude: 16.433759
+  City_vacone:
+    Province:  ProvinceRI
+    id:        L525
+    name:      Vacone
+    latitude:  42.385479
+    longitude: 12.643469
+  City_vacri:
+    Province:  ProvinceCH
+    id:        L526
+    name:      Vacri
+    latitude:  42.297785
+    longitude: 14.232668
+  City_vadena:
+    Province:  ProvinceBZ
+    id:        L527
+    name:      Vadena
+    latitude:  46.415574
+    longitude: 11.304359
+  City_vado_ligure:
+    Province:  ProvinceSV
+    id:        L528
+    name:      'Vado Ligure'
+    latitude:  44.26935
+    longitude: 8.435763
+  City_vaglia:
+    Province:  ProvinceFI
+    id:        L529
+    name:      Vaglia
+    latitude:  43.911426
+    longitude: 11.280167
+  City_vaglio_serra:
+    Province:  ProvinceAT
+    id:        L531
+    name:      'Vaglio Serra'
+    latitude:  44.797352
+    longitude: 8.34
+  City_vaglio_basilicata:
+    Province:  ProvincePZ
+    id:        L532
+    name:      'Vaglio Basilicata'
+    latitude:  40.668611
+    longitude: 15.918926
+  City_vagli_sotto:
+    Province:  ProvinceLU
+    id:        L533
+    name:      'Vagli Sotto'
+    latitude:  44.109592
+    longitude: 10.289155
+  City_vaiano_cremasco:
+    Province:  ProvinceCR
+    id:        L535
+    name:      'Vaiano Cremasco'
+    latitude:  45.373867
+    longitude: 9.590398
+  City_vaiano:
+    Province:  ProvincePO
+    id:        L537
+    name:      Vaiano
+    latitude:  43.969168
+    longitude: 11.123411
+  City_vaie:
+    Province:  ProvinceTO
+    id:        L538
+    name:      Vaie
+    latitude:  45.101656
+    longitude: 7.289804
+  City_vailate:
+    Province:  ProvinceCR
+    id:        L539
+    name:      Vailate
+    latitude:  45.46418
+    longitude: 9.605389
+  City_vairano_patenora:
+    Province:  ProvinceCE
+    id:        L540
+    name:      'Vairano Patenora'
+    latitude:  41.337824
+    longitude: 14.132173
+  City_valbondione:
+    Province:  ProvinceBG
+    id:        L544
+    name:      Valbondione
+    latitude:  46.037883
+    longitude: 10.013161
+  City_valbrembo:
+    Province:  ProvinceBG
+    id:        L545
+    name:      Valbrembo
+    latitude:  45.719537
+    longitude: 9.610167
+  City_valbrevenna:
+    Province:  ProvinceGE
+    id:        L546
+    name:      Valbrevenna
+    latitude:  44.556371
+    longitude: 9.065602
+  City_valbrona:
+    Province:  ProvinceCO
+    id:        L547
+    name:      Valbrona
+    latitude:  45.878463
+    longitude: 9.300018
+  City_vico_canavese:
+    Province:  ProvinceTO
+    id:        L548
+    name:      'Vico Canavese'
+    latitude:  45.495648
+    longitude: 7.7775
+  City_valda:
+    Province:  ProvinceTN
+    id:        L550
+    name:      Valda
+    latitude:  46.20745
+    longitude: 11.266747
+  City_valdagno:
+    Province:  ProvinceVI
+    id:        L551
+    name:      Valdagno
+    latitude:  45.6502
+    longitude: 11.300924
+  City_valdaora:
+    Province:  ProvinceBZ
+    id:        L552
+    name:      Valdaora
+    latitude:  46.760812
+    longitude: 12.032039
+  City_valdastico:
+    Province:  ProvinceVI
+    id:        L554
+    name:      Valdastico
+    latitude:  45.887667
+    longitude: 11.362667
+  City_val_della_torre:
+    Province:  ProvinceTO
+    id:        L555
+    name:      'Val della Torre'
+    latitude:  45.156278
+    longitude: 7.446278
+  City_valdengo:
+    Province:  ProvinceBI
+    id:        L556
+    name:      Valdengo
+    latitude:  45.568148
+    longitude: 8.139556
+  City_valdidentro:
+    Province:  ProvinceSO
+    id:        L557
+    name:      Valdidentro
+    latitude:  46.490018
+    longitude: 10.295167
+  City_valdieri:
+    Province:  ProvinceCN
+    id:        L558
+    name:      Valdieri
+    latitude:  44.278778
+    longitude: 7.398759
+  City_valdina:
+    Province:  ProvinceME
+    id:        L561
+    name:      Valdina
+    latitude:  38.19188
+    longitude: 15.371189
+  City_val_di_nizza:
+    Province:  ProvincePV
+    id:        L562
+    name:      'Val di Nizza'
+    latitude:  44.878092
+    longitude: 9.165597
+  City_valdisotto:
+    Province:  ProvinceSO
+    id:        L563
+    name:      Valdisotto
+    latitude:  46.428074
+    longitude: 10.356119
+  City_val_di_vizze:
+    Province:  ProvinceBZ
+    id:        L564
+    name:      'Val di Vizze'
+    latitude:  46.901125
+    longitude: 11.465214
+  City_valdobbiadene:
+    Province:  ProvinceTV
+    id:        L565
+    name:      Valdobbiadene
+    latitude:  45.901333
+    longitude: 11.99544
+  City_valduggia:
+    Province:  ProvinceVC
+    id:        L566
+    name:      Valduggia
+    latitude:  45.729389
+    longitude: 8.331111
+  City_valeggio_sul_mincio:
+    Province:  ProvinceVR
+    id:        L567
+    name:      'Valeggio sul Mincio'
+    latitude:  45.353972
+    longitude: 10.736491
+  City_valeggio:
+    Province:  ProvincePV
+    id:        L568
+    name:      Valeggio
+    latitude:  45.151741
+    longitude: 8.861111
+  City_valentano:
+    Province:  ProvinceVT
+    id:        L569
+    name:      Valentano
+    latitude:  42.566412
+    longitude: 11.818356
+  City_valenza:
+    Province:  ProvinceAL
+    id:        L570
+    name:      Valenza
+    latitude:  45.012268
+    longitude: 8.644185
+  City_valenzano:
+    Province:  ProvinceBA
+    id:        L571
+    name:      Valenzano
+    latitude:  41.044554
+    longitude: 16.884399
+  City_valera_fratta:
+    Province:  ProvinceLO
+    id:        L572
+    name:      'Valera Fratta'
+    latitude:  45.25766
+    longitude: 9.336947
+  City_valfabbrica:
+    Province:  ProvincePG
+    id:        L573
+    name:      Valfabbrica
+    latitude:  43.159571
+    longitude: 12.601404
+  City_valfenera:
+    Province:  ProvinceAT
+    id:        L574
+    name:      Valfenera
+    latitude:  44.903004
+    longitude: 7.967398
+  City_valfloriana:
+    Province:  ProvinceTN
+    id:        L575
+    name:      Valfloriana
+    latitude:  46.25063
+    longitude: 11.344241
+  City_valfurva:
+    Province:  ProvinceSO
+    id:        L576
+    name:      Valfurva
+    latitude:  46.463023
+    longitude: 10.410534
+  City_valganna:
+    Province:  ProvinceVA
+    id:        L577
+    name:      Valganna
+    latitude:  45.902226
+    longitude: 8.8256
+  City_valgioie:
+    Province:  ProvinceTO
+    id:        L578
+    name:      Valgioie
+    latitude:  45.0761
+    longitude: 7.340726
+  City_valgoglio:
+    Province:  ProvinceBG
+    id:        L579
+    name:      Valgoglio
+    latitude:  45.974117
+    longitude: 9.912132
+  City_valgrana:
+    Province:  ProvinceCN
+    id:        L580
+    name:      Valgrana
+    latitude:  44.41237
+    longitude: 7.381259
+  City_valgreghentino:
+    Province:  ProvinceLC
+    id:        L581
+    name:      Valgreghentino
+    latitude:  45.780383
+    longitude: 9.414435
+  City_valgrisenche:
+    Province:  ProvinceAO
+    id:        L582
+    name:      Valgrisenche
+    latitude:  45.630762
+    longitude: 7.064233
+  City_valguarnera_caropepe:
+    Province:  ProvinceEN
+    id:        L583
+    name:      'Valguarnera Caropepe'
+    latitude:  37.496741
+    longitude: 14.389704
+  City_vallada_agordina:
+    Province:  ProvinceBL
+    id:        L584
+    name:      'Vallada Agordina'
+    latitude:  46.36324
+    longitude: 11.934675
+  City_vallanzengo:
+    Province:  ProvinceBI
+    id:        L586
+    name:      Vallanzengo
+    latitude:  45.604059
+    longitude: 8.150844
+  City_vallarsa:
+    Province:  ProvinceTN
+    id:        L588
+    name:      Vallarsa
+    latitude:  45.782599
+    longitude: 11.117252
+  City_vallata:
+    Province:  ProvinceAV
+    id:        L589
+    name:      Vallata
+    latitude:  41.033403
+    longitude: 15.253148
+  City_valle_di_cadore:
+    Province:  ProvinceBL
+    id:        L590
+    name:      'Valle di Cadore'
+    latitude:  46.418926
+    longitude: 12.33563
+  City_valle_di_maddaloni:
+    Province:  ProvinceCE
+    id:        L591
+    name:      'Valle di Maddaloni'
+    latitude:  41.080648
+    longitude: 14.416574
+  City_valle_lomellina:
+    Province:  ProvincePV
+    id:        L593
+    name:      'Valle Lomellina'
+    latitude:  45.151769
+    longitude: 8.666761
+  City_valle_agricola:
+    Province:  ProvinceCE
+    id:        L594
+    name:      'Valle Agricola'
+    latitude:  41.42395
+    longitude: 14.257495
+  City_valle_aurina:
+    Province:  ProvinceBZ
+    id:        L595
+    name:      'Valle Aurina'
+    latitude:  46.997063
+    longitude: 11.980456
+  City_vallebona:
+    Province:  ProvinceIM
+    id:        L596
+    name:      Vallebona
+    latitude:  43.813738
+    longitude: 7.667453
+  City_valle_castellana:
+    Province:  ProvinceTE
+    id:        L597
+    name:      'Valle Castellana'
+    latitude:  42.73667
+    longitude: 13.496874
+  City_vallecorsa:
+    Province:  ProvinceFR
+    id:        L598
+    name:      Vallecorsa
+    latitude:  41.445064
+    longitude: 13.405453
+  City_vallecrosia:
+    Province:  ProvinceIM
+    id:        L599
+    name:      Vallecrosia
+    latitude:  43.786052
+    longitude: 7.640142
+  City_valle_di_casies:
+    Province:  ProvinceBZ
+    id:        L601
+    name:      'Valle di Casies'
+    latitude:  46.768473
+    longitude: 12.180588
+  City_valledolmo:
+    Province:  ProvincePA
+    id:        L603
+    name:      Valledolmo
+    latitude:  37.748611
+    longitude: 13.828759
+  City_valledoria:
+    Province:  ProvinceSS
+    id:        L604
+    name:      Valledoria
+    latitude:  40.92987
+    longitude: 8.824222
+  City_vallemaio:
+    Province:  ProvinceFR
+    id:        L605
+    name:      Vallemaio
+    latitude:  41.368257
+    longitude: 13.811416
+  City_valle_mosso:
+    Province:  ProvinceBI
+    id:        L606
+    name:      'Valle Mosso'
+    latitude:  45.634725
+    longitude: 8.143261
+  City_vallelonga:
+    Province:  ProvinceVV
+    id:        L607
+    name:      Vallelonga
+    latitude:  38.647127
+    longitude: 16.292671
+  City_vallelunga_pratameno:
+    Province:  ProvinceCL
+    id:        L609
+    name:      'Vallelunga Pratameno'
+    latitude:  37.68313
+    longitude: 13.832518
+  City_vallepietra:
+    Province:  ProvinceRM
+    id:        L611
+    name:      Vallepietra
+    latitude:  41.92533
+    longitude: 13.230783
+  City_vallerano:
+    Province:  ProvinceVT
+    id:        L612
+    name:      Vallerano
+    latitude:  42.385
+    longitude: 12.264556
+  City_vallermosa:
+    Province:  ProvinceCA
+    id:        L613
+    name:      Vallermosa
+    latitude:  39.365648
+    longitude: 8.797352
+  City_vallerotonda:
+    Province:  ProvinceFR
+    id:        L614
+    name:      Vallerotonda
+    latitude:  41.551967
+    longitude: 13.911178
+  City_vallesaccarda:
+    Province:  ProvinceAV
+    id:        L616
+    name:      Vallesaccarda
+    latitude:  41.064307
+    longitude: 15.253121
+  City_valle_salimbene:
+    Province:  ProvincePV
+    id:        L617
+    name:      'Valle Salimbene'
+    latitude:  45.172615
+    longitude: 9.235358
+  City_valle_san_nicolao:
+    Province:  ProvinceBI
+    id:        L620
+    name:      'Valle San Nicolao'
+    latitude:  45.608148
+    longitude: 8.142204
+  City_valleve:
+    Province:  ProvinceBG
+    id:        L623
+    name:      Valleve
+    latitude:  46.027108
+    longitude: 9.743254
+  City_valli_del_pasubio:
+    Province:  ProvinceVI
+    id:        L624
+    name:      'Valli del Pasubio'
+    latitude:  45.741722
+    longitude: 11.262833
+  City_vallinfreda:
+    Province:  ProvinceRM
+    id:        L625
+    name:      Vallinfreda
+    latitude:  42.084648
+    longitude: 12.997615
+  City_vallio_terme:
+    Province:  ProvinceBS
+    id:        L626
+    name:      'Vallio Terme'
+    latitude:  45.610361
+    longitude: 10.395984
+  City_vallo_di_nera:
+    Province:  ProvincePG
+    id:        L627
+    name:      'Vallo di Nera'
+    latitude:  42.75563
+    longitude: 12.865
+  City_vallo_della_lucania:
+    Province:  ProvinceSA
+    id:        L628
+    name:      'Vallo della Lucania'
+    latitude:  40.230796
+    longitude: 15.266741
+  City_vallo_torinese:
+    Province:  ProvinceTO
+    id:        L629
+    name:      'Vallo Torinese'
+    latitude:  45.224537
+    longitude: 7.497518
+  City_valloriate:
+    Province:  ProvinceCN
+    id:        L631
+    name:      Valloriate
+    latitude:  44.338057
+    longitude: 7.372059
+  City_valmacca:
+    Province:  ProvinceAL
+    id:        L633
+    name:      Valmacca
+    latitude:  45.101259
+    longitude: 8.584241
+  City_valmadrera:
+    Province:  ProvinceLC
+    id:        L634
+    name:      Valmadrera
+    latitude:  45.848024
+    longitude: 9.358473
+  City_valmala:
+    Province:  ProvinceCN
+    id:        L636
+    name:      Valmala
+    latitude:  44.544088
+    longitude: 7.346442
+  City_val_masino:
+    Province:  ProvinceSO
+    id:        L638
+    name:      'Val Masino'
+    latitude:  46.212407
+    longitude: 9.636796
+  City_valmontone:
+    Province:  ProvinceRM
+    id:        L639
+    name:      Valmontone
+    latitude:  41.777088
+    longitude: 12.917845
+  City_valmorea:
+    Province:  ProvinceCO
+    id:        L640
+    name:      Valmorea
+    latitude:  45.816278
+    longitude: 8.931722
+  City_valmozzola:
+    Province:  ProvincePR
+    id:        L641
+    name:      Valmozzola
+    latitude:  44.568933
+    longitude: 9.883676
+  City_valnegra:
+    Province:  ProvinceBG
+    id:        L642
+    name:      Valnegra
+    latitude:  45.95
+    longitude: 9.690481
+  City_valpelline:
+    Province:  ProvinceAO
+    id:        L643
+    name:      Valpelline
+    latitude:  45.825963
+    longitude: 7.326741
+  City_valperga:
+    Province:  ProvinceTO
+    id:        L644
+    name:      Valperga
+    latitude:  45.370126
+    longitude: 7.657863
+  City_valsavarenche:
+    Province:  ProvinceAO
+    id:        L647
+    name:      Valsavarenche
+    latitude:  45.592427
+    longitude: 7.209844
+  City_valsecca:
+    Province:  ProvinceBG
+    id:        L649
+    name:      Valsecca
+    latitude:  45.828296
+    longitude: 9.496407
+  City_valstagna:
+    Province:  ProvinceVI
+    id:        L650
+    name:      Valstagna
+    latitude:  45.855273
+    longitude: 11.662358
+  City_valstrona:
+    Province:  ProvinceVB
+    id:        L651
+    name:      Valstrona
+    latitude:  45.908798
+    longitude: 8.345824
+  City_valtopina:
+    Province:  ProvincePG
+    id:        L653
+    name:      Valtopina
+    latitude:  43.057833
+    longitude: 12.754074
+  City_valtournenche:
+    Province:  ProvinceAO
+    id:        L654
+    name:      Valtournenche
+    latitude:  45.87676
+    longitude: 7.623917
+  City_valtorta:
+    Province:  ProvinceBG
+    id:        L655
+    name:      Valtorta
+    latitude:  45.977562
+    longitude: 9.532664
+  City_valva:
+    Province:  ProvinceSA
+    id:        L656
+    name:      Valva
+    latitude:  40.739222
+    longitude: 15.270315
+  City_valvasone:
+    Province:  ProvincePN
+    id:        L657
+    name:      Valvasone
+    latitude:  45.995614
+    longitude: 12.869038
+  City_valverde:
+    Province:  ProvincePV
+    id:        L659
+    name:      Valverde
+    latitude:  44.869704
+    longitude: 9.235481
+  City_vandoies:
+    Province:  ProvinceBZ
+    id:        L660
+    name:      Vandoies
+    latitude:  46.815991
+    longitude: 11.721414
+  City_vanzaghello:
+    Province:  ProvinceMI
+    id:        L664
+    name:      Vanzaghello
+    latitude:  45.580018
+    longitude: 8.779769
+  City_vanzago:
+    Province:  ProvinceMI
+    id:        L665
+    name:      Vanzago
+    latitude:  45.526487
+    longitude: 8.996683
+  City_vanzone_con_san_carlo:
+    Province:  ProvinceVB
+    id:        L666
+    name:      'Vanzone con San Carlo'
+    latitude:  45.979793
+    longitude: 8.11205
+  City_vaprio_d_adda:
+    Province:  ProvinceMI
+    id:        L667
+    name:      'Vaprio D''Adda'
+    latitude:  45.575955
+    longitude: 9.53215
+  City_vaprio_d_agogna:
+    Province:  ProvinceNO
+    id:        L668
+    name:      'Vaprio D''Agogna'
+    latitude:  45.604704
+    longitude: 8.554704
+  City_varallo:
+    Province:  ProvinceVC
+    id:        L669
+    name:      Varallo
+    latitude:  45.813833
+    longitude: 8.25351
+  City_varallo_pombia:
+    Province:  ProvinceNO
+    id:        L670
+    name:      'Varallo Pombia'
+    latitude:  45.667815
+    longitude: 8.63
+  City_varano_borghi:
+    Province:  ProvinceVA
+    id:        L671
+    name:      'Varano Borghi'
+    latitude:  45.775
+    longitude: 8.705167
+  City_varano_de_melegari:
+    Province:  ProvincePR
+    id:        L672
+    name:      'Varano de'' Melegari'
+    latitude:  44.689074
+    longitude: 10.0125
+  City_varapodio:
+    Province:  ProvinceRC
+    id:        L673
+    name:      Varapodio
+    latitude:  38.314893
+    longitude: 15.984057
+  City_varazze:
+    Province:  ProvinceSV
+    id:        L675
+    name:      Varazze
+    latitude:  44.36065
+    longitude: 8.575175
+  City_varco_sabino:
+    Province:  ProvinceRI
+    id:        L676
+    name:      'Varco Sabino'
+    latitude:  42.240963
+    longitude: 13.020963
+  City_varedo:
+    Province:  ProvinceMI
+    id:        L677
+    name:      Varedo
+    latitude:  45.597852
+    longitude: 9.16043
+  City_varena:
+    Province:  ProvinceTN
+    id:        L678
+    name:      Varena
+    latitude:  46.307667
+    longitude: 11.459389
+  City_varenna:
+    Province:  ProvinceLC
+    id:        L680
+    name:      Varenna
+    latitude:  46.009968
+    longitude: 9.28369
+  City_varese_ligure:
+    Province:  ProvinceSP
+    id:        L681
+    name:      'Varese Ligure'
+    latitude:  44.377352
+    longitude: 9.595333
+  City_varese:
+    Province:  ProvinceVA
+    id:        L682
+    name:      Varese
+    latitude:  45.817605
+    longitude: 8.826384
+  City_varisella:
+    Province:  ProvinceTO
+    id:        L685
+    name:      Varisella
+    latitude:  45.209621
+    longitude: 7.486139
+  City_varmo:
+    Province:  ProvinceUD
+    id:        L686
+    name:      Varmo
+    latitude:  45.887549
+    longitude: 12.988933
+  City_varna:
+    Province:  ProvinceBZ
+    id:        L687
+    name:      Varna
+    latitude:  46.740349
+    longitude: 11.636557
+  City_varsi:
+    Province:  ProvincePR
+    id:        L689
+    name:      Varsi
+    latitude:  44.661968
+    longitude: 9.844871
+  City_varzi:
+    Province:  ProvincePV
+    id:        L690
+    name:      Varzi
+    latitude:  44.823653
+    longitude: 9.195856
+  City_varzo:
+    Province:  ProvinceVB
+    id:        L691
+    name:      Varzo
+    latitude:  46.207667
+    longitude: 8.253611
+  City_vas:
+    Province:  ProvinceBL
+    id:        L692
+    name:      Vas
+    latitude:  45.9392
+    longitude: 11.93572
+  City_vasia:
+    Province:  ProvinceIM
+    id:        L693
+    name:      Vasia
+    latitude:  43.933148
+    longitude: 7.954074
+  City_vastogirardi:
+    Province:  ProvinceIS
+    id:        L696
+    name:      Vastogirardi
+    latitude:  41.775167
+    longitude: 14.261426
+  City_vattaro:
+    Province:  ProvinceTN
+    id:        L697
+    name:      Vattaro
+    latitude:  45.995648
+    longitude: 11.217981
+  City_vauda_canavese:
+    Province:  ProvinceTO
+    id:        L698
+    name:      'Vauda Canavese'
+    latitude:  45.2792
+    longitude: 7.616355
+  City_vazzano:
+    Province:  ProvinceVV
+    id:        L699
+    name:      Vazzano
+    latitude:  38.633774
+    longitude: 16.248843
+  City_vazzola:
+    Province:  ProvinceTV
+    id:        L700
+    name:      Vazzola
+    latitude:  45.842796
+    longitude: 12.384307
+  City_vecchiano:
+    Province:  ProvincePI
+    id:        L702
+    name:      Vecchiano
+    latitude:  43.780988
+    longitude: 10.383387
+  City_vedano_olona:
+    Province:  ProvinceVA
+    id:        L703
+    name:      'Vedano Olona'
+    latitude:  45.773266
+    longitude: 8.881159
+  City_vedano_al_lambro:
+    Province:  ProvinceMI
+    id:        L704
+    name:      'Vedano al Lambro'
+    latitude:  45.607029
+    longitude: 9.26837
+  City_veddasca:
+    Province:  ProvinceVA
+    id:        L705
+    name:      Veddasca
+    latitude:  46.071574
+    longitude: 8.799852
+  City_vedelago:
+    Province:  ProvinceTV
+    id:        L706
+    name:      Vedelago
+    latitude:  45.686604
+    longitude: 12.017904
+  City_vedeseta:
+    Province:  ProvinceBG
+    id:        L707
+    name:      Vedeseta
+    latitude:  45.891166
+    longitude: 9.539858
+  City_veduggio_con_colzano:
+    Province:  ProvinceMI
+    id:        L709
+    name:      'Veduggio con Colzano'
+    latitude:  45.734926
+    longitude: 9.273349
+  City_veggiano:
+    Province:  ProvincePD
+    id:        L710
+    name:      Veggiano
+    latitude:  45.44813
+    longitude: 11.713926
+  City_veglie:
+    Province:  ProvinceLE
+    id:        L711
+    name:      Veglie
+    latitude:  40.336283
+    longitude: 17.966107
+  City_veglio:
+    Province:  ProvinceBI
+    id:        L712
+    name:      Veglio
+    latitude:  45.640647
+    longitude: 8.114246
+  City_vejano:
+    Province:  ProvinceVT
+    id:        L713
+    name:      Vejano
+    latitude:  42.218296
+    longitude: 12.096574
+  City_veleso:
+    Province:  ProvinceCO
+    id:        L715
+    name:      Veleso
+    latitude:  45.908455
+    longitude: 9.181557
+  City_velezzo_lomellina:
+    Province:  ProvincePV
+    id:        L716
+    name:      'Velezzo Lomellina'
+    latitude:  45.164131
+    longitude: 8.737739
+  City_velletri:
+    Province:  ProvinceRM
+    id:        L719
+    name:      Velletri
+    latitude:  41.691336
+    longitude: 12.777975
+  City_vellezzo_bellini:
+    Province:  ProvincePV
+    id:        L720
+    name:      'Vellezzo Bellini'
+    latitude:  45.271741
+    longitude: 9.100315
+  City_velo_veronese:
+    Province:  ProvinceVR
+    id:        L722
+    name:      'Velo Veronese'
+    latitude:  45.607667
+    longitude: 11.096259
+  City_velo_d_astico:
+    Province:  ProvinceVI
+    id:        L723
+    name:      'Velo D''Astico'
+    latitude:  45.790049
+    longitude: 11.366323
+  City_velturno:
+    Province:  ProvinceBZ
+    id:        L724
+    name:      Velturno
+    latitude:  46.668098
+    longitude: 11.595733
+  City_venafro:
+    Province:  ProvinceIS
+    id:        L725
+    name:      Venafro
+    latitude:  41.484556
+    longitude: 14.046111
+  City_venaus:
+    Province:  ProvinceTO
+    id:        L726
+    name:      Venaus
+    latitude:  45.159555
+    longitude: 7.009222
+  City_venaria_reale:
+    Province:  ProvinceTO
+    id:        L727
+    name:      'Venaria Reale'
+    latitude:  45.134171
+    longitude: 7.629048
+  City_venarotta:
+    Province:  ProvinceAP
+    id:        L728
+    name:      Venarotta
+    latitude:  42.881791
+    longitude: 13.49263
+  City_venasca:
+    Province:  ProvinceCN
+    id:        L729
+    name:      Venasca
+    latitude:  44.565017
+    longitude: 7.405008
+  City_vendone:
+    Province:  ProvinceSV
+    id:        L730
+    name:      Vendone
+    latitude:  44.077103
+    longitude: 8.071881
+  City_vendrogno:
+    Province:  ProvinceLC
+    id:        L731
+    name:      Vendrogno
+    latitude:  46.034727
+    longitude: 9.328784
+  City_venegono_inferiore:
+    Province:  ProvinceVA
+    id:        L733
+    name:      'Venegono Inferiore'
+    latitude:  45.737914
+    longitude: 8.900614
+  City_venegono_superiore:
+    Province:  ProvinceVA
+    id:        L734
+    name:      'Venegono Superiore'
+    latitude:  45.755167
+    longitude: 8.897815
+  City_venetico:
+    Province:  ProvinceME
+    id:        L735
+    name:      Venetico
+    latitude:  38.193167
+    longitude: 15.381025
+  City_venezia:
+    Province:  ProvinceVE
+    id:        L736
+    name:      Venezia
+    latitude:  45.434336
+    longitude: 12.338784
+  City_veniano:
+    Province:  ProvinceCO
+    id:        L737
+    name:      Veniano
+    latitude:  45.720994
+    longitude: 8.990314
+  City_venosa:
+    Province:  ProvincePZ
+    id:        L738
+    name:      Venosa
+    latitude:  40.962352
+    longitude: 15.815796
+  City_venticano:
+    Province:  ProvinceAV
+    id:        L739
+    name:      Venticano
+    latitude:  41.048296
+    longitude: 14.912815
+  City_ventimiglia_di_sicilia:
+    Province:  ProvincePA
+    id:        L740
+    name:      'Ventimiglia di Sicilia'
+    latitude:  37.923077
+    longitude: 13.569317
+  City_ventimiglia:
+    Province:  ProvinceIM
+    id:        L741
+    name:      Ventimiglia
+    latitude:  43.790417
+    longitude: 7.607139
+  City_ventotene:
+    Province:  ProvinceLT
+    id:        L742
+    name:      Ventotene
+    latitude:  40.797037
+    longitude: 13.432204
+  City_venzone:
+    Province:  ProvinceUD
+    id:        L743
+    name:      Venzone
+    latitude:  46.332194
+    longitude: 13.140486
+  City_verano_brianza:
+    Province:  ProvinceMI
+    id:        L744
+    name:      'Verano Brianza'
+    latitude:  45.685355
+    longitude: 9.229899
+  City_verano:
+    Province:  ProvinceBZ
+    id:        L745
+    name:      Verano
+    latitude:  46.605709
+    longitude: 11.226789
+  City_verbania:
+    Province:  ProvinceVB
+    id:        L746
+    name:      Verbania
+    latitude:  45.921507
+    longitude: 8.55156
+  City_verbicaro:
+    Province:  ProvinceCS
+    id:        L747
+    name:      Verbicaro
+    latitude:  39.757118
+    longitude: 15.915921
+  City_vercana:
+    Province:  ProvinceCO
+    id:        L748
+    name:      Vercana
+    latitude:  46.160249
+    longitude: 9.335313
+  City_verceia:
+    Province:  ProvinceSO
+    id:        L749
+    name:      Verceia
+    latitude:  46.199704
+    longitude: 9.455963
+  City_vercelli:
+    Province:  ProvinceVC
+    id:        L750
+    name:      Vercelli
+    latitude:  45.321061
+    longitude: 8.426393
+  City_vercurago:
+    Province:  ProvinceLC
+    id:        L751
+    name:      Vercurago
+    latitude:  45.811407
+    longitude: 9.425333
+  City_verdellino:
+    Province:  ProvinceBG
+    id:        L752
+    name:      Verdellino
+    latitude:  45.602037
+    longitude: 9.609241
+  City_verdello:
+    Province:  ProvinceBG
+    id:        L753
+    name:      Verdello
+    latitude:  45.605796
+    longitude: 9.63
+  City_verderio_inferiore:
+    Province:  ProvinceLC
+    id:        L755
+    name:      'Verderio Inferiore'
+    latitude:  45.662959
+    longitude: 9.435683
+  City_verderio_superiore:
+    Province:  ProvinceLC
+    id:        L756
+    name:      'Verderio Superiore'
+    latitude:  45.668759
+    longitude: 9.441407
+  City_verduno:
+    Province:  ProvinceCN
+    id:        L758
+    name:      Verduno
+    latitude:  44.667204
+    longitude: 7.931889
+  City_vergato:
+    Province:  ProvinceBO
+    id:        L762
+    name:      Vergato
+    latitude:  44.282822
+    longitude: 11.111561
+  City_vergemoli:
+    Province:  ProvinceLU
+    id:        L763
+    name:      Vergemoli
+    latitude:  44.05316
+    longitude: 10.380789
+  City_verghereto:
+    Province:  ProvinceFC
+    id:        L764
+    name:      Verghereto
+    latitude:  43.793907
+    longitude: 12.005018
+  City_vergiate:
+    Province:  ProvinceVA
+    id:        L765
+    name:      Vergiate
+    latitude:  45.721459
+    longitude: 8.69358
+  City_vermezzo:
+    Province:  ProvinceMI
+    id:        L768
+    name:      Vermezzo
+    latitude:  45.394813
+    longitude: 8.980769
+  City_vermiglio:
+    Province:  ProvinceTN
+    id:        L769
+    name:      Vermiglio
+    latitude:  46.298463
+    longitude: 10.692773
+  City_vernante:
+    Province:  ProvinceCN
+    id:        L771
+    name:      Vernante
+    latitude:  44.245035
+    longitude: 7.53452
+  City_vernasca:
+    Province:  ProvincePC
+    id:        L772
+    name:      Vernasca
+    latitude:  44.800315
+    longitude: 9.831741
+  City_vernate:
+    Province:  ProvinceMI
+    id:        L773
+    name:      Vernate
+    latitude:  45.316348
+    longitude: 9.060422
+  City_vernazza:
+    Province:  ProvinceSP
+    id:        L774
+    name:      Vernazza
+    latitude:  44.136259
+    longitude: 9.685018
+  City_vernio:
+    Province:  ProvincePO
+    id:        L775
+    name:      Vernio
+    latitude:  44.045044
+    longitude: 11.151041
+  City_vernole:
+    Province:  ProvinceLE
+    id:        L776
+    name:      Vernole
+    latitude:  40.290648
+    longitude: 18.304389
+  City_verolanuova:
+    Province:  ProvinceBS
+    id:        L777
+    name:      Verolanuova
+    latitude:  45.329241
+    longitude: 10.077056
+  City_verolavecchia:
+    Province:  ProvinceBS
+    id:        L778
+    name:      Verolavecchia
+    latitude:  45.328148
+    longitude: 10.058296
+  City_verolengo:
+    Province:  ProvinceTO
+    id:        L779
+    name:      Verolengo
+    latitude:  45.191111
+    longitude: 7.969389
+  City_veroli:
+    Province:  ProvinceFR
+    id:        L780
+    name:      Veroli
+    latitude:  41.690532
+    longitude: 13.417276
+  City_verona:
+    Province:  ProvinceVR
+    id:        L781
+    name:      Verona
+    latitude:  45.442006
+    longitude: 10.995485
+  City_verrayes:
+    Province:  ProvinceAO
+    id:        L783
+    name:      Verrayes
+    latitude:  45.764222
+    longitude: 7.535796
+  City_verretto:
+    Province:  ProvincePV
+    id:        L784
+    name:      Verretto
+    latitude:  45.040784
+    longitude: 9.107005
+  City_verrone:
+    Province:  ProvinceBI
+    id:        L785
+    name:      Verrone
+    latitude:  45.504704
+    longitude: 8.120167
+  City_verrua_savoia:
+    Province:  ProvinceTO
+    id:        L787
+    name:      'Verrua Savoia'
+    latitude:  45.157833
+    longitude: 8.093463
+  City_verrua_po:
+    Province:  ProvincePV
+    id:        L788
+    name:      'Verrua Po'
+    latitude:  45.107815
+    longitude: 9.176407
+  City_vertemate_con_minoprio:
+    Province:  ProvinceCO
+    id:        L792
+    name:      'Vertemate con Minoprio'
+    latitude:  45.725667
+    longitude: 9.073066
+  City_vertova:
+    Province:  ProvinceBG
+    id:        L795
+    name:      Vertova
+    latitude:  45.811426
+    longitude: 9.854389
+  City_verucchio:
+    Province:  ProvinceRN
+    id:        L797
+    name:      Verucchio
+    latitude:  43.983325
+    longitude: 12.422965
+  City_veruno:
+    Province:  ProvinceNO
+    id:        L798
+    name:      Veruno
+    latitude:  45.689853
+    longitude: 8.529861
+  City_vervio:
+    Province:  ProvinceSO
+    id:        L799
+    name:      Vervio
+    latitude:  46.25211
+    longitude: 10.239441
+  City_vervo:
+    Province:  ProvinceTN
+    id:        L800
+    name:      Vervò
+    latitude:  46.310999
+    longitude: 11.119022
+  City_verzegnis:
+    Province:  ProvinceUD
+    id:        L801
+    name:      Verzegnis
+    latitude:  46.389879
+    longitude: 12.991924
+  City_verzino:
+    Province:  ProvinceKR
+    id:        L802
+    name:      Verzino
+    latitude:  39.312204
+    longitude: 16.861259
+  City_verzuolo:
+    Province:  ProvinceCN
+    id:        L804
+    name:      Verzuolo
+    latitude:  44.601201
+    longitude: 7.483091
+  City_vescovana:
+    Province:  ProvincePD
+    id:        L805
+    name:      Vescovana
+    latitude:  45.136319
+    longitude: 11.710785
+  City_vescovato:
+    Province:  ProvinceCR
+    id:        L806
+    name:      Vescovato
+    latitude:  45.176111
+    longitude: 10.16563
+  City_vesime:
+    Province:  ProvinceAT
+    id:        L807
+    name:      Vesime
+    latitude:  44.636076
+    longitude: 8.228289
+  City_vespolate:
+    Province:  ProvinceNO
+    id:        L808
+    name:      Vespolate
+    latitude:  45.351426
+    longitude: 8.668907
+  City_vessalico:
+    Province:  ProvinceIM
+    id:        L809
+    name:      Vessalico
+    latitude:  44.046259
+    longitude: 7.960796
+  City_vestenanova:
+    Province:  ProvinceVR
+    id:        L810
+    name:      Vestenanova
+    latitude:  45.574537
+    longitude: 11.229537
+  City_vestigne:
+    Province:  ProvinceTO
+    id:        L811
+    name:      Vestignè
+    latitude:  45.386722
+    longitude: 7.955944
+  City_vestone:
+    Province:  ProvinceBS
+    id:        L812
+    name:      Vestone
+    latitude:  45.708951
+    longitude: 10.400583
+  City_vestreno:
+    Province:  ProvinceLC
+    id:        L813
+    name:      Vestreno
+    latitude:  46.084219
+    longitude: 9.325986
+  City_vetralla:
+    Province:  ProvinceVT
+    id:        L814
+    name:      Vetralla
+    latitude:  42.320856
+    longitude: 12.053244
+  City_vetto:
+    Province:  ProvinceRE
+    id:        L815
+    name:      Vetto
+    latitude:  44.434449
+    longitude: 10.400286
+  City_vezza_d_oglio:
+    Province:  ProvinceBS
+    id:        L816
+    name:      'Vezza D''Oglio'
+    latitude:  46.240151
+    longitude: 10.39813
+  City_vezza_d_alba:
+    Province:  ProvinceCN
+    id:        L817
+    name:      'Vezza D''Alba'
+    latitude:  44.763759
+    longitude: 8.009074
+  City_vezzano_ligure:
+    Province:  ProvinceSP
+    id:        L819
+    name:      'Vezzano Ligure'
+    latitude:  44.141347
+    longitude: 9.88521
+  City_vezzano_sul_crostolo:
+    Province:  ProvinceRE
+    id:        L820
+    name:      'Vezzano sul Crostolo'
+    latitude:  44.61914
+    longitude: 10.571043
+  City_vezzano:
+    Province:  ProvinceTN
+    id:        L821
+    name:      Vezzano
+    latitude:  46.08
+    longitude: 11.000648
+  City_vezzi_portio:
+    Province:  ProvinceSV
+    id:        L823
+    name:      'Vezzi Portio'
+    latitude:  44.228674
+    longitude: 8.363027
+  City_viadana:
+    Province:  ProvinceMN
+    id:        L826
+    name:      Viadana
+    latitude:  44.926944
+    longitude: 10.521803
+  City_viadanica:
+    Province:  ProvinceBG
+    id:        L827
+    name:      Viadanica
+    latitude:  45.68563
+    longitude: 9.9625
+  City_viagrande:
+    Province:  ProvinceCT
+    id:        L828
+    name:      Viagrande
+    latitude:  37.608926
+    longitude: 15.097518
+  City_viale_d_asti:
+    Province:  ProvinceAT
+    id:        L829
+    name:      'Viale D''Asti'
+    latitude:  45.001848
+    longitude: 8.050429
+  City_vialfre:
+    Province:  ProvinceTO
+    id:        L830
+    name:      Vialfrè
+    latitude:  45.381218
+    longitude: 7.817684
+  City_viano:
+    Province:  ProvinceRE
+    id:        L831
+    name:      Viano
+    latitude:  44.60456
+    longitude: 10.621974
+  City_viareggio:
+    Province:  ProvinceLU
+    id:        L833
+    name:      Viareggio
+    latitude:  43.874537
+    longitude: 10.256889
+  City_viarigi:
+    Province:  ProvinceAT
+    id:        L834
+    name:      Viarigi
+    latitude:  44.9813
+    longitude: 8.357944
+  City_vibonati:
+    Province:  ProvinceSA
+    id:        L835
+    name:      Vibonati
+    latitude:  40.100234
+    longitude: 15.582398
+  City_vicalvi:
+    Province:  ProvinceFR
+    id:        L836
+    name:      Vicalvi
+    latitude:  41.67795
+    longitude: 13.707477
+  City_vicari:
+    Province:  ProvincePA
+    id:        L837
+    name:      Vicari
+    latitude:  37.822898
+    longitude: 13.566445
+  City_vicchio:
+    Province:  ProvinceFI
+    id:        L838
+    name:      Vicchio
+    latitude:  43.932619
+    longitude: 11.467187
+  City_vicenza:
+    Province:  ProvinceVI
+    id:        L840
+    name:      Vicenza
+    latitude:  45.545905
+    longitude: 11.540307
+  City_vicoforte:
+    Province:  ProvinceCN
+    id:        L841
+    name:      Vicoforte
+    latitude:  44.362946
+    longitude: 7.863622
+  City_vico_del_gargano:
+    Province:  ProvinceFG
+    id:        L842
+    name:      'Vico del Gargano'
+    latitude:  41.895093
+    longitude: 15.958209
+  City_vico_nel_lazio:
+    Province:  ProvinceFR
+    id:        L843
+    name:      'Vico nel Lazio'
+    latitude:  41.778148
+    longitude: 13.341741
+  City_villa_literno:
+    Province:  ProvinceCE
+    id:        L844
+    name:      'Villa Literno'
+    latitude:  41.013079
+    longitude: 14.076612
+  City_vico_equense:
+    Province:  ProvinceNA
+    id:        L845
+    name:      'Vico Equense'
+    latitude:  40.662352
+    longitude: 14.426383
+  City_vicoli:
+    Province:  ProvincePE
+    id:        L846
+    name:      Vicoli
+    latitude:  42.341649
+    longitude: 13.89732
+  City_vicolungo:
+    Province:  ProvinceNO
+    id:        L847
+    name:      Vicolungo
+    latitude:  45.478611
+    longitude: 8.463926
+  City_ziano_piacentino:
+    Province:  ProvincePC
+    id:        L848
+    name:      'Ziano Piacentino'
+    latitude:  45.002518
+    longitude: 9.402667
+  City_vicopisano:
+    Province:  ProvincePI
+    id:        L850
+    name:      Vicopisano
+    latitude:  43.687145
+    longitude: 10.582597
+  City_vicovaro:
+    Province:  ProvinceRM
+    id:        L851
+    name:      Vicovaro
+    latitude:  42.018202
+    longitude: 12.896183
+  City_vidigulfo:
+    Province:  ProvincePV
+    id:        L854
+    name:      Vidigulfo
+    latitude:  45.290448
+    longitude: 9.23496
+  City_vidor:
+    Province:  ProvinceTV
+    id:        L856
+    name:      Vidor
+    latitude:  45.861507
+    longitude: 12.03873
+  City_vidracco:
+    Province:  ProvinceTO
+    id:        L857
+    name:      Vidracco
+    latitude:  45.431741
+    longitude: 7.758611
+  City_vieste:
+    Province:  ProvinceFG
+    id:        L858
+    name:      Vieste
+    latitude:  41.881712
+    longitude: 16.172992
+  City_vietri_di_potenza:
+    Province:  ProvincePZ
+    id:        L859
+    name:      'Vietri di Potenza'
+    latitude:  40.600739
+    longitude: 15.508966
+  City_vietri_sul_mare:
+    Province:  ProvinceSA
+    id:        L860
+    name:      'Vietri sul Mare'
+    latitude:  40.672899
+    longitude: 14.728055
+  City_viganella:
+    Province:  ProvinceVB
+    id:        L864
+    name:      Viganella
+    latitude:  46.052261
+    longitude: 8.194879
+  City_vigano_san_martino:
+    Province:  ProvinceBG
+    id:        L865
+    name:      'Vigano San Martino'
+    latitude:  45.727037
+    longitude: 9.89737
+  City_vigano:
+    Province:  ProvinceLC
+    id:        L866
+    name:      Viganò
+    latitude:  45.72563
+    longitude: 9.326111
+  City_vigarano_mainarda:
+    Province:  ProvinceFE
+    id:        L868
+    name:      'Vigarano Mainarda'
+    latitude:  44.841111
+    longitude: 11.495796
+  City_vigasio:
+    Province:  ProvinceVR
+    id:        L869
+    name:      Vigasio
+    latitude:  45.316741
+    longitude: 10.941278
+  City_vigevano:
+    Province:  ProvincePV
+    id:        L872
+    name:      Vigevano
+    latitude:  45.317092
+    longitude: 8.858649
+  City_viggianello:
+    Province:  ProvincePZ
+    id:        L873
+    name:      Viggianello
+    latitude:  39.97352
+    longitude: 16.086689
+  City_viggiano:
+    Province:  ProvincePZ
+    id:        L874
+    name:      Viggiano
+    latitude:  40.340298
+    longitude: 15.897849
+  City_viggiu:
+    Province:  ProvinceVA
+    id:        L876
+    name:      Viggiù
+    latitude:  45.87162
+    longitude: 8.906286
+  City_vighizzolo_d_este:
+    Province:  ProvincePD
+    id:        L878
+    name:      'Vighizzolo D''Este'
+    latitude:  45.17737
+    longitude: 11.625796
+  City_vigliano_d_asti:
+    Province:  ProvinceAT
+    id:        L879
+    name:      'Vigliano D''Asti'
+    latitude:  44.835
+    longitude: 8.230333
+  City_vigliano_biellese:
+    Province:  ProvinceBI
+    id:        L880
+    name:      'Vigliano Biellese'
+    latitude:  45.565481
+    longitude: 8.10563
+  City_vignale_monferrato:
+    Province:  ProvinceAL
+    id:        L881
+    name:      'Vignale Monferrato'
+    latitude:  45.01237
+    longitude: 8.39737
+  City_vignanello:
+    Province:  ProvinceVT
+    id:        L882
+    name:      Vignanello
+    latitude:  42.383585
+    longitude: 12.277145
+  City_vignate:
+    Province:  ProvinceMI
+    id:        L883
+    name:      Vignate
+    latitude:  45.495001
+    longitude: 9.374657
+  City_vignola:
+    Province:  ProvinceMO
+    id:        L885
+    name:      Vignola
+    latitude:  44.478068
+    longitude: 11.007976
+  City_vignola_falesina:
+    Province:  ProvinceTN
+    id:        L886
+    name:      Vignola-Falesina
+    latitude:  46.04624
+    longitude: 11.276569
+  City_vignole_borbera:
+    Province:  ProvinceAL
+    id:        L887
+    name:      'Vignole Borbera'
+    latitude:  44.707823
+    longitude: 8.890571
+  City_vignolo:
+    Province:  ProvinceCN
+    id:        L888
+    name:      Vignolo
+    latitude:  44.363296
+    longitude: 7.473926
+  City_vignone:
+    Province:  ProvinceVB
+    id:        L889
+    name:      Vignone
+    latitude:  45.962204
+    longitude: 8.564852
+  City_vigo_di_cadore:
+    Province:  ProvinceBL
+    id:        L890
+    name:      'Vigo di Cadore'
+    latitude:  46.499847
+    longitude: 12.472076
+  City_vigodarzere:
+    Province:  ProvincePD
+    id:        L892
+    name:      Vigodarzere
+    latitude:  45.460518
+    longitude: 11.879291
+  City_vigo_di_fassa:
+    Province:  ProvinceTN
+    id:        L893
+    name:      'Vigo di Fassa'
+    latitude:  46.419537
+    longitude: 11.674556
+  City_vigolo:
+    Province:  ProvinceBG
+    id:        L894
+    name:      Vigolo
+    latitude:  45.717823
+    longitude: 10.035577
+  City_vigolo_vattaro:
+    Province:  ProvinceTN
+    id:        L896
+    name:      'Vigolo Vattaro'
+    latitude:  46.006574
+    longitude: 11.19987
+  City_vigolzone:
+    Province:  ProvincePC
+    id:        L897
+    name:      Vigolzone
+    latitude:  44.913731
+    longitude: 9.668837
+  City_vigone:
+    Province:  ProvinceTO
+    id:        L898
+    name:      Vigone
+    latitude:  44.845481
+    longitude: 7.496111
+  City_vigonovo:
+    Province:  ProvinceVE
+    id:        L899
+    name:      Vigonovo
+    latitude:  45.38939
+    longitude: 12.006252
+  City_vigonza:
+    Province:  ProvincePD
+    id:        L900
+    name:      Vigonza
+    latitude:  45.431547
+    longitude: 11.96704
+  City_vigo_rendena:
+    Province:  ProvinceTN
+    id:        L903
+    name:      'Vigo Rendena'
+    latitude:  46.080963
+    longitude: 10.723148
+  City_viguzzolo:
+    Province:  ProvinceAL
+    id:        L904
+    name:      Viguzzolo
+    latitude:  44.905481
+    longitude: 8.923759
+  City_villa_santa_lucia:
+    Province:  ProvinceFR
+    id:        L905
+    name:      'Villa Santa Lucia'
+    latitude:  41.513073
+    longitude: 13.773746
+  City_villadossola:
+    Province:  ProvinceVB
+    id:        L906
+    name:      Villadossola
+    latitude:  46.068035
+    longitude: 8.25714
+  City_villa_di_chiavenna:
+    Province:  ProvinceSO
+    id:        L907
+    name:      'Villa di Chiavenna'
+    latitude:  46.330856
+    longitude: 9.482639
+  City_villa_di_tirano:
+    Province:  ProvinceSO
+    id:        L908
+    name:      'Villa di Tirano'
+    latitude:  46.204852
+    longitude: 10.135018
+  City_villa_santina:
+    Province:  ProvinceUD
+    id:        L909
+    name:      'Villa Santina'
+    latitude:  46.415963
+    longitude: 12.922981
+  City_villa_agnedo:
+    Province:  ProvinceTN
+    id:        L910
+    name:      'Villa Agnedo'
+    latitude:  46.053559
+    longitude: 11.527944
+  City_villa_bartolomea:
+    Province:  ProvinceVR
+    id:        L912
+    name:      'Villa Bartolomea'
+    latitude:  45.158471
+    longitude: 11.35258
+  City_villa_basilica:
+    Province:  ProvinceLU
+    id:        L913
+    name:      'Villa Basilica'
+    latitude:  43.925771
+    longitude: 10.644517
+  City_villabassa:
+    Province:  ProvinceBZ
+    id:        L915
+    name:      Villabassa
+    latitude:  46.738072
+    longitude: 12.172723
+  City_villabate:
+    Province:  ProvincePA
+    id:        L916
+    name:      Villabate
+    latitude:  38.081993
+    longitude: 13.434084
+  City_villa_biscossi:
+    Province:  ProvincePV
+    id:        L917
+    name:      'Villa Biscossi'
+    latitude:  45.090632
+    longitude: 8.78774
+  City_villa_carcina:
+    Province:  ProvinceBS
+    id:        L919
+    name:      'Villa Carcina'
+    latitude:  45.633392
+    longitude: 10.191725
+  City_villa_castelli:
+    Province:  ProvinceBR
+    id:        L920
+    name:      'Villa Castelli'
+    latitude:  40.585648
+    longitude: 17.475481
+  City_villa_celiera:
+    Province:  ProvincePE
+    id:        L922
+    name:      'Villa Celiera'
+    latitude:  42.382815
+    longitude: 13.859537
+  City_villachiara:
+    Province:  ProvinceBS
+    id:        L923
+    name:      Villachiara
+    latitude:  45.356426
+    longitude: 9.932037
+  City_villacidro:
+    Province:  ProvinceVS
+    id:        L924
+    name:      Villacidro
+    latitude:  39.458778
+    longitude: 8.738611
+  City_villa_collemandina:
+    Province:  ProvinceLU
+    id:        L926
+    name:      'Villa Collemandina'
+    latitude:  44.159537
+    longitude: 10.398778
+  City_villa_cortese:
+    Province:  ProvinceMI
+    id:        L928
+    name:      'Villa Cortese'
+    latitude:  45.566959
+    longitude: 8.886564
+  City_villa_d_adda:
+    Province:  ProvinceBG
+    id:        L929
+    name:      'Villa D''Adda'
+    latitude:  45.715019
+    longitude: 9.462833
+  City_villadeati:
+    Province:  ProvinceAL
+    id:        L931
+    name:      Villadeati
+    latitude:  45.072715
+    longitude: 8.169076
+  City_villa_del_bosco:
+    Province:  ProvinceBI
+    id:        L933
+    name:      'Villa del Bosco'
+    latitude:  45.622017
+    longitude: 8.280742
+  City_villa_del_conte:
+    Province:  ProvincePD
+    id:        L934
+    name:      'Villa del Conte'
+    latitude:  45.583524
+    longitude: 11.860396
+  City_villa_di_serio:
+    Province:  ProvinceBG
+    id:        L936
+    name:      'Villa di Serio'
+    latitude:  45.725167
+    longitude: 9.73737
+  City_villa_estense:
+    Province:  ProvincePD
+    id:        L937
+    name:      'Villa Estense'
+    latitude:  45.172584
+    longitude: 11.667529
+  City_villa_d_ogna:
+    Province:  ProvinceBG
+    id:        L938
+    name:      'Villa d''Ogna'
+    latitude:  45.90563
+    longitude: 9.932055
+  City_villadose:
+    Province:  ProvinceRO
+    id:        L939
+    name:      Villadose
+    latitude:  45.069852
+    longitude: 11.894389
+  City_villafalletto:
+    Province:  ProvinceCN
+    id:        L942
+    name:      Villafalletto
+    latitude:  44.54487
+    longitude: 7.541259
+  City_villa_faraldi:
+    Province:  ProvinceIM
+    id:        L943
+    name:      'Villa Faraldi'
+    latitude:  43.969556
+    longitude: 8.090796
+  City_villafranca_sicula:
+    Province:  ProvinceAG
+    id:        L944
+    name:      'Villafranca Sicula'
+    latitude:  37.587107
+    longitude: 13.290335
+  City_villafranca_d_asti:
+    Province:  ProvinceAT
+    id:        L945
+    name:      'Villafranca D''Asti'
+    latitude:  44.912981
+    longitude: 8.032833
+  City_villafranca_in_lunigiana:
+    Province:  ProvinceMS
+    id:        L946
+    name:      'Villafranca in Lunigiana'
+    latitude:  44.295963
+    longitude: 9.95
+  City_villafranca_padovana:
+    Province:  ProvincePD
+    id:        L947
+    name:      'Villafranca Padovana'
+    latitude:  45.492815
+    longitude: 11.794537
+  City_villafranca_piemonte:
+    Province:  ProvinceTO
+    id:        L948
+    name:      'Villafranca Piemonte'
+    latitude:  44.780018
+    longitude: 7.501574
+  City_villafranca_di_verona:
+    Province:  ProvinceVR
+    id:        L949
+    name:      'Villafranca di Verona'
+    latitude:  45.350697
+    longitude: 10.843318
+  City_villafranca_tirrena:
+    Province:  ProvinceME
+    id:        L950
+    name:      'Villafranca Tirrena'
+    latitude:  38.236124
+    longitude: 15.432458
+  City_villafrati:
+    Province:  ProvincePA
+    id:        L951
+    name:      Villafrati
+    latitude:  37.908148
+    longitude: 13.48563
+  City_villaga:
+    Province:  ProvinceVI
+    id:        L952
+    name:      Villaga
+    latitude:  45.40336
+    longitude: 11.533252
+  City_villagrande_strisaili:
+    Province:  ProvinceOG
+    id:        L953
+    name:      'Villagrande Strisaili'
+    latitude:  39.962352
+    longitude: 9.508611
+  City_villa_guardia:
+    Province:  ProvinceCO
+    id:        L956
+    name:      'Villa Guardia'
+    latitude:  45.777518
+    longitude: 9.027833
+  City_villa_lagarina:
+    Province:  ProvinceTN
+    id:        L957
+    name:      'Villa Lagarina'
+    latitude:  45.917204
+    longitude: 11.031741
+  City_villalago:
+    Province:  ProvinceAQ
+    id:        L958
+    name:      Villalago
+    latitude:  41.935275
+    longitude: 13.838085
+  City_villalba:
+    Province:  ProvinceCL
+    id:        L959
+    name:      Villalba
+    latitude:  41.863469
+    longitude: -4.860105
+  City_villalfonsina:
+    Province:  ProvinceCH
+    id:        L961
+    name:      Villalfonsina
+    latitude:  42.160979
+    longitude: 14.57106
+  City_villalvernia:
+    Province:  ProvinceAL
+    id:        L963
+    name:      Villalvernia
+    latitude:  44.814521
+    longitude: 8.855315
+  City_villamagna:
+    Province:  ProvinceCH
+    id:        L964
+    name:      Villamagna
+    latitude:  42.330018
+    longitude: 14.237037
+  City_villamaina:
+    Province:  ProvinceAV
+    id:        L965
+    name:      Villamaina
+    latitude:  40.970481
+    longitude: 15.090944
+  City_villamar:
+    Province:  ProvinceVS
+    id:        L966
+    name:      Villamar
+    latitude:  39.619241
+    longitude: 8.959852
+  City_villamarzana:
+    Province:  ProvinceRO
+    id:        L967
+    name:      Villamarzana
+    latitude:  45.014537
+    longitude: 11.698444
+  City_villamassargia:
+    Province:  ProvinceCI
+    id:        L968
+    name:      Villamassargia
+    latitude:  39.277037
+    longitude: 8.642518
+  City_villa_minozzo:
+    Province:  ProvinceRE
+    id:        L969
+    name:      'Villa Minozzo'
+    latitude:  44.366111
+    longitude: 10.467037
+  City_villamiroglio:
+    Province:  ProvinceAL
+    id:        L970
+    name:      Villamiroglio
+    latitude:  45.135648
+    longitude: 8.172204
+  City_villandro:
+    Province:  ProvinceBZ
+    id:        L971
+    name:      Villandro
+    latitude:  46.631393
+    longitude: 11.538249
+  City_villanova_monferrato:
+    Province:  ProvinceAL
+    id:        L972
+    name:      'Villanova Monferrato'
+    latitude:  45.182935
+    longitude: 8.479846
+  City_villanova_del_battista:
+    Province:  ProvinceAV
+    id:        L973
+    name:      'Villanova del Battista'
+    latitude:  41.114449
+    longitude: 15.158407
+  City_villanova_mondovi:
+    Province:  ProvinceCN
+    id:        L974
+    name:      'Villanova Mondovì'
+    latitude:  44.347981
+    longitude: 7.767518
+  City_villanova_d_albenga:
+    Province:  ProvinceSV
+    id:        L975
+    name:      'Villanova D''Albenga'
+    latitude:  44.047077
+    longitude: 8.141512
+  City_villanova_del_sillaro:
+    Province:  ProvinceLO
+    id:        L977
+    name:      'Villanova del Sillaro'
+    latitude:  45.237697
+    longitude: 9.481046
+  City_villanova_biellese:
+    Province:  ProvinceBI
+    id:        L978
+    name:      'Villanova Biellese'
+    latitude:  45.482235
+    longitude: 8.192957
+  City_villanova_di_camposampiero:
+    Province:  ProvincePD
+    id:        L979
+    name:      'Villanova di Camposampiero'
+    latitude:  45.490623
+    longitude: 11.970517
+  City_villanova_sull_arda:
+    Province:  ProvincePC
+    id:        L980
+    name:      'Villanova sull''Arda'
+    latitude:  45.027518
+    longitude: 9.999537
+  City_villeneuve:
+    Province:  ProvinceAO
+    id:        L981
+    name:      Villeneuve
+    latitude:  45.702833
+    longitude: 7.209074
+  City_villanova_canavese:
+    Province:  ProvinceTO
+    id:        L982
+    name:      'Villanova Canavese'
+    latitude:  45.244537
+    longitude: 7.553296
+  City_villanova_d_ardenghi:
+    Province:  ProvincePV
+    id:        L983
+    name:      'Villanova D''Ardenghi'
+    latitude:  45.172667
+    longitude: 9.043444
+  City_villanova_d_asti:
+    Province:  ProvinceAT
+    id:        L984
+    name:      'Villanova D''Asti'
+    latitude:  44.942233
+    longitude: 7.937689
+  City_villanova_del_ghebbo:
+    Province:  ProvinceRO
+    id:        L985
+    name:      'Villanova del Ghebbo'
+    latitude:  45.060167
+    longitude: 11.64
+  City_villanovaforru:
+    Province:  ProvinceVS
+    id:        L986
+    name:      Villanovaforru
+    latitude:  39.632981
+    longitude: 8.87
+  City_villanovafranca:
+    Province:  ProvinceVS
+    id:        L987
+    name:      Villanovafranca
+    latitude:  39.646407
+    longitude: 9.003907
+  City_villanova_marchesana:
+    Province:  ProvinceRO
+    id:        L988
+    name:      'Villanova Marchesana'
+    latitude:  44.993296
+    longitude: 11.965796
+  City_villanova_monteleone:
+    Province:  ProvinceSS
+    id:        L989
+    name:      'Villanova Monteleone'
+    latitude:  40.50487
+    longitude: 8.471889
+  City_villanova_solaro:
+    Province:  ProvinceCN
+    id:        L990
+    name:      'Villanova Solaro'
+    latitude:  44.730944
+    longitude: 7.575648
+  City_villanova_truschedu:
+    Province:  ProvinceOR
+    id:        L991
+    name:      'Villanova Truschedu'
+    latitude:  39.98987
+    longitude: 8.753148
+  City_villanova_tulo:
+    Province:  ProvinceCA
+    id:        L992
+    name:      'Villanova Tulo'
+    latitude:  39.781111
+    longitude: 9.215333
+  City_villanterio:
+    Province:  ProvincePV
+    id:        L994
+    name:      Villanterio
+    latitude:  45.220481
+    longitude: 9.365481
+  City_villanuova_sul_clisi:
+    Province:  ProvinceBS
+    id:        L995
+    name:      'Villanuova sul Clisi'
+    latitude:  45.601329
+    longitude: 10.453939
+  City_villaputzu:
+    Province:  ProvinceCA
+    id:        L998
+    name:      Villaputzu
+    latitude:  39.442204
+    longitude: 9.575018
+  City_villar_dora:
+    Province:  ProvinceTO
+    id:        L999
+    name:      'Villar Dora'
+    latitude:  45.11563
+    longitude: 7.384704
+  City_villarbasse:
+    Province:  ProvinceTO
+    id:        M002
+    name:      Villarbasse
+    latitude:  45.046278
+    longitude: 7.469537
+  City_villarboit:
+    Province:  ProvinceVC
+    id:        M003
+    name:      Villarboit
+    latitude:  45.438463
+    longitude: 8.338444
+  City_villareggia:
+    Province:  ProvinceTO
+    id:        M004
+    name:      Villareggia
+    latitude:  45.311111
+    longitude: 7.977833
+  City_villa_rendena:
+    Province:  ProvinceTN
+    id:        M006
+    name:      'Villa Rendena'
+    latitude:  46.062667
+    longitude: 10.712204
+  City_villar_focchiardo:
+    Province:  ProvinceTO
+    id:        M007
+    name:      'Villar Focchiardo'
+    latitude:  45.110315
+    longitude: 7.232764
+  City_villaromagnano:
+    Province:  ProvinceAL
+    id:        M009
+    name:      Villaromagnano
+    latitude:  44.85063
+    longitude: 8.888926
+  City_villarosa:
+    Province:  ProvinceEN
+    id:        M011
+    name:      Villarosa
+    latitude:  37.586771
+    longitude: 14.1732
+  City_villar_pellice:
+    Province:  ProvinceTO
+    id:        M013
+    name:      'Villar Pellice'
+    latitude:  44.809389
+    longitude: 7.153296
+  City_villar_perosa:
+    Province:  ProvinceTO
+    id:        M014
+    name:      'Villar Perosa'
+    latitude:  44.919321
+    longitude: 7.248118
+  City_villar_san_costanzo:
+    Province:  ProvinceCN
+    id:        M015
+    name:      'Villar San Costanzo'
+    latitude:  44.484142
+    longitude: 7.381073
+  City_villasalto:
+    Province:  ProvinceCA
+    id:        M016
+    name:      Villasalto
+    latitude:  39.493296
+    longitude: 9.394074
+  City_villasanta:
+    Province:  ProvinceMI
+    id:        M017
+    name:      Villasanta
+    latitude:  45.605556
+    longitude: 9.303367
+  City_villa_san_giovanni:
+    Province:  ProvinceRC
+    id:        M018
+    name:      'Villa San Giovanni'
+    latitude:  38.217059
+    longitude: 15.636917
+  City_villa_san_secondo:
+    Province:  ProvinceAT
+    id:        M019
+    name:      'Villa San Secondo'
+    latitude:  45.004894
+    longitude: 8.135027
+  City_villa_santa_lucia_degli_abruzzi:
+    Province:  ProvinceAQ
+    id:        M021
+    name:      'Villa Santa Lucia degli Abruzzi'
+    latitude:  42.334241
+    longitude: 13.777981
+  City_villa_santa_maria:
+    Province:  ProvinceCH
+    id:        M022
+    name:      'Villa Santa Maria'
+    latitude:  41.948728
+    longitude: 14.349329
+  City_villa_sant_angelo:
+    Province:  ProvinceAQ
+    id:        M023
+    name:      'Villa Sant''Angelo'
+    latitude:  42.271407
+    longitude: 13.538148
+  City_villasor:
+    Province:  ProvinceCA
+    id:        M025
+    name:      Villasor
+    latitude:  39.38154
+    longitude: 8.943864
+  City_villaspeciosa:
+    Province:  ProvinceCA
+    id:        M026
+    name:      Villaspeciosa
+    latitude:  39.313463
+    longitude: 8.926278
+  City_villastellone:
+    Province:  ProvinceTO
+    id:        M027
+    name:      Villastellone
+    latitude:  44.921793
+    longitude: 7.744629
+  City_villata:
+    Province:  ProvinceVC
+    id:        M028
+    name:      Villata
+    latitude:  45.388759
+    longitude: 8.433759
+  City_villaurbana:
+    Province:  ProvinceOR
+    id:        M030
+    name:      Villaurbana
+    latitude:  39.88674
+    longitude: 8.778408
+  City_villavallelonga:
+    Province:  ProvinceAQ
+    id:        M031
+    name:      Villavallelonga
+    latitude:  41.866605
+    longitude: 13.626614
+  City_villaverla:
+    Province:  ProvinceVI
+    id:        M032
+    name:      Villaverla
+    latitude:  45.652667
+    longitude: 11.488463
+  City_villa_vicentina:
+    Province:  ProvinceUD
+    id:        M034
+    name:      'Villa Vicentina'
+    latitude:  45.818158
+    longitude: 13.396516
+  City_villetta_barrea:
+    Province:  ProvinceAQ
+    id:        M041
+    name:      'Villetta Barrea'
+    latitude:  41.775659
+    longitude: 13.934263
+  City_villette:
+    Province:  ProvinceVB
+    id:        M042
+    name:      Villette
+    latitude:  46.131991
+    longitude: 8.53498
+  City_villesse:
+    Province:  ProvinceGO
+    id:        M043
+    name:      Villesse
+    latitude:  45.860249
+    longitude: 13.438781
+  City_villimpenta:
+    Province:  ProvinceMN
+    id:        M044
+    name:      Villimpenta
+    latitude:  45.144654
+    longitude: 11.028193
+  City_villongo:
+    Province:  ProvinceBG
+    id:        M045
+    name:      Villongo
+    latitude:  45.668926
+    longitude: 9.930963
+  City_villorba:
+    Province:  ProvinceTV
+    id:        M048
+    name:      Villorba
+    latitude:  45.713668
+    longitude: 12.260084
+  City_vilminore_di_scalve:
+    Province:  ProvinceBG
+    id:        M050
+    name:      'Vilminore di Scalve'
+    latitude:  45.998757
+    longitude: 10.095145
+  City_vimercate:
+    Province:  ProvinceMI
+    id:        M052
+    name:      Vimercate
+    latitude:  45.614008
+    longitude: 9.371263
+  City_vimodrone:
+    Province:  ProvinceMI
+    id:        M053
+    name:      Vimodrone
+    latitude:  45.513493
+    longitude: 9.285223
+  City_vinadio:
+    Province:  ProvinceCN
+    id:        M055
+    name:      Vinadio
+    latitude:  44.306572
+    longitude: 7.173685
+  City_vinchiaturo:
+    Province:  ProvinceCB
+    id:        M057
+    name:      Vinchiaturo
+    latitude:  41.49393
+    longitude: 14.589649
+  City_vinchio:
+    Province:  ProvinceAT
+    id:        M058
+    name:      Vinchio
+    latitude:  44.812056
+    longitude: 8.322037
+  City_vinci:
+    Province:  ProvinceFI
+    id:        M059
+    name:      Vinci
+    latitude:  43.779852
+    longitude: 10.923444
+  City_vinovo:
+    Province:  ProvinceTO
+    id:        M060
+    name:      Vinovo
+    latitude:  44.948172
+    longitude: 7.633767
+  City_vinzaglio:
+    Province:  ProvinceNO
+    id:        M062
+    name:      Vinzaglio
+    latitude:  45.323907
+    longitude: 8.520333
+  City_viola:
+    Province:  ProvinceCN
+    id:        M063
+    name:      Viola
+    latitude:  44.291194
+    longitude: 7.96519
+  City_vione:
+    Province:  ProvinceBS
+    id:        M065
+    name:      Vione
+    latitude:  46.248577
+    longitude: 10.447923
+  City_vipiteno:
+    Province:  ProvinceBZ
+    id:        M067
+    name:      Vipiteno
+    latitude:  46.89307
+    longitude: 11.431235
+  City_virle_piemonte:
+    Province:  ProvinceTO
+    id:        M069
+    name:      'Virle Piemonte'
+    latitude:  44.865648
+    longitude: 7.571259
+  City_visano:
+    Province:  ProvinceBS
+    id:        M070
+    name:      Visano
+    latitude:  45.319389
+    longitude: 10.373444
+  City_vische:
+    Province:  ProvinceTO
+    id:        M071
+    name:      Vische
+    latitude:  45.335202
+    longitude: 7.945944
+  City_visciano:
+    Province:  ProvinceNA
+    id:        M072
+    name:      Visciano
+    latitude:  40.925478
+    longitude: 14.581299
+  City_visco:
+    Province:  ProvinceUD
+    id:        M073
+    name:      Visco
+    latitude:  45.892352
+    longitude: 13.349537
+  City_visone:
+    Province:  ProvinceAL
+    id:        M077
+    name:      Visone
+    latitude:  44.66282
+    longitude: 8.501894
+  City_visso:
+    Province:  ProvinceMC
+    id:        M078
+    name:      Visso
+    latitude:  42.930333
+    longitude: 13.088463
+  City_vistarino:
+    Province:  ProvincePV
+    id:        M079
+    name:      Vistarino
+    latitude:  45.211505
+    longitude: 9.308914
+  City_vistrorio:
+    Province:  ProvinceTO
+    id:        M080
+    name:      Vistrorio
+    latitude:  45.442972
+    longitude: 7.768533
+  City_vita:
+    Province:  ProvinceTP
+    id:        M081
+    name:      Vita
+    latitude:  37.87248
+    longitude: 12.821986
+  City_viterbo:
+    Province:  ProvinceVT
+    id:        M082
+    name:      Viterbo
+    latitude:  42.417379
+    longitude: 12.104854
+  City_viticuso:
+    Province:  ProvinceFR
+    id:        M083
+    name:      Viticuso
+    latitude:  41.525349
+    longitude: 13.971842
+  City_vito_d_asio:
+    Province:  ProvincePN
+    id:        M085
+    name:      'Vito D''Asio'
+    latitude:  46.227872
+    longitude: 12.939244
+  City_vitorchiano:
+    Province:  ProvinceVT
+    id:        M086
+    name:      Vitorchiano
+    latitude:  42.466407
+    longitude: 12.173444
+  City_vittoria:
+    Province:  ProvinceRG
+    id:        M088
+    name:      Vittoria
+    latitude:  36.94975
+    longitude: 14.535385
+  City_vittorio_veneto:
+    Province:  ProvinceTV
+    id:        M089
+    name:      'Vittorio Veneto'
+    latitude:  45.979812
+    longitude: 12.303313
+  City_vittorito:
+    Province:  ProvinceAQ
+    id:        M090
+    name:      Vittorito
+    latitude:  42.128152
+    longitude: 13.817655
+  City_vittuone:
+    Province:  ProvinceMI
+    id:        M091
+    name:      Vittuone
+    latitude:  45.485081
+    longitude: 8.958647
+  City_vitulazio:
+    Province:  ProvinceCE
+    id:        M092
+    name:      Vitulazio
+    latitude:  41.163921
+    longitude: 14.216643
+  City_vitulano:
+    Province:  ProvinceBN
+    id:        M093
+    name:      Vitulano
+    latitude:  41.176259
+    longitude: 14.64237
+  City_viu:
+    Province:  ProvinceTO
+    id:        M094
+    name:      Viù
+    latitude:  45.238908
+    longitude: 7.376601
+  City_vivaro_romano:
+    Province:  ProvinceRM
+    id:        M095
+    name:      'Vivaro Romano'
+    latitude:  42.100952
+    longitude: 13.007774
+  City_vivaro:
+    Province:  ProvincePN
+    id:        M096
+    name:      Vivaro
+    latitude:  46.07737
+    longitude: 12.777815
+  City_viverone:
+    Province:  ProvinceBI
+    id:        M098
+    name:      Viverone
+    latitude:  45.424844
+    longitude: 8.054392
+  City_vizzini:
+    Province:  ProvinceCT
+    id:        M100
+    name:      Vizzini
+    latitude:  37.162037
+    longitude: 14.750648
+  City_vizzola_ticino:
+    Province:  ProvinceVA
+    id:        M101
+    name:      'Vizzola Ticino'
+    latitude:  45.63102
+    longitude: 8.68592
+  City_vizzolo_predabissi:
+    Province:  ProvinceMI
+    id:        M102
+    name:      'Vizzolo Predabissi'
+    latitude:  45.355751
+    longitude: 9.347454
+  City_vo:
+    Province:  ProvincePD
+    id:        M103
+    name:      Vo
+    latitude:  45.329222
+    longitude: 11.6425
+  City_vobarno:
+    Province:  ProvinceBS
+    id:        M104
+    name:      Vobarno
+    latitude:  45.642349
+    longitude: 10.500931
+  City_vobbia:
+    Province:  ProvinceGE
+    id:        M105
+    name:      Vobbia
+    latitude:  44.600413
+    longitude: 9.039275
+  City_vocca:
+    Province:  ProvinceVC
+    id:        M106
+    name:      Vocca
+    latitude:  45.832756
+    longitude: 8.195765
+  City_vodo_cadore:
+    Province:  ProvinceBL
+    id:        M108
+    name:      'Vodo Cadore'
+    latitude:  46.418486
+    longitude: 12.247796
+  City_voghera:
+    Province:  ProvincePV
+    id:        M109
+    name:      Voghera
+    latitude:  44.992184
+    longitude: 9.00968
+  City_voghiera:
+    Province:  ProvinceFE
+    id:        M110
+    name:      Voghiera
+    latitude:  44.756574
+    longitude: 11.752815
+  City_vogogna:
+    Province:  ProvinceVB
+    id:        M111
+    name:      Vogogna
+    latitude:  46.010451
+    longitude: 8.290956
+  City_volano:
+    Province:  ProvinceTN
+    id:        M113
+    name:      Volano
+    latitude:  45.918527
+    longitude: 11.063342
+  City_volla:
+    Province:  ProvinceNA
+    id:        M115
+    name:      Volla
+    latitude:  40.879555
+    longitude: 14.343926
+  City_volongo:
+    Province:  ProvinceCR
+    id:        M116
+    name:      Volongo
+    latitude:  45.212815
+    longitude: 10.302518
+  City_volpago_del_montello:
+    Province:  ProvinceTV
+    id:        M118
+    name:      'Volpago del Montello'
+    latitude:  45.778296
+    longitude: 12.115481
+  City_volpara:
+    Province:  ProvincePV
+    id:        M119
+    name:      Volpara
+    latitude:  44.954074
+    longitude: 9.297981
+  City_volpedo:
+    Province:  ProvinceAL
+    id:        M120
+    name:      Volpedo
+    latitude:  44.891099
+    longitude: 8.981881
+  City_volpeglino:
+    Province:  ProvinceAL
+    id:        M121
+    name:      Volpeglino
+    latitude:  44.893426
+    longitude: 8.959793
+  City_volpiano:
+    Province:  ProvinceTO
+    id:        M122
+    name:      Volpiano
+    latitude:  45.201464
+    longitude: 7.777262
+  City_voltaggio:
+    Province:  ProvinceAL
+    id:        M123
+    name:      Voltaggio
+    latitude:  44.622853
+    longitude: 8.842683
+  City_voltago_agordino:
+    Province:  ProvinceBL
+    id:        M124
+    name:      'Voltago Agordino'
+    latitude:  46.272981
+    longitude: 12.006259
+  City_volta_mantovana:
+    Province:  ProvinceMN
+    id:        M125
+    name:      'Volta Mantovana'
+    latitude:  45.322168
+    longitude: 10.659353
+  City_volterra:
+    Province:  ProvincePI
+    id:        M126
+    name:      Volterra
+    latitude:  43.401426
+    longitude: 10.861111
+  City_voltido:
+    Province:  ProvinceCR
+    id:        M127
+    name:      Voltido
+    latitude:  45.111087
+    longitude: 10.333972
+  City_volturara_irpina:
+    Province:  ProvinceAV
+    id:        M130
+    name:      'Volturara Irpina'
+    latitude:  40.879543
+    longitude: 14.917249
+  City_volturara_appula:
+    Province:  ProvinceFG
+    id:        M131
+    name:      'Volturara Appula'
+    latitude:  41.497037
+    longitude: 15.05313
+  City_volturino:
+    Province:  ProvinceFG
+    id:        M132
+    name:      Volturino
+    latitude:  41.478296
+    longitude: 15.125167
+  City_volvera:
+    Province:  ProvinceTO
+    id:        M133
+    name:      Volvera
+    latitude:  44.955963
+    longitude: 7.5125
+  City_vottignasco:
+    Province:  ProvinceCN
+    id:        M136
+    name:      Vottignasco
+    latitude:  44.565167
+    longitude: 7.580333

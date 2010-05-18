@@ -1,0 +1,625 @@
+City:
+  zaccanopoli:
+    province_id: VV
+    id:          M138
+    name:        Zaccanopoli
+    latitude:    38.665963
+    longitude:   15.93063
+  zafferana_etnea:
+    province_id: CT
+    id:          M139
+    name:        'Zafferana Etnea'
+    latitude:    37.690464
+    longitude:   15.105063
+  zagarise:
+    province_id: CZ
+    id:          M140
+    name:        Zagarise
+    latitude:    39.000711
+    longitude:   16.664556
+  zagarolo:
+    province_id: RM
+    id:          M141
+    name:        Zagarolo
+    latitude:    41.839913
+    longitude:   12.829223
+  zambana:
+    province_id: TN
+    id:          M142
+    name:        Zambana
+    latitude:    46.152667
+    longitude:   11.09737
+  zambrone:
+    province_id: VV
+    id:          M143
+    name:        Zambrone
+    latitude:    38.700333
+    longitude:   15.990944
+  zandobbio:
+    province_id: BG
+    id:          M144
+    name:        Zandobbio
+    latitude:    45.688377
+    longitude:   9.852483
+  zane:
+    province_id: VI
+    id:          M145
+    name:        Zanè
+    latitude:    45.721991
+    longitude:   11.45639
+  zanica:
+    province_id: BG
+    id:          M147
+    name:        Zanica
+    latitude:    45.640385
+    longitude:   9.684611
+  zavattarello:
+    province_id: PV
+    id:          M150
+    name:        Zavattarello
+    latitude:    44.868444
+    longitude:   9.266259
+  zeccone:
+    province_id: PV
+    id:          M152
+    name:        Zeccone
+    latitude:    45.258926
+    longitude:   9.20237
+  zeddiani:
+    province_id: OR
+    id:          M153
+    name:        Zeddiani
+    latitude:    39.991109
+    longitude:   8.596406
+  zelbio:
+    province_id: CO
+    id:          M156
+    name:        Zelbio
+    latitude:    45.905443
+    longitude:   9.180413
+  zelo_buon_persico:
+    province_id: LO
+    id:          M158
+    name:        'Zelo Buon Persico'
+    latitude:    45.412063
+    longitude:   9.432448
+  zelo_surrigone:
+    province_id: MI
+    id:          M160
+    name:        'Zelo Surrigone'
+    latitude:    45.387855
+    longitude:   8.985304
+  zeme:
+    province_id: PV
+    id:          M161
+    name:        Zeme
+    latitude:    45.198319
+    longitude:   8.669508
+  zenevredo:
+    province_id: PV
+    id:          M162
+    name:        Zenevredo
+    latitude:    45.055008
+    longitude:   9.327111
+  zenson_di_piave:
+    province_id: TV
+    id:          M163
+    name:        'Zenson di Piave'
+    latitude:    45.678236
+    longitude:   12.489549
+  zerba:
+    province_id: PC
+    id:          M165
+    name:        Zerba
+    latitude:    44.666847
+    longitude:   9.28695
+  zerbo:
+    province_id: PV
+    id:          M166
+    name:        Zerbo
+    latitude:    45.111407
+    longitude:   9.397204
+  zerbolo:
+    province_id: PV
+    id:          M167
+    name:        Zerbolò
+    latitude:    45.207188
+    longitude:   9.014214
+  zerfaliu:
+    province_id: OR
+    id:          M168
+    name:        Zerfaliu
+    latitude:    39.958688
+    longitude:   8.708528
+  zeri:
+    province_id: MS
+    id:          M169
+    name:        Zeri
+    latitude:    44.341733
+    longitude:   9.759106
+  zermeghedo:
+    province_id: VI
+    id:          M170
+    name:        Zermeghedo
+    latitude:    45.475951
+    longitude:   11.370646
+  zero_branco:
+    province_id: TV
+    id:          M171
+    name:        'Zero Branco'
+    latitude:    45.602667
+    longitude:   12.166259
+  zevio:
+    province_id: VR
+    id:          M172
+    name:        Zevio
+    latitude:    45.375607
+    longitude:   11.137192
+  ziano_di_fiemme:
+    province_id: TN
+    id:          M173
+    name:        'Ziano di Fiemme'
+    latitude:    46.287518
+    longitude:   11.567037
+  zibello:
+    province_id: PR
+    id:          M174
+    name:        Zibello
+    latitude:    45.019555
+    longitude:   10.130796
+  zibido_san_giacomo:
+    province_id: MI
+    id:          M176
+    name:        'Zibido San Giacomo'
+    latitude:    45.360181
+    longitude:   9.1069
+  zignago:
+    province_id: SP
+    id:          M177
+    name:        Zignago
+    latitude:    44.277693
+    longitude:   9.746765
+  zimella:
+    province_id: VR
+    id:          M178
+    name:        Zimella
+    latitude:    45.365664
+    longitude:   11.339299
+  zimone:
+    province_id: BI
+    id:          M179
+    name:        Zimone
+    latitude:    45.450333
+    longitude:   8.037204
+  zinasco:
+    province_id: PV
+    id:          M180
+    name:        Zinasco
+    latitude:    45.129232
+    longitude:   9.031332
+  zoagli:
+    province_id: GE
+    id:          M182
+    name:        Zoagli
+    latitude:    44.3375
+    longitude:   9.267633
+  zocca:
+    province_id: MO
+    id:          M183
+    name:        Zocca
+    latitude:    44.346747
+    longitude:   10.99388
+  zogno:
+    province_id: BG
+    id:          M184
+    name:        Zogno
+    latitude:    45.792815
+    longitude:   9.65737
+  zola_predosa:
+    province_id: BO
+    id:          M185
+    name:        'Zola Predosa'
+    latitude:    44.49063
+    longitude:   11.219389
+  zollino:
+    province_id: LE
+    id:          M187
+    name:        Zollino
+    latitude:    40.2075
+    longitude:   18.249537
+  zone:
+    province_id: BS
+    id:          M188
+    name:        Zone
+    latitude:    45.761199
+    longitude:   10.116828
+  zoppe_di_cadore:
+    province_id: BL
+    id:          M189
+    name:        'Zoppè di Cadore'
+    latitude:    46.388013
+    longitude:   12.171861
+  zoppola:
+    province_id: PN
+    id:          M190
+    name:        Zoppola
+    latitude:    45.967508
+    longitude:   12.77347
+  zovencedo:
+    province_id: VI
+    id:          M194
+    name:        Zovencedo
+    latitude:    45.429556
+    longitude:   11.504222
+  zubiena:
+    province_id: BI
+    id:          M196
+    name:        Zubiena
+    latitude:    45.492861
+    longitude:   7.995755
+  zuccarello:
+    province_id: SV
+    id:          M197
+    name:        Zuccarello
+    latitude:    44.112204
+    longitude:   8.116166
+  zuclo:
+    province_id: TN
+    id:          M198
+    name:        Zuclo
+    latitude:    46.035333
+    longitude:   10.752204
+  zugliano:
+    province_id: VI
+    id:          M199
+    name:        Zugliano
+    latitude:    45.730796
+    longitude:   11.525
+  zuglio:
+    province_id: UD
+    id:          M200
+    name:        Zuglio
+    latitude:    46.460796
+    longitude:   13.025796
+  zumaglia:
+    province_id: BI
+    id:          M201
+    name:        Zumaglia
+    latitude:    45.594697
+    longitude:   8.089802
+  zumpano:
+    province_id: CS
+    id:          M202
+    name:        Zumpano
+    latitude:    39.312062
+    longitude:   16.292981
+  zungoli:
+    province_id: AV
+    id:          M203
+    name:        Zungoli
+    latitude:    41.124236
+    longitude:   15.203218
+  zungri:
+    province_id: VV
+    id:          M204
+    name:        Zungri
+    latitude:    38.655849
+    longitude:   15.982737
+  lariano:
+    province_id: RM
+    id:          M207
+    name:        Lariano
+    latitude:    41.726118
+    longitude:   12.832174
+  lamezia_terme:
+    province_id: CZ
+    id:          M208
+    name:        'Lamezia Terme'
+    latitude:    38.974483
+    longitude:   16.31808
+  sant_anna_arresi:
+    province_id: CI
+    id:          M209
+    name:        'Sant''Anna Arresi'
+    latitude:    39.002981
+    longitude:   8.647352
+  terme_vigliatore:
+    province_id: ME
+    id:          M210
+    name:        'Terme Vigliatore'
+    latitude:    38.137055
+    longitude:   15.157519
+  acquedolci:
+    province_id: ME
+    id:          M211
+    name:        Acquedolci
+    latitude:    38.057161
+    longitude:   14.58959
+  ladispoli:
+    province_id: RM
+    id:          M212
+    name:        Ladispoli
+    latitude:    41.95503
+    longitude:   12.0698
+  ardea:
+    province_id: RM
+    id:          M213
+    name:        Ardea
+    latitude:    41.611804
+    longitude:   12.515462
+  badesi:
+    province_id: OT
+    id:          M214
+    name:        Badesi
+    latitude:    40.966278
+    longitude:   8.885333
+  sicignano_degli_alburni:
+    province_id: SA
+    id:          M253
+    name:        'Sicignano degli Alburni'
+    latitude:    40.560448
+    longitude:   15.304366
+  molina_aterno:
+    province_id: AQ
+    id:          M255
+    name:        'Molina Aterno'
+    latitude:    42.15
+    longitude:   13.736426
+  scanzano_jonico:
+    province_id: MT
+    id:          M256
+    name:        'Scanzano Jonico'
+    latitude:    40.250975
+    longitude:   16.699143
+  portopalo_di_capo_passero:
+    province_id: SR
+    id:          M257
+    name:        'Portopalo di Capo Passero'
+    latitude:    36.683444
+    longitude:   15.135481
+  avigliano_umbro:
+    province_id: TR
+    id:          M258
+    name:        'Avigliano Umbro'
+    latitude:    42.651456
+    longitude:   12.427541
+  viddalba:
+    province_id: SS
+    id:          M259
+    name:        Viddalba
+    latitude:    40.91829
+    longitude:   8.895146
+  casapesenna:
+    province_id: CE
+    id:          M260
+    name:        Casapesenna
+    latitude:    40.991789
+    longitude:   14.136164
+  cellole:
+    province_id: CE
+    id:          M262
+    name:        Cellole
+    latitude:    41.205963
+    longitude:   13.855333
+  porto_cesareo:
+    province_id: LE
+    id:          M263
+    name:        'Porto Cesareo'
+    latitude:    40.262422
+    longitude:   17.897546
+  san_cassiano:
+    province_id: LE
+    id:          M264
+    name:        'San Cassiano'
+    latitude:    40.05641
+    longitude:   18.336543
+  vajont:
+    province_id: PN
+    id:          M265
+    name:        Vajont
+    latitude:    46.144649
+    longitude:   12.697187
+  ordona:
+    province_id: FG
+    id:          M266
+    name:        Ordona
+    latitude:    41.316574
+    longitude:   15.628296
+  zapponeta:
+    province_id: FG
+    id:          M267
+    name:        Zapponeta
+    latitude:    41.458148
+    longitude:   15.957981
+  blufi:
+    province_id: PA
+    id:          M268
+    name:        Blufi
+    latitude:    37.75313
+    longitude:   14.073926
+  masainas:
+    province_id: CI
+    id:          M270
+    name:        Masainas
+    latitude:    39.052518
+    longitude:   8.628995
+  mazzarrone:
+    province_id: CT
+    id:          M271
+    name:        Mazzarrone
+    latitude:    37.094677
+    longitude:   14.565885
+  ciampino:
+    province_id: RM
+    id:          M272
+    name:        Ciampino
+    latitude:    41.802544
+    longitude:   12.602136
+  santa_maria_la_carita:
+    province_id: NA
+    id:          M273
+    name:        'Santa Maria la Carità'
+    latitude:    40.720577
+    longitude:   14.512121
+  golfo_aranci:
+    province_id: OT
+    id:          M274
+    name:        'Golfo Aranci'
+    latitude:    41.003802
+    longitude:   9.616757
+  loiri_porto_san_paolo:
+    province_id: OT
+    id:          M275
+    name:        'Loiri Porto San Paolo'
+    latitude:    40.845
+    longitude:   9.498778
+  sant_antonio_di_gallura:
+    province_id: OT
+    id:          M276
+    name:        'Sant''Antonio di Gallura'
+    latitude:    40.990547
+    longitude:   9.301889
+  san_ferdinando:
+    province_id: RC
+    id:          M277
+    name:        'San Ferdinando'
+    latitude:    38.482554
+    longitude:   15.918571
+  villaperuccio:
+    province_id: CI
+    id:          M278
+    name:        Villaperuccio
+    latitude:    39.112981
+    longitude:   8.671111
+  priolo_gargallo:
+    province_id: SR
+    id:          M279
+    name:        'Priolo Gargallo'
+    latitude:    37.156714
+    longitude:   15.18803
+  trecase:
+    province_id: NA
+    id:          M280
+    name:        Trecase
+    latitude:    40.770481
+    longitude:   14.438778
+  petrosino:
+    province_id: TP
+    id:          M281
+    name:        Petrosino
+    latitude:    37.708926
+    longitude:   12.500963
+  tergu:
+    province_id: SS
+    id:          M282
+    name:        Tergu
+    latitude:    40.868611
+    longitude:   8.717833
+  maniace:
+    province_id: CT
+    id:          M283
+    name:        Maniace
+    latitude:    37.88454
+    longitude:   14.798677
+  santa_maria_coghinas:
+    province_id: SS
+    id:          M284
+    name:        'Santa Maria Coghinas'
+    latitude:    40.904366
+    longitude:   8.868554
+  cardedu:
+    province_id: OG
+    id:          M285
+    name:        Cardedu
+    latitude:    39.797037
+    longitude:   9.626741
+  torrenova:
+    province_id: ME
+    id:          M286
+    name:        Torrenova
+    latitude:    38.090701
+    longitude:   14.677624
+  ragalna:
+    province_id: CT
+    id:          M287
+    name:        Ragalna
+    latitude:    37.63563
+    longitude:   14.947815
+  castiadas:
+    province_id: CA
+    id:          M288
+    name:        Castiadas
+    latitude:    39.237518
+    longitude:   9.500481
+  massa_di_somma:
+    province_id: NA
+    id:          M289
+    name:        'Massa di Somma'
+    latitude:    40.846574
+    longitude:   14.376111
+  stintino:
+    province_id: SS
+    id:          M290
+    name:        Stintino
+    latitude:    40.940333
+    longitude:   8.226574
+  piscinas:
+    province_id: CI
+    id:          M291
+    name:        Piscinas
+    latitude:    39.077173
+    longitude:   8.665814
+  erula:
+    province_id: SS
+    id:          M292
+    name:        Erula
+    latitude:    40.79237
+    longitude:   8.943296
+  bellizzi:
+    province_id: SA
+    id:          M294
+    name:        Bellizzi
+    latitude:    40.620963
+    longitude:   14.947833
+  san_cesareo:
+    province_id: RM
+    id:          M295
+    name:        'San Cesareo'
+    latitude:    41.814603
+    longitude:   12.802618
+  fiumicino:
+    province_id: RM
+    id:          M297
+    name:        Fiumicino
+    latitude:    41.771526
+    longitude:   12.230003
+  statte:
+    province_id: TA
+    id:          M298
+    name:        Statte
+    latitude:    40.563827
+    longitude:   17.205337
+  due_carrare:
+    province_id: PD
+    id:          M300
+    name:        'Due Carrare'
+    latitude:    45.293598
+    longitude:   11.819141
+  padru:
+    province_id: OT
+    id:          M301
+    name:        Padru
+    latitude:    40.766889
+    longitude:   9.521259
+  cavallino_treporti:
+    province_id: VE
+    id:          M308
+    name:        'Cavallino Treporti'
+    latitude:    45.454044
+    longitude:   12.457962
+  fonte_nuova:
+    province_id: RM
+    id:          M309
+    name:        'Fonte Nuova'
+    latitude:    41.994648
+    longitude:   12.618944
