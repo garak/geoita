@@ -1,0 +1,429 @@
+Province:
+  AG:
+    name:      Agrigento
+    region_id: Sicilia
+    id:        AG
+  AL:
+    name:      Alessandria
+    region_id: Piemonte
+    id:        AL
+  AN:
+    name:      Ancona
+    region_id: Umbria
+    id:        AN
+  AO:
+    name:      Aosta
+    region_id: Valdaosta
+    id:        AO
+  AR:
+    name:      Arezzo
+    region_id: Toscana
+    id:        AR
+  AP:
+    name:      Ascoli Piceno
+    region_id: Umbria
+    id:        AP
+  AT:
+    name:      Asti
+    region_id: Piemonte
+    id:        AT
+  AV:
+    name:      Avellino
+    region_id: Campania
+    id:        AV
+  BA:
+    name:      Bari
+    region_id: Puglia
+    id:        BA
+  BL:
+    name:      Belluno
+    region_id: Veneto
+    id:        BL
+  BN:
+    name:      Benevento
+    region_id: Campania
+    id:        BN
+  BG:
+    name:      Bergamo
+    region_id: Lombardia
+    id:        BG
+  BI:
+    name:      Biella
+    region_id: Piemonte
+    id:        BI
+  BO:
+    name:      Bologna
+    region_id: EmiliaRomagna
+    id:        BO
+  BZ:
+    name:      Bolzano
+    region_id: TrentinoAltoAdige
+    id:        BZ
+  BS:
+    name:      Brescia
+    region_id: Lombardia
+    id:        BS
+  BR:
+    name:      Brindisi
+    region_id: Puglia
+    id:        BR
+  CA:
+    name:      Cagliari
+    region_id: Sardegna
+    id:        CA
+  CL:
+    name:      Caltanissetta
+    region_id: Sicilia
+    id:        CL
+  CB:
+    name:      Campobasso
+    region_id: Molise
+    id:        CB
+  CI:
+    name:      Carbonia Iglesias
+    region_id: Sardegna
+    id:        CI
+  CE:
+    name:      Caserta
+    region_id: Campania
+    id:        CE
+  CT:
+    name:      Catania
+    region_id: Sicilia
+    id:        CT
+  CZ:
+    name:      Catanzaro
+    region_id: Calabria
+    id:        CZ
+  CH:
+    name:      Chieti
+    region_id: Abruzzo
+    id:        CH
+  CO:
+    name:      Como
+    region_id: Lombardia
+    id:        CO
+  CS:
+    name:      Cosenza
+    region_id: Calabria
+    id:        CS
+  CR:
+    name:      Cremona
+    region_id: Lombardia
+    id:        CR
+  KR:
+    name:      Crotone
+    region_id: Calabria
+    id:        KR
+  CN:
+    name:      Cuneo
+    region_id: Piemonte
+    id:        CN
+  EN:
+    name:      Enna
+    region_id: Sicilia
+    id:        EN
+  FE:
+    name:      Ferrara
+    region_id: EmiliaRomagna
+    id:        FE
+  FI:
+    name:      Firenze
+    region_id: Toscana
+    id:        FI
+  FG:
+    name:      Foggia
+    region_id: Puglia
+    id:        FG
+  FC:
+    name:      Forlì Cesena
+    region_id: EmiliaRomagna
+    id:        FC
+  FR:
+    name:      Frosinone
+    region_id: Lazio
+    id:        FR
+  GE:
+    name:      Genova
+    region_id: Liguria
+    id:        GE
+  GO:
+    name:      Gorizia
+    region_id: FriuliVeneziaGiulia
+    id:        GO
+  GR:
+    name:      Grosseto
+    region_id: Toscana
+    id:        GR
+  IM:
+    name:      Imperia
+    region_id: Liguria
+    id:        IM
+  IS:
+    name:      Isernia
+    region_id: Molise
+    id:        IS
+  AQ:
+    name:      L'Aquila
+    region_id: Abruzzo
+    id:        AQ
+  SP:
+    name:      La Spezia
+    region_id: Liguria
+    id:        SP
+  LT:
+    name:      Latina
+    region_id: Lazio
+    id:        LT
+  LE:
+    name:      Lecce
+    region_id: Puglia
+    id:        LE
+  LC:
+    name:      Lecco
+    region_id: Lombardia
+    id:        LC
+  LI:
+    name:      Livorno
+    region_id: Toscana
+    id:        LI
+  LO:
+    name:      Lodi
+    region_id: Lombardia
+    id:        LO
+  LU:
+    name:      Lucca
+    region_id: Toscana
+    id:        LU
+  MC:
+    name:      Macerata
+    region_id: Umbria
+    id:        MC
+  MN:
+    name:      Mantova
+    region_id: Lombardia
+    id:        MN
+  MS:
+    name:      Massa Carrara
+    region_id: Toscana
+    id:        MS
+  MT:
+    name:      Matera
+    region_id: Basilicata
+    id:        MT
+  VS:
+    name:      Medio Campidano
+    region_id: Sardegna
+    id:        VS
+  ME:
+    name:      Messina
+    region_id: Sicilia
+    id:        ME
+  MI:
+    name:      Milano
+    region_id: Lombardia
+    id:        MI
+  MO:
+    name:      Modena
+    region_id: EmiliaRomagna
+    id:        MO
+  NA:
+    name:      Napoli
+    region_id: Campania
+    id:        NA
+  NO:
+    name:      Novara
+    region_id: Piemonte
+    id:        'NO'
+  NU:
+    name:      Nuoro
+    region_id: Sardegna
+    id:        NU
+  OG:
+    name:      Ogliastra
+    region_id: Sardegna
+    id:        OG
+  OT:
+    name:      Olbia Tempio
+    region_id: Sardegna
+    id:        OT
+  OR:
+    name:      Oristano
+    region_id: Sardegna
+    id:        OR
+  PD:
+    name:      Padova
+    region_id: Veneto
+    id:        PD
+  PA:
+    name:      Palermo
+    region_id: Sicilia
+    id:        PA
+  PR:
+    name:      Parma
+    region_id: EmiliaRomagna
+    id:        PR
+  PV:
+    name:      Pavia
+    region_id: Lombardia
+    id:        PV
+  PG:
+    name:      Perugia
+    region_id: Umbria
+    id:        PG
+  PU:
+    name:      Pesaro Urbino
+    region_id: Umbria
+    id:        PU
+  PE:
+    name:      Pescara
+    region_id: Abruzzo
+    id:        PE
+  PC:
+    name:      Piacenza
+    region_id: EmiliaRomagna
+    id:        PC
+  PI:
+    name:      Pisa
+    region_id: Toscana
+    id:        PI
+  PT:
+    name:      Pistoia
+    region_id: Toscana
+    id:        PT
+  PN:
+    name:      Pordenone
+    region_id: FriuliVeneziaGiulia
+    id:        PN
+  PZ:
+    name:      Potenza
+    region_id: Basilicata
+    id:        PZ
+  PO:
+    name:      Prato
+    region_id: Toscana
+    id:        PO
+  RG:
+    name:      Ragusa
+    region_id: Sicilia
+    id:        RG
+  RA:
+    name:      Ravenna
+    region_id: EmiliaRomagna
+    id:        RA
+  RC:
+    name:      Reggio Calabria
+    region_id: Calabria
+    id:        RC
+  RE:
+    name:      Reggio Emilia
+    region_id: EmiliaRomagna
+    id:        RE
+  RI:
+    name:      Rieti
+    region_id: Lazio
+    id:        RI
+  RN:
+    name:      Rimini
+    region_id: EmiliaRomagna
+    id:        RN
+  RM:
+    name:      Roma
+    region_id: Lazio
+    id:        RM
+  RO:
+    name:      Rovigo
+    region_id: Veneto
+    id:        RO
+  SA:
+    name:      Salerno
+    region_id: Campania
+    id:        SA
+  SS:
+    name:      Sassari
+    region_id: Sardegna
+    id:        SS
+  SV:
+    name:      Savona
+    region_id: Liguria
+    id:        SV
+  SI:
+    name:      Siena
+    region_id: Toscana
+    id:        SI
+  SR:
+    name:      Siracusa
+    region_id: Sicilia
+    id:        SR
+  SO:
+    name:      Sondrio
+    region_id: Lombardia
+    id:        SO
+  TA:
+    name:      Taranto
+    region_id: Puglia
+    id:        TA
+  TE:
+    name:      Teramo
+    region_id: Abruzzo
+    id:        TE
+  TR:
+    name:      Terni
+    region_id: Abruzzo
+    id:        TR
+  TO:
+    name:      Torino
+    region_id: Piemonte
+    id:        TO
+  TP:
+    name:      Trapani
+    region_id: Sicilia
+    id:        TP
+  TN:
+    name:      Trento
+    region_id: TrentinoAltoAdige
+    id:        TN
+  TV:
+    name:      Treviso
+    region_id: Veneto
+    id:        TV
+  TS:
+    name:      Trieste
+    region_id: FriuliVeneziaGiulia
+    id:        TS
+  UD:
+    name:      Udine
+    region_id: FriuliVeneziaGiulia
+    id:        UD
+  VA:
+    name:      Varese
+    region_id: Lombardia
+    id:        VA
+  VE:
+    name:      Venezia
+    region_id: Veneto
+    id:        VE
+  VB:
+    name:      Verbania
+    region_id: Piemonte
+    id:        VB
+  VC:
+    name:      Vercelli
+    region_id: Piemonte
+    id:        VC
+  VR:
+    name:      Verona
+    region_id: Veneto
+    id:        VR
+  VV:
+    name:      Vibo Valentia
+    region_id: Calabria
+    id:        VV
+  VI:
+    name:      Vicenza
+    region_id: Veneto
+    id:        VI
+  VT:
+    name:      Viterbo
+    region_id: Lazio
+    id:        VT

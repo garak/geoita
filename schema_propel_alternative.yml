@@ -1,0 +1,14 @@
+classes:
+
+  Region:
+    columns:
+      id:        { type: integer, required: true, primaryKey: true }
+      name:      { type: varchar, required: true }
+    indexes:     { region_name: [ name ] }
+
+  Province:
+    columns:
+      id:        { type: char, size: 2, required: true, primaryKey: true, default: 'EE' }
+      name:      { type: varchar, required: true }
+      region_id: { type: integer, foreignClass: Region, foreignReference: id, onDelete: CASCADE, onUpdate: CASCADE }
+    indexes:     { province_name: [ name ] }

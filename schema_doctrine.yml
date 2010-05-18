@@ -1,0 +1,16 @@
+Region:
+  columns:
+    id:            { type: integer, size: 4, notnull: true, primary: true }
+    name:          { type: varchar, size: 255, notnull: true }
+  indexes:
+    region_name:   { fields: [ name ] }
+
+Province:
+  columns:
+    id:            { type: char, size: 2, notnull: true, primary: true, default: 'EE' }
+    name:          { type: varchar, size: 255, notnull: true }
+    region_id:     { type: integer, size: 4, notnull: true }
+  indexes:     
+    province_name: { fields: [ name ] }
+  relations:
+    Region:        { local: region_id, foreign: id, onDelete: CASCADE }

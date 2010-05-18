@@ -1,0 +1,429 @@
+Province:
+  ProvinceAG:
+    name:   Agrigento
+    Region: RegionSicilia
+    id:     AG
+  ProvinceAL:
+    name:   Alessandria
+    Region: RegionPiemonte
+    id:     AL
+  ProvinceAN:
+    name:   Ancona
+    Region: RegionUmbria
+    id:     AN
+  ProvinceAO:
+    name:   Aosta
+    Region: RegionValdaosta
+    id:     AO
+  ProvinceAR:
+    name:   Arezzo
+    Region: RegionToscana
+    id:     AR
+  ProvinceAP:
+    name:   Ascoli Piceno
+    Region: RegionUmbria
+    id:     AP
+  ProvinceAT:
+    name:   Asti
+    Region: RegionPiemonte
+    id:     AT
+  ProvinceAV:
+    name:   Avellino
+    Region: RegionCampania
+    id:     AV
+  ProvinceBA:
+    name:   Bari
+    Region: RegionPuglia
+    id:     BA
+  ProvinceBL:
+    name:   Belluno
+    Region: RegionVeneto
+    id:     BL
+  ProvinceBN:
+    name:   Benevento
+    Region: RegionCampania
+    id:     BN
+  ProvinceBG:
+    name:   Bergamo
+    Region: RegionLombardia
+    id:     BG
+  ProvinceBI:
+    name:   Biella
+    Region: RegionPiemonte
+    id:     BI
+  ProvinceBO:
+    name:   Bologna
+    Region: RegionEmiliaRomagna
+    id:     BO
+  ProvinceBZ:
+    name:   Bolzano
+    Region: RegionTrentinoAltoAdige
+    id:     BZ
+  ProvinceBS:
+    name:   Brescia
+    Region: RegionLombardia
+    id:     BS
+  ProvinceBR:
+    name:   Brindisi
+    Region: RegionPuglia
+    id:     BR
+  ProvinceCA:
+    name:   Cagliari
+    Region: RegionSardegna
+    id:     CA
+  ProvinceCL:
+    name:   Caltanissetta
+    Region: RegionSicilia
+    id:     CL
+  ProvinceCB:
+    name:   Campobasso
+    Region: RegionMolise
+    id:     CB
+  ProvinceCI:
+    name:   Carbonia Iglesias
+    Region: RegionSardegna
+    id:     CI
+  ProvinceCE:
+    name:   Caserta
+    Region: RegionCampania
+    id:     CE
+  ProvinceCT:
+    name:   Catania
+    Region: RegionSicilia
+    id:     CT
+  ProvinceCZ:
+    name:   Catanzaro
+    Region: RegionCalabria
+    id:     CZ
+  ProvinceCH:
+    name:   Chieti
+    Region: RegionAbruzzo
+    id:     CH
+  ProvinceCO:
+    name:   Como
+    Region: RegionLombardia
+    id:     CO
+  ProvinceCS:
+    name:   Cosenza
+    Region: RegionCalabria
+    id:     CS
+  ProvinceCR:
+    name:   Cremona
+    Region: RegionLombardia
+    id:     CR
+  ProvinceKR:
+    name:   Crotone
+    Region: RegionCalabria
+    id:     KR
+  ProvinceCN:
+    name:   Cuneo
+    Region: RegionPiemonte
+    id:     CN
+  ProvinceEN:
+    name:   Enna
+    Region: RegionSicilia
+    id:     EN
+  ProvinceFE:
+    name:   Ferrara
+    Region: RegionEmiliaRomagna
+    id:     FE
+  ProvinceFI:
+    name:   Firenze
+    Region: RegionToscana
+    id:     FI
+  ProvinceFG:
+    name:   Foggia
+    Region: RegionPuglia
+    id:     FG
+  ProvinceFC:
+    name:   Forlì Cesena
+    Region: RegionEmiliaRomagna
+    id:     FC
+  ProvinceFR:
+    name:   Frosinone
+    Region: RegionLazio
+    id:     FR
+  ProvinceGE:
+    name:   Genova
+    Region: RegionLiguria
+    id:     GE
+  ProvinceGO:
+    name:   Gorizia
+    Region: RegionFriuliVeneziaGiulia
+    id:     GO
+  ProvinceGR:
+    name:   Grosseto
+    Region: RegionToscana
+    id:     GR
+  ProvinceIM:
+    name:   Imperia
+    Region: RegionLiguria
+    id:     IM
+  ProvinceIS:
+    name:   Isernia
+    Region: RegionMolise
+    id:     IS
+  ProvinceAQ:
+    name:   L'Aquila
+    Region: RegionAbruzzo
+    id:     AQ
+  ProvinceSP:
+    name:   La Spezia
+    Region: RegionLiguria
+    id:     SP
+  ProvinceLT:
+    name:   Latina
+    Region: RegionLazio
+    id:     LT
+  ProvinceLE:
+    name:   Lecce
+    Region: RegionPuglia
+    id:     LE
+  ProvinceLC:
+    name:   Lecco
+    Region: RegionLombardia
+    id:     LC
+  ProvinceLI:
+    name:   Livorno
+    Region: RegionToscana
+    id:     LI
+  ProvinceLO:
+    name:   Lodi
+    Region: RegionLombardia
+    id:     LO
+  ProvinceLU:
+    name:   Lucca
+    Region: RegionToscana
+    id:     LU
+  ProvinceMC:
+    name:   Macerata
+    Region: RegionUmbria
+    id:     MC
+  ProvinceMN:
+    name:   Mantova
+    Region: RegionLombardia
+    id:     MN
+  ProvinceMS:
+    name:   Massa Carrara
+    Region: RegionToscana
+    id:     MS
+  ProvinceMT:
+    name:   Matera
+    Region: RegionBasilicata
+    id:     MT
+  ProvinceVS:
+    name:   Medio Campidano
+    Region: RegionSardegna
+    id:     VS
+  ProvinceME:
+    name:   Messina
+    Region: RegionSicilia
+    id:     ME
+  ProvinceMI:
+    name:   Milano
+    Region: RegionLombardia
+    id:     MI
+  ProvinceMO:
+    name:   Modena
+    Region: RegionEmiliaRomagna
+    id:     MO
+  ProvinceNA:
+    name:   Napoli
+    Region: RegionCampania
+    id:     NA
+  ProvinceNO:
+    name:   Novara
+    Region: RegionPiemonte
+    id:     'NO'
+  ProvinceNU:
+    name:   Nuoro
+    Region: RegionSardegna
+    id:     NU
+  ProvinceOG:
+    name:   Ogliastra
+    Region: RegionSardegna
+    id:     OG
+  ProvinceOT:
+    name:   Olbia Tempio
+    Region: RegionSardegna
+    id:     OT
+  ProvinceOR:
+    name:   Oristano
+    Region: RegionSardegna
+    id:     OR
+  ProvincePD:
+    name:   Padova
+    Region: RegionVeneto
+    id:     PD
+  ProvincePA:
+    name:   Palermo
+    Region: RegionSicilia
+    id:     PA
+  ProvincePR:
+    name:   Parma
+    Region: RegionEmiliaRomagna
+    id:     PR
+  ProvincePV:
+    name:   Pavia
+    Region: RegionLombardia
+    id:     PV
+  ProvincePG:
+    name:   Perugia
+    Region: RegionUmbria
+    id:     PG
+  ProvincePU:
+    name:   Pesaro Urbino
+    Region: RegionUmbria
+    id:     PU
+  ProvincePE:
+    name:   Pescara
+    Region: RegionAbruzzo
+    id:     PE
+  ProvincePC:
+    name:   Piacenza
+    Region: RegionEmiliaRomagna
+    id:     PC
+  ProvincePI:
+    name:   Pisa
+    Region: RegionToscana
+    id:     PI
+  ProvincePT:
+    name:   Pistoia
+    Region: RegionToscana
+    id:     PT
+  ProvincePN:
+    name:   Pordenone
+    Region: RegionFriuliVeneziaGiulia
+    id:     PN
+  ProvincePZ:
+    name:   Potenza
+    Region: RegionBasilicata
+    id:     PZ
+  ProvincePO:
+    name:   Prato
+    Region: RegionToscana
+    id:     PO
+  ProvinceRG:
+    name:   Ragusa
+    Region: RegionSicilia
+    id:     RG
+  ProvinceRA:
+    name:   Ravenna
+    Region: RegionEmiliaRomagna
+    id:     RA
+  ProvinceRC:
+    name:   Reggio Calabria
+    Region: RegionCalabria
+    id:     RC
+  ProvinceRE:
+    name:   Reggio Emilia
+    Region: RegionEmiliaRomagna
+    id:     RE
+  ProvinceRI:
+    name:   Rieti
+    Region: RegionLazio
+    id:     RI
+  ProvinceRN:
+    name:   Rimini
+    Region: RegionEmiliaRomagna
+    id:     RN
+  ProvinceRM:
+    name:   Roma
+    Region: RegionLazio
+    id:     RM
+  ProvinceRO:
+    name:   Rovigo
+    Region: RegionVeneto
+    id:     RO
+  ProvinceSA:
+    name:   Salerno
+    Region: RegionCampania
+    id:     SA
+  ProvinceSS:
+    name:   Sassari
+    Region: RegionSardegna
+    id:     SS
+  ProvinceSV:
+    name:   Savona
+    Region: RegionLiguria
+    id:     SV
+  ProvinceSI:
+    name:   Siena
+    Region: RegionToscana
+    id:     SI
+  ProvinceSR:
+    name:   Siracusa
+    Region: RegionSicilia
+    id:     SR
+  ProvinceSO:
+    name:   Sondrio
+    Region: RegionLombardia
+    id:     SO
+  ProvinceTA:
+    name:   Taranto
+    Region: RegionPuglia
+    id:     TA
+  ProvinceTE:
+    name:   Teramo
+    Region: RegionAbruzzo
+    id:     TE
+  ProvinceTR:
+    name:   Terni
+    Region: RegionAbruzzo
+    id:     TR
+  ProvinceTO:
+    name:   Torino
+    Region: RegionPiemonte
+    id:     TO
+  ProvinceTP:
+    name:   Trapani
+    Region: RegionSicilia
+    id:     TP
+  ProvinceTN:
+    name:   Trento
+    Region: RegionTrentinoAltoAdige
+    id:     TN
+  ProvinceTV:
+    name:   Treviso
+    Region: RegionVeneto
+    id:     TV
+  ProvinceTS:
+    name:   Trieste
+    Region: RegionFriuliVeneziaGiulia
+    id:     TS
+  ProvinceUD:
+    name:   Udine
+    Region: RegionFriuliVeneziaGiulia
+    id:     UD
+  ProvinceVA:
+    name:   Varese
+    Region: RegionLombardia
+    id:     VA
+  ProvinceVE:
+    name:   Venezia
+    Region: RegionVeneto
+    id:     VE
+  ProvinceVB:
+    name:   Verbania
+    Region: RegionPiemonte
+    id:     VB
+  ProvinceVC:
+    name:   Vercelli
+    Region: RegionPiemonte
+    id:     VC
+  ProvinceVR:
+    name:   Verona
+    Region: RegionVeneto
+    id:     VR
+  ProvinceVV:
+    name:   Vibo Valentia
+    Region: RegionCalabria
+    id:     VV
+  ProvinceVI:
+    name:   Vicenza
+    Region: RegionVeneto
+    id:     VI
+  ProvinceVT:
+    name:   Viterbo
+    Region: RegionLazio
+    id:     VT

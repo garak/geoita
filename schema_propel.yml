@@ -1,0 +1,12 @@
+propel:
+
+  region:
+    id:        { type: integer, required: true, primaryKey: true }
+    name:      { type: varchar, required: true }
+    _indexes:  { region_name: [ name ] }
+
+  province:
+    id:        { type: char, size: 2, required: true, primaryKey: true, default: 'EE' }
+    name:      { type: varchar, required: true }
+    region_id: { type: integer, foreignTable: region, foreignReference: id, onDelete: CASCADE, onUpdate: CASCADE }
+    _indexes:  { province_name: [ name ] }

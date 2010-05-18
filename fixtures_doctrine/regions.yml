@@ -1,0 +1,41 @@
+Region:
+  RegionAbruzzo:
+    name: Abruzzo
+  RegionBasilicata:
+    name: Basilicata
+  RegionCalabria:
+    name: Calabria
+  RegionCampania:
+    name: Campania
+  RegionEmiliaRomagna:
+    name: Emilia-Romagna
+  RegionFriuliVeneziaGiulia:
+    name: Friuli-Venezia-Giulia
+  RegionLazio:
+    name: Lazio
+  RegionLiguria:
+    name: Liguria
+  RegionLombardia:
+    name: Lombardia
+  RegionMarche:
+    name: Marche
+  RegionMolise:
+    name: Molise
+  RegionPiemonte:
+    name: Piemonte
+  RegionPuglia:
+    name: Puglia
+  RegionSardegna:
+    name: Sardegna
+  RegionSicilia:
+    name: Sicilia
+  RegionToscana:
+    name: Toscana
+  RegionTrentinoAltoAdige:
+    name: Trentino-Alto Adige
+  RegionUmbria:
+    name: Umbria
+  RegionValdaosta:
+    name: Valle d'Aosta
+  RegionVeneto:
+    name: Veneto
