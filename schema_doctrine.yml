@@ -1,28 +1,23 @@
 Region:
   columns:
-    id:            { type: integer, size: 4, notnull: true, primary: true, autoincrement: true }
-    name:          { type: varchar, size: 255, notnull: true }
-  indexes:
-    region_name:   { fields: [ name ] }
+    name:        { type: string(255), notnull: true, unique: true }
 
 Province:
   columns:
-    id:            { type: char, size: 2, notnull: true, primary: true }
-    name:          { type: varchar, size: 255, notnull: true }
-    region_id:     { type: integer, size: 4, notnull: true }
-  indexes:     
-    province_name: { fields: [ name ] }
+    id:          { type: string(2), notnull: true, primary: true }
+    name:        { type: string(255), notnull: true, unique: true }
+    region_id:   { type: integer, notnull: true }
   relations:
-    Region:        { local: region_id, foreign: id, onDelete: CASCADE, foreignAlias: Provinces }
+    Region:      { local: region_id, foreign: id, onDelete: CASCADE, foreignAlias: Provinces }
 
 City:
   columns:
-    id:            { type: char, size: 4, notnull: true, primary: true }
-    name:          { type: varchar, size: 255, notnull: true }
-    province_id:   { type: char, size: 2, notnull: true }
-    latitude:      { type: decimal, scale: 6, size: 8, notnull: true }
-    longitude:     { type: decimal, scale: 6, size: 8, notnull: true }
+    id:          { type: string(4), notnull: true, primary: true }
+    name:        { type: string(255), notnull: true }
+    province_id: { type: string(2), notnull: true }
+    latitude:    { type: decimal, scale: 6, size: 8, notnull: true }
+    longitude:   { type: decimal, scale: 6, size: 8, notnull: true }
   indexes:
-    city_name:     { fields: [ name ] }
+    city_name:   { fields: [ name ] }
   relations:
-    Province:      { local: province_id, foreign: id, onDelete: CASCADE, foreignAlias: Cities }
+    Province:    { local: province_id, foreign: id, onDelete: CASCADE, foreignAlias: Cities }
