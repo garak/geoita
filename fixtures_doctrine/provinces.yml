@@ -427,3 +427,7 @@ Province:
     name:   Viterbo
     Region: RegionLazio
     id:     VT
+  ProvinceMB:
+    name:   Monza-Brianza
+    Region: RegionLombardia
+    id:     MB
