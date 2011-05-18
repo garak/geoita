@@ -1,6 +1,8 @@
 Region:
   columns:
     name:        { type: string(255), notnull: true, unique: true }
+  options:
+    symfony:     { form: false, filter: false }
 
 Province:
   columns:
@@ -9,15 +11,17 @@ Province:
     region_id:   { type: integer, notnull: true }
   relations:
     Region:      { local: region_id, foreign: id, onDelete: CASCADE, foreignAlias: Provinces }
+  options:
+    symfony:     { form: false, filter: false }
 
 City:
   columns:
     id:          { type: string(4), notnull: true, primary: true }
-    name:        { type: string(255), notnull: true }
+    name:        { type: string(255), notnull: true, unique: true }
     province_id: { type: string(2), notnull: true }
     latitude:    { type: decimal, scale: 6, size: 8, notnull: true }
     longitude:   { type: decimal, scale: 6, size: 8, notnull: true }
-  indexes:
-    city_name:   { fields: [ name ] }
   relations:
     Province:    { local: province_id, foreign: id, onDelete: CASCADE, foreignAlias: Cities }
+  options:
+    symfony:     { form: false, filter: false }

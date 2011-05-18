@@ -3,19 +3,22 @@ propel:
   region:
     id:          ~
     name:        { type: varchar, required: true, primaryString: true }
-    _indexes:    { region_name: [ name ] }
+    _propel_behaviors:
+      symfony:   { form: false, filter: false }
 
   province:
     id:          { type: char, size: 2, required: true, primaryKey: true }
-    name:        { type: varchar, required: true, primaryString: true }
+    name:        { type: varchar, required: true, unique: true, primaryString: true }
     region_id:   { type: integer, foreignTable: region, foreignReference: id, onDelete: CASCADE, onUpdate: CASCADE }
-    _indexes:    { province_name: [ name ] }
+    _propel_behaviors:
+      symfony:   { form: false, filter: false }
 
   city:
     id:          { type: char, size: 4, required: true, primaryKey: true }
-    name:        { type: varchar, required: true, primaryString: true }
+    name:        { type: varchar, required: true, unique: true, primaryString: true }
     province_id: { type: char, size: 2, required: true, foreignTable: province, foreignReference: id, onUpdate: CASCADE, onDelete: CASCADE }
     latitude:    { type: decimal, scale: 6, size: 8, required: true }
     longitude:   { type: decimal, scale: 6, size: 8, required: true }
-    _indexes:    { city_name: [ name ] }
+    _propel_behaviors:
+      symfony:   { form: false, filter: false }
 
