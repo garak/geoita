@@ -17,7 +17,7 @@ Province:
 City:
   columns:
     id:          { type: string(4), notnull: true, primary: true }
-    name:        { type: string(255), notnull: true, unique: true }
+    name:        { type: string(255), notnull: true, unique: false }
     province_id: { type: string(2), notnull: true }
     latitude:    { type: decimal, scale: 6, size: 8, notnull: true }
     longitude:   { type: decimal, scale: 6, size: 8, notnull: true }
