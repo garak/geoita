@@ -642,7 +642,7 @@ City:
     latitude:    45.656561
     longitude:   9.129883
   barletta:
-    province_id: BA
+    province_id: BT
     id:          A669
     name:        Barletta
     latitude:    41.319277
@@ -1662,7 +1662,7 @@ City:
     latitude:    37.703611
     longitude:   13.26063
   bisceglie:
-    province_id: BA
+    province_id: BT
     id:          A883
     name:        Bisceglie
     latitude:    41.241295

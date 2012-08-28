@@ -810,7 +810,7 @@ City:
     latitude:  44.404556
     longitude: 7.686111
   City_margherita_di_savoia:
-    Province:  ProvinceFG
+    Province:  ProvinceBT
     id:        E946
     name:      'Margherita di Savoia'
     latitude:  41.375333
@@ -2130,7 +2130,7 @@ City:
     latitude:  44.624316
     longitude: 11.489878
   City_minervino_murge:
-    Province:  ProvinceBA
+    Province:  ProvinceBT
     id:        F220
     name:      'Minervino Murge'
     latitude:  41.085315

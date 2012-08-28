@@ -1085,6 +1085,12 @@ City:
     name:      Poggiridenti
     latitude:  46.175796
     longitude: 9.927204
+  City_pozzaglio_ed_uniti:
+    Province:  ProvinceCR
+    id:        B914
+    name:      'Pozzaglio ed Uniti'
+    latitude:  45.201259
+    longitude: 10.051741
   City_penna_in_teverina:
     Province:  ProvinceTR
     id:        G432

@@ -912,7 +912,7 @@ City:
     latitude:  45.590194
     longitude: 10.551059
   City_san_ferdinando_di_puglia:
-    Province:  ProvinceFG
+    Province:  ProvinceBT
     id:        H839
     name:      'San Ferdinando di Puglia'
     latitude:  41.303778
@@ -5892,7 +5892,7 @@ City:
     latitude:  45.150167
     longitude: 9.927518
   City_spinazzola:
-    Province:  ProvinceBA
+    Province:  ProvinceBT
     id:        I907
     name:      Spinazzola
     latitude:  40.967005

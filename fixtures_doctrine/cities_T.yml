@@ -1464,7 +1464,7 @@ City:
     latitude:  45.04
     longitude: 7.422981
   City_trani:
-    Province:  ProvinceBA
+    Province:  ProvinceBT
     id:        L328
     name:      Trani
     latitude:  41.275523
@@ -1931,6 +1931,12 @@ City:
     name:      Trinità
     latitude:  44.509537
     longitude: 7.75813
+  City_trinitapoli:
+    Province:  ProvinceBT
+    id:        B915
+    name:      Trinitapoli
+    latitude:  41.358296
+    longitude: 16.088296
   City_trinita_d_agultu_e_vignola:
     Province:  ProvinceOT
     id:        L428

@@ -55,6 +55,10 @@ Province:
     name:   Bologna
     Region: RegionEmiliaRomagna
     id:     BO
+  ProvinceBT:
+    name:   Barletta-Andria-Trani
+    Region: RegionPuglia
+    id:     BT
   ProvinceBZ:
     name:   Bolzano
     Region: RegionTrentinoAltoAdige

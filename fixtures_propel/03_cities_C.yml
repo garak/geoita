@@ -1434,7 +1434,7 @@ City:
     latitude:    45.576741
     longitude:   9.542833
   canosa_di_puglia:
-    province_id: BA
+    province_id: BT
     id:          B619
     name:        'Canosa di Puglia'
     latitude:    41.222498

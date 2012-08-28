@@ -1422,7 +1422,7 @@ City:
     latitude:  40.938444
     longitude: 15.325796
   City_andria:
-    Province:  ProvinceBA
+    Province:  ProvinceBT
     id:        A285
     name:      Andria
     latitude:  41.231688

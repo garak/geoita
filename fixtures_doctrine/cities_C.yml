@@ -1434,7 +1434,7 @@ City:
     latitude:  45.576741
     longitude: 9.542833
   City_canosa_di_puglia:
-    Province:  ProvinceBA
+    Province:  ProvinceBT
     id:        B619
     name:      'Canosa di Puglia'
     latitude:  41.222498
@@ -2885,18 +2885,6 @@ City:
     name:      Casalserugo
     latitude:  45.317049
     longitude: 11.913298
-  City_pozzaglio_ed_uniti:
-    Province:  ProvinceCR
-    id:        B914
-    name:      'Pozzaglio ed Uniti'
-    latitude:  45.201259
-    longitude: 10.051741
-  City_trinitapoli:
-    Province:  ProvinceFG
-    id:        B915
-    name:      Trinitapoli
-    latitude:  41.358296
-    longitude: 16.088296
   City_casaluce:
     Province:  ProvinceCE
     id:        B916
