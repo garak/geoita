@@ -545,12 +545,6 @@ City:
     name:      Panni
     latitude:  41.223148
     longitude: 15.275648
-  City_ronzo_chienis:
-    Province:  ProvinceTN
-    id:        G313
-    name:      Ronzo-Chienis
-    latitude:  45.890648
-    longitude: 10.951278
   City_pantelleria:
     Province:  ProvinceTP
     id:        G315
@@ -800,9 +794,16 @@ City:
   City_paterno:
     Province:  ProvincePZ
     id:        M269
-    name:      Paterno
+    name:      Paterno (PZ)
     latitude:  40.379389
     longitude: 15.733778
+  City_paterno2:
+    Province:  ProvinceCT
+    id:        G371
+    name:      Paternò (CT)
+    latitude:  37.34
+    longitude: 14.54
+
   City_paterno_calabro:
     Province:  ProvinceCS
     id:        G372
@@ -1008,9 +1009,15 @@ City:
     latitude:  45.697056
     longitude: 9.736111
   City_peglio:
+    Province:  ProvinceCO
+    id:        G415
+    name:      Peglio (CO)
+    latitude:  46.9
+    longitude: 9.17
+  City_peglio2:
     Province:  ProvincePU
     id:        G416
-    name:      Peglio
+    name:      Peglio (PU)
     latitude:  43.696008
     longitude: 12.497828
   City_pegognaga:

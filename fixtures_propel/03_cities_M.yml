@@ -4375,7 +4375,7 @@ City:
     longitude:   11.016641
   montiglio_monferrato:
     province_id: AT
-    id:          F678
+    id:          M302
     name:        'Montiglio Monferrato'
     latitude:    45.066259
     longitude:   8.098463
@@ -4819,7 +4819,7 @@ City:
     longitude:   11.555687
   mosso:
     province_id: BI
-    id:          F769
+    id:          M304
     name:        Mosso
     latitude:    45.646417
     longitude:   8.136032
@@ -4944,7 +4944,7 @@ City:
     latitude:    45.604197
     longitude:   13.767404
   muggio:
-    province_id: MI
+    province_id: MB
     id:          F797
     name:        Muggiò
     latitude:    45.592951

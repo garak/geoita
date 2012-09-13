@@ -611,12 +611,6 @@ City:
     name:      Padru
     latitude:  40.766889
     longitude: 9.521259
-  City_cavallino_treporti:
-    Province:  ProvinceVE
-    id:        M308
-    name:      'Cavallino Treporti'
-    latitude:  45.454044
-    longitude: 12.457962
   City_fonte_nuova:
     Province:  ProvinceRM
     id:        M309

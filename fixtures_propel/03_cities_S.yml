@@ -116,7 +116,7 @@ City:
   saint_rhemy:
     province_id: AO
     id:          H675
-    name:        Saint-Rhemy
+    name:        Saint-Rhemy-en-Bosses
     latitude:    45.836012
     longitude:   7.183671
   saint_vincent:
@@ -468,9 +468,15 @@ City:
     latitude:    46.243444
     longitude:   9.395167
   samone:
+    province_id: TO
+    id:          H753
+    name:        Samone (TO)
+    latitude:    45.26
+    longitude:   7.5
+  samone2:
     province_id: TN
     id:          H754
-    name:        Samone
+    name:        Samone (TN)
     latitude:    46.081314
     longitude:   11.521248
   sampeyre:

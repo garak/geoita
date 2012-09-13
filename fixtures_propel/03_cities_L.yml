@@ -1116,9 +1116,15 @@ City:
     latitude:    46.481602
     longitude:   11.95536
   livo:
+    province_id: CO
+    id:          E623
+    name:        Livo (CO)
+    latitude:    46.10
+    longitude:   9.18
+  livo2:
     province_id: TN
     id:          E624
-    name:        Livo
+    name:        Livo (TN)
     latitude:    46.40574
     longitude:   11.01909
   livorno:

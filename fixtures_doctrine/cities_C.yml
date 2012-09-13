@@ -143,6 +143,12 @@ City:
     name:      'Cagnano Amiterno'
     latitude:  42.452265
     longitude: 13.22479
+  City_cagno1:
+    Province:  ProvinceCO
+    id:        B359
+    name:      Cagno
+    latitude:  45.4841
+    longitude: 8.5533
   City_cagno:
     Province:  ProvinceTN
     id:        B360
@@ -242,7 +248,7 @@ City:
   City_calasca_castiglione:
     Province:  ProvinceVB
     id:        B380
-    name:      'Calasca Castiglione'
+    name:      'Calasca-Castiglione'
     latitude:  46.020565
     longitude: 8.214614
   City_calascibetta:
@@ -438,9 +444,15 @@ City:
     latitude:  45.631647
     longitude: 8.099417
   City_calliano:
+    Province:  ProvinceAT
+    id:        B418
+    name:      'Calliano (AT)'
+    latitude:  45.034
+    longitude: 8.1531
+  City_calliano2:
     Province:  ProvinceTN
     id:        B419
-    name:      Calliano
+    name:      'Calliano (TN)'
     latitude:  45.934246
     longitude: 11.094321
   City_calolziocorte:
@@ -896,7 +908,7 @@ City:
   City_campiglione_fenile:
     Province:  ProvinceTO
     id:        B512
-    name:      'Campiglione Fenile'
+    name:      'Campiglione-Fenile'
     latitude:  44.80267
     longitude: 7.324765
   City_campione_d_italia:
@@ -4866,9 +4878,15 @@ City:
     latitude:  39.833463
     longitude: 18.352037
   City_castro:
+    Province:  ProvinceBG
+    id:        C337
+    name:      Castro (BG)
+    latitude:  45.48
+    longitude: 10.4
+  City_castro2:
     Province:  ProvinceLE
     id:        M261
-    name:      Castro
+    name:      Castro (LE)
     latitude:  40.008148
     longitude: 18.426574
   City_castro_dei_volsci:
@@ -5068,7 +5086,12 @@ City:
     id:        C377
     name:      Cavallino
     latitude:  40.313611
-    longitude: 18.201259
+  City_cavallino_treporti:
+    Province:  ProvinceVE
+    id:        M308
+    name:      'Cavallino Treporti'
+    latitude:  45.454044
+    longitude: 12.457962
   City_cavallirio:
     Province:  ProvinceNO
     id:        C378
@@ -8471,18 +8494,18 @@ City:
     name:      'Costa di Mezzate'
     latitude:  45.662981
     longitude: 9.795
-  City_costa_di_serina:
-    Province:  ProvinceBG
-    id:        D111
-    name:      'Costa di Serina'
-    latitude:  45.833778
-    longitude: 9.742833
   City_costa_masnaga:
     Province:  ProvinceLC
     id:        D112
     name:      'Costa Masnaga'
     latitude:  45.767554
     longitude: 9.278497
+  City_costa_serina:
+    Province:  ProvinceBG
+    id:        D111
+    name:      'Costa Serina'
+    latitude:  45.833778
+    longitude: 9.742833
   City_costanzana:
     Province:  ProvinceVC
     id:        D113

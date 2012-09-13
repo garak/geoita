@@ -2,7 +2,7 @@ City:
   City_gabbioneta_binanuova:
     Province:  ProvinceCR
     id:        D834
-    name:      'Gabbioneta Binanuova'
+    name:      'Gabbioneta-Binanuova'
     latitude:  45.21737
     longitude: 10.221426
   City_gabiano:
@@ -1358,7 +1358,7 @@ City:
   City_gornate_olona:
     Province:  ProvinceVA
     id:        E104
-    name:      'Gornate Olona'
+    name:      'Gornate-Olona'
     latitude:  45.7425
     longitude: 8.861111
   City_gorno:

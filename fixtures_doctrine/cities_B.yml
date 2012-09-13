@@ -239,10 +239,10 @@ City:
     name:      Baiano
     latitude:  40.953611
     longitude: 14.617667
-  City_baiardo:
+  City_bajardo:
     Province:  ProvinceIM
     id:        A581
-    name:      Baiardo
+    name:      Bajardo
     latitude:  43.903522
     longitude: 7.718819
   City_bairo:

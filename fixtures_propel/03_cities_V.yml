@@ -624,9 +624,15 @@ City:
     latitude:    45.995614
     longitude:   12.869038
   valverde:
+    province_id: CT
+    id:          L658
+    name:        Valverde (CT)
+    latitude:    37.578975
+    longitude:   15.1248
+  valverde2:
     province_id: PV
     id:          L659
-    name:        Valverde
+    name:        Valverde (PV)
     latitude:    44.869704
     longitude:   9.235481
   vandoies:
@@ -1418,7 +1424,7 @@ City:
   viale_d_asti:
     province_id: AT
     id:          L829
-    name:        'Viale D''Asti'
+    name:        Viale
     latitude:    45.001848
     longitude:   8.050429
   vialfre:

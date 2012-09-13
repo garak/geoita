@@ -1937,6 +1937,12 @@ City:
     name:        Ronsecco
     latitude:    45.25313
     longitude:   8.278148
+  ronzo_chienis:
+    province_id: TN
+    id:          M303
+    name:        Ronzo-Chienis
+    latitude:    45.890648
+    longitude:   10.951278
   ronzone:
     province_id: TN
     id:          H552
@@ -2312,7 +2318,7 @@ City:
   ruffre:
     province_id: TN
     id:          H634
-    name:        Ruffrè
+    name:        Ruffrè-Mendola
     latitude:    46.415517
     longitude:   11.178907
   rufina:

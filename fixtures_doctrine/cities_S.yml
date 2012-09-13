@@ -116,7 +116,7 @@ City:
   City_saint_rhemy:
     Province:  ProvinceAO
     id:        H675
-    name:      Saint-Rhemy
+    name:      Saint-Rhemy-en-Bosses
     latitude:  45.836012
     longitude: 7.183671
   City_saint_vincent:
@@ -468,9 +468,15 @@ City:
     latitude:  46.243444
     longitude: 9.395167
   City_samone:
+    Province:  ProvinceTO
+    id:        H753
+    name:      Samone (TO)
+    latitude:  45.26
+    longitude: 7.5
+  City_samone2:
     Province:  ProvinceTN
     id:        H754
-    name:      Samone
+    name:      Samone (TN)
     latitude:  46.081314
     longitude: 11.521248
   City_sampeyre:
@@ -3132,9 +3138,15 @@ City:
     latitude:  44.949025
     longitude: 7.772754
   City_san_teodoro:
+    Province:  ProvinceME
+    id:        I328
+    name:      'San Teodoro (ME)'
+    latitude:  37.51
+    longitude: 14.42
+  City_san_teodoro2:
     Province:  ProvinceOT
     id:        I329
-    name:      'San Teodoro'
+    name:      'San Teodoro (OT)'
     latitude:  40.770656
     longitude: 9.673365
   City_santeramo_in_colle:

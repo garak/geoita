@@ -281,10 +281,10 @@ City:
     name:      Farindola
     latitude:  42.442291
     longitude: 13.823111
-  City_farini_d_olmo:
+  City_farini:
     Province:  ProvincePC
     id:        D502
-    name:      'Farini d''Olmo'
+    name:      Farini
     latitude:  44.713751
     longitude: 9.569853
   City_farnese:

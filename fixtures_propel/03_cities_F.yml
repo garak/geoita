@@ -284,7 +284,7 @@ City:
   farini_d_olmo:
     province_id: PC
     id:          D502
-    name:        'Farini d''Olmo'
+    name:        Farini
     latitude:    44.713751
     longitude:   9.569853
   farnese:
